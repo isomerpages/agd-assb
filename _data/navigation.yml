@@ -1,9 +1,9 @@
 logo: /images/isomer-logo.svg
 links:
   - title: ASSB
-    url: /homepage
+    url: homepage
   - title: Home
-    url: /homepage
+    url: homepage
   - title: " WHO WE ARE"
     collection: who-we-are
   - title: Pronouncements
