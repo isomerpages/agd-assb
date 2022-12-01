@@ -23,7 +23,7 @@ sections:
       subtitle: CURRENT
       description: Statutory Board Financial Reporting Standards (SB-FRS)
       button: SB-FRS
-      alt: Image alt text
+      alt: sb-frs-effective at january
       image: /images/sb-frs-photo-1.jpg
       url: https://www.assb.gov.sg/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/current/sb-frs-(effective-as-at-1-january-2022)
 ---
