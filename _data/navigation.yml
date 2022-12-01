@@ -8,7 +8,7 @@ links:
     collection: who-we-are
   - title: Example Page
     url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Pronouncements
+    collection: pronouncements
   - title: Contact Us
     url: /contact-us/
