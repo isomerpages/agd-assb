@@ -24,4 +24,8 @@ sections:
       url: https://www.assb.gov.sg/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/current/sb-frs-(effective-after-1-january-2022-issued-up-to-december-2022)
       image: /images/sb-frs-photo-1.jpg
       alt: 1 Jan 2022 up to Dec 2022
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
