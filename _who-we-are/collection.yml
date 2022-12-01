@@ -2,5 +2,5 @@ collections:
   who-we-are:
     output: true
     order:
-      - Process for Prescribing SB FRS.md
       - Introduction.md
+      - Process for Prescribing SB FRS.md
