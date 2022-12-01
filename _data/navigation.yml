@@ -1,9 +1,9 @@
 logo: /images/isomer-logo.svg
 links:
   - title: ASSB
-    url: https://cms.isomer.gov.sg/sites/agd-assb/homepage
+    url: /sites/agd-assb/homepage
   - title: Home
-    url: https://cms.isomer.gov.sg/sites/agd-assb/homepage
+    url: /sites/agd-assb/homepage
   - title: " WHO WE ARE"
     collection: who-we-are
   - title: Pronouncements
