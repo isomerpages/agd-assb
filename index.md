@@ -10,7 +10,8 @@ sections:
       background: /images/assb-welcome-banner.png
   - infopic:
       subtitle: CURRENT
-      description: Statutory Board Financial Reporting Standards (SB-FRS)
+      description: Statutory Board Financial Reporting Standards (SB-FRS) effective as
+        at 1 Jan 2022
       button: SB-FRS
       alt: sb-frs-effective at january
       image: /images/sb-frs-photo-1.jpg
