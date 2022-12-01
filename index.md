@@ -20,9 +20,10 @@ sections:
       description: Infobar description
       button: Button Text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      subtitle: CURRENT
+      description: Statutory Board Financial Reporting Standards (SB-FRS)
+      button: SB-FRS
       alt: Image alt text
+      image: /images/sb-frs-photo-1.jpg
+      url: https://www.assb.gov.sg/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/current/sb-frs-(effective-as-at-1-january-2022)
 ---
