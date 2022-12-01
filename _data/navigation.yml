@@ -8,3 +8,5 @@ links:
     url: /example-page/
   - title: Example Folder
     collection: example-folder
+  - title: Home
+    url: /sites/agd-assb/homepage
