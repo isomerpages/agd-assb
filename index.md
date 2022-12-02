@@ -41,4 +41,5 @@ sections:
       button: VIEW ARCHIVES
       url: https://www.assb.gov.sg/pronouncements/interpretations-of-sb-frs/archives
       alt: Interpretations SB FRS Archive
+      image: /images/int-sb-frs-photo-1.jpg
 ---
