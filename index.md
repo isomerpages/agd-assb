@@ -36,4 +36,10 @@ sections:
       url: https://www.assb.gov.sg/pronouncements/interpretations-of-sb-frs/archives
       alt: Interpretations SB FRS Archive
       image: /images/int-sb-frs-photo-1.jpg
+  - infopic:
+      subtitle: SB-FRS Guidance Notes
+      button: VIEW ARCHIVES
+      url: https://www.assb.gov.sg/pronouncements/sb-frs-guidance-notes/archives
+      image: /images/sb-frs-guidance-note-photo-1.jpg
+      alt: Image alt text
 ---
