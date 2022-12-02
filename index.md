@@ -32,7 +32,6 @@ sections:
       alt: SB-FRS Archives
   - infopic:
       subtitle: Interpretations of SB-FRS
-      description: Infopic description
       button: VIEW ARCHIVES
       url: https://www.assb.gov.sg/pronouncements/interpretations-of-sb-frs/archives
       alt: Interpretations SB FRS Archive
