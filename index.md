@@ -35,4 +35,10 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+  - infopic:
+      subtitle: Interpretations of SB-FRS
+      description: Infopic description
+      button: VIEW ARCHIVES
+      url: https://www.assb.gov.sg/pronouncements/interpretations-of-sb-frs/archives
+      alt: Interpretations SB FRS Archive
 ---
