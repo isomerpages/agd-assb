@@ -63,4 +63,6 @@ sections:
       url: https://www.assb.gov.sg/pronouncements/sb-frs-guidance-notes/archives
       image: /images/sb-frs-guidance-note-photo-1.jpg
       alt: Image alt text
+  - resources:
+      title: Latest News
 ---
