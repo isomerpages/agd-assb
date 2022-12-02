@@ -25,10 +25,14 @@ sections:
       image: /images/sb-frs-photo-1.jpg
       alt: 1 Jan 2022 up to Dec 2022
   - infopic:
-      subtitle: View Archives
       description: Statutory Board Financial Reporting Standards (SB-FRS)
       button: VIEW ARCHIVES
       url: https://www.assb.gov.sg/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives
       image: /images/sb-frs-photo-1.jpg
       alt: SB-FRS Archives
+  - infopic:
+      subtitle: Interpretations of SB-FRS
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
