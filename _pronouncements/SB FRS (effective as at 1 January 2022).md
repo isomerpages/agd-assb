@@ -17,4 +17,4 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | -------- | -------- | -------- |
 | Preface     |[Preface to Statutory Board Financial Reporting Standards [.pdf, 37kb]](/files/Docs/Default%20Source/sb-frs_preface.pdf)  | \-     |
 | SB-FRS Conceptual Framework     |  [SB-FRS Conceptual Framework for Financial Reporting [.pdf, 928kb]](/files/Docs/Default%20Source/sb-frs-conceptual-framework.pdf)| \-     |
-|SB-FRS 1|[Presentation of Financial Statements \[.pdf, 394kb\]](https://www.assb.gov.sg/docs/default-source/sb-frs/sb-frs-(effective-as-at-1-january-2022)/sb-frs_1_(2022).pdf?sfvrsn=71efb5e8_2 "Presentation of Financial Statements [.pdf, 394kb]")|[IG \[.pdf,372kb\]](https://www.assb.gov.sg/docs/default-source/sb-frs/sb-frs-(effective-as-at-1-january-2022)/sb-frs_1_ig_(2022).pdf?sfvrsn=e1c6f8b0_2 "IG [.pdf,372kb]")|
+|SB-FRS 1|[Presentation of Financial Statements \[.pdf, 394kb\]](https://www.assb.gov.sg/docs/default-source/sb-frs/sb-frs-(effective-as-at-1-january-2022)/sb-frs_1_(2022).pdf?sfvrsn=71efb5e8_2 "Presentation of Financial Statements [.pdf, 394kb]")|[IG [.pdf,372kb]]()|
