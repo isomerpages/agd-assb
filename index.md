@@ -38,6 +38,13 @@ sections:
       image: /images/int-sb-frs-photo-1.jpg
       alt: Interpretations of SB-FRS
   - infopic:
+      subtitle: CURRENT
+      description: Interpretations of SB-FRS
+      button: effective as at 1 Jan 2022
+      url: https://www.assb.gov.sg/pronouncements/interpretations-of-sb-frs/current/int-sb-frs-(effective-as-at-1-january-2022)
+      image: /images/int-sb-frs-photo-1.jpg
+      alt: effective as at 1 Jan 2022
+  - infopic:
       subtitle: Interpretations of SB-FRS
       button: VIEW ARCHIVES
       url: https://www.assb.gov.sg/pronouncements/interpretations-of-sb-frs/archives
@@ -56,13 +63,6 @@ sections:
       url: https://www.assb.gov.sg/pronouncements/sb-frs-guidance-notes/archives
       image: /images/sb-frs-guidance-note-photo-1.jpg
       alt: Image alt text
-  - infopic:
-      subtitle: CURRENT
-      description: Interpretations of SB-FRS
-      button: effective as at 1 Jan 2022
-      url: https://www.assb.gov.sg/pronouncements/interpretations-of-sb-frs/current/int-sb-frs-(effective-as-at-1-january-2022)
-      image: /images/int-sb-frs-photo-1.jpg
-      alt: effective as at 1 Jan 2022
   - infopic:
       subtitle: CURRENT
       description: Interpretations of SB-FRS effective after 1 Jan 2022, issued up to
