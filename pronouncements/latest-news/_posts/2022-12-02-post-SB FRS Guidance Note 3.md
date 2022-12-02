@@ -20,3 +20,7 @@ The key amendments made to SB-FRS Guidance Note 3 are:
 |4     | Updated definition of “control” to be based on principles set out in SB-FRS Conceptual Framework     |
 |11     | Included factors for consideration to guide Statutory Board in assessing whether it bears/enjoys risks and rewards associated with the fund     |
 |21 to 25, 26(vi), 27, Annex D (Example 2)     | Included accounting requirements and illustrative example for discontinued trust funds     |
+|Annex A     | Updated the flowchart for better alignment with SB-FRS Guidance Note 1_Accounting and Disclosure for Funds, Grants, Accumulated Surplus and Reserves     |
+|Annex B     | Included further clarifications in the illustrated scenario of “Trust Fund of SB” on the assessment on risk and reward associated with the trust fund     |
+|Annex C     | Added a note that net assets of different trust funds can be presented separately as different line items or in aggregation as a single line item on the balance sheet    |
+|Annex D (Example 1)     | Added illustrative example on general disclosure of trust funds, such as basis of accounting, accounting policies, etc.    |
