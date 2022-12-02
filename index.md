@@ -65,5 +65,9 @@ sections:
       alt: Image alt text
   - resources:
       title: Latest News
+  - infobar:
+      subtitle: Infobar Subtitle
+      description: Subscribe to the Accounting Standards for Statutory Boards’ mailing list
+      button: EMAIL SUBSCRIPTION
+      url: EMAIL SUBSCRIPTION
 ---
-
