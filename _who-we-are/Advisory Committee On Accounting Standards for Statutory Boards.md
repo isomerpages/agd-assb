@@ -62,12 +62,12 @@ Professor Andrew Lee
 Associate Professor   
 Singapore Management University
 
-![William Tan](/images/Images/Default%20Source/Default%20Album/mr-william-tan.jpg)
+![Mr William Tan](/images/Images/Default%20Source/Default%20Album/mr-william-tan.jpg)
 Mr William Tan   
 Assistant Chief Executive  
 National Library Board
 
-![Cecilia Neo](/images/Images/Default%20Source/Who%20We%20Are/cecilia-neo_corporate-photo_sep-2022.jpg)
+![Ms Cecilia Neo](/images/Images/Default%20Source/Who%20We%20Are/cecilia-neo_corporate-photo_sep-2022.jpg)
 Ms Cecilia Neo  
 Director (Finance)  
 Energy Market Authority
