@@ -7,10 +7,6 @@ description: ""
 
   
 
-<table width="100%" cellspacing="1" cellpadding="5" border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; color: rgb(72, 72, 72); font-family: Lato, BlinkMacSystemFont, -apple-system, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(244, 249, 251);"><td align="left" style="box-sizing: inherit; padding: 1em; text-align: left; vertical-align: top;"><a href="https://www.assb.gov.sg/docs/default-source/sb-frs/sb-frs-(effective-as-at-1-january-2021)/sb-frs_23_(2021).pdf?sfvrsn=86797d85_2" target="_blank" title="Borrowing Costs [.pdf, 617kb]" style="box-sizing: inherit; color: rgb(0, 85, 115); cursor: pointer; text-decoration: none;"><br class="Apple-interchange-newline">Borrowing Costs [.pdf, 617kb]</a></td></tr></tbody></table>
-
-
-
 Statutory Boards (SBs) are set up by Acts of Parliament and are directly accountable to the Parliament. Unlike corporations, they are set up to fulfill public functions and are not bottom-line driven. They also do not have public shareholders. In addition, there are areas in which the Singapore Financial Reporting Standards (SFRS) is lacking for Statutory Boards. As SFRS, which is drawn up primarily for profit-oriented entities, cannot be adopted by the SBs in totality, it is necessary to have a separate set of accounting standards for the SBs.  
   
 
