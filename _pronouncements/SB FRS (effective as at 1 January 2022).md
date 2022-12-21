@@ -20,4 +20,4 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 1 | [Presentation of Financial Statements [.pdf, 394kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_1_(2022).pdf) | [IG [.pdf,372kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_1_ig_(2022).pdf) |
 | SB-FRS 2 | [Inventories [.pdf, 168kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_2_(2022).pdf) | \- |
 | SB-FRS 7 | [Statement of Cash Flows [.pdf, 205kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_7_(2022).pdf) | [IE [.pdf, 253kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_7_ie_(2022).pdf) |
-| SB-FRS 8 |  |  |
+| SB-FRS 8 | [Accounting Policies, Changes in Accounting Estimates and Errors [.pdf, 246kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_8_(2022).pdf) | [IG [.pdf, 142kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_8_ig_(2022).pdf) |
