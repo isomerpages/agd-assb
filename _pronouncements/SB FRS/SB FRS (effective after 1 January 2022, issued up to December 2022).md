@@ -29,4 +29,16 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | Various | [Amendments to SB-FRS 1 and SB-FRS Practice Statement 2 [.pdf, 552kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202021%20to%20Dec%202021/amendments-to-sb-frs-1-and-sb-frs-practice-statement-2.pdf) | 1.1.2023 | 7.9.2021 |
 | SB-FRS 12 | [Amendments to SB-FRS 12 [.pdf, 605kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202021%20to%20Dec%202021/amendments-to-sb-frs-12.pdf) | 1.1.2023 | 29.11.2021 |
 | **Issued in 2022** |  |  |  |
-| SB-FRS 1002 |  | 1.1.2023 | 17.11.2022 |
+| SB-FRS 1002 | [Revised SB-FRS 1002 Impairment of Non-Cash-Generating Assets [.pdf 602kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202022%20to%20Dec%202022/sb-frs-1002.pdf) [Revised SB-FRS 1002 Implementation Guidance [.pdf 537kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202022%20to%20Dec%202022/sb-frs-1002-implementation-guidance.pdf) | 1.1.2023 | 17.11.2022 |
+
+*1i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.*
+
+*ii)This should be read together with the Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 issued in 2016.*
+
+*2 The mandatory effective date of this Amendment had been revised from 1 Jan 2022 to 1 Jan 2023 via Amendments to SB-FRS 1: Classification of Liabilities as Current or Non-current - Deferral of Effective Date.*
+
+### Archives 
+
+  
+
+Click here to [access the archived documents](https://www.assb.gov.sg/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives).
