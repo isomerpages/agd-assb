@@ -5,7 +5,6 @@ description: STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AFTER 1
   JANUARY 2022 (ISSUED UP TO 31 DECEMBER 2022)
 third_nav_title: SB FRS
 ---
-
 ### STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AFTER 1 JANUARY 2022 (ISSUED UP TO 31 DECEMBER 2022)
 
   
@@ -19,7 +18,7 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | | Titles | Effective Date (Annual periods beginning on or after) | Issuance Date |
 | -------- | -------- | -------- | -------- |
 | **Issued in 2015** |  |  |  |
-| SB-FRS 110, SB-FRS 28 | [[Amendments to SB-FRS 110 and SB-FRS 28: Sale or Contribution of Assets between an Investor and its Associate or Joint Venture \[.pdf, 98kb\]](https://www.assb.gov.sg/docs/default-source/sb-frs/after-1-january-2019-(issued-up-to-december-2019)/titles/amendments_to_sb-frs_110_and_sb-frs_28.pdf?sfvrsn=bcb858d9_2 "Amendments to SB-FRS 110 and SB-FRS 28: Sale or Contribution of Assets between an Investor and its Associate or Joint Venture [.pdf, 98kb]")](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/Titles/amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined*(1)* | 18.03.2015 |
+| SB-FRS 110, SB-FRS 28 | [Amendments to SB-FRS 110 and SB-FRS 28: Sale or Contribution of Assets between an Investor and its Associate or Joint Venture \[.pdf, 98kb\]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/Titles/amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined*(1)* | 18.03.2015 |
 | **Issued in 2016** |  |  |  |
 | SB-FRS 110, SB-FRS 28 | [Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 [.pdf, 27kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/Titles/amendments_to_effective_date_of_amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined | 10.03.2016 |
 | **Issued in 2020** |  |  |  |
