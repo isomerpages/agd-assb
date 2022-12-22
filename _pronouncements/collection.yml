@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Test.md
+      - SB FRS/SB FRS (effective as at 1 January 2022).md
       - SB FRS/.keep
