@@ -3,8 +3,6 @@ title: SB FRS (effective as at 1 January 2022)
 permalink: /pronouncements/statutory-board-financial-reporting-standards-sb-frs/current/
 description: SB FRS (effective as at 1 January 2022)
 ---
-
-
 ### STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2022
 
   
@@ -30,7 +28,7 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 20 | [Accounting for Government Grants and Disclosure of Government Assistance [.pdf, 157kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_20_(2022).pdf) | \- |
 | SB-FRS 21 | [The Effects of Changes in Foreign Exchange Rates [.pdf, 252kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_21_(2022).pdf) | \- |
 | SB-FRS 23 | [Borrowing Costs [.pdf, 133kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_23_(2022).pdf) | \- |
-| SB-FRS 24 | [Related Party Disclosures [.pdf, 200kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_24_(2022).pdf) | [IE [.pdf, 208kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_24_(2022).pdf) |
+| SB-FRS 24 | [Related Party Disclosures [.pdf, 200kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_24_(2022).pdf) | [IE [.pdf, 208kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_24_ie_(2022).pdf) |
 | SB-FRS 26 | [Accounting and Reporting by Retirement Benefit Plan [.pdf, 177kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_26_(2022).pdf) | \- |
 | SB-FRS 27 | [Separate Financial Statements [.pdf, 200kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_27_(2022).pdf) | \- |
 | SB-FRS 28 | [Investments in Associates and Joint Ventures [.pdf, 253kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_28_(2022).pdf) | \- |
@@ -51,7 +49,7 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 105 | [Non-current Assets Held for Sale and Discontinued Operations [.pdf, 186kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_105_(2022).pdf) | [IG [.pdf, 213kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_105_ig_(2022).pdf) |
 | SB-FRS 106 | [Exploration for and Evaluation of Mineral Resources [.pdf, 123kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_106_(2022).pdf) | \- |
 | SB-FRS 107 | [Financial Instruments: Disclosures [.pdf, 502kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_107_(2022).pdf) | [IG [.pdf, 428kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_107_ig_(2022).pdf) |
-| SB-FRS 108 | [Operating Segments [.pdf, 157kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_108_(2022).pdf) | Link Broken |
+| SB-FRS 108 | [Operating Segments [.pdf, 157kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_108_(2022).pdf) | [IG [.pdf, 181kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_108_ig_(2022).pdf) |
 | SB-FRS 109 | [Financial Instruments [.pdf, 1mb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_109_(2022).pdf) | [IE [.pdf, 706kb], IG [.pdf, 342kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_109_ie_(2022).pdf) |
 | SB-FRS 110 | [Consolidated Financial Statements [.pdf, 518kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_110_(2022).pdf) | [IE [.pdf, 93kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_110_ie_(2022).pdf) |
 | SB-FRS 111 | [Joint Arrangements [.pdf, 343kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_111_(2022).pdf) | [IE [.pdf, 234kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202022/sb-frs_111_ie_(2022).pdf) |
