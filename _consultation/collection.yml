@@ -1,4 +1,5 @@
 collections:
   consultation:
     output: true
-    order: []
+    order:
+      - Exposure Drafts.md
