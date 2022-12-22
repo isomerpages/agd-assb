@@ -66,5 +66,3 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 ### Archives 
 
 Click here to [access the archived documents](/pronouncements/test).
-
-/pronouncements/test/
