@@ -65,4 +65,6 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 
 ### Archives 
 
-Click here to [access the archived documents](https://www.assb.gov.sg/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives).
+Click here to [access the archived documents](/pronouncements/test).
+
+/pronouncements/test/
