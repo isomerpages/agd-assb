@@ -2,8 +2,8 @@ collections:
   pronouncements:
     output: true
     order:
-      - Sb Frs Practice Statements/.keep
-      - Sb Frs Guidance Notes/.keep
-      - Interpretations Of Sb Frs/.keep
-      - Sb Frs/SB FRS (effective as at 1 January 2022).md
       - Sb Frs/.keep
+      - Sb Frs/SB FRS (effective as at 1 January 2022).md
+      - Interpretations Of Sb Frs/.keep
+      - Sb Frs Guidance Notes/.keep
+      - Sb Frs Practice Statements/.keep
