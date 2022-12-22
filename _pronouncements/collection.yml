@@ -2,5 +2,4 @@ collections:
   pronouncements:
     output: true
     order:
-      - Current/SB FRS (effective as at 1 January 2022).md
       - Current/.keep
