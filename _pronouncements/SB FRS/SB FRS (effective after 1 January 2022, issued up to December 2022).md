@@ -18,15 +18,15 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | | Titles | Effective Date (Annual periods beginning on or after) | Issuance Date |
 | -------- | -------- | -------- | -------- |
 | **Issued in 2015** |  |  |  |
-| SB-FRS 110, SB-FRS 28 | [Text Too Long](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/Titles/amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined*(1)* | 18.03.2015 |
+| SB-FRS 110, SB-FRS 28 | [[Amendments to SB-FRS 110 and SB-FRS 28: Sale or Contribution of Assets between an Investor and its Associate or Joint Venture \[.pdf, 98kb\]](https://www.assb.gov.sg/docs/default-source/sb-frs/after-1-january-2019-(issued-up-to-december-2019)/titles/amendments_to_sb-frs_110_and_sb-frs_28.pdf?sfvrsn=bcb858d9_2 "Amendments to SB-FRS 110 and SB-FRS 28: Sale or Contribution of Assets between an Investor and its Associate or Joint Venture [.pdf, 98kb]")](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/Titles/amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined*(1)* | 18.03.2015 |
 | **Issued in 2016** |  |  |  |
 | SB-FRS 110, SB-FRS 28 | [Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 [.pdf, 27kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/Titles/amendments_to_effective_date_of_amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined | 10.03.2016 |
 | **Issued in 2020** |  |  |  |
 | SB-FRS 1 | [Amendments to SB-FRS 1[.pdf, 524kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202020%20to%20Dec%202020/amendments-to-sb-frs-1.pdf) | 1.1.2023*(2)* | 13.11.2020 |
 | SB-FRS 1 | [Amendments to SB-FRS 1 (Deferral of Effective Date) [.pdf, 381kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202020%20to%20Dec%202020/amendments-to-sb-frs-1---deferral-of-effective-date.pdf) | \- | 13.11.2020 |
 | **Issued in 2021** |  |  |  |
-| SB-FRS 8 |  | 1.1.2023 | 13.8.2021 |
-| Various |  | 1.1.2023 | 7.9.2021 |
-| SB-FRS 12 |  | 1.1.2023 | 29.11.2021 |
+| SB-FRS 8 | [Amendments to SB-FRS 8 [.pdf, 608kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202021%20to%20Dec%202021/amendments-to-sb-frs-8.pdf) | 1.1.2023 | 13.8.2021 |
+| Various | [Amendments to SB-FRS 1 and SB-FRS Practice Statement 2 [.pdf, 552kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202021%20to%20Dec%202021/amendments-to-sb-frs-1-and-sb-frs-practice-statement-2.pdf) | 1.1.2023 | 7.9.2021 |
+| SB-FRS 12 | [Amendments to SB-FRS 12 [.pdf, 605kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202021%20to%20Dec%202021/amendments-to-sb-frs-12.pdf) | 1.1.2023 | 29.11.2021 |
 | **Issued in 2022** |  |  |  |
 | SB-FRS 1002 |  | 1.1.2023 | 17.11.2022 |
