@@ -2,5 +2,6 @@ collections:
   pronouncements:
     output: true
     order:
+      - Interpretations Of Sb Frs/.keep
       - SB FRS/SB FRS (effective as at 1 January 2022).md
       - SB FRS/.keep
