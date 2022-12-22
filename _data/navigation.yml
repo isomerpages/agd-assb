@@ -6,5 +6,11 @@ links:
     collection: who-we-are
   - title: Pronouncements
     collection: pronouncements
+  - title: Consultation
+    collection: example-folder
+  - title: News
+    collection: example-folder
+  - title: Useful Links
+    collection: example-folder
   - title: Email Subscription
     url: https://form.gov.sg/#!/63624f45fbb3dd00128d2177
