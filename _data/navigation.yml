@@ -5,7 +5,10 @@ links:
   - title: " Who We Are"
     collection: who-we-are
   - title: Pronouncements
-    collection: pronouncements
+    url: /pronouncements
+    sublinks:
+      - title: SB-FRS
+        url: /pronouncements/statutory-board-financial-reporting-standards-sb-frs/current/
   - title: Consultation
     collection: consultation
   - title: News
@@ -14,8 +17,3 @@ links:
     collection: useful-links
   - title: Email Subscription
     url: https://form.gov.sg/#!/63624f45fbb3dd00128d2177
-  - title: Pronouncements 2
-    url: /pronouncements
-    sublinks:
-      - title: SB-FRS
-        url: /pronouncements/statutory-board-financial-reporting-standards-sb-frs/current/
