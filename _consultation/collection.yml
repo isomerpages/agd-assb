@@ -1,0 +1,4 @@
+collections:
+  consultation:
+    output: true
+    order: []
