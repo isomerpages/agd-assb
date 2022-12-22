@@ -14,3 +14,14 @@ links:
     collection: useful-links
   - title: Email Subscription
     url: https://form.gov.sg/#!/63624f45fbb3dd00128d2177
+  - title: Pronouncements
+    url: /pronouncements
+    sublinks:
+      - title: SB-FRS
+        url: /pronouncements/statutory-board-financial-reporting-standards-(sb-frs)
+      - title: Interpretations of SB-FRS
+        url: /pronouncements/interpretations-of-sb-frs
+      - title: SB-FRS Guidance Notes
+        url: /pronouncements/sb-frs-guidance-notes
+      - title: SB-FRS Practice Statements
+        url: /pronouncements/sb-frs-practice-statements
