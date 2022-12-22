@@ -2,5 +2,5 @@ collections:
   consultation:
     output: true
     order:
-      - Publications.md
       - Exposure Drafts.md
+      - Publications.md
