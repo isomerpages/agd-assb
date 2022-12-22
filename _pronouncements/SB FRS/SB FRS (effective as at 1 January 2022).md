@@ -4,9 +4,6 @@ permalink: /pronouncements/sb-frs/sb-frs-effective-as-at-1-january-2022/
 description: SB FRS (effective as at 1 January 2022)
 third_nav_title: SB FRS
 ---
-
-
-
 ### STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2022
 
   
@@ -69,4 +66,4 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 
 ### Archives 
 
-Click here to [access the archived documents]).
+Click here to [access the archived documents](/pronouncements/sb-frs/archives/).
