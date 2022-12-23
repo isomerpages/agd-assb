@@ -73,6 +73,26 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | [ED/2014/4 Measuring Quoted Investments in Subsidiaries, Joint Ventures and Associates at Fair Value [.pdf 174kb]](/files/Docs/Default%20Source/Exposure%20Draft/exposure-draft-measuring-quoted-investments-september-2014.pdf) | 28 Nov 2014 (Closed) |  |
 | [ED/2014/3 Recognition of Deferred Tax Assets for Unrealised Loss (Proposed Amendments to IAS 12) [.pdf 181kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-recognition-deferred-tax-ias-12-august-2014.pdf) | 7 Nov 2014 (Closed) |  |
 | [ED/2014/2 Investment Entities: Applying the Consolidation Exception (Proposed amendments to IFRS 10 and IAS 28) [.pdf 150kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-investment-entities-amendments-ifrs-10-and-ias-28-june-2014.pdf) | 15 Aug 2014 (Closed) |  |
+|  | 18 Jun 2014 (Closed) |  |
+|  | 07 Feb 2014 (Closed) |  |
+|  | 31 Jan 2014 (Closed) |  |
+|  | 30 Aug 2013 (Closed) |  |
+|  | 23 Aug 2013 (Closed) |  |
+|  | 23 Aug 2013 (Closed) |  |
+|  | 06 Aug 2013 (Closed) |  |
+|  | 02 Aug 2013 (Closed) |  |
+|  | 02 Aug 2013 (Closed) |  |
+|  | 26 Jul 2013 (Closed) |  |
+|  | 12 Apr 2013 (Closed) |  |
+|  | 18 Feb 2013 (Closed) |  |
+|  | 01 Feb 2013 (Closed) |  |
+|  | 01 Feb 2013 (Closed) |  |
+|  | 25 Jan 2013 (Closed) |  |
+|  | 25 Jan 2013 (Closed) |  |
+|  | 24 Jan 2013 (Closed) |  |
+|  | 28 Dec 2012 (Closed) |  |
+|  | 27 Sep 2012 (Closed) |  |
+|  | 3 Jul 2012 (Closed) |  |
 
 
 Comments should be sent to the Secretariat by e-mail: [AGD\_Assb\_Feedback@agd.gov.sg](mailto:AGD_Assb_Feedback@agd.gov.sg), or by fax : 6332 7678.
