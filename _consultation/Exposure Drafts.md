@@ -42,15 +42,15 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | [ED SB-FRS Practice Statement 2 on Making Materiality Judgements [.pdf 623kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_sb-frs_practice_statement_on_making_materiality_judgements.pdf) | 18 April 2019 (Closed) |  |
 | [ED Guidance Note 9 Illustration on Capitalisation of Borrowing Costs [.pdf 438kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_sb-frs_guidance_note_9_capitalisation_of_borrowing_costs.pdf) | 28 February 2019 (Closed) |  |
 | [ED/2018/2 Onerous Contracts - Cost of Fulfilling a Contract (Proposed amendments to IAS 37) [.pdf 146kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-onerous-contracts-december-2018_safe.pdf) | 28 February 2019 (Closed) |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| [ED/2018/1 Accounting Policy Changes (Proposed Amendments to IAS 8) [.pdf 226kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-2018-1_-_accounting_policy_changes_(proposed_amendments_to_ias_8).pdf) | 31 May 2018 (Closed) | [Comment Letter on ED/2018/1 [.pdf 399kb]](/files/Docs/Default%20Source/Exposure%20Draft/comment_letter_to_iasb_on_ed-2018-1.pdf) |
+| [ED Guidance Note 1 Accounting and Disclosure for Funds, Grants, Accumulated Surplus and Reserves [.pdf 370kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_sb-frs_guidance_note_1_8dec2017.pdf)[ED Guidance Note 1 Illustrative Examples [.pdf 373kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_ie_to_sb-frs_guidance_note_1_8dec2017.pdf) | 9 February 2018 (Closed) |  |
+| [ED/2017/6 Definition of Material (Proposed amendments to IAS 1 and IAS 8) [.pdf 192kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-2017-6_-_definition_of_material.pdf) | 15 Nov 2017 (Closed) | [Comment Letter on ED/2017/6 \[.pdf 295kb\]](/files/Docs/Default%20Source/Exposure%20Draft/ed-2017-6_-_definition_of_material.pdf) |
+| [ED/2017/5 Accounting Policies and Accounting Estimates (Proposed amendments to IAS 8) [.pdf 172kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-2017-5-accounting_policies_and_accounting_estimates.pdf) | 15 Nov 2017 (Closed) | [Comment Letter on ED/2017/5 [.pdf 285kb]](/files/Docs/Default%20Source/Exposure%20Draft/comment-letter-to-iasb-on-ed-2017-5.pdf) |
+| [ED/2017/4 Property, Plant and Equipment – Proceeds before Intended Use (Proposed amendments to IAS 16) [.pdf 175kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-2017-4_property_plant_and_equipment.pdf) | 14 Aug 2017 (Closed) | [Comment Letter on ED/2017/4 [.pdf 115kb]](/files/Docs/Default%20Source/Exposure%20Draft/comment_letter_to_iasb_on_ed-2017-4ppe.pdf) |
+| [ED/2017/3 Prepayment Features with negative Compensation (Proposed amendments to IFRS 9) [.pdf 239kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-2017-3_prepayment_features_with_negative_compensation_(proposed_amendments_to_ifrs_9).pdf) | 11 May 2017 (Closed) |  |
+| [ED/2017/2 Improvements to IFRS 8 Operating Segments (Proposed amendments to IFRS 8 and IAS 34) [.pdf 205kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-2017-2-improvements-to-ifrs-8-operating-segments.pdf) | 5 May 2017 (Closed) |  |
+| [ED/2017/1 Annual Improvements to IFRSs (2015-2017 Cycle) [.pdf 184kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-2017-1_annual_improvements_to_ifrss_(2015-2017_cycle).pdf) | 1 Mar 2017 (Closed) |  |
+| [ED/2016/1 Definition of a Business and Accounting for Previously Held Interests (Proposed Amendments to IFRS 3 and IFRS 11) [.pdf 574kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-2016-1_definition_of_a_business_and_accounting_proposed_amendments_to_ifrs_3_and_ifrs_11.pdf) | 26 Aug 2016 (Closed) |  |
+| [ED Guidance Note 8 Impairment of Non-Cash Generating Assets [.pdf 515kb]](/files/Docs/Default%20Source/Exposure%20Draft/guidance_note_to_non-cash_generating_assets.pdf) | 26 Aug 2016 (Closed) |  |
 
 Comments should be sent to the Secretariat by e-mail: [AGD\_Assb\_Feedback@agd.gov.sg](mailto:AGD_Assb_Feedback@agd.gov.sg), or by fax : 6332 7678.
