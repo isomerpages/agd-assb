@@ -73,26 +73,26 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | [ED/2014/4 Measuring Quoted Investments in Subsidiaries, Joint Ventures and Associates at Fair Value [.pdf 174kb]](/files/Docs/Default%20Source/Exposure%20Draft/exposure-draft-measuring-quoted-investments-september-2014.pdf) | 28 Nov 2014 (Closed) |  |
 | [ED/2014/3 Recognition of Deferred Tax Assets for Unrealised Loss (Proposed Amendments to IAS 12) [.pdf 181kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-recognition-deferred-tax-ias-12-august-2014.pdf) | 7 Nov 2014 (Closed) |  |
 | [ED/2014/2 Investment Entities: Applying the Consolidation Exception (Proposed amendments to IFRS 10 and IAS 28) [.pdf 150kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-investment-entities-amendments-ifrs-10-and-ias-28-june-2014.pdf) | 15 Aug 2014 (Closed) |  |
-|  | 18 Jun 2014 (Closed) |  |
-|  | 07 Feb 2014 (Closed) |  |
-|  | 31 Jan 2014 (Closed) |  |
-|  | 30 Aug 2013 (Closed) |  |
-|  | 23 Aug 2013 (Closed) |  |
-|  | 23 Aug 2013 (Closed) |  |
-|  | 06 Aug 2013 (Closed) |  |
-|  | 02 Aug 2013 (Closed) |  |
-|  | 02 Aug 2013 (Closed) |  |
-|  | 26 Jul 2013 (Closed) |  |
-|  | 12 Apr 2013 (Closed) |  |
-|  | 18 Feb 2013 (Closed) |  |
-|  | 01 Feb 2013 (Closed) |  |
-|  | 01 Feb 2013 (Closed) |  |
-|  | 25 Jan 2013 (Closed) |  |
-|  | 25 Jan 2013 (Closed) |  |
-|  | 24 Jan 2013 (Closed) |  |
-|  | 28 Dec 2012 (Closed) |  |
-|  | 27 Sep 2012 (Closed) |  |
-|  | 3 Jul 2012 (Closed) |  |
+| [ED/2014/1 Disclosure Initiative (Proposed amendments to AS 1) \[.pdf 195kb\]](/files/Docs/Default%20Source/Exposure%20Draft/ed-disclosure-initiative-amendments-ias-1-march-2014.pdf) | 18 Jun 2014 (Closed) |  |
+| [ED/2013/11 Annual Improvements to IFRS 2012-2014 Cycle [.pdf 160kb]]](/files/Docs/Default%20Source/Exposure%20Draft/exposure-draft-annual-improvements-2012-2014-december-2013.pdf) | 07 Feb 2014 (Closed) |  |
+| [ED/2013/10 Equity Method in Separate Financial Statements(Proposed amendments to IAS27) [.pdf 126kb]](/files/Docs/Default%20Source/Exposure%20Draft/equity-method-in-separate-financial-statements-december-2013.pdf) | 31 Jan 2014 (Closed) |  |
+| [ED/2013/7 Insurance Contracts [.pdf 315kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-insurance-contracts.pdf)[Illustrative Examples [.pdf 146kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-insurance-contracts-illustrative-examples.pdf)[Basis for Conclusions [.pdf 592kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-insurance-contracts-basis-for-conclusions.pdf) | 30 Aug 2013 (Closed) |  |
+| [Exposure Draft ED/2013/8 Agriculture: Bearer Plants [.pdf 196kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-agriculture-bearer-plants.pdf) | 23 Aug 2013 (Closed) |  |
+| [ED/2013/6 Leases [.pdf 395kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-leases-standard-may.pdf)[Illustrative Examples [.pdf 164kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-leases-illustrative-examples.pdf)[Basis for Conclusions [.pdf 680kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-leases-basis-for-conclusions.pdf) | 23 Aug 2013 (Closed) |  |
+| [Exposure Draft ED/2013/5 Regulatory Deferral Accounts [.pdf 281kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_regulatory-deferral-account.pdf) | 06 Aug 2013 (Closed) |  |
+| [ED/2013/3 Financial Instruments: Expected Credit Losses [.pdf 631kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-financial-instruments-expected-credit-losses.pdf) | 02 Aug 2013 (Closed) |  |
+| [ED/2013/4 Defined Benefit Plans: Employee Contributions (Proposed amendments to IAS 19) [.pdf 93kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-amendments-to-ias-19-employee-contributions.pdf) | 02 Aug 2013 (Closed) |  |
+| [ED/2013/2 Novation of Derivatives and Continuation of Hedge Accounting (Proposed amendments to IAS 39 and IFRS 9) [.pdf 99kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-novation-otc-derivatives_proposed-amendments-to-ias-39-and-ifrs-9.pdf) | 26 Jul 2013 (Closed) |  |
+| [ED Guidance Note 5 Reporting of CPF Contributions and Key Management Personnel Compensation [.pdf 53kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_guidance-note_reporting_of_cpf_contributions.pdf) | 12 Apr 2013 (Closed) |  |
+| [ED/2013/1 Recoverable Amount Disclosures for Non-Financial Assets (Proposed Amendments to IAS 36) [.pdf 143kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-recoverable-amount-disclosures-for-nonfinancial-assets-2013-1.pdf) | 18 Feb 2013 (Closed) |  |
+| [ED/2012/7 Acquisition of an Interest in a Joint Operation (Proposed amendment to IFRS 11) [.pdf 130kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_2012_7_acquisition_of_an_interest_in_joint_operation.pdf) | 01 Feb 2013 (Closed) |  |
+| [ED/2012/6 Sale or Contribution of Assets between an Investor and its Associate or Joint Venture (Proposed amendments to IFRS 10 and IAS 28) [.pdf 122kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_2012_6_sale_or_contribution_of_assets_between_an_investor_-_associate.pdf) | 01 Feb 2013 (Closed) |  |
+| [ED/2012/5 Clarification of Acceptable Methods of Depreciation and Amortisation (Proposed amendments to IAS 16 and IAS 38) [.pdf 138kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-clarification-of-acceptable-methods.pdf) | 25 Jan 2013 (Closed) |  |
+| [ED/2012/4 Classification and Measurement : Limited Amendments to IFRS 9 (Proposed amendments to IFRS9 (2010)). \[.pdf 409kb\]](/files/Docs/Default%20Source/Exposure%20Draft/ed-classification-and-measurement-november-2012-bookmarks.pdf) | 25 Jan 2013 (Closed) |  |
+| [ED/2012/3 Equity Method: Share of Other Net Asset Changes (Proposed amendments to IAS 28) [.pdf 148kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-equity-method-nov-2012.pdf) | 24 Jan 2013 (Closed) |  |
+| [ED/2012/2 Annual Improvements to IFRSs 2011-2013 [.pdf 140kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_annual_improvements(2011-2013_cycle)nov_2012.pdf) | 28 Dec 2012 (Closed) |  |
+| [Request for Information: Post-implementation Review - IFRS 8 Operating Segments [.pdf 219kb]](/files/Docs/Default%20Source/Exposure%20Draft/request_for_information_post_implementation_review_ifrs_8_operating_segments.pdf) | 27 Sep 2012 (Closed) |  |
+| [DI Levies Charged by Public Authorities on Entities that Operate in a Specific Market [.pdf 160kb]](/files/Docs/Default%20Source/Exposure%20Draft/di_levies_jun2012.pdf) | 3 Jul 2012 (Closed) |  |
 
 
 Comments should be sent to the Secretariat by e-mail: [AGD\_Assb\_Feedback@agd.gov.sg](mailto:AGD_Assb_Feedback@agd.gov.sg), or by fax : 6332 7678.
