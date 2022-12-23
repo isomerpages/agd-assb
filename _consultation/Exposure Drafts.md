@@ -34,13 +34,23 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | [ED/2019/4 Amendments to IFRS 17 [.pdf, 398kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-amendments-to-ifrs-17-pdf_safe.pdf) | 8 August 2019 (Closed) | [Comment Letter on ED-2019-4 [.pdf, 393KB]](/files/Docs/Default%20Source/Exposure%20Draft/comment-letter-to-iasb-on-ed-2019-4.pdf) |
 | [ED/2019/3 Reference to the Conceptual Framework (Proposed Amendments to IFRS 3) [.pdf, 207kb]](/files/Docs/Default%20Source/Exposure%20Draft/exposure-draft-reference-to-the-conceptual-framework-ifrs-3.pdf) | 27 September 2019 (Closed) |  |
 | [ED/2019/2 Annual Improvements to IFRS Standards 2018-2020 [.pdf, 181kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-annual-improvements-2018-2020-pdf_safe.pdf) | 22 July 2019 (Closed) |  |
-|  | 28 June 2019 (Closed) |  |
-|  | 28 June 2019 (Closed) |  |
-|  | 28 June 2019 (Closed) |  |
-|  | 7 June 2019 (Closed) |  |
-|  | 18 April 2019 (Closed) |  |
-|  | 18 April 2019 (Closed) |  |
-|  | 28 February 2019 (Closed) |  |
-|  | 28 February 2019 (Closed) |  |
+| [ED SB-FRS Conceptual Framework (Preface and Chapters 1 to 8) [.pdf 926kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_sb-frs_conceptual_framework_(preface_and_chapters_1_to_8).pdf) | 28 June 2019 (Closed) |  |
+| [ED Amendments to SB-FRS 24 Related Party Disclosures [.pdf 600kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_sb-frs_24_related_party_disclosures.pdf) | 28 June 2019 (Closed) |  |
+| [ED Amendments to SB-FRS Guidance Note 4 Related Party Disclosures [.pdf 569kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_sb-frs_guidance_note-4_related_party_disclosures.pdf) | 28 June 2019 (Closed) |  |
+| [ED/2019/1 Interest Rate Benchmark Reform - Proposed Amendments to IFRS 9 and IAS 39 [.pdf 227kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-ibor-reform-may-19.pdf) | 7 June 2019 (Closed) |  |
+| [ED SB-FRS Conceptual Framework Part 1 [.pdf 157kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs_ed_conceptual_framework.pdf) | 18 April 2019 (Closed) |  |
+| [ED SB-FRS Practice Statement 2 on Making Materiality Judgements [.pdf 623kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_sb-frs_practice_statement_on_making_materiality_judgements.pdf) | 18 April 2019 (Closed) |  |
+| [ED Guidance Note 9 Illustration on Capitalisation of Borrowing Costs [.pdf 438kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_sb-frs_guidance_note_9_capitalisation_of_borrowing_costs.pdf) | 28 February 2019 (Closed) |  |
+| [ED/2018/2 Onerous Contracts - Cost of Fulfilling a Contract (Proposed amendments to IAS 37) [.pdf 146kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-onerous-contracts-december-2018_safe.pdf) | 28 February 2019 (Closed) |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 Comments should be sent to the Secretariat by e-mail: [AGD\_Assb\_Feedback@agd.gov.sg](mailto:AGD_Assb_Feedback@agd.gov.sg), or by fax : 6332 7678.
