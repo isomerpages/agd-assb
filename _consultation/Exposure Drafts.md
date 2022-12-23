@@ -34,5 +34,13 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | [ED/2019/4 Amendments to IFRS 17 [.pdf, 398kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-amendments-to-ifrs-17-pdf_safe.pdf) | 8 August 2019 (Closed) | [Comment Letter on ED-2019-4 [.pdf, 393KB]](/files/Docs/Default%20Source/Exposure%20Draft/comment-letter-to-iasb-on-ed-2019-4.pdf) |
 | [ED/2019/3 Reference to the Conceptual Framework (Proposed Amendments to IFRS 3) [.pdf, 207kb]](/files/Docs/Default%20Source/Exposure%20Draft/exposure-draft-reference-to-the-conceptual-framework-ifrs-3.pdf) | 27 September 2019 (Closed) |  |
 | [ED/2019/2 Annual Improvements to IFRS Standards 2018-2020 [.pdf, 181kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-annual-improvements-2018-2020-pdf_safe.pdf) | 22 July 2019 (Closed) |  |
+|  | 28 June 2019 (Closed) |  |
+|  | 28 June 2019 (Closed) |  |
+|  | 28 June 2019 (Closed) |  |
+|  | 7 June 2019 (Closed) |  |
+|  | 18 April 2019 (Closed) |  |
+|  | 18 April 2019 (Closed) |  |
+|  | 28 February 2019 (Closed) |  |
+|  | 28 February 2019 (Closed) |  |
 
 Comments should be sent to the Secretariat by e-mail: [AGD\_Assb\_Feedback@agd.gov.sg](mailto:AGD_Assb_Feedback@agd.gov.sg), or by fax : 6332 7678.
