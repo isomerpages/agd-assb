@@ -52,12 +52,12 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | [ED/2017/1 Annual Improvements to IFRSs (2015-2017 Cycle) [.pdf 184kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-2017-1_annual_improvements_to_ifrss_(2015-2017_cycle).pdf) | 1 Mar 2017 (Closed) |  |
 | [ED/2016/1 Definition of a Business and Accounting for Previously Held Interests (Proposed Amendments to IFRS 3 and IFRS 11) [.pdf 574kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-2016-1_definition_of_a_business_and_accounting_proposed_amendments_to_ifrs_3_and_ifrs_11.pdf) | 26 Aug 2016 (Closed) |  |
 | [ED Guidance Note 8 Impairment of Non-Cash Generating Assets [.pdf 515kb]](/files/Docs/Default%20Source/Exposure%20Draft/guidance_note_to_non-cash_generating_assets.pdf) | 26 Aug 2016 (Closed) |  |
-|  | 4 January 2016 (Closed) |  |
-|  | 11 Jan 2016 (Closed) |  |
-|  | 15 Jan 2016 (Closed) |  |
-|  | 31 Dec 2015 (Closed) |  |
-|  | 20 Nov 2015 (Closed) |  |
-|  | 20 Nov 2015 (Closed) |  |
+| [ED/2015/11 Applying IFRS 9 Financial Instruments with IFRS 4 Insurance Contracts (Proposed Amendments to IFRS 4) [.pdf 380kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_applying-ifrs-9-with-ifrs-4_dec-2015.pdf) | 4 January 2016 (Closed) |  |
+| [ED/2015/10 Annual Improvements to IFRSs (2014-2016 Cycle) [.pdf 166kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed201510-annual-improvements-to-ifrs_2014_2016_cycle_nov_2015.pdf) | 11 Jan 2016 (Closed) |  |
+| [ED/2015/9 Transfers of Investment Property (Proposed Amendment to IAS 40 [.pdf 124kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed201509-transfers-of-investment-property_proposed-amendment-to-ias-40.pdf) | 15 Jan 2016 (Closed) |  |
+| [ED/2015/8 IFRS Practice Statement: Applicability of Materiality to Financial Statement [.pdf 219kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed201508_ifrspracticestatement_oct2015_website.pdf) | 31 Dec 2015 (Closed) |  |
+| [Draft IFRIC Interpretation DI/2015/1 Uncertainty over Income Tax Treatments [.pdf 174kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_ifric_uncertaintyoverincometaxtreatments.pdf) | 20 Nov 2015 (Closed) |  |
+| [Draft IFRIC Interpretation DI/2015/2 Foreign Currency Transactions and Advance Consideration [.pdf 176kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_ifric_foreigncurrencytransactionsandadvanceconsideration.pdf) | 20 Nov 2015 (Closed) |  |
 |  | 15 Sep 2015 (Closed) |  |
 |  | 11 Sep 2015 (Closed) |  |
 |  | 14 Aug 2015 (Closed) |  |
