@@ -52,5 +52,16 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | [ED/2017/1 Annual Improvements to IFRSs (2015-2017 Cycle) [.pdf 184kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-2017-1_annual_improvements_to_ifrss_(2015-2017_cycle).pdf) | 1 Mar 2017 (Closed) |  |
 | [ED/2016/1 Definition of a Business and Accounting for Previously Held Interests (Proposed Amendments to IFRS 3 and IFRS 11) [.pdf 574kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-2016-1_definition_of_a_business_and_accounting_proposed_amendments_to_ifrs_3_and_ifrs_11.pdf) | 26 Aug 2016 (Closed) |  |
 | [ED Guidance Note 8 Impairment of Non-Cash Generating Assets [.pdf 515kb]](/files/Docs/Default%20Source/Exposure%20Draft/guidance_note_to_non-cash_generating_assets.pdf) | 26 Aug 2016 (Closed) |  |
+|  | 4 January 2016 (Closed) |  |
+|  | 11 Jan 2016 (Closed) |  |
+|  | 15 Jan 2016 (Closed) |  |
+|  | 31 Dec 2015 (Closed) |  |
+|  | 20 Nov 2015 (Closed) |  |
+|  | 20 Nov 2015 (Closed) |  |
+|  | 15 Sep 2015 (Closed) |  |
+|  | 11 Sep 2015 (Closed) |  |
+|  | 14 Aug 2015 (Closed) |  |
+|  | 31 Jul 2015 (Closed) |  |
+
 
 Comments should be sent to the Secretariat by e-mail: [AGD\_Assb\_Feedback@agd.gov.sg](mailto:AGD_Assb_Feedback@agd.gov.sg), or by fax : 6332 7678.
