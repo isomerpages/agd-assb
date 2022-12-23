@@ -93,6 +93,22 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | [ED/2012/2 Annual Improvements to IFRSs 2011-2013 [.pdf 140kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_annual_improvements(2011-2013_cycle)nov_2012.pdf) | 28 Dec 2012 (Closed) |  |
 | [Request for Information: Post-implementation Review - IFRS 8 Operating Segments [.pdf 219kb]](/files/Docs/Default%20Source/Exposure%20Draft/request_for_information_post_implementation_review_ifrs_8_operating_segments.pdf) | 27 Sep 2012 (Closed) |  |
 | [DI Levies Charged by Public Authorities on Entities that Operate in a Specific Market [.pdf 160kb]](/files/Docs/Default%20Source/Exposure%20Draft/di_levies_jun2012.pdf) | 3 Jul 2012 (Closed) |  |
+| [DI Put Options Written on Non-controlling Interests [.pdf 133kb]](/files/Docs/Default%20Source/Exposure%20Draft/di_putoptions_jun2012.pdf) | 3 Jul 2012 (Closed) |  |
+| [IASB and IFRS Interpretations Committee Due Process Handbook [.pdf 677kb]](/files/Docs/Default%20Source/Exposure%20Draft/dueprocess.pdf) | 31 Jul 2012 (Closed) |  |
+| [ED/2012/1 Annual Improvements to IFRSs 2010 - 2012 [.pdf 311kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-annual-improvements-to-ifrs-2010-2012.pdf) | 21 Jun 2012 (Closed) |  |
+| [IFRS ED: Transition Guidance (Proposed Amendments to IFRS 10) [.pdf 170kb]](/files/Docs/Default%20Source/Exposure%20Draft/edtransguidamdifrs10.pdf) | 30 Jan 2012 (Closed) |  |
+| [IFRS ED: Revenue from Contracts with Customers [.pdf 470kb]](/files/Docs/Default%20Source/Exposure%20Draft/revrec_edii_standard.pdf)[Illustrative Examples [.pdf 277kb]](/files/Docs/Default%20Source/Exposure%20Draft/revrec_edii_examples6d28af4179bb4f678ff358bc733fed46.pdf)[Basis for Conclusions [.pdf 732kb]](/files/Docs/Default%20Source/Exposure%20Draft/revrec_edii_bc.pdf) | 11 Jan 2012 (Closed) |  |
+| [IFRS ED: Government Loans - Proposed Amendments to IFRS 1 [.pdf 121kb]](/files/Docs/Default%20Source/Exposure%20Draft/edamendmentsifrs1oct2011.pdf) | 4 Jan 2012 (Closed) |  |
+| [ED Investment Entities [.pdf 341kb]](/files/Docs/Default%20Source/Exposure%20Draft/edinvestmententities.pdf) | 27 October 2011 (Closed) |  |
+| [Request for Views: IASB Agenda Consultation 2011 [.pdf 308kb]](/files/Docs/Default%20Source/Exposure%20Draft/agendaconsultation_august2011.pdf) | 9 September 2011 (Closed) |  |
+| [ED Mandatory Effective Date of IFRS 9 [.pdf 125kb]](/files/Docs/Default%20Source/Exposure%20Draft/edamendmentstoifrs9_august2011.pdf) | 25 August 2011 (Closed) |  |
+| [IFRS ED: Improvements to IFRSs [.pdf 191kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs_ed_improvementstoifrs.pdf) | 18 August 2011 (Closed) |  |
+| [IFRS ED: Offsetting Financial Assets and Liabilities [.pdf 242kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs_ed_offsetting_financial_assets.pdf) | 25 March 2011 (Closed) |  |
+| [Supplement to IFRS ED Financial Instruments: Impairment [.pdf 410kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs_ed_financial_instruments.pdf) | 25 March 2011 (Closed) |  |
+| [ED SB-FRS 24 Related Party Disclosures [.pdf 122kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_sb-frs_24.pdf) | 25 March 2011 (Closed) |  |
+| [ED Guidance Note 4 Disclosures under SB-FRS 24 [.pdf 31kb]]() | 25 March 2011 (Closed) |  |
+| [IFRS ED: Hedge Accounting [.pdf 403kb]](/files/Docs/Default%20Source/Exposure%20Draft/edfihedgeacctdec10.pdf)[IFRS ED: Basis for Conclusions and Illustrative Examples [.pdf 430kb]](/files/Docs/Default%20Source/Exposure%20Draft/edfihedgeacctbasisdec10.pdf) | 27 January 2011 (Closed) |  |
+| [IFRS ED: Severe Hyperinflation (proposed amendment to IFRS 1) [.pdf 126kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs_ed_severe_hyperinflation.pdf) | 3 November 2010 (Closed) |  |
 
 
 Comments should be sent to the Secretariat by e-mail: [AGD\_Assb\_Feedback@agd.gov.sg](mailto:AGD_Assb_Feedback@agd.gov.sg), or by fax : 6332 7678.
