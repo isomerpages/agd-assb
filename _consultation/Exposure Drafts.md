@@ -58,10 +58,11 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | [ED/2015/8 IFRS Practice Statement: Applicability of Materiality to Financial Statement [.pdf 219kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed201508_ifrspracticestatement_oct2015_website.pdf) | 31 Dec 2015 (Closed) |  |
 | [Draft IFRIC Interpretation DI/2015/1 Uncertainty over Income Tax Treatments [.pdf 174kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_ifric_uncertaintyoverincometaxtreatments.pdf) | 20 Nov 2015 (Closed) |  |
 | [Draft IFRIC Interpretation DI/2015/2 Foreign Currency Transactions and Advance Consideration [.pdf 176kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_ifric_foreigncurrencytransactionsandadvanceconsideration.pdf) | 20 Nov 2015 (Closed) |  |
-|  | 15 Sep 2015 (Closed) |  |
-|  | 11 Sep 2015 (Closed) |  |
-|  | 14 Aug 2015 (Closed) |  |
-|  | 31 Jul 2015 (Closed) |  |
+| [ED/2015/7 Effective Date of Amendments to IFRS 10 and IAS 28 [.pdf 119kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-effective-date-of-amendments-to-ifrs-10--and-ias-28.pdf) | 15 Sep 2015 (Closed) |  |
+| [ED/2015/6 Clarifications to IFRS 15 [.pdf 368kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_clarifications-to-ifrs-15.pdf) | 11 Sep 2015 (Closed) |  |
+| [ED/2015/5 Remeasurement on a Plan Amendment, Curtailment or Settlement / Availability of a Refund from a Defined Benefit Plan [.pdf 181kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed-defined-benefit-plan-proposed-amendments-to-ias-19-and-ifric-14-june-2015.pdf) | 14 Aug 2015 (Closed) |  |
+| [Exposure Draft on SB-FRS Guidance Note 7 Accounting for Sponsorship Received [.pdf 159kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_accounting_for_sponsorships_received.pdf) | 31 Jul 2015 (Closed) |  |
+| [Exposure Draft on SB-FRS 1001 Accounting and Disclosure for Non-Exchange Revenue [.pdf 705kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_sb-frs1001_non-exchange_revenue.pdf) | 31 Jul 2015 (Closed) |  |
 
 
 Comments should be sent to the Secretariat by e-mail: [AGD\_Assb\_Feedback@agd.gov.sg](mailto:AGD_Assb_Feedback@agd.gov.sg), or by fax : 6332 7678.
