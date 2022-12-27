@@ -109,23 +109,23 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | [ED Guidance Note 4 Disclosures under SB-FRS 24 [.pdf 31kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_guidance_note.pdf) | 25 March 2011 (Closed) |  |
 | [IFRS ED: Hedge Accounting [.pdf 403kb]](/files/Docs/Default%20Source/Exposure%20Draft/edfihedgeacctdec10.pdf)[IFRS ED: Basis for Conclusions and Illustrative Examples [.pdf 430kb]](/files/Docs/Default%20Source/Exposure%20Draft/edfihedgeacctbasisdec10.pdf) | 27 January 2011 (Closed) |  |
 | [IFRS ED: Severe Hyperinflation (proposed amendment to IFRS 1) [.pdf 126kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs_ed_severe_hyperinflation.pdf) | 3 November 2010 (Closed) |  |
-|  | 5 October 2010 (Closed) |  |
-|  | 22 October 2010 (Closed) |  |
-|  | 27 September 2010 (Closed) |  |
-|  | 1 October 2010 (Closed) |  |
-|  | 15 October 2010 (Closed) |  |
-|  | 22 October 2010 (Closed) |  |
-|  | 28 July 2010 (Closed) |  |
-|  | 3 September 2010 (Closed) |  |
-|  | 23 July 2010 (Closed) |  |
-|  | 14 June 2010 (Closed) |  |
-|  | 16 July 2010 (Closed) |  |
-|  | 26 April 2010 (Closed) |  |
-|  | 8 March 2010 (Closed) |  |
-|  | 8 March 2010 (Closed) |  |
-|  | 18 December 2009 (Closed) |  |
-|  | 16 April 2010 (Closed) |  |
-|  | 14 October 2009 (Closed) |  |
+| [IFRS ED: Deferred Tax: Recovery of Underlying Assets [pdf 172kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs_ed_deferred_tax.pdf) | 5 October 2010 (Closed) |  |
+| [IFRS ED: Stripping Costs in the Production Phase of a Surface Mine [.pdf 466kb]](/files/Docs/Default%20Source/Exposure%20Draft/stripping_cost.pdf) | 22 October 2010 (Closed) |  |
+| [IFRS ED: Removal of Fixed Dates for First-time Adopters [.pdf 105kb]](/files/Docs/Default%20Source/Exposure%20Draft/removal_of_fixed_dates.pdf) | 27 September 2010 (Closed) |  |
+| [ED INT SB-FRS 115 Agreements for the Construction of Real Estate [.pdf 574kb]](/files/Docs/Default%20Source/Exposure%20Draft/sb_frs_115.pdf) | 1 October 2010 (Closed) |  |
+| [IFRS ED: Leases [.pdf 330kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs_ed_lease.pdf)[IFRS ED: Basis of Conclusion [.pdf 353kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs_ed_basic_conclusion.pdf)[Snapshot Summary from IASB: Leases [.pdf 95kb]](/files/Docs/Default%20Source/Exposure%20Draft/iasb_leases.pdf) | 15 October 2010 (Closed) |  |
+| [IFRS ED: Insurance Contracts [.pdf 415kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs_ed_insurance_contracts.pdf)[IFRS ED: Insurance Contracts: Basis of Conclusion [.pdf 477kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs_ed_insurance_contracts_basic.pdf)[Snapshot Summary from IASB [.pdf 154kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs_ed_insurance_contracts_summary.pdf) | 22 October 2010 (Closed) |  |
+| [IFRS ED: Measurement Uncertainty Analysis Disclosure for Fair Value Measurements [.pdf 179kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_measurement_uncertainty_for_fv.pdf) | 28 July 2010 (Closed) |  |
+| [IFRS ED: Revenue from Contracts with Customers [.pdf 428kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_revenue_recognition.pdf)[IFRS ED: Basis of Conclusion [.pdf 548kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_basic_conclusion.pdf) | 3 September 2010 (Closed) |  |
+| [IFRS ED: Presentation of Items of Other Comprehensive Income (Proposed amendments to IAS 1) [.pdf 220kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs_ed_oci.pdf) | 23 July 2010 (Closed) |  |
+| [IFRS ED: Fair value Option for Financial Liabilities [.pdf 225kb]](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_fair_value_for_financial_liabilities.pdf) | 14 June 2010 (Closed) |  |
+| [IFRS ED: Defined Benefit Plans - Proposed amendments to IAS 19 [.pdf 502kb]](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_defined_benefit_plans.pdf) | 16 July 2010 (Closed) |  |
+| [IFRS ED: Conceptual Framework for Financial Reporting - The Reporting Entity [.pdf 157kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs_ed_conceptual_framework.pdf) | 26 April 2010 (Closed) |  |
+| [ED SB-FRS 24 Related Party Disclosures [.pdf 122kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_sb-frs_24.pdf) | 8 March 2010 (Closed) |  |
+| [IFRS ED: Measurement of Liabilities in IAS 37 (Proposed amendments to IAS 37) [.pdf 242kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_ias_37.pdf) | 8 March 2010 (Closed) |  |
+| [IFRS ED: Limited Exemption from Comparative IFRS 7 Disclosures for First-time Adopters (Proposed amendment to IFRS 1) [.pdf 117kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_ifrs_7_2009.pdf) | 18 December 2009 (Closed) |  |
+| [IFRS ED: Financial Instruments: Amortised Cost and Impairment [.pdf 288kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs-ed-fin-inst.pdf)[IFRS: Basis for Conclusion [.pdf 203kb]](/files/Docs/Default%20Source/Exposure%20Draft/basic-of-conclusion.pdf) | 16 April 2010 (Closed) |  |
+| [IFRS ED: Improvements to IFRSs [.pdf 311kb]](/files/Docs/Default%20Source/Exposure%20Draft/edimprovementsifrs09.pdf)[ED Management Commentary [.pdf 111kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_mgt_commentary.pdf) | 14 October 2009 (Closed) |  |
 |  | 18 September 2009 (Closed) |  |
 |  | 18 September 2009 (Closed) |  |
 |  | 7 September 2009 (Closed) |  |
