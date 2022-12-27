@@ -35,3 +35,6 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | INT SB-FRS 122 | [Foreign Currency Transactions and Advance Considerations [.pdf, 82.2kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/int_sb-frs_122_(2022).pdf) | [IE [.pdf, 149kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/int_sb-frs_122_ie_(2022).pdf) |
 | INT SB-FRS 123 | [Uncertainty over Income Tax Treatments [.pdf, 97.4kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/int_sb-frs_123_(2022).pdf) | [IE [.pdf, 109kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/int_sb-frs_123_ie_(2022).pdf) |
 
+\*Include Implementation Guidance (IG), Illustrative Examples (IE) and Information Note (IN).
+### Archives 
+Archived documents can be accessed [here](https://www.assb.gov.sg/pronouncements/interpretations-of-sb-frs/archives).
