@@ -126,33 +126,33 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | [IFRS ED: Limited Exemption from Comparative IFRS 7 Disclosures for First-time Adopters (Proposed amendment to IFRS 1) [.pdf 117kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_ifrs_7_2009.pdf) | 18 December 2009 (Closed) |  |
 | [IFRS ED: Financial Instruments: Amortised Cost and Impairment [.pdf 288kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs-ed-fin-inst.pdf)[IFRS: Basis for Conclusion [.pdf 203kb]](/files/Docs/Default%20Source/Exposure%20Draft/basic-of-conclusion.pdf) | 16 April 2010 (Closed) |  |
 | [IFRS ED: Improvements to IFRSs [.pdf 311kb]](/files/Docs/Default%20Source/Exposure%20Draft/edimprovementsifrs09.pdf)[ED Management Commentary [.pdf 111kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_mgt_commentary.pdf) | 14 October 2009 (Closed) |  |
-|  | 18 September 2009 (Closed) |  |
-|  | 18 September 2009 (Closed) |  |
-|  | 7 September 2009 (Closed) |  |
-|  | 1 September 2009 (Closed) |  |
-|  | 18 August 2009 (Closed) |  |
-|  | 31 July 2009 (Closed) |  |
-|  | 30 June 2009 (Closed) |  |
-|  | 8 June 2009 (Closed) |  |
-|  | 8 June 2009 (Closed) |  |
-|  | 16 February 2009 (Closed) |  |
-|  | 6 March 2009 (Closed) |  |
-|  | 6 January 2009 (Closed) |  |
-|  | 7 January 2009 (Closed) |  |
-|  | 9 January 2009 (Closed) |  |
-|  | 9 January 2009 (Closed) |  |
-|  | 14 November 2008 (Closed) |  |
-|  | 21 November 2008 (Closed) |  |
-|  | 21 November 2008 (Closed) |  |
-|  | 17 October 2008 (Closed) |  |
-|  | 3 October 2008 (Closed) |  |
-|  | 15 August 2008 (Closed) |  |
-|  | 30 May 2008 (Closed) |  |
-|  | 30 May 2008 (Closed) |  |
-|  | 30 May 2008 (Closed) |  |
-|  | 30 May 2008 (Closed) |  |
-|  | 30 May 2008 (Closed) |  |
-|  | 30 May 2008 (Closed) |  |
+| [ED Rate-regulated Activities [.pdf 131kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_rate_regulated_acts.pdf)[ED Rate-regulated Activities - Illustrative Examples [.pdf 86kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_rate_regulated_eg.pdf) | 18 September 2009 (Closed) |  |
+| [ED Discount rate for Employee Benefits - Proposed amendments to SB-FRS 19 [.pdf 59kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_sb_frs_19.pdf) | 18 September 2009 (Closed) |  |
+| [ED Classification of Rights Issues [.pdf 53kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_clarification_of_right_issues.pdf) | 7 September 2009 (Closed) |  |
+| [ED D25 Extinguishing Financial Liabilities with Equity Instruments [.pdf 74kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_d25.pdf) | 1 September 2009 (Closed) |  |
+| [IFRS ED: Financial Instruments: Classification and Measurement [.pdf 260kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_fin_instr_classification_n_measurement.pdf)[ED: Draft amendments to other IFRSs and Guidance [.pdf 391kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_amendments_to_other_ifrss_and-guidance.pdf)[ED: Basis of Conclusions [.pdf 211kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_basic_of_conclusions.pdf) | 18 August 2009 (Closed) |  |
+| [ED Fair Value Measurement [.pdf 321kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_fv_measurement.pdf)[ED Fair Value Measurement Illustrative Examples [.pdf 131kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_fv_measurement_ie.pdf) | 31 July 2009 (Closed) |  |
+| [ED Amendment to INT SB-FRS 114 [.pdf 70kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_amendment_int_sb-frs_114.pdf) | 30 June 2009 (Closed) |  |
+| [ED Derecognition - Amendments to SB-FRS 39 and SB-FRS 107 [.pdf 230kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_derecognition_amendments_to_sb-frs_39_and_sb-frs_107.pdf) | 8 June 2009 (Closed) |  |
+| [ED Income Tax [.pdf 229kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_income_taxcf9dd739efbe4ada8bbd601ffff84c7f.pdf) | 8 June 2009 (Closed) |  |
+| [ED Proposed Amendments to IFRIC 9 and IFRIC 16 [.pdf 139kb]](/files/Docs/Default%20Source/Exposure%20Draft/proposed_amendments_to_ifrc.pdf) | 16 February 2009 (Closed) |  |
+| [Exposure Draft of Proposed Accounting and Disclosures for Trust Funds [.pdf 51kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_on_trust_fund.pdf) | 6 March 2009 (Closed) |  |
+| [ED 10 Consolidated Financial Statements [.pdf 255kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_10.pdf)[ED 10 Illustrative examples [.pdf 89kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_10_illustrative_examples.pdf) | 6 January 2009 (Closed) |  |
+| [ED Relationships with the State [.pdf 122kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_sb-frs_24.pdf) | 7 January 2009 (Closed) |  |
+| [ED Proposed Amendments to INT FRS 109 and FRS 39 - Embedded Derivatives [.pdf 46kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_embedded_derivatives.pdf) | 9 January 2009 (Closed) |  |
+| [ED Proposed amendments to SB-FRS 107 - Investments in Debt Instruments [.pdf 46kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_investment_in_debt_instr.pdf) | 9 January 2009 (Closed) |  |
+| [ED SB-FRS 107 - Improving Disclosures about Financial Instruments [.pdf 103kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_sb-frs_107.pdf) | 14 November 2008 (Closed) |  |
+| [ED SB-FRS 101 - Additional exemptions for First-time adopters [.pdf 58kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_sb-frs_101.pdf) | 21 November 2008 (Closed) |  |
+| [ED SB-FRS 105 - Discontinued Operations [.pdf 93kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_sb-frs_105.pdf) | 21 November 2008 (Closed) |  |
+| [ED SB-FRS 33 Simplifying Earnings per Share [.pdf 404kb]](/files/Docs/Default%20Source/Exposure%20Draft/sb-ed_frs_33_simplifying_earnings_per_share.pdf) | 17 October 2008 (Closed) |  |
+| [ED Proposed Improvements to SB-FRSs [.pdf 180kb]](/files/Docs/Default%20Source/Exposure%20Draft/sb-ed_proposed_improvements_to_frs.pdf) | 3 October 2008 (Closed) |  |
+| [IASB and FASB Exposure Draft of Chapters 1 and 2 of the Joint Improved Conceptual Framework [.pdf 632kb]](/files/Docs/Default%20Source/Exposure%20Draft/edofchapters1and2thejointimprovedconceptualframework.pdf) | 15 August 2008 (Closed) |  |
+| [ED D23 Distributions of Non-cash Assets to Owners [.pdf 120kb]](/files/Docs/Default%20Source/Exposure%20Draft/assb_ed_d23.pdf) | 30 May 2008 (Closed) |  |
+| [ED D24 Customer Contributions [.pdf 83kb]](/files/Docs/Default%20Source/Exposure%20Draft/assb_ed_d24.pdf) | 30 May 2008 (Closed) |  |
+| [ED of Proposed Amendments to SB-FRS 102 Share-based Payment and INT SB-FRS 111 SB-FRS 102 Group and Treasury Share Transactions [.pdf 61kb]](/files/Docs/Default%20Source/Exposure%20Draft/assb_ed_proposed_amendments_to_frs_102_and_int_frs_111_frs.pdf) | 30 May 2008 (Closed) |  |
+| [ED of Proposed Amendments to SB-FRS 39 Financial Instruments: Exposures Qualifying for Hedge Accounting [.pdf 66kb]](/files/Docs/Default%20Source/Exposure%20Draft/assb_ed_frs_39.pdf) | 30 May 2008 (Closed) |  |
+| [ED 9 Joint Arrangements [.pdf 132kb]](/files/Docs/Default%20Source/Exposure%20Draft/assb_ed_9_joint_arrangements.pdf)[ED 9 Illustrative Examples [.pdf 76kb]](/files/Docs/Default%20Source/Exposure%20Draft/assb_ed_9_ie.pdf)[ED 9 Basis of Conclusions [.pdf 54kb]](/files/Docs/Default%20Source/Exposure%20Draft/assb_ed_9_basis_of_conclusions.pdf) | 30 May 2008 (Closed) |  |
+| [ED INT SB-FRS Real Estate Sales [.pdf 72kb]](/files/Docs/Default%20Source/Exposure%20Draft/assb_ed_int_frs_real_estate_sales.pdf) | 30 May 2008 (Closed) |  |
 
 
 Comments should be sent to the Secretariat by e-mail: [AGD\_Assb\_Feedback@agd.gov.sg](mailto:AGD_Assb_Feedback@agd.gov.sg), or by fax : 6332 7678.
