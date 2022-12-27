@@ -109,6 +109,50 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | [ED Guidance Note 4 Disclosures under SB-FRS 24 [.pdf 31kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_guidance_note.pdf) | 25 March 2011 (Closed) |  |
 | [IFRS ED: Hedge Accounting [.pdf 403kb]](/files/Docs/Default%20Source/Exposure%20Draft/edfihedgeacctdec10.pdf)[IFRS ED: Basis for Conclusions and Illustrative Examples [.pdf 430kb]](/files/Docs/Default%20Source/Exposure%20Draft/edfihedgeacctbasisdec10.pdf) | 27 January 2011 (Closed) |  |
 | [IFRS ED: Severe Hyperinflation (proposed amendment to IFRS 1) [.pdf 126kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs_ed_severe_hyperinflation.pdf) | 3 November 2010 (Closed) |  |
+|  | 5 October 2010 (Closed) |  |
+|  | 22 October 2010 (Closed) |  |
+|  | 27 September 2010 (Closed) |  |
+|  | 1 October 2010 (Closed) |  |
+|  | 15 October 2010 (Closed) |  |
+|  | 22 October 2010 (Closed) |  |
+|  | 28 July 2010 (Closed) |  |
+|  | 3 September 2010 (Closed) |  |
+|  | 23 July 2010 (Closed) |  |
+|  | 14 June 2010(Closed) |  |
+|  | 16 July 2010 (Closed) |  |
+|  | 26 April 2010 (Closed) |  |
+|  | 8 March 2010 (Closed) |  |
+|  | 8 March 2010 (Closed) |  |
+|  | 18 December 2009 (Closed) |  |
+|  | 16 April 2010 (Closed) |  |
+|  | 14 October 2009 (Closed) |  |
+|  | 18 September 2009 (Closed) |  |
+|  | 18 September 2009 (Closed) |  |
+|  | 7 September 2009 (Closed) |  |
+|  | 1 September 2009 (Closed) |  |
+|  | 18 August 2009 (Closed) |  |
+|  | 31 July 2009 (Closed) |  |
+|  | 30 June 2009 (Closed) |  |
+|  | 8 June 2009 (Closed) |  |
+|  | 8 June 2009 (Closed) |  |
+|  | 16 February 2009 (Closed) |  |
+|  | 6 March 2009 (Closed) |  |
+|  | 6 January 2009 (Closed) |  |
+|  | 7 January 2009 (Closed) |  |
+|  | 9 January 2009 (Closed) |  |
+|  | 9 January 2009 (Closed) |  |
+|  | 14 November 2008 (Closed) |  |
+|  | 21 November 2008 (Closed) |  |
+|  | 21 November 2008 (Closed) |  |
+|  | 17 October 2008 (Closed) |  |
+|  | 3 October 2008 (Closed) |  |
+|  | 15 August 2008 (Closed) |  |
+|  | 30 May 2008 (Closed) |  |
+|  | 30 May 2008 (Closed) |  |
+|  | 30 May 2008 (Closed) |  |
+|  | 30 May 2008 (Closed) |  |
+|  | 30 May 2008 (Closed) |  |
+|  | 30 May 2008 (Closed) |  |
 
 
 Comments should be sent to the Secretariat by e-mail: [AGD\_Assb\_Feedback@agd.gov.sg](mailto:AGD_Assb_Feedback@agd.gov.sg), or by fax : 6332 7678.
