@@ -15,13 +15,11 @@ links:
         url: /pronouncements/sb-frs-guidance-notes/current/
       - title: SB-FRS Practice Statements
         url: /pronouncements/sb-frs-practice-statements/current/
+  - title: News
+    resource_room: true
   - title: Consultation
     collection: consultation
-  - title: News
-    collection: news
   - title: Useful Links
     collection: useful-links
   - title: Email Subscription
     url: https://form.gov.sg/#!/63624f45fbb3dd00128d2177
-  - title: Useful Links2
-    url: /useful-links
