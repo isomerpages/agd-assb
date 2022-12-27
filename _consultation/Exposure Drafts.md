@@ -106,7 +106,7 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | [IFRS ED: Offsetting Financial Assets and Liabilities [.pdf 242kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs_ed_offsetting_financial_assets.pdf) | 25 March 2011 (Closed) |  |
 | [Supplement to IFRS ED Financial Instruments: Impairment [.pdf 410kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs_ed_financial_instruments.pdf) | 25 March 2011 (Closed) |  |
 | [ED SB-FRS 24 Related Party Disclosures [.pdf 122kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_sb-frs_24.pdf) | 25 March 2011 (Closed) |  |
-| [ED Guidance Note 4 Disclosures under SB-FRS 24 [.pdf 31kb]]() | 25 March 2011 (Closed) |  |
+| [ED Guidance Note 4 Disclosures under SB-FRS 24 [.pdf 31kb]](/files/Docs/Default%20Source/Exposure%20Draft/ed_guidance_note.pdf) | 25 March 2011 (Closed) |  |
 | [IFRS ED: Hedge Accounting [.pdf 403kb]](/files/Docs/Default%20Source/Exposure%20Draft/edfihedgeacctdec10.pdf)[IFRS ED: Basis for Conclusions and Illustrative Examples [.pdf 430kb]](/files/Docs/Default%20Source/Exposure%20Draft/edfihedgeacctbasisdec10.pdf) | 27 January 2011 (Closed) |  |
 | [IFRS ED: Severe Hyperinflation (proposed amendment to IFRS 1) [.pdf 126kb]](/files/Docs/Default%20Source/Exposure%20Draft/ifrs_ed_severe_hyperinflation.pdf) | 3 November 2010 (Closed) |  |
 
