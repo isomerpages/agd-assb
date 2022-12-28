@@ -1,6 +1,0 @@
-collections:
-  sb-frs-archives:
-    output: true
-    order:
-      - 2021/.keep
-      - 2020/.keep
