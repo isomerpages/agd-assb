@@ -3,7 +3,6 @@ title: SB FRS (effective as at 1 January 2021)
 permalink: /pronouncements/sb-frs/archives/2021/effective-as-at-1-january-2021/
 description: SB FRS (effective as at 1 January 2021)
 ---
-
 ### STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2021
 
   
@@ -15,7 +14,7 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | Reference | Titles | Accompanying documents\* |
 | -------- | -------- | -------- |
 | Preface | [Preface to Statutory Board Financial Reporting Standards [.pdf, 37kb] ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_preface.pdf) | - |
-| SB-FRS Conceptual Framework | [SB-FRS Conceptual Framework for Financial Reporting [.pdf, 928kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs-conceptual-framework-(clean).pdf) | - |
+| SB-FRS Conceptual Framework | [SB-FRS Conceptual Framework for Financial Reporting [.pdf, 928kb]](/files/Docs/Default%20Source/Sb%20Frs%20Conceptual%20Framework/sb-frs-conceptual-framework-(clean).pdf) | - |
 | SB-FRS 1 | [Presentation of Financial Statements [.pdf, 706kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_1_(2021).pdf) | [IG[.pdf,661kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_1_ig_(2021).pdf) |
 | SB-FRS 2 | [Inventories[.pdf, 621kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_2_(2021).pdf) | - |
 | SB-FRS 7 | [Statement of Cash Flows[.pdf, 642kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_7_(2021).pdf) | [IE[.pdf, 597kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_7_ie_(2021).pdf) |
