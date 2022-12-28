@@ -14,6 +14,28 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 
 
 
+|  | Titles | Effective Date (Annual periods beginning on or after) | Issuance Date |
+| -------- | -------- | -------- | -------- |
+| **Issued in 2015** |  |  |  |
+|  |  |  |  |
+| **Issued in 2016** |  |  |  |
+|  |  |  |  |
+| **Issued in 2020** |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| **Issued in 2021** |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| **Issued in 2022** |  |  |  |
+|  |  |  |  |
+
+*1i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.*
+
+*ii)This should be read together with the Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 issued in 2016.*
+  
+*2 The mandatory effective date of this Amendment had been revised from 1 Jan 2022 to 1 Jan 2023 via Amendments to SB-FRS 1: Classification of Liabilities as Current or Non-current - Deferral of Effective Date.*
+
 ### Archives 
 
 Click here to [access the archived documents](/pronouncements/sb-frs/archives/).
