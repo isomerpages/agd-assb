@@ -60,3 +60,8 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 1001 | [Accounting and Disclosure for Non-Exchange Revenue [.pdf, 697kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_1001_(2021).pdf) | - |
 | SB-FRS 1002 | [Impairment of Non-Cash-Generating Assets [.pdf, 664kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_1002_(2021).pdf) | [IG [.pdf, 505kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_1002_ig_(2021).pdf) |
 
+\*Include Implementation Guidance (IG) and Illustrative Examples (IE).  
+
+### Archives 
+
+Click here to [access the archived documents](https://www.assb.gov.sg/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives).
