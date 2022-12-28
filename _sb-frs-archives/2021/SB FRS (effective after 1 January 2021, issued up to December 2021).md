@@ -32,6 +32,7 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 8 | [Amendments to SB-FRS 8 [.pdf, 608kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202021%20to%20Dec%202021/amendments-to-sb-frs-8.pdf) | 1.1.2023 | 13.8.2021 |
 | Various | [Amendments to SB-FRS 1 and SB-FRS Practice Statement 2 [.pdf, 552kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202021%20to%20Dec%202021/amendments-to-sb-frs-1-and-sb-frs-practice-statement-2.pdf) | 1.1.2023 | 7.9.2021 |
 | SB-FRS 12 | [Amendments to SB-FRS 12 [.pdf, 605kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202021%20to%20Dec%202021/amendments-to-sb-frs-12.pdf) | 1.1.2023 | 29.11.2021 |
+|  |  |  |  |
 
 *1i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.*
 
