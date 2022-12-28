@@ -15,10 +15,10 @@ links:
         url: /pronouncements/sb-frs-guidance-notes/current/
       - title: SB-FRS Practice Statements
         url: /pronouncements/sb-frs-practice-statements/current/
-  - title: News
-    resource_room: true
   - title: Consultation
     collection: consultation
+  - title: News
+    resource_room: true
   - title: Useful Links
     collection: useful-links
   - title: Email Subscription
