@@ -9,6 +9,8 @@ The following are the new/revised/amendments to SB-FRSs and INT SB-FRSs issued b
 
 If you do not already have Adobe Reader or Microsoft Word, please download the software for free here: [\[pdf\]](http://www.adobe.com/products/acrobat/readstep2.html) [\[word\]](http://www.microsoft.com/downloads/details.aspx?FamilyID=95e24c87-8732-48d5-8689-ab826e7b8fdf&DisplayLang=en)
 
+|  | Titles | Effective Date (Annual periods beginning on or after) | Issuance Date |
+| - | - | - | - |
 
 
 *1i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.*
