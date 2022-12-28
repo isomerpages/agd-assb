@@ -1,5 +1,5 @@
 collections:
-  sb-frs-archives-2021:
+  sb-frs-archive-2021:
     output: true
     order:
       - SB FRS (effective after 1 January 2021, issued up to December 2021).md
