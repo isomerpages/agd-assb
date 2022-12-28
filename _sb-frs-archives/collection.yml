@@ -1,0 +1,4 @@
+collections:
+  sb-frs-archives:
+    output: true
+    order: []
