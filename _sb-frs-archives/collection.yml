@@ -2,7 +2,7 @@ collections:
   sb-frs-archives:
     output: true
     order:
+      - 2021/.keep
+      - 2021/SB FRS (effective as at 1 January 2021).md
       - 2021/SB FRS (effective after 1 January 2021, issued up to December
         2021).md
-      - 2021/SB FRS (effective as at 1 January 2021).md
-      - 2021/.keep
