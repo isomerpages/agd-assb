@@ -2,5 +2,5 @@ collections:
   news-2:
     output: true
     order:
-      - Example Title.md
       - Introduction.md
+      - Example Title.md
