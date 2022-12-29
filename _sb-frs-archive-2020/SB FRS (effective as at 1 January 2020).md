@@ -28,15 +28,15 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 23 | [Borrowing Costs [.pdf, 580kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_23_(2020).pdf) | - |
 | SB-FRS 24 | [Related Party Disclosures [.pdf, 595kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_24_(2020).pdf) | [IE [.pdf, 576kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_24_ie_(2020).pdf) |
 | SB-FRS 26 | [Accounting and Reporting by Retirement Benefit Plan [.pdf, 511kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_26_(2020).pdf) | - |
-| SB-FRS 27 |  | - |
-| SB-FRS 28 |  | - |
-| SB-FRS 29 |  | - |
-| SB-FRS 32 |  |  |
-| SB-FRS 33 |  |  |
-| SB-FRS 34 |  |  |
-| SB-FRS 36 |  |  |
-| SB-FRS 37 |  |  |
-| SB-FRS 38 |  |  |
+| SB-FRS 27 | [Separate Financial Statements[.pdf, 596kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_27_(2020).pdf) | - |
+| SB-FRS 28 | [Investments in Associates and Joint Ventures[.pdf, 771kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_28_(2020).pdf) | - |
+| SB-FRS 29 | [Financial Reporting in Hyperinflationary Economies[.pdf, 502kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_29_(2020).pdf) | - |
+| SB-FRS 32 | [Financial Instruments: Presentation [.pdf, 725kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_32_(2020).pdf) | [IE[.pdf, 645kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_32_ie_(2020).pdf) |
+| SB-FRS 33 | [Earnings per Share[.pdf, 651kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_33_(2020).pdf) | [IE[.pdf, 649kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_33_ie_(2020).pdf) |
+| SB-FRS 34 | [Interim Financial Reporting[.pdf, 539kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_34_(2020).pdf) | [IE[.pdf, 517kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_34_ie_(2020).pdf) |
+| SB-FRS 36 | [Impairment of Assets[.pdf, 760kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_36_(2020).pdf) | [IE[.pdf, 681kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_36_ie_(2020).pdf) |
+| SB-FRS 37 | [Provisions, Contingent Liabilities and Contingent Assets[.pdf, 562kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_37_(2020).pdf) | [IG[.pdf, 96kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_37_ig_(2020).pdf) |
+| SB-FRS 38 | [Intangible Assets [.pdf, 697kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_38_(2020).pdf) | [IE [.pdf, 345kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_38_ie_(2020).pdf) |
 | SB-FRS 39 |  |  |
 | SB-FRS 40 |  | - |
 | SB-FRS 41 |  |  |
