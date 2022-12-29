@@ -19,7 +19,5 @@ links:
     collection: consultation
   - title: News
     resource_room: true
-  - title: Useful Links
-    collection: useful-links
   - title: Email Subscription
     url: https://form.gov.sg/#!/63624f45fbb3dd00128d2177
