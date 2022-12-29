@@ -2,5 +2,6 @@ collections:
   news-2:
     output: true
     order:
+      - Objective of Advisory Committee.md
       - Introduction.md
       - Example Title.md
