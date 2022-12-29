@@ -59,3 +59,8 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 1001 |  |  |
 | SB-FRS 1002 |  |  |
 
+\*Include Implementation Guidance (IG) and Illustrative Examples (IE).  
+
+### Archives 
+
+Click here to [access the archived documents](/pronouncements/sb-frs/archives/).
