@@ -1,4 +1,5 @@
 collections:
   news-2:
     output: true
-    order: []
+    order:
+      - Introduction.md
