@@ -37,27 +37,27 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 36 | [Impairment of Assets[.pdf, 760kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_36_(2020).pdf) | [IE[.pdf, 681kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_36_ie_(2020).pdf) |
 | SB-FRS 37 | [Provisions, Contingent Liabilities and Contingent Assets[.pdf, 562kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_37_(2020).pdf) | [IG[.pdf, 96kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_37_ig_(2020).pdf) |
 | SB-FRS 38 | [Intangible Assets [.pdf, 697kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_38_(2020).pdf) | [IE [.pdf, 345kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_38_ie_(2020).pdf) |
-| SB-FRS 39 |  |  |
-| SB-FRS 40 |  | - |
-| SB-FRS 41 |  |  |
-| SB-FRS 101 |  |  |
-| SB-FRS 102 |  |  |
-| SB-FRS 103 |  |  |
-| SB-FRS 104 |  |  |
-| SB-FRS 105 |  |  |
-| SB-FRS 106 |  | - |
-| SB-FRS 107 |  |  |
-| SB-FRS 108 |  |  |
-| SB-FRS 109 |  |  |
-| SB-FRS 110 |  |  |
-| SB-FRS 111 |  |  |
-| SB-FRS 112 |  | - |
-| SB-FRS 113 |  |  |
-| SB-FRS 114 |  |  |
-| SB-FRS 115 |  |  |
-| SB-FRS 116 |  |  |
-| SB-FRS 1001 |  | - |
-| SB-FRS 1002 |  |  |
+| SB-FRS 39 | [Financial Instruments: Recognition and Measurement [.pdf, 562kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_39_(2020).pdf) | [IE & IG [.pdf, 444kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_39_ie_ig_(2020).pdf) |
+| SB-FRS 40 | [Investment Property [.pdf, 634kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_40_(2020).pdf) | - |
+| SB-FRS 41 | [Agriculture [.pdf, 527kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_41_(2020).pdf) | [IE [.pdf, 499kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_41_ie_(2020).pdf) |
+| SB-FRS 101 | [First-time Adoption of Financial Reporting Standards [.pdf, 711kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_101_(2020).pdf) | [IG [.pdf, 647kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_101_ig_(2020).pdf) |
+| SB-FRS 102 | [Share-based Payment [.pdf, 740kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_102_(2020).pdf) | [IG [.pdf, 734kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_102_ig_(2020).pdf) |
+| SB-FRS 103 | [Business Combinations [.pdf, 763kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_103_(2020).pdf) | [IE [.pdf, 658kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_103_ie_(2020).pdf) |
+| SB-FRS 104 | [Insurance Contracts [.pdf, 714kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_104_(2020).pdf) | [IG[.pdf, 264kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_104_ig_(2020).pdf) |
+| SB-FRS 105 | [Non-current Assets Held for Sale and Discontinued Operations [.pdf, 618kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_105_(2020).pdf) | [IG [.pdf, 524kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_105_ig_(2020).pdf) |
+| SB-FRS 106 | [Exploration for and Evaluation of Mineral Resources [.pdf, 432kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_106_(2020).pdf) | - |
+| SB-FRS 107 | [Financial Instruments: Disclosures [.pdf, 642kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_107_(2020).pdf) | [IG [.pdf, 679kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_107_ig_(2020).pdf) |
+| SB-FRS 108 | [Operating Segments [.pdf, 590kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_108_(2020).pdf) | [IG [.pdf, 365kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_108_ig_(2020).pdf) |
+| SB-FRS 109 | [Financial Instruments [.pdf, 1mb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_109_(2020).pdf) | [IE [.pdf, 743kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_109_ie_(2020).pdf),[IG [.pdf, 555kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_109_ig_(2020).pdf) |
+| SB-FRS 110 | [Consolidated Financial Statements [.pdf, 781kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_110_(2020).pdf) | [IE [.pdf, 353kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_110_ie_(2020).pdf) |
+| SB-FRS 111 | [Joint Arrangements [.pdf, 795kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_111_(2020).pdf) | [IE [.pdf, 603kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_111_ie_(2020).pdf) |
+| SB-FRS 112 | [Disclosure of Interests in Other Entities [.pdf, 634kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_112_(2020).pdf) | - |
+| SB-FRS 113 | [Fair Value Measurement [.pdf, 752kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_113_(2020).pdf) | [IE [.pdf, 695kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_113_ie_(2020).pdf) |
+| SB-FRS 114 | [Regulatory Deferral Accounts [.pdf, 494kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_114_(2020).pdf) | [IE [.pdf, 448kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_114_ie_(2020).pdf) |
+| SB-FRS 115 | [Revenue from Contracts with Customers [.pdf, 676kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_115_(2020).pdf) | [IE [.pdf, 717kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_115_ie_(2020).pdf) |
+| SB-FRS 116 | [Leases [.pdf, 668kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_116_(2020).pdf) | [IE [.pdf, 547kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_116_ie_(2020).pdf) |
+| SB-FRS 1001 | [Accounting and Disclosure for Non-Exchange Revenue [.pdf, 658kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_1001_(2020).pdf) | - |
+| SB-FRS 1002 | [Impairment of Non-Cash-Generating Assets [.pdf, 626kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_1002_(2020).pdf) | [IG [.pdf, 505kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_1002_ig_(2020).pdf) |
 
 
 
