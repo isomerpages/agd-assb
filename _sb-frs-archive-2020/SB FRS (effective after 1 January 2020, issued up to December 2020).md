@@ -11,7 +11,19 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 
 |  | Titles | Effective Date (Annual periods beginning on or after) | Issuance Date |
 | - | - | - | - |
-|  |  |  |  |
+| **Issued in 2015** |  |  |  |
+| SB-FRS 110, SB-FRS 28 |  | To be determined(1) | 18.03.2015 |
+| **Issued in 2016** |  |  |  |
+| SB-FRS 110, SB-FRS 28 |  | To be determined | 10.03.2016 |
+| **Issued in 2020** |  |  |  |
+| SB-FRS 39, SB-FRS 107, SB-FRS 109 |  | 1.1.2020 | 18.3.2020 |
+| SB-FRS 116 |  | 1.6.2020 | 1.6.2020 |
+| SB-FRS 1 |  | 1.1.2023(2) | 13.11.2020 |
+| SB-FRS 1 |  | - | 13.11.2020 |
+| SB-FRS 103 |  | 1.1.2022 | 13.11.2020 |
+| SB-FRS 16 |  | 1.1.2022 | 13.11.2020 |
+| SB-FRS 37 |  | 1.1.2022 | 13.11.2020 |
+| Various |  | 1.1.2022 | 13.11.2020 |
 
 
 *1i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.*
