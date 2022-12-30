@@ -3,7 +3,7 @@ title: SB FRS (effective as at 1 January 2018)
 permalink: /pronouncements/sb-frs/archives/2018/effective-as-at-1-january-2018/
 description: SB FRS (effective as at 1 January 2018)
 ---
-[Leases [.pdf 584kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202018/sb-frs_17_(2018).pdf)### STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2018
+### STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2018
 
 This collection of SB-FRSs and INT SB-FRSs includes official pronouncements issued by the Accountant-General (up to 31 December 2017) and are required to be applied for annual periods beginning on 1 January 2018. The collection does not include new/revised/amendments to SB-FRSs and INT SB-FRSs with an effective date after 1 January 2018.
 
