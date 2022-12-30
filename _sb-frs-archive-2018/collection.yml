@@ -2,5 +2,5 @@ collections:
   sb-frs-archive-2018:
     output: true
     order:
-      - Example Title.md
       - SB FRS (effective as at 1 January 2018).md
+      - Example Title.md
