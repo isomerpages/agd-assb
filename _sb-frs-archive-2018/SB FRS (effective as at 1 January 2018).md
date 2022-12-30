@@ -51,7 +51,7 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 110 | [Consolidated Financial Statements [.pdf 863kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202018/sb-frs_110_(2018).pdf) | [IE [.pdf 137kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202018/sb-frs_110_ie_(2018).pdf) |
 | SB-FRS 111 | [Joint Arrangements [.pdf 771kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202018/sb-frs_111_(2018).pdf) | [IE [.pdf 486kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202018/sb-frs_111_ie_(2018).pdf) |
 | SB-FRS 112 | [Disclosure of Interests in Other Entities [.pdf 626kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202018/sb-frs_112_(2018).pdf) | - |
-| SB-FRS 113 | [Fair Value Measurement [.pdf 672kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202018/sb-frs_113_(2018).pdf) |  |
-| SB-FRS 114 |  |  |
-| SB-FRS 115 |  |  |
-| SB-FRS 1001 |  | - |
+| SB-FRS 113 | [Fair Value Measurement [.pdf 672kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202018/sb-frs_113_(2018).pdf) | [IE [.pdf 714kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202018/sb-frs_113_ie_(2018).pdf) |
+| SB-FRS 114 | [Regulatory Deferral Accounts [.pdf 318kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202018/sb-frs_114_(2018).pdf) | [IE [.pdf 329kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202018/sb-frs_114_ie_(2018).pdf) |
+| SB-FRS 115 | [Revenue from Contracts with Customers [.pdf 601kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202018/sb-frs_115_(2018).pdf) | [IE [.pdf 761kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202018/sb-frs_115_ie_(2018).pdf) |
+| SB-FRS 1001 | [Accounting and Disclosure for Non-Exchange Revenue [.pdf 215kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202018/sb-frs1001_non-exchange_revenue_(2018).pdf) | - |
