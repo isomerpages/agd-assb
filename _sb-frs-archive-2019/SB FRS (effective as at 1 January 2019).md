@@ -35,15 +35,15 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 33 | [Earnings per Share [.pdf, 651kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Titles/sb-frs_33_(2019).pdf) | [IE [.pdf, 649kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Accompanying%20Documents/sb-frs_33_ie_(2019).pdf) |
 | SB-FRS 34 | [Interim Financial Reporting [.pdf, 539kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Titles/sb-frs_34_(2019).pdf) | [IE [.pdf, 517kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Accompanying%20Documents/sb-frs_34_ie_(2019).pdf) |
 | SB-FRS 36 | [Impairment of Assets [.pdf, 760kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Titles/sb-frs_36_(2019).pdf) | [IE [.pdf, 681kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Accompanying%20Documents/sb-frs_36_ie_(2019).pdf) |
-| SB-FRS 37 |  |  |
-| SB-FRS 38 |  |  |
-| SB-FRS 39 |  |  |
-| SB-FRS 40 |  | - |
-| SB-FRS 41 |  |  |
-| SB-FRS 101 |  |  |
-| SB-FRS 102 |  |  |
-| SB-FRS 103 |  |  |
-| SB-FRS 104 |  |  |
+| SB-FRS 37 | [Provisions, Contingent Liabilities and Contingent Assets [.pdf, 555kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Titles/sb-frs_37_(2019).pdf) | Missing |
+| SB-FRS 38 | [Intangible Assets [.pdf, 697kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Titles/sb-frs_38_(2019)39a16eab6c9d40d896f5ec38a071327e.pdf) | [IE [.pdf, 345kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Accompanying%20Documents/sb-frs_38_ie_(2019)---clean.pdf) |
+| SB-FRS 39 | [Financial Instruments: Recognition and Measurement [.pdf, 562kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Titles/sb-frs_39_(2019).pdf) | [IE & IG [.pdf, 444kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Accompanying%20Documents/sb-frs_39_ie_ig_(2019).pdf) |
+| SB-FRS 40 | [Investment Property [.pdf, 634kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Titles/sb-frs_40_(2019).pdf) | - |
+| SB-FRS 41 | [Agriculture [.pdf, 527kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Titles/sb-frs_41_(2019).pdf) | [IE [.pdf, 499kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Accompanying%20Documents/sb-frs_41_ie_(2019).pdf) |
+| SB-FRS 101 | [First-time Adoption of Financial Reporting Standards [.pdf, 711kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Titles/sb-frs_101_(2019).pdf) | [IG [.pdf, 647kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Accompanying%20Documents/sb-frs_101_ig_(2019).pdf) |
+| SB-FRS 102 | [Share-based Payment [.pdf, 740kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Titles/sb-frs_102_(2019).pdf) | [IG [.pdf, 734kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Accompanying%20Documents/sb-frs_102_ig_(2019).pdf) |
+| SB-FRS 103 | [Business Combinations [.pdf, 763kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Titles/sb-frs_103_(2019).pdf) | [IE [.pdf, 658kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Accompanying%20Documents/sb-frs_103_ie_(2019).pdf) |
+| SB-FRS 104 | [Insurance Contracts [.pdf, 714kb]](/files/Docs/Default%20Source/Sb%20Frs/As%20At%201%20Jan%202019/Titles/sb-frs_104_(2019).pdf) | Missing |
 | SB-FRS 105 |  |  |
 | SB-FRS 106 |  | - |
 | SB-FRS 107 |  |  |
