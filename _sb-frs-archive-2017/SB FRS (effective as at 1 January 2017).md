@@ -29,12 +29,12 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 23 | [Borrowing Costs [.pdf 192kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_23_(2017).pdf) | - |
 | SB-FRS 24 | [Related Party Disclosures [.pdf 272kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_24_(2017).pdf) | [IE [.pdf 322kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_24_ie_(2017).pdf) |
 | SB-FRS 26 | [Accounting and Reporting by Retirement Benefit Plan [.pdf 249kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_26_(2017).pdf) | - |
-| SB-FRS 27 |  | - |
-| SB-FRS 28 |  | - |
-| SB-FRS 29 |  | - |
-| SB-FRS 32 |  |  |
-| SB-FRS 33 |  |  |
-| SB-FRS 34 |  |  |
+| SB-FRS 27 | [Separate Financial Statements [.pdf 284kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_27_(2017).pdf) | - |
+| SB-FRS 28 | [Investments in Associates and Joint Ventures [.pdf 312kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_28_(2017).pdf) | - |
+| SB-FRS 29 | [Financial Reporting in Hyperinflationary Economies [.pdf 182kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_29_(2017).pdf) | - |
+| SB-FRS 32 | [Financial Instruments: Presentation [.pdf 481kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_32_(2017).pdf) | [IE [.pdf 474kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_32_ie_(2017).pdf) |
+| SB-FRS 33 | [Earnings per Share [.pdf 365kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_33_(2017).pdf) | [IE [.pdf 486kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_33_ie_(2017).pdf) |
+| SB-FRS 34 | [Interim Financial Reporting [.pdf 289kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_34_(2017).pdf) | [IE [.pdf 244kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_34_ie_(2017).pdf) |
 | SB-FRS 36 |  |  |
 | SB-FRS 37 |  |  |
 | SB-FRS 38 |  |  |
