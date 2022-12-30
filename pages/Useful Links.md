@@ -16,3 +16,4 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 [Guide to IFRS 7 (IFRS equivalent to SB-FRS 107) [.pdf, 433kb]](/files/Docs/Default%20Source/Useful%20Links/ifrs7forcorporates.pdf)
 
 ![Useful Link](/images/Images/Default%20Source/Useful%20Links/img-fr.jpg)
+<div><img src="/images/Images/Default%20Source/Useful%20Links/img-fr.jpg" style="float:right"></div>
