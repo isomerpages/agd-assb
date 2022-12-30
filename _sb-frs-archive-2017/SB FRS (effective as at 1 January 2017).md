@@ -11,23 +11,23 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 
 | Reference | Titles | Accompanying documents\* |
 | -------- | -------- | -------- |
-| Preface |  | - |
-| Framework |  | - |
-| SB-FRS 1 |  |  |
-| SB-FRS 2 |  | - |
-| SB-FRS 7 |  |  |
-| SB-FRS 8 |  |  |
-| SB-FRS 10 |  | - |
-| SB-FRS 11 |  |  |
-| SB-FRS 12 |  |  |
-| SB-FRS 16 |  | - |
-| SB-FRS 17 |  |  |
-| SB-FRS 18 |  |  |
-| SB-FRS 19 |  | - |
-| SB-FRS 20 |  | - |
-| SB-FRS 21 |  | - |
-| SB-FRS 23 |  | - |
-| SB-FRS 24 |  |  |
+| Preface | [Preface to Statutory Board Financial Reporting Standards [.pdf 37kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_preface.pdf) | - |
+| Framework | [The Conceptual Framework for Financial Reporting [.pdf 222kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_framework.pdf) | - |
+| SB-FRS 1 | [Presentation of Financial Statements [.pdf 466kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_1_(2017).pdf) | [IG [.pdf 439kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_1_ig_(2017).pdf) |
+| SB-FRS 2 | [Inventories [.pdf 247kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_2_(2017).pdf) | - |
+| SB-FRS 7 | [Statement of Cash Flows [.pdf 278kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_7_(2017).pdf) | [IE [.pdf 356kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_7_ie_(2017).pdf) |
+| SB-FRS 8 | [Accounting Policies, Changes in Accounting Estimates and Errors [.pdf 293kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_8_(2017).pdf) | [IG [.pdf 221kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_8_ig_(2017).pdf) |
+| SB-FRS 10 | [Events after the Reporting Period [.pdf 240kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_10_(2017).pdf) | - |
+| SB-FRS 11 | [Construction Contracts [.pdf 127kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_11_(2017).pdf) | [IE [.pdf 191kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_11_ie_(2017).pdf) |
+| SB-FRS 12 | [Income Taxes [.pdf 434kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_12_(2017).pdf) | [IE [.pdf 534kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_12_ie_(2017).pdf) |
+| SB-FRS 16 | [Property, Plant and Equipment [.pdf 384kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_16_(2017).pdf) | - |
+| SB-FRS 17 | [Leases [.pdf 390kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_17_(2017).pdf) | [IG [.pdf 148kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_17_ig_(2017).pdf) |
+| SB-FRS 18 | [Revenue [.pdf 297kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_18_(2017).pdf) | [IE [.pdf 231kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_18_ie_(2017).pdf) |
+| SB-FRS 19 | [Employee Benefits [.pdf 687kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_19_(2017).pdf) | - |
+| SB-FRS 20 | [Accounting for Government Grants and Disclosure of Government Assistance [.pdf 230kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_20_(2017).pdf) | - |
+| SB-FRS 21 | [The Effects of Changes in Foreign Exchange Rates [.pdf 317kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_21_(2017).pdf) | - |
+| SB-FRS 23 | [Borrowing Costs [.pdf 192kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_23_(2017).pdf) | - |
+| SB-FRS 24 | [Related Party Disclosures [.pdf 272kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_24_(2017).pdf) | [IE [.pdf 322kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_24_ie_(2017).pdf) |
 | SB-FRS 26 |  | - |
 | SB-FRS 27 |  | - |
 | SB-FRS 28 |  | - |
