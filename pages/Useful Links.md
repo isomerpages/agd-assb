@@ -3,10 +3,10 @@ title: Useful Links
 permalink: /useful-links/
 description: Useful Links
 ---
-![Useful Link](/images/Images/Default%20Source/Useful%20Links/img-fr.jpg)
 
 ### Useful Links
 
+![Useful Link](/images/Images/Default%20Source/Useful%20Links/img-fr.jpg)
   
 [Accounting Standards Council](http://www.asc.gov.sg/)  
 [Ministry of Finance](http://www.mof.gov.sg/)  
