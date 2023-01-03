@@ -15,9 +15,9 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 
 *ii)This should be read together with the Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 issued in 2016.*
 
-*2The mandatory effective date of this SB-FRS had been revised to 1 January 2018 via Amendments to Effective Date of SB-FRS 115.*
+*(2)The mandatory effective date of this SB-FRS had been revised to 1 January 2018 via Amendments to Effective Date of SB-FRS 115.*
 
-*3The mandatory effective date of this SB-FRS had been revised from 1 January 2017 to 1 January 2018.*
+*(3)The mandatory effective date of this SB-FRS had been revised from 1 January 2017 to 1 January 2018.*
 
 ### Archives 
 
