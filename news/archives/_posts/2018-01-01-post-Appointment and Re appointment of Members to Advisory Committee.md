@@ -11,7 +11,7 @@ Appointment and Re-appointment of Members to Advisory Committee
 
 01 Jan 2018
 
-The Second Minster for Finance has appointed three new members and re-appointed three members to the Advisory Committee on Accounting Standards for Statutory Boards. The composition of the newly appointed Advisory Committee can be found [here](~/who-we-are/advisory-committee-on-accounting-standards-for-statutory-boards/).
+The Second Minster for Finance has appointed three new members and re-appointed three members to the Advisory Committee on Accounting Standards for Statutory Boards. The composition of the newly appointed Advisory Committee can be found [here](/who-we-are/advisory-committee-on-accounting-standards-for-statutory-boards/).
 
 The three new members are:
 
