@@ -6,3 +6,9 @@ layout: post
 description: The latest 2019 SB-FRSs and INT SB-FRSs are now available
 image: ""
 ---
+The latest 2019 SB-FRSs and INT SB-FRSs are now available
+---------------------------------------------------------
+
+18 Feb 2019
+
+The latest 2019 SB-FRSs and INT SB-FRSs are now available.
