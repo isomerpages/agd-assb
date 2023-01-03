@@ -12,28 +12,26 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 |  | Titles | Effective Date (Annual periods beginning on or after) | Issuance Date |
 | -------- | -------- | -------- | -------- |
 | **Issued in 2015** |  |  |  |
-| SB-FRS 110, SB-FRS 28 |  |  |  |
-| SB-FRS 109 |  |  |  |
-| SB-FRS 115 |  |  |  |
-| SB-FRS 1001 |  |  |  |
+| SB-FRS 110, SB-FRS 28 |  | To be determined(1) | 18.03.2015 |
+| SB-FRS 109 |  | 1.1.2018 | 8.7.2015 |
+| SB-FRS 115 |  | 1.1.2018(2) | 8.7.2015 |
+| SB-FRS 1001 |  | 1.1.2018(3) | 21.9.2015 |
 | **Issued in 2016** |  |  |  |
-| SB-FRS 110, SB-FRS 28 |  |  |  |
-| SB-FRS 115 |  |  |  |
+| SB-FRS 110, SB-FRS 28 |  | To be determined | 10.03.2016 |
+| SB-FRS 115 |  | 1.1.2018 | 10.03.2016 |
 | **Issued in 2017** |  |  |  |
-| SB-FRS 116 |  |  |  |
-| SB-FRS 115 |  |  |  |
-| SB-FRS 102 |  |  |  |
-| SB-FRS 40 |  |  |  |
-| Various |  |  |  |
-| SB-FRS 104 |  |  |  |
+| SB-FRS 116 |  | 1.1.2019 | 1.2.2017 |
+| SB-FRS 115 |  | 1.1.2018 | 1.2.2017 |
+| SB-FRS 102 |  | 1.1.2018 | 1.2.2017 |
+| SB-FRS 40 |  | 1.1.2018 | 14.08.2017 |
+| Various |  | Refer to document | 14.08.2017 |
+| SB-FRS 104 |  | Refer to document | 14.08.2017 |
 
 *1i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.*
 
 *ii)This should be read together with the Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 issued in 2016.*
 
 *(2)The mandatory effective date of this SB-FRS had been revised to 1 January 2018 via Amendments to Effective Date of SB-FRS 115.*
-
-  
 
 *(3)The mandatory effective date of this SB-FRS had been revised from 1 January 2017 to 1 January 2018.*
 
