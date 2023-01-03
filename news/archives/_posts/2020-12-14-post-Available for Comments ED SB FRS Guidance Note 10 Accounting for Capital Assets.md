@@ -8,3 +8,9 @@ description: Available for Comments - ED SB-FRS Guidance Note 10 Accounting for
   Government
 image: ""
 ---
+Available for Comments - ED SB-FRS Guidance Note 10 Accounting for Capital Assets Funded using Statutory Boards' Reserves on Behalf of the Government
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+14 Dec 2020
+
+The Secretariat invites comments on Exposure Draft SB-FRS Guidance Note 10 _Accounting for Capital Assets Funded using Statutory Boards' Reserves on Behalf of the Government_ by 15 January 2021.
