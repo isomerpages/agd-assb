@@ -6,3 +6,9 @@ layout: post
 description: The latest 2022 SB-FRSs and INT SB-FRSs are now available
 image: ""
 ---
+The latest 2022 SB-FRSs and INT SB-FRSs are now available
+---------------------------------------------------------
+
+11 Mar 2022
+
+The latest 2022 SB-FRSs and INT SB-FRSs are now available.
