@@ -3,7 +3,7 @@ title: SB FRS (effective as at 1 January 2017)
 permalink: /pronouncements/sb-frs/archives/2017/effective-as-at-1-january-2017/
 description: SB FRS (effective as at 1 January 2017)
 ---
-### STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2017
+[Fair Value Measurement [.pdf 498kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_113_(2017).pdf)### STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2017
 
 This collection of SB-FRSs and INT SB-FRSs includes official pronouncements issued by the Accountant-General (up to 31 December 2016) and are required to be applied for annual periods beginning on 1 January 2017. The collection does not include new/revised/amendments to SB-FRSs and INT SB-FRSs with an effective date after 1 January 2017.
 
@@ -47,13 +47,13 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 104 | [Insurance Contracts [.pdf 361kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_104_(2017).pdf) | [IG [.pdf 581kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_104_ig_(2017).pdf) |
 | SB-FRS 105 | [Non-current Assets Held for Sale and Discontinued Operations [.pdf 247kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_105_(2017).pdf) | [IG [.pdf 297kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_105_ig_(2017).pdf) |
 | SB-FRS 106 | [Exploration for and Evaluation of Mineral Resources [.pdf 188kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_106_(2017).pdf) | - |
-| SB-FRS 107 |  |  |
-| SB-FRS 108 |  |  |
-| SB-FRS 110 |  |  |
-| SB-FRS 111 |  |  |
-| SB-FRS 112 |  | - |
-| SB-FRS 113 |  |  |
-| SB-FRS 114 |  |  |
+| SB-FRS 107 | [Financial Instruments: Disclosures [.pdf 527kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_107_(2017).pdf) | [IG [.pdf 372kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_107_ig_(2017).pdf) |
+| SB-FRS 108 | [Operating Segments [.pdf 229kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_108_(2017).pdf) | [IG [.pdf 260kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_108_ig_(2017).pdf) |
+| SB-FRS 110 | [Consolidated Financial Statements [.pdf 637kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_110_(2017).pdf) | [IE [.pdf 93kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_110_ie_(2017).pdf) |
+| SB-FRS 111 | [Joint Arrangements [.pdf 512kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_111_(2017).pdf) | [IE [.pdf 322kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_111_ie_(2017).pdf) |
+| SB-FRS 112 | [Disclosure of Interests in Other Entities [.pdf 427kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_112_(2017).pdf) | - |
+| SB-FRS 113 | [Fair Value Measurement [.pdf 498kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_113_(2017).pdf) | [IE [.pdf 554kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_113_ie_(2017).pdf) |
+| SB-FRS 114 | [Regulatory Deferral Accounts [.pdf 233kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_114_(2017).pdf) | [IE [.pdf 248kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_114_ie_(2017).pdf) |
 
 \*Include Implementation Guidance (IG) and Illustrative Examples (IE).
 
