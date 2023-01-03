@@ -11,21 +11,21 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 
 |  | Titles | Effective Date (Annual periods beginning on or after) | Issuance Date |
 | -------- | -------- | -------- | -------- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| **Issued in 2015** |  |  |  |
+| SB-FRS 110, SB-FRS 28 |  |  |  |
+| SB-FRS 109 |  |  |  |
+| SB-FRS 115 |  |  |  |
+| SB-FRS 1001 |  |  |  |
+| **Issued in 2016** |  |  |  |
+| SB-FRS 110, SB-FRS 28 |  |  |  |
+| SB-FRS 115 |  |  |  |
+| **Issued in 2017** |  |  |  |
+| SB-FRS 116 |  |  |  |
+| SB-FRS 115 |  |  |  |
+| SB-FRS 102 |  |  |  |
+| SB-FRS 40 |  |  |  |
+| Various |  |  |  |
+| SB-FRS 104 |  |  |  |
 
 *1i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.*
 
