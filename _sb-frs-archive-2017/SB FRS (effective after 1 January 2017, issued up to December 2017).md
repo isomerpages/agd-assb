@@ -12,6 +12,20 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 |  | Titles | Effective Date (Annual periods beginning on or after) | Issuance Date |
 | -------- | -------- | -------- | -------- |
 |  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 *1i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.*
 
