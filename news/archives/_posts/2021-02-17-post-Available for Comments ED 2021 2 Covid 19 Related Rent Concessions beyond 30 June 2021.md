@@ -8,3 +8,9 @@ description: Available for Comments - ED/2021/2 Covid-19-Related Rent
   Concessions beyond 30 June 2021
 image: ""
 ---
+Available for Comments - ED/2021/2 Covid-19-Related Rent Concessions beyond 30 June 2021
+----------------------------------------------------------------------------------------
+
+17 Feb 2021
+
+The Secretariat invites comments on Exposure Draft ED/2021/2 _Covid-19-Related Rent Concessions beyond 30 June 2021_ by 23 February 2021.
