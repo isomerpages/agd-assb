@@ -8,3 +8,9 @@ description: Available for Comments - ED SB-FRS Guidance Note 9 Accounting for
   Lease
 image: ""
 ---
+Available for Comments - ED SB-FRS Guidance Note 9 Accounting for Building, Building Improvement Works, and Infrastructure on Short-term Land Lease
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+01 Sep 2020
+
+The Secretariat invites comments on Exposure Draft SB-FRS Guidance Note 9 _Accounting for Building, Building Improvement Works, and Infrastructure on Short-term Land Lease_  by 30 September 2020.
