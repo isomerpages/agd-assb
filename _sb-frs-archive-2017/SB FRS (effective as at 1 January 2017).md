@@ -41,12 +41,12 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 39 | [Financial Instruments: Recognition and Measurement [.pdf 699kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_39_(2017).pdf) | [IG [.pdf 1021kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_39_ig_(2017).pdf),[IE [.pdf 194kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_39_ie_(2017).pdf) |
 | SB-FRS 40 | [Investment Property [.pdf 316kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_40_(2017).pdf) | - |
 | SB-FRS 41 |  [Agriculture [.pdf 210kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_41_(2017).pdf) | [IE [.pdf 210kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_41_ie_(2017).pdf) |
-| SB-FRS 101 |  |  |
-| SB-FRS 102 |  |  |
-| SB-FRS 103 |  |  |
-| SB-FRS 104 |  |  |
-| SB-FRS 105 |  |  |
-| SB-FRS 106 |  | - |
+| SB-FRS 101 | [First-time Adoption of Financial Reporting Standards [.pdf 474kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_101_(2017).pdf) | [IG [.pdf 529kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_101_ig_(2017).pdf) |
+| SB-FRS 102 | [Share-based Payment [.pdf 572kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_102_(2017).pdf) | [IG [.pdf 410kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_102_ig_(2017).pdf) |
+| SB-FRS 103 | [Business Combinations [.pdf 556kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_103_(2017).pdf) | [IE [.pdf 467kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_103_ie_(2017).pdf) |
+| SB-FRS 104 | [Insurance Contracts [.pdf 361kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_104_(2017).pdf) | [IG [.pdf 581kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_104_ig_(2017).pdf) |
+| SB-FRS 105 | [Non-current Assets Held for Sale and Discontinued Operations [.pdf 247kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_105_(2017).pdf) | [IG [.pdf 297kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_105_ig_(2017).pdf) |
+| SB-FRS 106 | [Exploration for and Evaluation of Mineral Resources [.pdf 188kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202017/sb-frs_106_(2017).pdf) | - |
 | SB-FRS 107 |  |  |
 | SB-FRS 108 |  |  |
 | SB-FRS 110 |  |  |
