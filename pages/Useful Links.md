@@ -3,7 +3,7 @@ title: Useful Links
 permalink: /useful-links/
 description: Useful Links
 ---
-<div><img src="/images/Images/Default%20Source/Useful%20Links/img-fr.jpg" style="width:320px;"></div>
+<div><img src="/images/Images/Default%20Source/Useful%20Links/img-fr.jpg" style="float:left;width:320px;"></div>
 
 ### Useful Links
   
@@ -16,4 +16,3 @@ description: Useful Links
   
 If you do not already have Adobe Reader or Microsoft Word, please download the software for free here: \[[pdf](http://www.adobe.com/products/acrobat/readstep2.html)\]  
 [Guide to IFRS 7 (IFRS equivalent to SB-FRS 107) [.pdf, 433kb]](/files/Docs/Default%20Source/Useful%20Links/ifrs7forcorporates.pdf)
-
