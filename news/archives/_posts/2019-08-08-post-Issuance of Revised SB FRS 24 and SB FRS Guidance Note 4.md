@@ -17,8 +17,8 @@ The key amendments made to SB-FRS 24 are:
 
 |  **Original Paragraph(s)** |  **Key Amendments**  |
 | --- | --- |
-|  28A | *   Shifted to paragraph 25A. </br>*   Clarified that for transactions and outstanding balances that are not exempt from disclosure as a result of this paragraph, a reporting entity may choose to provide reduced disclosures that are permitted by paragraphs 25 to 27. |
-|  28B | *   Renamed as paragraph 28. </br>*   Clarified that before exercising this exemption, Statutory Boards should inform the Accountant-General of the relevant transaction and outstanding balance to which the exemption relates to.|
+|  28A | *   Shifted to paragraph 25A. <br>*   Clarified that for transactions and outstanding balances that are not exempt from disclosure as a result of this paragraph, a reporting entity may choose to provide reduced disclosures that are permitted by paragraphs 25 to 27. |
+|  28B | *   Renamed as paragraph 28. <br>*   Clarified that before exercising this exemption, Statutory Boards should inform the Accountant-General of the relevant transaction and outstanding balance to which the exemption relates to.|
 
   
 
