@@ -8,3 +8,9 @@ description: "Available for Comments - IFRS ED: Financial Instruments: Amortised
   Cost and Impairment"
 image: ""
 ---
+Available for Comments - IFRS ED: Financial Instruments: Amortised Cost and Impairment
+--------------------------------------------------------------------------------------
+
+13 Nov 2009
+
+IFRS ED: Financial Instruments: Amortised Cost and Impairment is available for comments. Comments should be submitted no later than 16 April 2010.
