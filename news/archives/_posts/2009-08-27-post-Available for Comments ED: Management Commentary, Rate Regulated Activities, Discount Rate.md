@@ -8,3 +8,13 @@ description: "Available for Comments - ED: Management Commentary, ED:
   Rate-Regulated Activities, and ED: Discount Rate for Employee Benefits"
 image: ""
 ---
+Available for Comments - ED: Management Commentary, ED: Rate-Regulated Activities, and ED: Discount Rate for Employee Benefits
+------------------------------------------------------------------------------------------------------------------------------
+
+27 Aug 2009
+
+The following exposure drafts are available for comments:
+
+*   ED Management Commentary
+*   ED Rate Regulated Activities
+*   ED Discount Rate for Employee Benefits
