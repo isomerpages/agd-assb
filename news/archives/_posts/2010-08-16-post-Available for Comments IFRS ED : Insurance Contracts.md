@@ -6,3 +6,10 @@ layout: post
 description: "Available for Comments - IFRS ED : Insurance Contracts"
 image: ""
 ---
+Available for Comments - IFRS ED : Insurance Contracts
+------------------------------------------------------
+
+16 Aug 2010
+
+IFRS Exposure Draft: Insurance Contracts is available for comments.  
+Comments should be submitted no later than 22 October 2010.
