@@ -6,3 +6,9 @@ layout: post
 description: "Available for Comments - IFRS ED: Hedge Accounting"
 image: ""
 ---
+Available for Comments - IFRS ED: Hedge Accounting
+--------------------------------------------------
+
+27 Dec 2010
+
+IFRS ED: Hedge Accounting is available for comments. Comments should be submitted no later than 27 January 2011.
