@@ -6,3 +6,9 @@ layout: post
 description: Issuance of Improvements to SB-FRSs 2010
 image: ""
 ---
+Issuance of Improvements to SB-FRSs 2010
+----------------------------------------
+
+27 Dec 2010
+
+Improvements to SB-FRSs 2010 issued with effective dates as stated in the standard.
