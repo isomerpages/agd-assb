@@ -35,11 +35,11 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 32 | [Financial Instruments: Presentation [.pdf, 246kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_32_(2016).pdf) | [IE [.pdf, 190kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_32_ie_(2016).pdf) |
 | SB-FRS 33 | [Earnings per Share [.pdf, 142kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_33_(2016).pdf) | [IE [.pdf, 216kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_33_ie_(2016).pdf) |
 | SB-FRS 34 | [Interim Financial Reporting [.pdf, 113kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_34_(2016).pdf) | [IE [.pdf, 80kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_34_ie_(2016).pdf) |
-| SB-FRS 36 |  |  |
-| SB-FRS 37 |  |  |
-| SB-FRS 38 |  |  |
-| SB-FRS 39 |  |  |
-| SB-FRS 40 |  | - |
+| SB-FRS 36 | [Impairment of Assets [.pdf, 282kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_36_(2016).pdf) | [IE [.pdf, 240kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_36_ie_(2016).pdf) |
+| SB-FRS 37 | [Provisions, Contingent Liabilities and Contingent Assets [.pdf, 141kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_37_(2016).pdf) | [IG [.pdf, 88kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_37_ig_(2016).pdf) |
+| SB-FRS 38 | [Intangible Assets [.pdf, 205kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_38_(2016).pdf) | [IE [.pdf, 29kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_38_ie_(2016).pdf) |
+| SB-FRS 39 | [Financial Instruments: Recognition and Measurement [.pdf, 504kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_39_(2016).pdf) | [IG [.pdf, 693kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_39_ig_(2016).pdf),[IE [.pdf, 72kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_39_ie_(2016).pdf) |
+| SB-FRS 40 | [Investment Property [.pdf, 135kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_40_(2016).pdf) | - |
 | SB-FRS 41 |  |  |
 | SB-FRS 101 |  |  |
 | SB-FRS 102 |  |  |
