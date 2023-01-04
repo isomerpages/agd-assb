@@ -40,20 +40,20 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 38 | [Intangible Assets [.pdf, 205kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_38_(2016).pdf) | [IE [.pdf, 29kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_38_ie_(2016).pdf) |
 | SB-FRS 39 | [Financial Instruments: Recognition and Measurement [.pdf, 504kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_39_(2016).pdf) | [IG [.pdf, 693kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_39_ig_(2016).pdf),[IE [.pdf, 72kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_39_ie_(2016).pdf) |
 | SB-FRS 40 | [Investment Property [.pdf, 135kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_40_(2016).pdf) | - |
-| SB-FRS 41 |  |  |
-| SB-FRS 101 |  |  |
-| SB-FRS 102 |  |  |
-| SB-FRS 103 |  |  |
-| SB-FRS 104 |  |  |
-| SB-FRS 105 |  |  |
-| SB-FRS 106 |  | - |
-| SB-FRS 107 |  |  |
-| SB-FRS 108 |  |  |
-| SB-FRS 110 |  |  |
-| SB-FRS 111 |  |  |
-| SB-FRS 112 |  | - |
-| SB-FRS 113 |  |  |
-| SB-FRS 114 |  |  |
+| SB-FRS 41 | [Agriculture [.pdf, 102kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_41_(2016).pdf) | [IE [.pdf, 73kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_41_ie_(2016).pdf) |
+| SB-FRS 101 | [First-time Adoption of Financial Reporting [.pdf, 216kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_101_(2016).pdf) | [IG [.pdf, 246kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_101_ig_(2016).pdf) |
+| SB-FRS 102 | [Share-based Payment [.pdf, 238kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_102_(2016).pdf) | [IG[.pdf, 222kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_102_ig_(2016).pdf) |
+| SB-FRS 103 | [Business Combinations [.pdf, 284kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_103_(2016).pdf) | [IE [.pdf, 170kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_103_ie_(2016).pdf) |
+| SB-FRS 104 | [Insurance Contracts [.pdf, 173kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_104_(2016).pdf) | [IG [.pdf, 295kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_104_ig_(2016).pdf) |
+| SB-FRS 105 | [Non-current Assets Held for Sale and Discontinued Operations [.pdf, 122kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_105_(2016).pdf) | [IG [.pdf, 97kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_105_ig_(2016).pdf) |
+| SB-FRS 106 | [Exploration for and Evaluation of Mineral Resources [.pdf, 74kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_106_(2016).pdf) | - |
+| SB-FRS 107 | [Financial Instruments: Disclosures [.pdf, 228kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_107_(2016).pdf) | [IG [.pdf, 156kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_107_ig_(2016).pdf) |
+| SB-FRS 108 | [Operating Segments [.pdf, 108kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_108_(2016).pdf) | [IG [.pdf, 74kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_108_ig_(2016).pdf) |
+| SB-FRS 110 | [Consolidated Financial Statements [.pdf, 295kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_110_(2016).pdf) | [IE [.pdf, 42kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_110_ie_(2016).pdf) |
+| SB-FRS 111 | [Joint Arrangements [.pdf, 111kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_111_(2016).pdf) | [IE [.pdf, 97kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_111_ie_(2016).pdf) |
+| SB-FRS 112 | [Disclosure of Interests in Other Entities [.pdf, 147kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_112_(2016).pdf) | - |
+| SB-FRS 113 | [Fair Value Measurement [.pdf, 254kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_113_(2016).pdf) | [IE [.pdf, 236kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_113_ie_(2016).pdf) |
+| SB-FRS 114 | [Regulatory Deferral Accounts [.pdf, 106kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_114_(2016).pdf) | [IE [.pdf, 106kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202016/sb-frs_114_ie(2016).pdf) |
 
 \*Include Implementation Guidance (IG) and Illustrative Examples (IE).
 
