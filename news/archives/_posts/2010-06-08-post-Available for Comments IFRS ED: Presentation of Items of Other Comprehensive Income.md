@@ -8,3 +8,9 @@ description: "Available for Comments - IFRS ED: Presentation of Items of Other
   Comprehensive Income (Proposed amendments to IAS 1)"
 image: ""
 ---
+Available for Comments - IFRS ED: Presentation of Items of Other Comprehensive Income (Proposed amendments to IAS 1)
+--------------------------------------------------------------------------------------------------------------------
+
+08 Jun 2010
+
+IFRS ED: Presentation of Items of Other Comprehensive Income (Proposed amendments to IAS 1) is available for comments. Comments should be submitted no later than 23 July 2010.
