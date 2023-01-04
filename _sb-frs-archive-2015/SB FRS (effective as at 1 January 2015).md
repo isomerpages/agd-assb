@@ -11,3 +11,6 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 
 \*Include Implementation Guidance (IG) and Illustrative Examples (IE).
 
+### Archives 
+
+Click here to [access the archived documents](/pronouncements/sb-frs/archives/).
