@@ -11,15 +11,15 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 
 |  | Titles | Effective Date (Annual periods beginning on or after) | Issuance Date |
 | -------- | -------- | -------- | -------- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| **Issued in 2014** |  |  |  |
+| SB-FRS 19 |  | 1.7.2014 | 5.3.2014 |
+| Various |  | 1.7.2014 | 28.5.2014 |
+| Various |  | 1.7.2014 | 28.5.2014 |
+| SB-FRS 114 |  | 1.1.2016 | 26.8.2014 |
+| SB-FRS 27 |  | 1.1.2016 | 25.11.2014 |
+| SB-FRS 16, SB-FRS 38 |  | 1.1.2016 | 25.11.2014 |
+| SB-FRS 16, SB-FRS 41 |  | 1.1.2016 | 25.11.2014 |
+| SB-FRS 111 |  | 1.1.2016 | 25.11.2014 |
 
 ### Archives 
 
