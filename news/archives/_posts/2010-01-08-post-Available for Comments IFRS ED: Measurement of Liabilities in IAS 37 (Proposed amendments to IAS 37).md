@@ -8,3 +8,9 @@ description: "Available for Comments - IFRS ED: Measurement of Liabilities in
   IAS 37 (Proposed amendments to IAS 37)"
 image: ""
 ---
+Available for Comments - IFRS ED: Measurement of Liabilities in IAS 37 (Proposed amendments to IAS 37)
+------------------------------------------------------------------------------------------------------
+
+08 Jan 2010
+
+IFRS ED: Measurement of Liabilities in IAS 37 (Proposed amendments to IAS 37) is available for comments. Comments should be submitted no later than 8 March 2010
