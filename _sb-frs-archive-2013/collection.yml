@@ -2,4 +2,5 @@ collections:
   sb-frs-archive-2013:
     output: true
     order:
+      - Example Title2.md
       - Example Title.md
