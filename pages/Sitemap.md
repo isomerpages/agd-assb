@@ -68,5 +68,3 @@ description: Sitemap
 *   [Privacy Statement](/privacy-statement)
     
 *   [Terms of Use](/terms-of-use)
-    
-*   [Rate This Website](https://www.assb.gov.sg/rate-this-website)
