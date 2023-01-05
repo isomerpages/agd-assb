@@ -14,7 +14,7 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 |  | Titles | Effective Date (Annual periods beginning on or after) | Issuance Date |
 | -------- | -------- | -------- | -------- |
 | **Issued in 2015** |  |  |  |
-| SB-FRS 110, SB-FRS 28 | [Amendments to SB-FRS 110 and SB-FRS 28: Sale or Contribution of Assets between an Investor and its Associate or Joint Venture [.pdf 98kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202018%20to%20Dec%202018/amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined(1) | 18.03.2015 |
+| SB-FRS 110, SB-FRS 28 | [Amendments to SB-FRS 110 and SB-FRS 28: Sale or Contribution of Assets between an Investor and its Associate or Joint Venture [.pdf 98kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202018%20to%20Dec%202018/amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined<sup>1</sup> | 18.03.2015 |
 | **Issued in 2016** |  |  |  |
 | SB-FRS 110, SB-FRS 28 | [Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 [.pdf 27kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202018%20to%20Dec%202018/amendments_to_effective_date_of_amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined | 10.03.2016 |
 | **Issued in 2017** |  |  |  |
@@ -26,7 +26,7 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 19 | [Amendments to SB-FRS 19: Plan Amendment, Curtailment or Settlement [.pdf 404kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202018%20to%20Dec%202018/amendments_to_sb-frs_19.pdf) | 1.1.2019 | 31.07.2018 |
 | Various | [Improvements to SB-FRSs (March 2018) [.pdf 418kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202018%20to%20Dec%202018/improvements_to_sb-frss_(march_2018).pdf) | 1.1.2019 | 03.08.2018 |
 
-*1i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.*
+*<sup>1</sup>i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.*
 
 *ii)This should be read together with the Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 issued in 2016.*
 
