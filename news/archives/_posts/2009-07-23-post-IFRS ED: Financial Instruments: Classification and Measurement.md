@@ -6,3 +6,9 @@ layout: post
 description: "IFRS ED: Financial Instruments: Classification and Measurement"
 image: ""
 ---
+IFRS ED: Financial Instruments: Classification and Measurement
+--------------------------------------------------------------
+
+23 Jul 2009
+
+IFRS ED Financial Instruments: Classification and Measurements is available for comments. Comments should be submitted no later than 18 August 2009.
