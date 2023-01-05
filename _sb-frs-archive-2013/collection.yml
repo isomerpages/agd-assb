@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - SB FRS (effective as at 1 January 2013).md
-      - Example Title2.md
+      - SB FRS (effective after 1 January 2013, issued up to December 2013).md
       - Example Title.md
