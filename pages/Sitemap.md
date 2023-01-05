@@ -47,7 +47,7 @@ description: Sitemap
             
         *   [Archives](/pronouncements/sb-frs-practice-statements/archives/)
             
-*   [Consultation](/consultation)
+*   [Consultation](/consultation/exposure-drafts/)
     
     *   [Exposure Drafts](/consultation/exposure-drafts)
         
@@ -61,7 +61,7 @@ description: Sitemap
     
 *   [Contact Us](/contact-us)
     
-*   [Feedback](/feedback)
+*   [Feedback](/)
     
 *   **[Sitemap](/sitemap)**
 
