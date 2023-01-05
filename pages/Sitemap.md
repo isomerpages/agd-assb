@@ -19,137 +19,21 @@ description: Sitemap
     
     *   [Statutory Board Financial Reporting Standards (SB-FRS)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs))
         
-        *   [Current](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/current)
             
-            *   [SB-FRS (effective as at 1 January 2022)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/current/sb-frs-(effective-as-at-1-january-2022))
+        *   [SB-FRS (effective as at 1 January 2022)](/pronouncements/sb-frs/effective-as-at-1-january-2022/)
                 
-            *   [SB-FRS (effective after 1 January 2022, issued up to December 2022)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/current/sb-frs-(effective-after-1-january-2022-issued-up-to-december-2022))
+        *   [SB-FRS (effective after 1 January 2022, issued up to December 2022)](/pronouncements/sb-frs/effective-after-1-january-2022-issued-up-to-december-2022/)
                 
-        *   [Archives](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives)
+        *   [Archives (2013 - 2021)](/pronouncements/sb-frs/archives/)
             
-            *   [2021](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2021)
-                
-                *   [SB-FRS (effective as at 1 January 2021)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2021/sb-frs-(effective-as-at-1-january-2021))
                     
-                *   [SB-FRS (effective after 1 January 2021, issued up to December 2021)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2021/sb-frs-(effective-after-1-january-2021-issued-up-to-december-2021))
-                    
-            *   [2020](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2020)
-                
-                *   [SB-FRS (effective as at 1 January 2020)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2020/sb-frs-(effective-as-at-1-january-2020))
-                    
-                *   [SB-FRS (effective after 1 January 2020, issued up to December 2020)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2020/sb-frs-(effective-after-1-january-2020-issued-up-to-december-2020))
-                    
-            *   [2019](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2019)
-                
-                *   [SB-FRS (effective as at 1 January 2019)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2019/sb-frs-(effective-as-at-1-january-2019))
-                    
-                *   [SB-FRS (effective after 1 January 2019, issued up to December 2019)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2019/sb-frs-(effective-after-1-january-2019-issued-up-to-december-2019))
-                    
-            *   [2018](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2018)
-                
-                *   [SB-FRS (effective as at 1 January 2018)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2018/sb-frs-(effective-as-at-1-january-2018))
-                    
-                *   [SB-FRS (effective after 1 January 2018, issued up to December 2018)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2018/sb-frs-(effective-after-1-january-2018-issued-up-to-december-2018))
-                    
-            *   [2017](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2017)
-                
-                *   [SB-FRS (effective as at 1 January 2017)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2017/sb-frs-(effective-as-at-1-january-2017))
-                    
-                *   [SB-FRS (effective after 1 January 2017, issued up to December 2017)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2017/sb-frs-(effective-after-1-january-2017-issued-up-to-december-2017))
-                    
-            *   [2016](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2016)
-                
-                *   [SB-FRS (effective as at 1 January 2016)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2016/sb-frs-(effective-as-at-1-january-2016))
-                    
-                *   [SB-FRS (effective after 1 January 2016, issued up to December 2016)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2016/sb-frs-(effective-after-1-january-2016-issued-up-to-december-2016))
-                    
-            *   [2015](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2015)
-                
-                *   [SB-FRS (effective as at 1 January 2015)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2015/sb-frs-(effective-as-at-1-january-2015))
-                    
-                *   [SB-FRS (effective after 1 January 2015, issued up to December 2015)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2015/sb-frs-(effective-after-1-january-2015-issued-up-to-december-2015))
-                    
-            *   [2014](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2014)
-                
-                *   [SB-FRS (effective as at 1 January 2014)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2014/sb-frs-(effective-as-at-1-january-2014))
-                    
-                *   [SB-FRS (effective after 1 January 2014, issued up to December 2014)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2014/sb-frs-(effective-after-1-january-2014-issued-up-to-december-2014))
-                    
-            *   [2013](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2013)
-                
-                *   [SB-FRS (effective as at 1 January 2013)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2013/sb-frs-(effective-as-at-1-january-2013))
-                    
-                *   [SB-FRS (effective after 1 January 2013, issued up to December 2013)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2013/sb-frs-(effective-after-1-january-2013-issued-up-to-december-2013))
-                    
-                *   [SB-FRS (issued before 2013)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2013/sb-frs-(issued-before-2013))
-                    
-    *   [Interpretations of SB-FRS](/pronouncements/interpretations-of-sb-frs)
-        
-        *   [Current](/pronouncements/interpretations-of-sb-frs/current)
+    *   [Interpretations of SB-FRS](/pronouncements/interpretations-of-sb-frs/)
             
-            *   [INT SB-FRS (effective as at 1 January 2022)](/pronouncements/interpretations-of-sb-frs/current/int-sb-frs-(effective-as-at-1-january-2022))
+        *   [INT SB-FRS (effective as at 1 January 2022)](/pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2022/)
                 
-            *   [INT SB-FRS (effective after 1 January 2022, issued up to December 2022)](/pronouncements/interpretations-of-sb-frs/current/int-sb-frs-(effective-after-1-january-2021-issued-up-to-december-2022))
+        *   [INT SB-FRS (effective after 1 January 2022, issued up to December 2022)](/pronouncements/interpretations-of-sb-frs/effective-after-1-january-2022-issued-up-to-december-2022/)
                 
-        *   [Archives](/pronouncements/interpretations-of-sb-frs/archives)
-            
-            *   [2021](/pronouncements/interpretations-of-sb-frs/archives/2021)
-                
-                *   [INT SB-FRS (effective as at 1 January 2021)](/pronouncements/interpretations-of-sb-frs/archives/2021/int-sb-frs-(effective-as-at-1-january-2021))
-                    
-                *   [INT SB-FRS (effective after 1 January 2021, issued up to December 2021)](/pronouncements/interpretations-of-sb-frs/archives/2021/int-sb-frs-(effective-after-1-january-2021-issued-up-to-december-2021))
-                    
-            *   [2020](/pronouncements/interpretations-of-sb-frs/archives/2020)
-                
-                *   [INT SB-FRS (effective as at 1 January 2020)](/pronouncements/interpretations-of-sb-frs/archives/2020/int-sb-frs-(effective-as-at-1-january-2020))
-                    
-                *   [INT SB-FRS (effective after 1 January 2020, issued up to December 2020)](/pronouncements/interpretations-of-sb-frs/archives/2020/int-sb-frs-(effective-after-1-january-2020-issued-up-to-december-2020))
-                    
-            *   [2019](/pronouncements/interpretations-of-sb-frs/archives/2019)
-                
-                *   [INT SB-FRS (effective as at 1 January 2019)](/pronouncements/interpretations-of-sb-frs/archives/2019/int-sb-frs-(effective-as-at-1-january-2019))
-                    
-                *   [INT SB-FRS (effective after 1 January 2019, issued up to December 2019)](/pronouncements/interpretations-of-sb-frs/archives/2019/int-sb-frs-(effective-after-1-january-2019-issued-up-to-december-2019))
-                    
-            *   [2018](/pronouncements/interpretations-of-sb-frs/archives/2018)
-                
-                *   [INT SB-FRS (effective as at 1 January 2018)](/pronouncements/interpretations-of-sb-frs/archives/2018/int-sb-frs-(effective-as-at-1-january-2018))
-                    
-                *   [INT SB-FRS (effective after 1 January 2018, issued up to December 2018)](/pronouncements/interpretations-of-sb-frs/archives/2018/int-sb-frs-(effective-after-1-january-2018-issued-up-to-december-2018))
-                    
-                *   [INT SB-FRS (effective as at 1 January 2018) 5](/pronouncements/interpretations-of-sb-frs/archives/2018/int-sb-frs-(effective-as-at-1-january-2018)-5)
-                    
-            *   [2017](/pronouncements/interpretations-of-sb-frs/archives/2017)
-                
-                *   [INT SB-FRS (effective as at 1 January 2017)](/pronouncements/interpretations-of-sb-frs/archives/2017/int-sb-frs-(effective-as-at-1-january-2017))
-                    
-                *   [INT SB-FRS (effective after 1 January 2017, issued up to December 2017)](/pronouncements/interpretations-of-sb-frs/archives/2017/int-sb-frs-(effective-after-1-january-2017-issued-up-to-december-2017))
-                    
-            *   [2016](/pronouncements/interpretations-of-sb-frs/archives/2016)
-                
-                *   [INT SB-FRS (effective as at 1 January 2016)](/pronouncements/interpretations-of-sb-frs/archives/2016/int-sb-frs-(effective-as-at-1-january-2016))
-                    
-                *   [INT SB-FRS (effective after 1 January 2016, issued up to December 2016)](/pronouncements/interpretations-of-sb-frs/archives/2016/int-sb-frs-(effective-after-1-january-2016-issued-up-to-december-2016))
-                    
-            *   [2015](/pronouncements/interpretations-of-sb-frs/archives/2015)
-                
-                *   [INT SB-FRS (effective as at 1 January 2015)](/pronouncements/interpretations-of-sb-frs/archives/2015/int-sb-frs-(effective-as-at-1-january-2015))
-                    
-                *   [INT SB-FRS (effective after 1 January 2015, issued up to December 2015)](/pronouncements/interpretations-of-sb-frs/archives/2015/int-sb-frs-(effective-after-1-january-2015-issued-up-to-december-2015))
-                    
-            *   [2014](/pronouncements/interpretations-of-sb-frs/archives/2014)
-                
-                *   [INT SB-FRS (effective as at 1 January 2014)](/pronouncements/interpretations-of-sb-frs/archives/2014/int-sb-frs-(effective-as-at-1-january-2014))
-                    
-                *   [INT SB-FRS (effective after 1 January 2014, issued up to December 2014)](/pronouncements/interpretations-of-sb-frs/archives/2014/int-sb-frs-(effective-after-1-january-2014-issued-up-to-december-2014))
-                    
-            *   [2013](/pronouncements/interpretations-of-sb-frs/archives/2013)
-                
-                *   [INT SB-FRS (effective as at 1 January 2013)](/pronouncements/interpretations-of-sb-frs/archives/2013/int-sb-frs-(effective-as-at-1-january-2013))
-                    
-                *   [INT SB-FRS (effective after 1 January 2013, issued up to December 2013)](/pronouncements/interpretations-of-sb-frs/archives/2013/int-sb-frs-(effective-after-1-january-2013-issued-up-to-december-2013))
-                    
-                *   [INT SB-FRS (issued before 2013)](/pronouncements/interpretations-of-sb-frs/archives/2013/int-sb-frs-(issued-before-2013))
+        *   [Archives (2013 - 2021)](/pronouncements/interpretations-of-sb-frs/archives)
                     
     *   [SB-FRS Guidance Notes](/pronouncements/sb-frs-guidance-notes)
         
@@ -159,9 +43,9 @@ description: Sitemap
             
     *   [SB-FRS Practice Statements](/pronouncements/sb-frs-practice-statements)
         
-        *   [Current](/pronouncements/sb-frs-practice-statements/current)
+        *   [Current](/pronouncements/sb-frs-practice-statements/current/)
             
-        *   [Archives](/pronouncements/sb-frs-practice-statements/archives)
+        *   [Archives](/pronouncements/sb-frs-practice-statements/archives/)
             
 *   [Consultation](/consultation)
     
