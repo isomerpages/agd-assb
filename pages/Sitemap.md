@@ -5,7 +5,7 @@ description: Sitemap
 ---
 *   [Home]()
     
-*   [Who We Are](/who-we-are)
+*   [Who We Are](/who-we-are/introduction)
     
     *   [Introduction](/who-we-are/introduction)
         
@@ -17,7 +17,7 @@ description: Sitemap
         
 *   [Pronouncements](/pronouncements)
     
-    *   [Statutory Board Financial Reporting Standards (SB-FRS)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs))
+    *   [Statutory Board Financial Reporting Standards (SB-FRS)](/pronouncements/sb-frs/effective-as-at-1-january-2022/)
         
             
         *   [SB-FRS (effective as at 1 January 2022)](/pronouncements/sb-frs/effective-as-at-1-january-2022/)
