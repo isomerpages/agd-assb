@@ -24,7 +24,7 @@ description: Sitemap
                 
         *   [SB-FRS (effective after 1 January 2022, issued up to December 2022)](/pronouncements/sb-frs/effective-after-1-january-2022-issued-up-to-december-2022/)
                 
-        *   [Archives (2013 - 2021)](/pronouncements/sb-frs/archives/)
+        *   [Archives](/pronouncements/sb-frs/archives/)
             
                     
     *   [Interpretations of SB-FRS](/pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2022/)
