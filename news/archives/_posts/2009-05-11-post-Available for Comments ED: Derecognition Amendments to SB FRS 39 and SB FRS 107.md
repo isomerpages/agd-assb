@@ -8,3 +8,9 @@ description: "Available for Comments - ED: Derecognition - Amendments to SB-FRS
   39 and SB-FRS 107"
 image: ""
 ---
+Available for Comments - ED: Derecognition - Amendments to SB-FRS 39 and SB-FRS 107
+-----------------------------------------------------------------------------------
+
+11 May 2009
+
+ED Derecognition - Amendments to SB-FRS 39 and SB-FRS 107 and ED Income Tax are available for comments. Comments should be submitted no later than 8 June 2009.
