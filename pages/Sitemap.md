@@ -57,7 +57,7 @@ description: Sitemap
     
 *   [Useful Links](/useful-links)
     
-*   [Email Subscription](https://www.assb.gov.sg/email-subscription)
+*   [Email Subscription](https://form.gov.sg/63624f45fbb3dd00128d2177)
     
 *   [Contact Us](/contact-us)
     
