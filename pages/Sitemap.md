@@ -61,9 +61,11 @@ description: Sitemap
     
 *   [Contact Us](/contact-us)
     
-*   [Feedback](https://www.assb.gov.sg/feedback)
+*   [Feedback](/feedback)
     
 *   **[Sitemap](/sitemap)**
+
+*   [Report Vulnerability](https://www.tech.gov.sg/report_vulnerability)
     
 *   [Privacy Statement](/privacy-statement)
     
