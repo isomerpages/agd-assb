@@ -67,6 +67,6 @@ description: Sitemap
 
 *   [Report Vulnerability](https://www.tech.gov.sg/report_vulnerability)
     
-*   [Privacy Statement](/privacy-statement)
+*   [Privacy Statement](/privacy)
     
 *   [Terms of Use](/terms-of-use)
