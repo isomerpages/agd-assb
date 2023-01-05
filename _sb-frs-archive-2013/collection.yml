@@ -2,6 +2,6 @@ collections:
   sb-frs-archive-2013:
     output: true
     order:
-      - Example Title3.md
+      - SB FRS (effective as at 1 January 2013).md
       - Example Title2.md
       - Example Title.md
