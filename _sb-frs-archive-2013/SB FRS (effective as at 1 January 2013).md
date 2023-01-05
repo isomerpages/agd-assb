@@ -3,11 +3,7 @@ title: SB FRS (effective as at 1 January 2013)
 permalink: /pronouncements/sb-frs/archives/2013/effective-as-at-1-january-2013/
 description: SB FRS (effective as at 1 January 2013)
 ---
-
-
 ### STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2013
-
-  
 
 This collection of SB-FRSs and INT SB-FRSs includes official pronouncements issued by the Accountant-General (up to 31 December 2012) and are required to be applied for annual periods beginning on 1 January 2013. The collection does **not** include new/revised/amendments to SB-FRSs and INT SB-FRSs with an effective date after 1 January 2013.
 
