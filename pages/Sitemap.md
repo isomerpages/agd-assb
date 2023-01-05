@@ -15,7 +15,7 @@ description: Sitemap
         
     *   [Objective of Advisory Committee](/who-we-are/objectives-of-advisory-committee)
         
-*   [Pronouncements](/pronouncements)
+*   [Pronouncements](/pronouncements/sb-frs/effective-as-at-1-january-2022/)
     
     *   [Statutory Board Financial Reporting Standards (SB-FRS)](/pronouncements/sb-frs/effective-as-at-1-january-2022/)
         
@@ -27,7 +27,7 @@ description: Sitemap
         *   [Archives (2013 - 2021)](/pronouncements/sb-frs/archives/)
             
                     
-    *   [Interpretations of SB-FRS](/pronouncements/interpretations-of-sb-frs/)
+    *   [Interpretations of SB-FRS](/pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2022/)
             
         *   [INT SB-FRS (effective as at 1 January 2022)](/pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2022/)
                 
@@ -35,13 +35,13 @@ description: Sitemap
                 
         *   [Archives (2013 - 2021)](/pronouncements/interpretations-of-sb-frs/archives)
                     
-    *   [SB-FRS Guidance Notes](/pronouncements/sb-frs-guidance-notes)
+    *   [SB-FRS Guidance Notes](/pronouncements/sb-frs-guidance-notes/current)
         
         *   [Current](/pronouncements/sb-frs-guidance-notes/current)
             
         *   [Archives](/pronouncements/sb-frs-guidance-notes/archives)
             
-    *   [SB-FRS Practice Statements](/pronouncements/sb-frs-practice-statements)
+    *   [SB-FRS Practice Statements](/pronouncements/sb-frs-practice-statements/current)
         
         *   [Current](/pronouncements/sb-frs-practice-statements/current/)
             
