@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - INT SB FRS (effective as at 1 January 2021).md
-      - Example Title.md
+      - INT SB FRS (effective after 1 January 2021, issued up to December
+        2021).md
