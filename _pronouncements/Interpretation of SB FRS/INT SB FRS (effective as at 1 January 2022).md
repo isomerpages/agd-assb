@@ -38,5 +38,3 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 \*Include Implementation Guidance (IG), Illustrative Examples (IE) and Information Note (IN).
 ### Archives 
 Archived documents can be accessed [here](/pronouncements/interpretations-of-sb-frs/archives/).
-
-[ghj](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202022/int_sb-frs_preface.pdf)
