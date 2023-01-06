@@ -142,24 +142,25 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 |  | [Amendments to SB-FRS 39 Financial Instruments: Recognition and Measurement and SB-FRS 107 Financial Instruments: Disclosures - Reclassification of Financial Assets [.pdf, 60kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments_to_sb-frs_39_n_sb-frs_107.pdf) | 1.7.2008 | 4.11.2008 |
 |  | [Amendments to FRS 39 Financial Instruments: Recognition and Measurement and FRS 107 Financial Instruments: Disclosures - Reclassification of Financial Assets - Effective Date and Transition [.pdf, 45kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/reclassification_of_fin_assets-eff_dates.pdf) | 1.7.2008 | 22.1.2009 |
 |  | [Amendments to SB-FRS 107 Financial Instruments: Disclosures - Improving Disclosures about Financial Instruments [.pdf, 121kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amend_to_sb-frs_107.pdf) | 1.1.2009 | 18.5.2009 |
-|  |  | 1.7.2011 | 6.7.2011 |
-|  |  | 1.1.2013 | 31.8.2012 |
-| SB-FRS 108 |  | 1.1.2009 | 5.3.2008 |
-|  |  |  |  |
-|  |  |  |  |
-| SB-FRS 110 |  | 1.1.2013 | 31.1.2012 |
-|  |  | - | 27.11.2012 |
-|  |  | 1.1.2014 | 27.11.2012 |
-|  |  | 1.1.2014 | 27.11.2012 |
-| SB-FRS 111 |  | 1.1.2013 | 31.1.2012 |
-|  |  | 1.1.2013 | 31.1.2012 |
-| SB-FRS 112 |  | 1.1.2013 | 31.1.2012 |
-| SB-FRS 113 |  | 1.1.2013 | 31.1.2012 |
-|  |  | 1.1.2013 | 31.1.2012 |
-| General Amendments |  | Refer To Document | 22.1.2009 |
-|  |  | Refer To Document | 22.9.2009 |
-|  |  | Refer To Document | 27.12.2010 |
-|  |  | Refer To Document | 27.11.2012 |
+|  | Document | 1.7.2011 | 6.7.2011 |
+|  | [Implementation Guidance [.pdf, 210kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_107_2008.pdf) |  |  |
+|  | [Offsetting of Financial Assets and Financial Liabilities [.pdf, 265kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments_to_sb-frs_107_offsetting_of_financial_assets_-_liabilities.pdf) | 1.1.2013 | 31.8.2012 |
+| SB-FRS 108 | [Operating Segments [.pdf, 136kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_108_2009.pdf) | 1.1.2009 | 5.3.2008 |
+|  | [Amendments to SB-FRS 108 (2010) [.pdf, 57kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments_to_sb-frs_108_(2010).pdf) |  |  |
+|  | [Implementation Guidance [.pdf, 78kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_108_ig_2009.pdf) |  |  |
+| SB-FRS 110 | [Consolidated Financial Statements [.pdf, 589kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb-frs_110-consolidated_financial_statements.pdf) | 1.1.2013 | 31.1.2012 |
+|  | [Amendments to SB-FRS 110 Consolidated Financial Statements, SB-FRS 111 Joint Arrangements, SB-FRS 112 Disclosure of Interests in Other Entities, SB-FRS 27 Separate Financial Statements and SB-FRS 28 Investments in Associates and Joint Ventures : Mandatory Effective Date [.pdf, 108kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments_to_sb-frs-110_111_112_27_28_mandatory_effective_date.pdf) | - | 27.11.2012 |
+|  | [Consolidated Financial Statements [.pdf, 603kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb-frs_110_consolidated_financial_statements.pdf) | 1.1.2014 | 27.11.2012 |
+|  | [Consolidated Financial Statements, Joint Arrangements and Disclosure of Interests in Other Entities: Transition Guidance (Amendments to SB-FRS 110, SB-FRS 111 and SB-FRS 112) [.pdf, 192kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments_to_sb-frs-110_111_112_transition-guidance.pdf) | 1.1.2014 | 27.11.2012 |
+| SB-FRS 111 | [Joint Arrangements [.pdf, 439kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb-frs_111-joint_arrangements.pdf) | 1.1.2013 | 31.1.2012 |
+|  | [Illustrative Examples [.pdf, 194kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb-frs_111-joint_arrangements_(ie).pdf) | 1.1.2013 | 31.1.2012 |
+| SB-FRS 112 | [Disclosure of Interests in Other Entities [.pdf, 356kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb-frs_112-disclosure_of_interests_in_other_entities.pdf) | 1.1.2013 | 31.1.2012 |
+| SB-FRS 113 | [Fair Value Measurement [.pdf, 733kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb-frs_113-fair_value_measurement.pdf) | 1.1.2013 | 31.1.2012 |
+|  | [Illustrative Examples [.pdf, 671kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb-frs_113-fair_value-measurement_(ie).pdf) | 1.1.2013 | 31.1.2012 |
+| General Amendments | [Improvements to SB-FRSs [.pdf, 379kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/improvements.pdf) | Refer To Document | 22.1.2009 |
+|  | [Improvements to SB-FRSs 2009 [.pdf, 194kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/improvements_sb_frs_2009.pdf) | Refer To Document | 22.9.2009 |
+|  | [Improvements to SB-FRSs 2010 [.pdf, 229kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/improvementstosb-frss.pdf) | Refer To Document | 27.12.2010 |
+|  | [Improvements to SB-FRSs 2012 [.pdf, 201kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/improvements_sb-frss_2012.pdf) | Refer To Document | 27.11.2012 |
 
 ### Archives 
 
