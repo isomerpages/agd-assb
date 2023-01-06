@@ -90,30 +90,30 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 |  | [Amendments relating to cash flow hedge accounting of forecast intragroup transactions (issued Sep 2005) –*for reference [.pdf, 44kb]*](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_39_amendments_sep2005.pdf) |  |  |
 |  | [Amendments relating to fair value option (issued Jan 2006) –*for reference [.pdf, 141kb]*](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_39_amendments_jan2006a.pdf) |  |  |
 |  | [Amendments relating to financial guarantee contracts (issued Jan 2006) –*for reference [.pdf, 106kb]*](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_39_amendments_jan2006b.pdf) |  |  |
-|  |  | 1.1.2008 | 16.6.2008 |
-|  |  | 1.7.2008 | 4.11.2008 |
-|  |  | 1.7.2008 | 22.1.2009 |
-|  |  | 1.7.2009 | 22.1.2009 |
-|  |  | 30.6.2009 (periods ending on or after) | 18.5.2009 |
-|  |  | 1.1.2005 | 5.3.2008 |
-|  |  | 1.1.2008 | 16.6.2008 |
-|  |  | 1.1.2005 | 5.3.2008 |
-| SB-FRS 40 |  | 1.1.2007 | 5.3.2008 |
-| SB-FRS 41 |  | 1.1.2005 | 5.3.2008 |
-| SB-FRS 101 |  | 1.1.2005 | 5.3.2008 |
-|  |  | 1.1.2006 | 5.3.2008 |
-|  |  |  |  |
-|  |  | 1.1.2008 | 16.6.2008 |
-|  |  | 1.1.2008 | 17.6.2008 |
-|  |  | 1.1.2009 | 17.6.2008 |
-|  |  | 1.1.2009 | 22.1.2009 |
-|  |  | 1.7.2009 | 22.9.2009 |
-|  |  | 1.1.2005 | 5.3.2008 |
-|  |  | 1.1.2006 | 5.3.2008 |
-|  |  | 1.1.2008 | 16.6.2008 |
-|  |  | 1.1.2009 | 17.6.2008 |
-|  |  | 1.1.2010 | 13.11.2009 |
-|  |  | 1.7.2010 | 15.6.2010 |
+|  | [Financial Instruments: Recognition and Measurement [.pdf, 835kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_39_2008.pdf) | 1.1.2008 | 16.6.2008 |
+|  | [Amendments to SB-FRS 39 Financial Instruments: Recognition and Measurement and SB-FRS 107 Financial Instruments: Disclosures - Reclassification of Financial Assets [.pdf, 60kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments_to_sb-frs_39_n_sb-frs_107.pdf) | 1.7.2008 | 4.11.2008 |
+|  | [Amendments to FRS 39 Financial Instruments: Recognition and Measurement and FRS 107 Financial Instruments: Disclosures - Reclassification of Financial Assets - Effective Date and Transition [.pdf, 45kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/reclassification_of_fin_assets-eff_dates.pdf) | 1.7.2008 | 22.1.2009 |
+|  | [Amendments to FRS 39 Financial Instruments: Recognition and Measurement - Eligible Hedged Items [.pdf, 46kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments_to_sb-frs_39_eligible_hedge_items.pdf) | 1.7.2009 | 22.1.2009 |
+|  | [Amendments to INT SB-FRS 109 and SB-FRS 39 - Embedded Derivatives [.pdf, 57kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amend_to_sb-frs_109_n_sb-frs_39.pdf) | 30.6.2009 (periods ending on or after) | 18.5.2009 |
+|  | [Implementation Guidance [.pdf, 1mb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_39_ig_2005.pdf) | 1.1.2005 | 5.3.2008 |
+|  | [Implementation Guidance [.pdf, 1mb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_39_ig_2008.pdf) | 1.1.2008 | 16.6.2008 |
+|  | [Illustrative Examples [.pdf, 84kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_39_ie_2005.pdf) | 1.1.2005 | 5.3.2008 |
+| SB-FRS 40 | [Investment Property [.pdf, 154kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_40_2007.pdf) | 1.1.2007 | 5.3.2008 |
+| SB-FRS 41 | [Agriculture [.pdf, 127kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_41_2005.pdf) | 1.1.2005 | 5.3.2008 |
+| SB-FRS 101 | [First-time Adoption of Statutory Board Financial Reporting Standards [.pdf, 194kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_101_2005.pdf) | 1.1.2005 | 5.3.2008 |
+|  | [First-time Adoption of Statutory Board Financial Reporting Standards [.pdf, 206kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_101_2006.pdf) | 1.1.2006 | 5.3.2008 |
+|  | [Amendments relating to comparative disclosures for SB-FRS 106Exploration for and Evaluation of Mineral Resources (issued Jan 2006) – *for reference [.pdf, 26kb]*](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_101_amendments_jan2006.pdf) |  |  |
+|  | [First-time Adoption of Statutory Board Financial Reporting Standards [.pdf, 209kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_101_2008-6jan06.pdf) | 1.1.2008 | 16.6.2008 |
+|  | [First-time Adoption of Statutory Board Financial Reporting Standards [.pdf, 208kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_101_2008-22feb07.pdf) | 1.1.2008 | 17.6.2008 |
+|  | [First-time Adoption of Statutory Board Financial Reporting Standards [.pdf, 210kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_101_2009.pdf) | 1.1.2009 | 17.6.2008 |
+|  | [Amendments to SB-FRS 101 First-time Adoption of Statutory Board Financial Reporting Standards and SB-FRS 27 Consolidated and Separate Financial Statements – Cost of an Investment in a Subsidiary, Jointly Controlled Entity or Associate [.pdf, 73kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments_to_sb-frs_101_n_27.pdf) | 1.1.2009 | 22.1.2009 |
+|  | [First-time Adoption of Statutory Board Financial Reporting Standards [.pdf, 235kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_101_sept_2009.pdf) | 1.7.2009 | 22.9.2009 |
+|  | [Implementation Guidance [.pdf, 278kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_101_ig_2005.pdf) | 1.1.2005 | 5.3.2008 |
+|  | [Implementation Guidance [.pdf, 278kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_101_ig_2006.pdf) | 1.1.2006 | 5.3.2008 |
+|  | [Implementation Guidance [.pdf, 279kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_101_ig_2008.pdf) | 1.1.2008 | 16.6.2008 |
+|  | [Implementation Guidance [.pdf, 278kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_101_ig_2009.pdf) | 1.1.2009 | 17.6.2008 |
+|  | [Additional Exemptions for First-time Adopters (Amendments to SB-FRS 101) [.pdf, 53kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/additional-exemptions-to-sb-frs-101.pdf) | 1.1.2010 | 13.11.2009 |
+|  | [Limited Exemption from Comparative SB-FRS 107 Disclosures for First-time Adopters (Amendment to SB-FRS 101) [.pdf, 43kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendment_to_sb_frs_101.pdf) | 1.7.2010 | 15.6.2010 |
 |  |  | 1.7.2011 | 6.7.2011 |
 | SB-FRS 102 |  | 1.1.2004 | 5.3.2008 |
 |  |  | 1.1.2007 | 5.3.2008 |
