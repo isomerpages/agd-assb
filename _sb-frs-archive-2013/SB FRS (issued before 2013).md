@@ -114,7 +114,7 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 |  | [Implementation Guidance [.pdf, 278kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_101_ig_2009.pdf) | 1.1.2009 | 17.6.2008 |
 |  | [Additional Exemptions for First-time Adopters (Amendments to SB-FRS 101) [.pdf, 53kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/additional-exemptions-to-sb-frs-101.pdf) | 1.1.2010 | 13.11.2009 |
 |  | [Limited Exemption from Comparative SB-FRS 107 Disclosures for First-time Adopters (Amendment to SB-FRS 101) [.pdf, 43kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendment_to_sb_frs_101.pdf) | 1.7.2010 | 15.6.2010 |
-|  |  | 1.7.2011 | 6.7.2011 |
+|  | Document | 1.7.2011 | 6.7.2011 |
 | SB-FRS 102 |  | 1.1.2004 | 5.3.2008 |
 |  |  | 1.1.2007 | 5.3.2008 |
 |  |  | 1.1.2009 | 22.1.2009 |
