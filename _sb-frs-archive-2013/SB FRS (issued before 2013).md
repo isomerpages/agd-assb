@@ -126,12 +126,12 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 |  | [Illustrative Examples [.pdf, 171kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_103_ie_2004.pdf) | 1.7.2004 | 5.3.2008 |
 |  | [Illustrative Examples [.pdf, 528kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_103_ie_sept_2009.pdf) | 1.7.2009 | 22.9.2009 |
 | SB-FRS 104 | [Insurance Contracts [.pdf, 224kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_104_2004.pdf) | 1.1.2004 | 5.3.2008 |
-|  |  | 1.1.2006 | 5.3.2008 |
-|  |  | 1.1.2008 | 16.6.2008 |
-|  |  | 1.1.2005 | 5.3.2008 |
-|  |  | 1.1.2006 | 5.3.2008 |
-|  |  | 1.1.2008 | 16.6.2008 |
-|  |  |  |  |
+|  | [Insurance Contracts [.pdf, 227kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_104_2006.pdf) | 1.1.2006 | 5.3.2008 |
+|  | [Insurance Contracts [.pdf, 233kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_104_2008.pdf) | 1.1.2008 | 16.6.2008 |
+|  | [Implementation Guidance [.pdf, 360kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_104_ig_2005.pdf) | 1.1.2005 | 5.3.2008 |
+|  | [Implementation Guidance [.pdf, 364kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_104_ig_2006.pdf) | 1.1.2006 | 5.3.2008 |
+|  | [Implementation Guidance [.pdf, 364kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_104_ig_2008.pdf) | 1.1.2008 | 16.6.2008 |
+|  | [Revisions relating to FRS 107 Financial Instruments: Disclosures (issued Jan 2006) -*for reference [.pdf, 257kb]*](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_104_revision_jan2006.pdf) |  |  |
 |  |  | 1.1.2009 | 5.3.2008 |
 | SB-FRS 105 |  | 1.1.2004 | 5.3.2008 |
 |  |  |  |  |
