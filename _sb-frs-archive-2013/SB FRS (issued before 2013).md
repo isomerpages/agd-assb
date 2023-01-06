@@ -132,16 +132,16 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 |  | [Implementation Guidance [.pdf, 364kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_104_ig_2006.pdf) | 1.1.2006 | 5.3.2008 |
 |  | [Implementation Guidance [.pdf, 364kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_104_ig_2008.pdf) | 1.1.2008 | 16.6.2008 |
 |  | [Revisions relating to FRS 107 Financial Instruments: Disclosures (issued Jan 2006) -*for reference [.pdf, 257kb]*](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_104_revision_jan2006.pdf) |  |  |
-|  |  | 1.1.2009 | 5.3.2008 |
-| SB-FRS 105 |  | 1.1.2004 | 5.3.2008 |
-|  |  |  |  |
-|  |  | 1.1.2009 | 5.3.2008 |
-| SB-FRS 106 |  | 1.1.2006 | 5.3.2008 |
-|  |  | 1.1.2009 | 5.3.2008 |
-| SB-FRS 107 |  | 1.1.2008 | 16.6.2008 |
-|  |  | 1.7.2008 | 4.11.2008 |
-|  |  | 1.7.2008 | 22.1.2009 |
-|  |  | 1.1.2009 | 18.5.2009 |
+|  | [Implementation Guidance [.pdf, 388kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_104_ig_2009.pdf) | 1.1.2009 | 5.3.2008 |
+| SB-FRS 105 | [Non-current Assets Held for Sale and Discontinued Operations [.pdf, 113kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_105_2004.pdf) | 1.1.2004 | 5.3.2008 |
+|  | [Implementation Guidance [.pdf, 110kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_105_ig_2004.pdf) |  |  |
+|  | [Non-current Assets Held for Sale and Discontinued Operations [.pdf, 111kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_105_2009.pdf) | 1.1.2009 | 5.3.2008 |
+| SB-FRS 106 | [Exploration for and Evaluation of Mineral Resources [.pdf, 66kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_106_2006.pdf) | 1.1.2006 | 5.3.2008 |
+|  | [Exploration for and Evaluation of Mineral Resources [.pdf, 65kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_106_2009.pdf) | 1.1.2009 | 5.3.2008 |
+| SB-FRS 107 | [Financial Instruments: Disclosures [.pdf, 210kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_107_2008.pdf) | 1.1.2008 | 16.6.2008 |
+|  | [Amendments to SB-FRS 39 Financial Instruments: Recognition and Measurement and SB-FRS 107 Financial Instruments: Disclosures - Reclassification of Financial Assets [.pdf, 60kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments_to_sb-frs_39_n_sb-frs_107.pdf) | 1.7.2008 | 4.11.2008 |
+|  | [Amendments to FRS 39 Financial Instruments: Recognition and Measurement and FRS 107 Financial Instruments: Disclosures - Reclassification of Financial Assets - Effective Date and Transition [.pdf, 45kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/reclassification_of_fin_assets-eff_dates.pdf) | 1.7.2008 | 22.1.2009 |
+|  | [Amendments to SB-FRS 107 Financial Instruments: Disclosures - Improving Disclosures about Financial Instruments [.pdf, 121kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amend_to_sb-frs_107.pdf) | 1.1.2009 | 18.5.2009 |
 |  |  | 1.7.2011 | 6.7.2011 |
 |  |  | 1.1.2013 | 31.8.2012 |
 | SB-FRS 108 |  | 1.1.2009 | 5.3.2008 |
