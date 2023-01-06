@@ -26,7 +26,4 @@ The key amendments made to SB-FRS Guidance Note 3 are:
 | Annex B | Included further clarifications in the illustrated scenario of “Trust Fund of SB” on the assessment on risk and reward associated with the trust fund |
 | Annex C | Added a note that net assets of different trust funds can be presented separately as different line items or in aggregation as a single line item on the balance sheet |
 | Annex D (Example 1) | Added illustrative example on general disclosure of trust funds, such as basis of accounting, accounting policies, etc. |
-
-
-
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit;"><td style="box-sizing: inherit; padding: 1em; text-align: left; vertical-align: top;">Annex C</td><td style="box-sizing: inherit; padding: 1em; text-align: left; vertical-align: top;">Added a note that net assets of different trust funds can be presented separately as different line items or in aggregation as a single line item on the balance sheet</td></tr><tr style="box-sizing: inherit; background: rgb(244, 249, 251);"><td style="box-sizing: inherit; padding: 1em; text-align: left; vertical-align: top;">Annex D (Example 1)</td><td style="box-sizing: inherit; padding: 1em; text-align: left; vertical-align: top;">Added illustrative example on general disclosure of trust funds, such as basis of accounting, accounting policies, etc.</td></tr></tbody></table>
+|||
