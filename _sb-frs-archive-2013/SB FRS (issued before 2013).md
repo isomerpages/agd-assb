@@ -9,86 +9,87 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 
 | No. | Titles | Effective Date (Annual periods beginning on or after) | Last Update |
 | -------- | -------- | -------- | -------- |
-| Preface |  |  |  |
-| Framework |  |  | 5.3.2008 |
-| SB-FRS 1 |  | 1.1.2004 | 5.3.2008 |
-|  |  | 1.1.2006 | 5.3.2008 |
-|  |  | 1.1.2008 | 16.6.2008 |
-|  |  |  |  |
-|  |  | 1.1.2009 | 16.6.2008 |
-|  |  | 1.1.2009 | 17.6.2008 |
-|  |  | 1.1.2009 | 22.1.2009 |
-|  |  | 1.7.2012 | 19.10.2011 |
-| SB-FRS 2 |  | 1.1.2004 | 5.3.2008 |
+| Preface | [Preface to Statutory Board Financial Reporting Standards [.pdf, 30kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb-frs_preface.pdf) |  |  |
+| Framework | [Framework for the Preparation and Presentation of Financial Statements [.pdf, 217kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/frs_framework.pdf) |  | 5.3.2008 |
+| SB-FRS 1 | [Presentation of Financial Statements [.pdf, 316kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_1_2004.pdf) | 1.1.2004 | 5.3.2008 |
+|  | [Presentation of Financial Statements [.pdf, 317kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_1_2006.pdf) | 1.1.2006 | 5.3.2008 |
+|  | [Presentation of Financial Statements [.pdf, 343kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_1_jan2008.pdf) | 1.1.2008 | 16.6.2008 |
+|  | [Amendments relating to capital disclosures -*for reference*](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_1_amendments_2008.pdf) |  |  |
+|  | [Presentation of Financial Statements [.pdf, 343kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_1_2009.pdf) | 1.1.2009 | 16.6.2008 |
+|  | [Presentation of Financial Statements [.pdf, 923kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_1_march2008.pdf) | 1.1.2009 | 17.6.2008 |
+|  | [Amendments to SB-FRS 32 Financial Instruments: Presentation and SB-FRS 1 Presentation of Financial Statements - Puttable Financial Instruments and Obligations Arising on Liquidation [.pdf, 223kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments_sb-frs_32_n_1_puttable.pdf) | 1.1.2009 | 22.1.2009 |
+|  | [Amendments to SB-FRS 1 - Presentation of Items of Other Comprehensive Income [.pdf, 270kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments_to_sb-frs_1.pdf) | 1.7.2012 | 19.10.2011 |
+| SB-FRS 2 | [Inventories [.pdf, 84kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_2_2004.pdf) | 1.1.2004 | 5.3.2008 |
+|  | [Inventories [.pdf, 84kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_2_2009.pdf) | 1.1.2009 | 5.3.2008 |
+| SB-FRS 7 | [Cash Flow Statements [.pdf, 150kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_7_2005.pdf) | 1.1.2005 | 5.3.2008 |
+|  | [Cash Flow Statements [.pdf, 151kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_7_2009.pdf) | 1.1.2009 | 5.3.2008 |
 |  |  | 1.1.2009 | 5.3.2008 |
-| SB-FRS 7 |  | 1.1.2005 | 5.3.2008 |
-|  |  | 1.1.2009 | 5.3.2008 |
-|  |  | 1.1.2009 | 5.3.2008 |
-| SB-FRS 8 |  | 1.1.2004 | 5.3.2008 |
-|  |  | 1.1.2009 | 5.3.2008 |
-| SB-FRS 10 |  | 1.1.2004 | 5.3.2008 |
-|  |  | 1.1.2007 | 5.3.2008 |
-| SB-FRS 11 |  | 1.1.2005 | 5.3.2008 |
-|  |  | 1.1.2009 | 16.6.2008 |
-| SB-FRS 12 |  | 1.1.2005 | 5.3.2008 |
-|  |  | 1.1.2007 | 5.3.2008 |
-|  |  | 1.1.2012 | 6.7.2011 |
-| SB-FRS 14 |  | 1.1.2005 | 5.3.2008 |
-|  |  | 1.1.2008 | 16.6.2008 |
-| SB-FRS 16 |  | 1.1.2004 | 5.3.2008 |
-|  |  | 1.1.2006 | 5.3.2008 |
-|  |  | 1.1.2009 | 16.6.2008 |
-| SB-FRS 17 |  | 1.1.2004 | 5.3.2008 |
-|  |  | 1.1.2008 | 16.6.2008 |
-| SB-FRS 18 |  | 1.1.2005 | 5.3.2008 |
-| SB-FRS 19 |  | 1.1.2005 | 5.3.2008 |
-|  |  | 1.1.2006 | 5.3.2008 |
-|  |  | 1.1.2007 | 5.3.2008 |
-|  |  | 1.1.2009 | 5.3.2008 |
-|  |  | 1.1.2013 | 31.1.2012 |
-| SB-FRS 20 |  | 1.1.2005 | 5.3.2008 |
-| SB-FRS 21 |  | 1.1.2004 | 5.3.2008 |
-|  |  | 1.1.2006 | 5.3.2008 |
-|  |  |  |  |
-| SB-FRS 23 |  | 1.1.2005 | 5.3.2008 |
-|  |  | 1.1.2009 | 16.6.2008 |
-| SB-FRS 24 |  | 1.1.2007 | 5.3.2008 |
-|  |  | 1.1.2011 | 3.5.2011 |
-| SB-FRS 25 |  | 1.1.2005 | 5.3.2008 |
-| SB-FRS 26 |  | 1.1.2005 | 5.3.2008 |
-| SB-FRS 27 |  | 1.1.2004 | 5.3.2008 |
-|  |  | 1.1.2009 | 5.3.2008 |
-|  |  | 1.1.2009 | 22.1.2009 |
-|  |  | 1.7.2009 | 22.9.2009 |
-|  |  | 1.1.2013 | 31.1.2012 |
-| SB-FRS 28 |  | 1.1.2004 | 5.3.2008 |
-|  |  | 1.1.2013 | 31.1.2012 |
-| SB-FRS 29 |  | 1.1.2005 | 5.3.2008 |
-| SB-FRS 31 |  | 1.1.2004 | 5.3.2008 |
-| SB-FRS 32 |  | 1.1.2004 | 5.3.2008 |
-|  |  | 1.1.2006 | 5.3.2008 |
-|  |  | 1.1.2008 | 16.6.2008 |
-|  |  | 1.1.2009 | 22.1.2009 |
-|  |  | 1.2.2010 | 11.2.2010 |
-|  |  | 1.1.2014 | 31.8.2012 |
-| SB-FRS 33 |  | 1.1.2004 | 5.3.2008 |
-|  |  | 1.1.2008 | 16.6.2008 |
-|  |  | 1.1.2009 | 16.6.2008 |
-| SB-FRS 34 |  | 1.1.2005 | 5.3.2008 |
-|  |  | 1.1.2009 | 5.3.2008 |
-| SB-FRS 36 |  | 1.7.2004 | 5.3.2008 |
-|  |  | 1.1.2009 | 5.3.2008 |
-| SB-FRS 37 |  | 1.1.2005 | 5.3.2008 |
-|  |  | 1.1.2006 | 5.3.2008 |
-| SB-FRS 38 |  | 1.7.2004 | 5.3.2008 |
-|  |  | 1.1.2006 | 5.3.2008 |
-|  |  | 1.1.2009 | 16.6.2008 |
-| SB-FRS 39 |  | 1.1.2005 | 5.3.2008 |
-|  |  |  |  |
-|  |  | 1.1.2006 | 5.3.2008 |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| SB-FRS 8 | [Accounting Policies, Changes in Accounting Estimates and Errors [.pdf, 145kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_8_2004.pdf) | 1.1.2004 | 5.3.2008 |
+|  | [Accounting Policies, Changes in Accounting Estimates and Errors [.pdf, 133kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_8_2009.pdf) | 1.1.2009 | 5.3.2008 |
+| SB-FRS 10 | [Events after the Balance Sheet Date [.pdf, 69kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_10_2004.pdf) | 1.1.2004 | 5.3.2008 |
+|  | [Events after the Balance Sheet Date [.pdf, 69kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_10_2007.pdf) | 1.1.2007 | 5.3.2008 |
+| SB-FRS 11 | [Construction Contracts [.pdf, 112kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_11_2005.pdf) | 1.1.2005 | 5.3.2008 |
+|  | [Construction Contracts [.pdf, 111kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_11_2009.pdf) | 1.1.2009 | 16.6.2008 |
+| SB-FRS 12 | [Income Taxes [.pdf, 429kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_12_2005.pdf) | 1.1.2005 | 5.3.2008 |
+|  | [Income Taxes [.pdf, 427kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_12_2007.pdf) | 1.1.2007 | 5.3.2008 |
+|  | Document | 1.1.2012 | 6.7.2011 |
+| SB-FRS 14 | [Segment Reporting [.pdf, 273kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_14_2005.pdf) | 1.1.2005 | 5.3.2008 |
+|  | [Segment Reporting (superseded by SB-FRS 108 from 1.1.2009) [.pdf, 272kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_14_2008.pdf) | 1.1.2008 | 16.6.2008 |
+| SB-FRS 16 | [Property, Plant and Equipment [.pdf, 141kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_16_2004.pdf) | 1.1.2004 | 5.3.2008 |
+|  | [Property, Plant and Equipment [.pdf, 142kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_16_2006.pdf) | 1.1.2006 | 5.3.2008 |
+|  | [Property, Plant and Equipment [.pdf, 143kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_16_2009.pdf) | 1.1.2009 | 16.6.2008 |
+| SB-FRS 17 | [Leases [.pdf, 140kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_17_2004.pdf) | 1.1.2004 | 5.3.2008 |
+|  | [Leases [.pdf, 140kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_17_2008.pdf) | 1.1.2008 | 16.6.2008 |
+| SB-FRS 18 | [Revenue [.pdf, 140kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_18_2005.pdf) | 1.1.2005 | 5.3.2008 |
+| SB-FRS 19 | [Employee Benefits [.pdf, 537kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_19_2005.pdf) | 1.1.2005 | 5.3.2008 |
+|  | [Employee Benefits [.pdf, 592kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_19_2006.pdf) | 1.1.2006 | 5.3.2008 |
+|  | [Amendments relating to actuarial gains and losses, group plans and disclosures (issued June 2005) –*for reference*](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_19_amendments_2005.pdf) |  |  |
+|  | [Employee Benefits [.pdf, 590kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_19_2007.pdf) | 1.1.2007 | 5.3.2008 |
+|  | [Employee Benefits [.pdf, 591kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_19_2009.pdf) | 1.1.2009 | 5.3.2008 |
+|  | [Employee Benefits [.pdf, 618kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb-frs_19-employee_benefits.pdf) | 1.1.2013 | 31.1.2012 |
+| SB-FRS 20 | [Accounting for Government Grants and Disclosure of Government Assistance [.pdf, 76kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_20_2005.pdf) | 1.1.2005 | 5.3.2008 |
+| SB-FRS 21 | [The Effects of Changes in Foreign Exchange Rates [.pdf, 122kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_21_2004.pdf) | 1.1.2004 | 5.3.2008 |
+|  | [The Effects of Changes in Foreign Exchange Rates [.pdf, 124kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_21_2006.pdf) | 1.1.2006 | 5.3.2008 |
+|  | [Amendments relating to net investment in a foreign operation –for reference [.pdf, 31kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_21_amendments_2006.pdf) |  |  |
+| SB-FRS 23 | [Borrowing Costs [.pdf, 66kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_23_2005.pdf) | 1.1.2005 | 5.3.2008 |
+|  | [Borrowing Costs [.pdf, 65kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_23_2009.pdf) | 1.1.2009 | 16.6.2008 |
+| SB-FRS 24 | [Related Party Disclosures [.pdf, 70kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_24_2007.pdf) | 1.1.2007 | 5.3.2008 |
+|  | [Related Party Disclosures [.pdf, 146kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_24_2011.pdf) | 1.1.2011 | 3.5.2011 |
+| SB-FRS 25 | [Accounting for Investments (superseded by FRS 40 from 1.1.2007)](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_25_2005.pdf) | 1.1.2005 | 5.3.2008 |
+| SB-FRS 26 | [Accounting and Reporting by Retirement Benefit Plans [.pdf, 85kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_26_2005.pdf) | 1.1.2005 | 5.3.2008 |
+| SB-FRS 27 | [Consolidated and Separate Financial Statements [.pdf, 120kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_27_2004.pdf) | 1.1.2004 | 5.3.2008 |
+|  | [Consolidated and Separate Financial Statements [.pdf, 115kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_27_2009.pdf) | 1.1.2009 | 5.3.2008 |
+|  | [Amendments to FRS 101 First-time Adoption of Financial Reporting Standards and FRS 27 Consolidated and Separate Financial Statements - Cost of an Investment in a Subsidiary, Jointly Controlled Entity or Associate [.pdf, 73kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments_to_sb-frs_101_n_27.pdf) | 1.1.2009 | 22.1.2009 |
+|  | [Consolidated and Separate Financial Statements (superseded by SB-FRS 27 (2013) and SB-FRS 110 from 1.1.2013) [.pdf, 295kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_27_sept_2009.pdf) | 1.7.2009 | 22.9.2009 |
+|  | [Separate Financial Statements [.pdf, 181kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb-frs_27-separate_financial_statements.pdf) | 1.1.2013 | 31.1.2012 |
+| SB-FRS 28 | [Investments in Associates [.pdf, 90kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_28_2004.pdf) | 1.1.2004 | 5.3.2008 |
+|  | [Investments in Associates and Joint Ventures [.pdf, 188kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb-frs_28-investments_in_associates_and_joint_ventures.pdf) | 1.1.2013 | 31.1.2012 |
+| SB-FRS 29 | [Financial Reporting in Hyperinflationary Economies [.pdf, 76kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_29_2005.pdf) | 1.1.2005 | 5.3.2008 |
+| SB-FRS 31 | [Interests in Joint Ventures (superseded by SB-FRS 111 from 1.1.2013) [.pdf, 104kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_31_2004.pdf) | 1.1.2004 | 5.3.2008 |
+| SB-FRS 32 | [Financial Instruments: Disclosure and Presentation [.pdf, 546kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_32_2004.pdf) | 1.1.2004 | 5.3.2008 |
+|  | [Financial Instruments: Disclosure and Presentation [.pdf, 556kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_32_2006.pdf) | 1.1.2006 | 5.3.2008 |
+|  | [Financial Instruments: Presentation [.pdf, 421kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_32_2008.pdf) | 1.1.2008 | 16.6.2008 |
+|  | [Amendments to SB-FRS 32 Financial Instruments: Presentation and SB-FRS 1 Presentation of Financial Statements - Puttable Financial Instruments and Obligations Arising on Liquidation [.pdf, 223kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments_sb-frs_32_n_1_puttable.pdf) | 1.1.2009 | 22.1.2009 |
+|  | [Classification of Rights Issues (Amendments to SB-FRS 32)](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments_to_sb-frs_32.pdf) | 1.2.2010 | 11.2.2010 |
+|  | [Offsetting of Financial Assets and Financial Liabilities [.pdf, 185kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments_to_sb-frs_32_offsetting_of_financial_assets-financial_liabilities.pdf) | 1.1.2014 | 31.8.2012 |
+| SB-FRS 33 | [Earnings per Share [.pdf, 453kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_33_2004.pdf) | 1.1.2004 | 5.3.2008 |
+|  | [Earnings per Share [.pdf, 454kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_33_2008.pdf) | 1.1.2008 | 16.6.2008 |
+|  | [Earnings per Share [.pdf, 454kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_33_2009.pdf) | 1.1.2009 | 16.6.2008 |
+| SB-FRS 34 | [Interim Financial Reporting [.pdf, 199kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_34_2005.pdf) | 1.1.2005 | 5.3.2008 |
+|  | [Interim Financial Reporting [.pdf, 201kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_34_2009.pdf) | 1.1.2009 | 5.3.2008 |
+| SB-FRS 36 | [Impairment of Assets [.pdf, 705kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_36_2004.pdf) | 1.7.2004 | 5.3.2008 |
+|  | [Impairment of Assets [.pdf, 703kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_36_2009.pdf) | 1.1.2009 | 5.3.2008 |
+| SB-FRS 37 | [Provisions, Contingent Liabilities and Contingent Assets [.pdf, 262kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_37_2005.pdf) | 1.1.2005 | 5.3.2008 |
+|  | [Provisions, Contingent Liabilities and Contingent Assets [.pdf, 261kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_37_2006.pdf) | 1.1.2006 | 5.3.2008 |
+| SB-FRS 38 | [Intangible Assets [.pdf, 310kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_38_2004.pdf) | 1.7.2004 | 5.3.2008 |
+|  | [Intangible Assets [.pdf, 306kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_38_2006.pdf) | 1.1.2006 | 5.3.2008 |
+|  | [Intangible Assets [.pdf, 302kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_38_2009.pdf) | 1.1.2009 | 16.6.2008 |
+| SB-FRS 39 | [Financial Instruments: Recognition and Measurement [.pdf, 755kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_39_2005.pdf) | 1.1.2005 | 5.3.2008 |
+|  | [Amendments relating to transition and initial recognition of financial assets and financial liabilities (March 2005) -*for reference [.pdf, 39kb]*](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_39_amendments_mar2005.pdf) |  |  |
+|  | [Financial Instruments: Recognition and Measurement [.pdf, 833kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_39_2006.pdf) | 1.1.2006 | 5.3.2008 |
+|  | [Amendments relating to cash flow hedge accounting of forecast intragroup transactions (issued Sep 2005) –*for reference [.pdf, 44kb]*](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_39_amendments_sep2005.pdf) |  |  |
+|  | [Amendments relating to fair value option (issued Jan 2006) –*for reference [.pdf, 141kb]*](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_39_amendments_jan2006a.pdf) |  |  |
+|  | [Amendments relating to financial guarantee contracts (issued Jan 2006) –*for reference [.pdf, 106kb]*](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_39_amendments_jan2006b.pdf) |  |  |
 |  |  | 1.1.2008 | 16.6.2008 |
 |  |  | 1.7.2008 | 4.11.2008 |
 |  |  | 1.7.2008 | 22.1.2009 |
