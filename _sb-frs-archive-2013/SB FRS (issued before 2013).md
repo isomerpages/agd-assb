@@ -115,17 +115,17 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 |  | [Additional Exemptions for First-time Adopters (Amendments to SB-FRS 101) [.pdf, 53kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/additional-exemptions-to-sb-frs-101.pdf) | 1.1.2010 | 13.11.2009 |
 |  | [Limited Exemption from Comparative SB-FRS 107 Disclosures for First-time Adopters (Amendment to SB-FRS 101) [.pdf, 43kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendment_to_sb_frs_101.pdf) | 1.7.2010 | 15.6.2010 |
 |  | Document | 1.7.2011 | 6.7.2011 |
-| SB-FRS 102 |  | 1.1.2004 | 5.3.2008 |
-|  |  | 1.1.2007 | 5.3.2008 |
-|  |  | 1.1.2009 | 22.1.2009 |
-|  |  | 1.1.2005 | 5.3.2008 |
-|  |  | 1.1.2010 | 13.11.2009 |
-| SB-FRS 103 |  | 1.1.2004 | 5.3.2008 |
-|  |  | 1.1.2007 | 5.3.2008 |
-|  |  | 1.7.2009 | 22.9.2009 |
-|  |  | 1.7.2004 | 5.3.2008 |
-|  |  | 1.7.2009 | 22.9.2009 |
-| SB-FRS 104 |  | 1.1.2004 | 5.3.2008 |
+| SB-FRS 102 | [Share-based Payment [.pdf, 262kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_102_2004.pdf) | 1.1.2004 | 5.3.2008 |
+|  | [Share-based Payment [.pdf, 262kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_102_2007.pdf) | 1.1.2007 | 5.3.2008 |
+|  | [Amendments relating to vesting conditions and cancellations [.pdf, 134kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments_to_sb-frs_102_vesting_condition_and-_cancellations.pdf) | 1.1.2009 | 22.1.2009 |
+|  | [Implementation Guidance [.pdf, 227kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_102_ig_2005.pdf) | 1.1.2005 | 5.3.2008 |
+|  | [Group Cash-settled Share-based Payment Transactions (Amendments to SB-FRS 102) [.pdf, 125kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments-to-sb-frs102-nov-2009.pdf) | 1.1.2010 | 13.11.2009 |
+| SB-FRS 103 | [Business Combinations [.pdf, 251kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_103_2004.pdf) | 1.1.2004 | 5.3.2008 |
+|  | [Business Combinations [.pdf, 251kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_103_2007.pdf) | 1.1.2007 | 5.3.2008 |
+|  | [Business Combinations [.pdf, 566kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_103_sept_2009.pdf) | 1.7.2009 | 22.9.2009 |
+|  | [Illustrative Examples [.pdf, 171kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_103_ie_2004.pdf) | 1.7.2004 | 5.3.2008 |
+|  | [Illustrative Examples [.pdf, 528kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_103_ie_sept_2009.pdf) | 1.7.2009 | 22.9.2009 |
+| SB-FRS 104 | [Insurance Contracts [.pdf, 224kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_104_2004.pdf) | 1.1.2004 | 5.3.2008 |
 |  |  | 1.1.2006 | 5.3.2008 |
 |  |  | 1.1.2008 | 16.6.2008 |
 |  |  | 1.1.2005 | 5.3.2008 |
