@@ -13,6 +13,6 @@ third_nav_title: Interpretation of SB FRS
 
 
 
-[INT SB-FRS (effective as at 1 January 2013)](pronouncements/int-sb-frs/archives/2013/effective-as-at-1-january-2013/)<br>
+[INT SB-FRS (effective as at 1 January 2013)](/pronouncements/int-sb-frs/archives/2013/effective-as-at-1-january-2013/)<br>
 [INT SB-FRS (effective as at 1 January 2013, issued up to December 2013)](/pronouncements/int-sb-frs/archives/2013/effective-after-1-january-2013-issued-up-to-december-2013/)<br>
 [INT SB-FRS (issued before 2013)](/pronouncements/int-sb-frs/archives/2013/issued-before-2013/)
