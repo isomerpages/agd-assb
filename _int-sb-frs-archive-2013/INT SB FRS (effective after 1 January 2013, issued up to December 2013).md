@@ -11,8 +11,6 @@ The following are new/revised/amendments to FRSs and INT FRSs issued by the ASC 
 
 If you do not already have Adobe Reader or Microsoft Word, please download the software for free here: [\[pdf\]](http://www.adobe.com/products/acrobat/readstep2.html) [\[word\]](http://www.microsoft.com/downloads/details.aspx?FamilyID=95e24c87-8732-48d5-8689-ab826e7b8fdf&DisplayLang=en)
 
-  
-
 | Reference | Titles | Effective date (Annual periods beginning on or after) | Issuance date |
 | --- | --- | --- | --- |
 | INT SB-FRS 121 | [Levies [.pdf, 161kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/After%201%20Jan%202013%20to%20Dec%202013/int_sbfrs_121_(jul_2013).pdf) | 1.1.2014 | 6.11.2013 |
