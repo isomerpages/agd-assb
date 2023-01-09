@@ -26,6 +26,9 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | INT SB-FRS 32 | [Intangible Assets - Web Site Costs [.pdf, 63kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-32-(2013).pdf) | [IE [.pdf, 44kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-32-ie-(2013).pdf) |
 | INT SB-FRS 101 | [Changes in Existing Decommissioning, Restoration and Similar Liabilities [.pdf, 61kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-101-(2013).pdf) | [IE [.pdf, 63kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-101-ie-(2013).pdf) |
 | INT SB-FRS 104 | [Determining whether an Arrangement contains a Lease [.pdf, 74kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-104-(2013).pdf) | [IE [.pdf, 44kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-104-ie-(2013).pdf) |
+| INT SB-FRS 105 | [Rights to Interests arising from Decommissioning, Restoration and Environmental Rehabilitation Funds [.pdf, 60kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-105-(2013).pdf) | - |
+| INT SB-FRS 106 | [Liabilities arising from Participating in a Specific Market - Waste Electrical and Electronic Equipment [.pdf, 53kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-106-(2013).pdf) | - |
+| INT SB-FRS 107 | [Applying the Restatement Approach under FRS 29 Financial Reporting in Hyperinflationary Economies [.pdf, 50kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-107-(2013).pdf) | [IE [.pdf, 70kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-107-ie-(2013).pdf) |
 
 
 
