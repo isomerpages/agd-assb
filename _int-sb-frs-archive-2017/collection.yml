@@ -1,0 +1,4 @@
+collections:
+  int-sb-frs-archive-2017:
+    output: true
+    order: []
