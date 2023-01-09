@@ -1,4 +1,5 @@
 collections:
   int-sb-frs-archive-2018:
     output: true
-    order: []
+    order:
+      - Example Title.md
