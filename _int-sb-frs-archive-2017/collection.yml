@@ -2,5 +2,5 @@ collections:
   int-sb-frs-archive-2017:
     output: true
     order:
-      - Example Title2.md
+      - INT SB FRS (effective as at 1 January 2017).md
       - Example Title.md
