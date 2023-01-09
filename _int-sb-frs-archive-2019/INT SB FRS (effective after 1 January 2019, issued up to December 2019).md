@@ -5,3 +5,5 @@ description: INT SB FRS (effective after 1 January 2019, issued up to December 2
 ---
 
 
+### Archives 
+Archived documents can be accessed [here](/pronouncements/interpretations-of-sb-frs/archives).
