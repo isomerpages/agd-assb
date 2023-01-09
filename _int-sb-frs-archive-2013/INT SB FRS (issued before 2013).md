@@ -24,3 +24,6 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | | [Disclosure – Service Concession Arrangements [.pdf, 42kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_29_2008.pdf) | 1.1.2008 | 5.3.2008 |
 | INT SB-FRS 31 | [Revenue – Barter Transactions Involving Advertising Services [.pdf, 36kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_31.pdf) | 1.1.2006 | 5.3.2008 |
 | INT SB-FRS 32 | [Intangible Assets – Web Site Costs [.pdf, 85kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_32.pdf) | 1.1.2006 | 5.3.2008 |
+| INT SB-FRS 101 | [Changes in Existing Decommissioning, Restoration and Similar Liabilities [.pdf, 153kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_101.pdf) | 1.1.2006 | 5.3.2008 |
+| INT SB-FRS 104 | [Determining whether an Arrangement contains a Lease [.pdf, 167kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_104.pdf) | 1.1.2006 | 5.3.2008 |
+| | [Determining whether an Arrangement contains a Lease [.pdf, 173kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_104_2008.pdf) | 1.1.2008 | 5.3.2008 |
