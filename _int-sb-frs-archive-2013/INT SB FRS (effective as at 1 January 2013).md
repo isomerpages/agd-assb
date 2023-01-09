@@ -32,6 +32,8 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | INT SB-FRS 109 | [Reassessment of Embedded Derivatives [.pdf, 53kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-109-(2013).pdf) | - |
 | INT SB-FRS 110 | [Interim Financial Reporting and Impairment [.pdf, 46kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-110-(2013).pdf) | - |
 | INT SB-FRS 112 | [Service Concession Arrangements [.pdf, 98kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-112-(2013).pdf) | [IN & IE [.pdf, 233kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-112-info-note-and-ie-(2013).pdf) |
+| INT SB-FRS 113 | [Customer Loyalty Programmes [.pdf, 62kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-113-(2013).pdf) | [IE [.pdf, 42kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-113-ie-(2013).pdf) |
+| INT SB-FRS 114 | [FRS 19 - The Limit on a Defined Benefit Asset, Minimum Funding Requirements and their Interaction [.pdf, 79kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-114-(2013).pdf) | [IE [.pdf, 72kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-114-ie-(2013).pdf) |
 
 
 
