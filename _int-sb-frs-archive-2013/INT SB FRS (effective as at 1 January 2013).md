@@ -19,6 +19,9 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | INT SB-FRS 12 | [Consolidation - Special Purpose Entities [.pdf, 47kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-12-(2013).pdf) | [IG [.pdf, 38kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-12-ig-(2013).pdf) |
 | INT SB-FRS 13 | [Jointly Controlled Entities - Non-Monetary Cotnributions by Ventures [.pdf, 45kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-13-(2013).pdf) | - |
 | INT SB-FRS 15 | [Operating Leases - Incentives [.pdf, 41kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-15-(2013).pdf) | [IE [.pdf, 31kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-15-ie-(2013).pdf) |
+| INT SB-FRS 25 | [Income Taxes - Changes in the Tax Status of an Enterprise or its Shareholders [.pdf, 42kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-25-(2013).pdf) | - |
+| INT SB-FRS 27 | [Evaluating the Substance of Transactions Involving the Legal Form of a Lease [.pdf, 65kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-27-(2013).pdf) | [IG [.pdf, 44kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-27-ig-(2013).pdf) |
+| INT SB-FRS 29 | [Service Concession Arrangements: Disclosures [.pdf, 49kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-29-(2013).pdf) | - |
 
 
 
