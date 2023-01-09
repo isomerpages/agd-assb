@@ -39,4 +39,6 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | INT SB-FRS 112 | [Service Concession Arrangements [.pdf, 463kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_112_2008.pdf) | 1.1.2008 | 5.3.2008 |
 | INT SB-FRS 113 | [Customer Loyalty Programmes [.pdf, 116kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_113.pdf) | 1.7.2008 | 5.5.2008 |
 | INT SB-FRS 114 | [SB-FRS 19-The Limit on a Defined Benefit Asset Minimum Funding Requirements and their Interaction [.pdf, 169kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_114.pdf) | 1.1.2008 | 5.5.2008 |
-||  [Prepayments of a Minimum Funding Requirement (Amendments to INT SB- FRS 114)](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/amendments_to_int_sb-frs_114.pdf)| 1.1.2011 | 11.2.2010 |
+| |  [Prepayments of a Minimum Funding Requirement (Amendments to INT SB- FRS 114)](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/amendments_to_int_sb-frs_114.pdf)| 1.1.2011 | 11.2.2010 |
+| INT SB-FRS 115 | [Agreements for the Construction of Real Estate [.pdf, 102kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_115.pdf) | 1.1.2011 | 31.12.2010 |
+| | [Accompanying Note [.pdf, 86kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/accompanying_note_to_int_sb-frs_115.pdf) | | |
