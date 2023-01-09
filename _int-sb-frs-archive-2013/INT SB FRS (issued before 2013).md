@@ -22,3 +22,5 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | INT SB-FRS 27 | [Evaluating the Substance of Transactions Involving the Legal Form of a Lease [.pdf, 74kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_27.pdf) | 1.1.2006 | 5.3.2008 |
 | INT SB-FRS 29 | [Disclosure – Service Concession Arrangements [.pdf, 41kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_29.pdf) | 1.1.2006 | 5.3.2008 |
 | | [Disclosure – Service Concession Arrangements [.pdf, 42kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_29_2008.pdf) | 1.1.2008 | 5.3.2008 |
+| INT SB-FRS 31 | [Revenue – Barter Transactions Involving Advertising Services [.pdf, 36kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_31.pdf) | 1.1.2006 | 5.3.2008 |
+| INT SB-FRS 32 | [Intangible Assets – Web Site Costs [.pdf, 85kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_32.pdf) | 1.1.2006 | 5.3.2008 |
