@@ -44,3 +44,6 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | | [Accompanying Note [.pdf, 86kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/accompanying_note_to_int_sb-frs_115.pdf) | | |
 | INT SB-FRS 116 | [Hedges of a Net Investment in a Foreign Operation [.pdf, 224kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_116.pdf) | 1.10.2008 | 22.1.2009 |
 | INT SB-FRS 117 | [Distributions of Non-cash Assets to Owners [.pdf, 224kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_117.pdf) | 1.7.2009 | 22.1.2009 |
+| INT SB-FRS 118 | [Transfers of Assets from Customers [.pdf, 122kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_118.pdf) | 1.7.2009 <br>(transfers received on or after) | 18.5.2009 |
+| INT SB-FRS 119 | [Extinguishing Financial Liabilities with Equity Instruments [.pdf, 150kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_119.pdf) | 1.7.2010 | 11.2.2010 |
+| INT SB-FRS 120 | [Stripping Costs in the Production Phase of a Surface Mine [.pdf, 230kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_120.pdf) | 1.1.2013 | 23.11.2012 |
