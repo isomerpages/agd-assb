@@ -14,8 +14,8 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
   
 
 | Reference | Titles | Effective date (Annual periods beginning on or after) | Issuance date |
-| :-: | :-: | --- | --- |
-| INT SB-FRS 121 | [Levies \[.pdf, 161kb\]](https://www.assb.gov.sg/docs/default-source/int-sb-frs/int-sb-frs-(effective-after-1-january-2013-issued-up-to-december-2013)/int_sbfrs_121_(jul_2013).pdf?sfvrsn=9d95459d_2 "Levies [.pdf, 161kb]") | 1.1.2014 | 6.11.2013 |
+| --- | --- | --- | --- |
+| INT SB-FRS 121 | [Levies [.pdf, 161kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/After%201%20Jan%202013%20to%20Dec%202013/int_sbfrs_121_(jul_2013).pdf) | 1.1.2014 | 6.11.2013 |
 
   
 \*Include accompanying documents such as Implementation Guidance (IG) and Illustrative Examples (IE).  
