@@ -35,21 +35,15 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | INT SB-FRS 113 | [Customer Loyalty Programmes [.pdf, 62kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-113-(2013).pdf) | [IE [.pdf, 42kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-113-ie-(2013).pdf) |
 | INT SB-FRS 114 | [FRS 19 - The Limit on a Defined Benefit Asset, Minimum Funding Requirements and their Interaction [.pdf, 79kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-114-(2013).pdf) | [IE [.pdf, 72kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-114-ie-(2013).pdf) |
 | INT SB-FRS 115 | [Agreements for the Construction of Real Estate [.pdf, 69kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-115-(2013).pdf) <br><br> [Accompanying Note [.pdf, 68kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-115-an-(2013).pdf)<br>\[INT FRS 115 is to be read together with the Accompanying Note\] | [IN & IE [.pdf, 64kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-115-info-note-and-ie-(2013).pdf) |
-
-
-
-
-
-
-
-
+| INT SB-FRS 116 | [Hedges of a Net Investment in a Foreign Operation [.pdf, 118kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-116-(2013).pdf) | [IE [.pdf, 35kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-116-ie-(2013).pdf) |
+| INT SB-FRS 117 | [Distributions of Non-cash Assets to Owners [.pdf, 66kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-117-(2013).pdf) | [IE [.pdf, 39kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-117-ie-(2013).pdf) |
+| INT SB-FRS 118 | [Transfers of Assets from Customers [.pdf, 80kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-118-(2013).pdf) | [IE [.pdf, 43kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-118-ie-(2013).pdf) |
+| INT SB-FRS 119 | [Extinguishing Financial Liabilities with Equity Instruments [.pdf, 55kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-119-(2013).pdf) | - |
+| INT SB-FRS 120 | [Stripping Costs in the Production Phase of a Surface Mine [.pdf, 63kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-120-(2013).pdf) | - |
 
 \*Include Implementation Guidance (IG), Illustrative Examples (IE) and Information Note (IN).
 
-  
-
 ### Archives 
 
-  
 
 Archived documents can be accessed [here](/pronouncements/interpretations-of-sb-frs/archives/).
