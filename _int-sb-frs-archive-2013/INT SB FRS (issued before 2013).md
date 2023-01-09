@@ -42,3 +42,5 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | |  [Prepayments of a Minimum Funding Requirement (Amendments to INT SB- FRS 114)](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/amendments_to_int_sb-frs_114.pdf)| 1.1.2011 | 11.2.2010 |
 | INT SB-FRS 115 | [Agreements for the Construction of Real Estate [.pdf, 102kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_115.pdf) | 1.1.2011 | 31.12.2010 |
 | | [Accompanying Note [.pdf, 86kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/accompanying_note_to_int_sb-frs_115.pdf) | | |
+| INT SB-FRS 116 | [Hedges of a Net Investment in a Foreign Operation [.pdf, 224kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_116.pdf) | 1.10.2008 | 22.1.2009 |
+| INT SB-FRS 117 | [Distributions of Non-cash Assets to Owners [.pdf, 224kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_117.pdf) | 1.7.2009 | 22.1.2009 |
