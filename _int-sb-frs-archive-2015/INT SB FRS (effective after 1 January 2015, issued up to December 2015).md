@@ -14,7 +14,8 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
   
 
 | Reference | Titles | Effective date (Annual periods beginning on or after) | Issuance date |
-| :-: | :-: | --- | --- |
+| --- | --- | --- | --- |
+| | | | |
 
   
 \*Include accompanying documents such as Implementation Guidance (IG) and Illustrative Examples (IE).  
