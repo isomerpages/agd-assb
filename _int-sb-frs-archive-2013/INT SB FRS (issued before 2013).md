@@ -10,5 +10,4 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 
 | No. | Titles | Effective Date | Last Update |
 | -------- | -------- | -------- | -------- |
-| Preface | [Preface to Interpretations of Statutory Board Financial Reporting Standards \[.pdf, 24kb\]](https://www.assb.gov.sg/docs/default-source/int-sb-frs/int-sb-frs-(issued-before-2013)/int_sb-frs_preface.pdf?sfvrsn=a1bcf74c_2 "Preface to Interpretations of Statutory Board Financial Reporting Standards [.pdf, 24kb]")  | | |
-
+| Preface | [Preface to Interpretations of Statutory Board Financial Reporting Standards \[.pdf, 24kb\]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_preface.pdf)  | | |
