@@ -32,5 +32,7 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | INT SB-FRS 122 |  |  |
 | INT SB-FRS 123 |  |  |
 
+\*Include Implementation Guidance (IG), Illustrative Examples (IE) and Information Note (IN).
+
 ### Archives 
 Archived documents can be accessed [here](/pronouncements/interpretations-of-sb-frs/archives).
