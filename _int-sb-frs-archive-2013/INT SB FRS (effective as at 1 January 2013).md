@@ -22,6 +22,8 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | INT SB-FRS 25 | [Income Taxes - Changes in the Tax Status of an Enterprise or its Shareholders [.pdf, 42kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-25-(2013).pdf) | - |
 | INT SB-FRS 27 | [Evaluating the Substance of Transactions Involving the Legal Form of a Lease [.pdf, 65kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-27-(2013).pdf) | [IG [.pdf, 44kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-27-ig-(2013).pdf) |
 | INT SB-FRS 29 | [Service Concession Arrangements: Disclosures [.pdf, 49kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-29-(2013).pdf) | - |
+| INT SB-FRS 31 | [Revenue - Barter Transactions Involving Advertising Services [.pdf, 42kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-31-(2013).pdf) | - |
+| INT SB-FRS 32 | [Intangible Assets - Web Site Costs [.pdf, 63kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-32-(2013).pdf) | [IE [.pdf, 44kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202013/int-sbfrs-32-ie-(2013).pdf) |
 
 
 
