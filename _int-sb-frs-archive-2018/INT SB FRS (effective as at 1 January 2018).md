@@ -11,14 +11,14 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 
 | Reference | Titles | Accompanying documents\* |
 | -------- | -------- | -------- |
-| Preface |  | - |
-| INT SB-FRS 7 |  | - |
-| INT SB-FRS 10 |  | - |
-| INT SB-FRS 25 |  | - |
-| INT SB-FRS 29 |  | - |
-| INT SB-FRS 32 |  |  |
-| INT SB-FRS 101 |  |  |
-| INT SB-FRS 105 |  | - |
+| Preface | [Preface to Interpretations of Financial Reporting Standards [.pdf, 24kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202018/int_sb-frs_preface.pdf) | - |
+| INT SB-FRS 7 | [Introduction of Euro [.pdf, 261kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202018/int_sb-frs_7_(2018).pdf) | - |
+| INT SB-FRS 10 | [Government Assistance - No Specific Relation to Operating Activities [.pdf, 526kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202018/int_sb-frs_10_(2018).pdf) | - |
+| INT SB-FRS 25 | [Income Taxes - Changes in the Tax Status of an Enterprise or its Shareholders [.pdf, 400kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202018/int_sb-frs_25_(2018).pdf) | - |
+| INT SB-FRS 29 | [Service Concession Arrangements: Disclosures [.pdf, 403kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202018/int_sb-frs_29_(2018).pdf) | - |
+| INT SB-FRS 32 | [Intangible Assets - Web Site Costs [.pdf, 628kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202018/int_sb-frs_32_(2018).pdf) | [IE [.pdf, 384kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202018/int_sb-frs_32_ie_(2018).pdf) |
+| INT SB-FRS 101 | [Changes in Existing Decommissioning, Restoration and Similar Liabilities [.pdf, 413kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202018/int_sb-frs_101_(2018).pdf) | [IE [.pdf, 365kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202018/int_sb-frs_101_ie_(2018).pdf) |
+| INT SB-FRS 105 | [Rights to Interests arising from Decommissioning, Restoration and Environmental Rehabilitation Funds [.pdf, 280kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202018/int_sb-frs_105_(2018).pdf) | - |
 | INT SB-FRS 106 |  | - |
 | INT SB-FRS 107 |  |  |
 | INT SB-FRS 110 |  | - |
