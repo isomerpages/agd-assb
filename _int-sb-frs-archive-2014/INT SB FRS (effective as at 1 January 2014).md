@@ -20,10 +20,10 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | INT SB-FRS 25 | [Income Taxes - Changes in the Tax Status of an Enterprise or its Shareholders [.pdf, 23kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_25_2014.pdf) | - |
 | INT SB-FRS 27 | [Evaluating the Substance of Transactions Involving the Legal Form of a Lease [.pdf, 60kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_27_2014.pdf) | [IG [.pdf, 25kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_27_ig_2014.pdf) |
 | INT SB-FRS 29 | [Service Concession Arrangements: Disclosures [.pdf, 28kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_29_2014.pdf) | - |
-| INT SB-FRS 31 |  | \- |
-| INT SB-FRS 32 |  |  |
-| INT SB-FRS 101 | | |
-| INT SB-FRS 104 |  |  |
+| INT SB-FRS 31 | [	Revenue - Barter Transactions Involving Advertising Services [.pdf, 24kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_31_2014.pdf) | - |
+| INT SB-FRS 32 | [Intangible Assets - Web Site Costs [.pdf, 60kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_32_2014.pdf) | [IE [.pdf, 22kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_32_ie_2014.pdf) |
+| INT SB-FRS 101 | [Changes in Existing Decommissioning, Restoration and Similar Liabilities [.pdf, 47kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_101_2014.pdf) | [IE [.pdf, 48kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_101_ie_2014.pdf) |
+| INT SB-FRS 104 | [Determining whether an Arrangement contains a Lease [.pdf, 57kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_104_2014.pdf) | [IE [.pdf, 23kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_104_ie_2014.pdf) |
 | INT SB-FRS 105 |  | \- |
 | INT SB-FRS 106 |  | \- |
 | INT SB-FRS 107 |  |   |
