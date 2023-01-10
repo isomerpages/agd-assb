@@ -16,10 +16,10 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | Preface | [Preface to Interpretations of Financial Reporting Standards [.pdf, 24kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_preface.pdf) | - |
 | INT SB-FRS 7 | [Introduction of Euro [.pdf, 23kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_7_2014.pdf) | - |
 | INT SB-FRS 10 | [Government Assistance - No Specific Relation to Operating Activities [.pdf, 22kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_10_2014.pdf) | - |
-| INT SB-FRS 15 |  |  |
-| INT SB-FRS 25 |  | - |
-| INT SB-FRS 27 |  |  |
-| INT SB-FRS 29 |  | - |
+| INT SB-FRS 15 | [Operating Leases - Incentives [.pdf, 23kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_15_2014.pdf) | [IE [.pdf, 24kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_15_ie_2014.pdf) |
+| INT SB-FRS 25 | [Income Taxes - Changes in the Tax Status of an Enterprise or its Shareholders [.pdf, 23kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_25_2014.pdf) | - |
+| INT SB-FRS 27 | [Evaluating the Substance of Transactions Involving the Legal Form of a Lease [.pdf, 60kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_27_2014.pdf) | [IG [.pdf, 25kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_27_ig_2014.pdf) |
+| INT SB-FRS 29 | [Service Concession Arrangements: Disclosures [.pdf, 28kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_29_2014.pdf) | - |
 | INT SB-FRS 31 |  | \- |
 | INT SB-FRS 32 |  |  |
 | INT SB-FRS 101 | | |
