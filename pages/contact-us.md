@@ -16,16 +16,11 @@ locations:
         time: 8.30am - 12.00pm
         description: ""
     maps_link: ""
-    title: ASSB Advisory Committee
+    title: ASSB Advisory Committee AGD
 contacts:
   - content:
       - phone: ""
       - email: AGD_Assb_Feedback@agd.gov.sg
       - other: "Fax: 6332 7678"
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 ---
