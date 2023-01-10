@@ -24,10 +24,10 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | INT SB-FRS 104 | [Determining whether an Arrangement contains a Lease [.pdf, 62kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_104_(2016).pdf) | [IE [.pdf, 24kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_104_ie_(2016).pdf) |
 | INT SB-FRS 105 | [Rights to Interests arising from Decommissioning, Restoration and Environmental Rehabilitation Funds [.pdf, 36kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_105_(2016).pdf) | - |
 | INT SB-FRS 106 | [Liabilities arising from Participating in a Specific Market - Waste Electrical and Electronic Equipment [.pdf, 31kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_106_(2016).pdf) | - |
-| INT SB-FRS 107 |  |  |
-| INT SB-FRS 109 |  | - |
-| INT SB-FRS 110 |  | - |
-| INT SB-FRS 112 |  |  |
+| INT SB-FRS 107 | [Applying the Restatement Approach under FRS 29 Financial Reporting in Hyperinflationary Economies [.pdf, 47kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_107_(2016).pdf) | [IE [.pdf, 72kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_107_ie_(2016).pdf) |
+| INT SB-FRS 109 | [Reassessment of Embedded Derivatives [.pdf, 52kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_109_(2016).pdf) | - |
+| INT SB-FRS 110 | [Interim Financial Reporting and Impairment [.pdf, 28kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_110_(2016).pdf) | - |
+| INT SB-FRS 112 | [Service Concession Arrangements [.pdf, 77kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_112_(2016).pdf) | [IN & IE [.pdf, 174kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_112_info-note-ie_(2016).pdf) |
 | INT SB-FRS 113 |  |  |
 | INT SB-FRS 114 |  |  |
 | INT SB-FRS 115 |  |  |
