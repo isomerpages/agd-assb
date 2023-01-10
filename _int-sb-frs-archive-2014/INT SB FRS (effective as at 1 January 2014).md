@@ -12,7 +12,7 @@ This collection of SB-FRSs and INT SB-FRSs includes official pronouncements issu
 If you do not already have Adobe Reader or Microsoft Word, please download the software for free here: [\[pdf\]](http://www.adobe.com/products/acrobat/readstep2.html) [\[word\]](http://www.microsoft.com/downloads/details.aspx?FamilyID=95e24c87-8732-48d5-8689-ab826e7b8fdf&DisplayLang=en)
 
 | Reference | Titles | Accompanying documents\* |
-| --- | --- | :-: |
+| --- | --- | --- |
 | Preface | [Preface to Interpretations of Financial Reporting Standards [.pdf, 24kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_preface.pdf) | - |
 | INT SB-FRS 7 | [Introduction of Euro [.pdf, 23kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_7_2014.pdf) | - |
 | INT SB-FRS 10 | [Government Assistance - No Specific Relation to Operating Activities [.pdf, 22kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_10_2014.pdf) | - |
