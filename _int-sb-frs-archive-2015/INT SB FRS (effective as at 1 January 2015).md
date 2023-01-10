@@ -20,18 +20,18 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | INT SB-FRS 25 | [	 Income Taxes - Changes in the Tax Status of an Enterprise or its Shareholders [.pdf, 197kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_25_(2015).pdf) | \- |
 | INT SB-FRS 27 | [Evaluating the Substance of Transactions Involving the Legal Form of a Lease [.pdf, 207kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_27_(2015).pdf) | [IG [.pdf, 73kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_27_ig_(2015).pdf) |
 | INT SB-FRS 29 | [Service Concession Arrangements: Disclosures [.pdf, 120kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_29_(2015).pdf) | \- |
-| INT SB-FRS 31 | [Revenue - Barter Transactions Involving Advertising Services \[.pdf, 140kb\]]() | \- |
-| INT SB-FRS 32 | [Intangible Assets - Web Site Costs \[.pdf, 291kb\]](") | [IE \[.pdf, 121kb\]]()|
-| INT SB-FRS 101 | [Changes in Existing Decommissioning, Restoration and Similar Liabilities \[.pdf, 206kb\]]() | [IE \[.pdf, 180kb\]]() |
-| INT SB-FRS 104 | [Determining whether an Arrangement contains a Lease \[.pdf, 215kb\]]() | [IE \[.pdf, 116kb\]]() |
-| INT SB-FRS 105 | [Rights to Interests arising from Decommissioning, Restoration and Environmental Rehabilitation Funds \[.pdf, 132kb\]]() | \- |
-| INT SB-FRS 106 | [Liabilities arising from Participating in a Specific Market - Waste Electrical and Electronic Equipment \[.pdf, 260kb\]]() | \- |
-| INT SB-FRS 107 | [Applying the Restatement Approach under FRS 29 Financial Reporting in Hyperinflationary Economies \[.pdf, 197kb\]]() | [IE \[.pdf, 254kb\]]() |
-| INT SB-FRS 109 | [Reassessment of Embedded Derivatives \[.pdf, 163kb\]]() | \- |
-| INT SB-FRS 110 | [Interim Financial Reporting and Impairment \[.pdf, 119kb\]]() | \- |
-| INT SB-FRS 112 | [Service Concession Arrangements \[.pdf, 333kb\]]() | [IN & IE \[.pdf, 370kb\]]() |
-| INT SB-FRS 113 | [Customer Loyalty Programmes \[.pdf, 132kb\]]() | [IE \[.pdf, 202kb\]]() |
-| INT SB-FRS 114 | [SB-FRS 19 - The Limit on a Defined Benefit Asset, Minimum Funding Requirements and their Interaction \[.pdf, 282kb\]]() | [IE \[.pdf, 161kb\]]() |
+| INT SB-FRS 31 | [Revenue - Barter Transactions Involving Advertising Services [.pdf, 140kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_31_(2015).pdf) | \- |
+| INT SB-FRS 32 | [Intangible Assets - Web Site Costs [.pdf, 291kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_32_(2015).pdf) | [IE [.pdf, 121kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_32_ie_(2015).pdf) |
+| INT SB-FRS 101 | [Changes in Existing Decommissioning, Restoration and Similar Liabilities [.pdf, 206kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_101_(2015).pdf) | [IE [.pdf, 180kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_101_ie_(2015).pdf) |
+| INT SB-FRS 104 | [Determining whether an Arrangement contains a Lease [.pdf, 215kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_104_(2015).pdf) | [IE [.pdf, 116kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_104_ie_(2015).pdf) |
+| INT SB-FRS 105 |  | \- |
+| INT SB-FRS 106 |  | \- |
+| INT SB-FRS 107 |  |   |
+| INT SB-FRS 109 |  | \- |
+| INT SB-FRS 110 |  | \- |
+| INT SB-FRS 112 | | |
+| INT SB-FRS 113 | | |
+| INT SB-FRS 114 | | |
 | INT SB-FRS 115 | [Agreements for the Construction of Real Estate \[.pdf, 138kb\]]() [Accompanying Note \[.pdf, 117kb\]]()  \[INT SB-FRS 115 is to be read together with the Accompanying Note\] | [IN & IE \[.pdf, 171kb\]](") |
 | INT SB-FRS 116 | [Hedges of a Net Investment in a Foreign Operation \[.pdf, 303kb\]](") | [IE \[.pdf, 70kb\]](") |
 | INT SB-FRS 117 | [Distributions of Non-cash Assets to Owners \[.pdf, 211kb\]](") | [IE \[.pdf, 68kb\]](") |
