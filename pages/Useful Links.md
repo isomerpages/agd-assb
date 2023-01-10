@@ -3,6 +3,8 @@ title: Useful Links
 permalink: /useful-links/
 description: Useful Links
 ---
+![img-fr](/images/Images/Default%20Source/Useful%20Links/img-fr.jpg)
+
 ### Useful Links
   
 [Accounting Standards Council](http://www.asc.gov.sg/)  
