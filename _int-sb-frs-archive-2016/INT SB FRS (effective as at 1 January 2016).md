@@ -11,19 +11,19 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 
 | Reference | Titles | Accompanying documents\* |
 | -------- | -------- | -------- |
-| Preface |  | - |
-| INT SB-FRS 7 |  | - |
-| INT SB-FRS 10 |  | - |
-| INT SB-FRS 15 |  |  |
-| INT SB-FRS 25 |  | - |
-| INT SB-FRS 27 |  |  |
-| INT SB-FRS 29 |  | - |
-| INT SB-FRS 31 |  | - |
-| INT SB-FRS 32 |  |  |
-| INT SB-FRS 101 |  |  |
-| INT SB-FRS 104 |  |  |
-| INT SB-FRS 105 |  | - |
-| INT SB-FRS 106 |  | - |
+| Preface | [Preface to Interpretations of Financial Reporting Standards [.pdf, 24kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_preface.pdf) | - |
+| INT SB-FRS 7 | [Introduction of Euro [.pdf, 26kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_7_(2016).pdf) | - |
+| INT SB-FRS 10 | [Government Assistance - No Specific Relation to Operating Activities [.pdf, 23kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_10_(2016).pdf) | - |
+| INT SB-FRS 15 | [Operating Leases - Incentives [.pdf, 24kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_15_(2016).pdf) | [IE [.pdf, 34kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_15_ie_(2016).pdf) |
+| INT SB-FRS 25 | [Income Taxes - Changes in the Tax Status of an Enterprise or its Shareholders [.pdf, 24kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_25_(2016).pdf) | - |
+| INT SB-FRS 27 | [Evaluating the Substance of Transactions Involving the Legal Form of a Lease [.pdf, 55kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_27_(2016).pdf) | [IG [.pdf, 25kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_27_ig_(2016).pdf) |
+| INT SB-FRS 29 | [Service Concession Arrangements: Disclosures [.pdf, 29kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_29_(2016).pdf) | - |
+| INT SB-FRS 31 | [Revenue - Barter Transactions Involving Advertising Services [.pdf, 25kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_31_(2016).pdf) | - |
+| INT SB-FRS 32 | [Intangible Assets - Web Site Costs [.pdf, 55kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_32_(2016).pdf) | [IE [.pdf, 26kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_32_ie_(2016).pdf) |
+| INT SB-FRS 101 | [Changes in Existing Decommissioning, Restoration and Similar Liabilities [.pdf, 54kb]	](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_101_(2016).pdf) | [IE [.pdf, 60kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_101_ie_(2016).pdf) |
+| INT SB-FRS 104 | [Determining whether an Arrangement contains a Lease [.pdf, 62kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_104_(2016).pdf) | [IE [.pdf, 24kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_104_ie_(2016).pdf) |
+| INT SB-FRS 105 | [Rights to Interests arising from Decommissioning, Restoration and Environmental Rehabilitation Funds [.pdf, 36kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_105_(2016).pdf) | - |
+| INT SB-FRS 106 | [Liabilities arising from Participating in a Specific Market - Waste Electrical and Electronic Equipment [.pdf, 31kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202016/int_sb-frs_106_(2016).pdf) | - |
 | INT SB-FRS 107 |  |  |
 | INT SB-FRS 109 |  | - |
 | INT SB-FRS 110 |  | - |
