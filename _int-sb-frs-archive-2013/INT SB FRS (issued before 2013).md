@@ -33,7 +33,7 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | INT SB-FRS 107 | [Applying the Restatement Approach under SB-FRS 29 Financial Reporting in Hyperinflationary Economies [.pdf, 119kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_107.pdf) | 1.3.2006 | 5.3.2008 |
 | INT SB-FRS 108 | [Scope of SB-FRS 102 [.pdf, 70kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_108.pdf) \[Superseded by Group Cash-settled Share-based Payment Transaction (Amendments to SB-FRS 102) from 1.1.2010\] | 1.5.2006 | 5.3.2008 |
 | INT SB-FRS 109 | [Reassessment of Embedded Derivatives [.pdf, 64kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_109.pdf) | 1.6.2006 | 5.3.2008 |
-| | [Amendments to INT SB-FRS 109 and SB-FRS 39 - Embedded Derivatives [.pdf, 57kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/amend_to_sb-frs_109_n_sb-frs_39.pdf) | 30.6.2009 <br>(annual periods ending on or after) | 18.5.2009 |
+| | [Amendments to INT SB-FRS 109 and SB-FRS 39 - Embedded Derivatives [.pdf, 57kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/amend_to_sb-frs_109_n_sb-frs_39.pdf) | 30.6.2009 (annual periods ending on or after) | 18.5.2009 |
 | INT SB-FRS 110 | [Interim Financial Reporting and Impairment [.pdf, 51kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_110.pdf) | 1.4.2007 | 5.3.2008 |
 | INT SB-FRS 111 | [SB-FRS 102 – Group and Treasury Share Transactions [.pdf, 81kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_111.pdf) \[Superseded by Group Cash-settled Share-based Payment Transactions (Amendments to SB- FRS 102) from 1.1.2010\] | 1.4.2007 | 5.3.2008 |
 | INT SB-FRS 112 | [Service Concession Arrangements [.pdf, 463kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_112_2008.pdf) | 1.1.2008 | 5.3.2008 |
@@ -44,7 +44,7 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | | [Accompanying Note [.pdf, 86kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/accompanying_note_to_int_sb-frs_115.pdf) | | |
 | INT SB-FRS 116 | [Hedges of a Net Investment in a Foreign Operation [.pdf, 224kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_116.pdf) | 1.10.2008 | 22.1.2009 |
 | INT SB-FRS 117 | [Distributions of Non-cash Assets to Owners [.pdf, 224kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_117.pdf) | 1.7.2009 | 22.1.2009 |
-| INT SB-FRS 118 | [Transfers of Assets from Customers [.pdf, 122kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_118.pdf) | 1.7.2009 <br>(transfers received on or after) | 18.5.2009 |
+| INT SB-FRS 118 | [Transfers of Assets from Customers [.pdf, 122kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_118.pdf) | 1.7.2009 (transfers received on or after) | 18.5.2009 |
 | INT SB-FRS 119 | [Extinguishing Financial Liabilities with Equity Instruments [.pdf, 150kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_119.pdf) | 1.7.2010 | 11.2.2010 |
 | INT SB-FRS 120 | [Stripping Costs in the Production Phase of a Surface Mine [.pdf, 230kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Issued%20before%202013/int_sb-frs_120.pdf) | 1.1.2013 | 23.11.2012 |
 
