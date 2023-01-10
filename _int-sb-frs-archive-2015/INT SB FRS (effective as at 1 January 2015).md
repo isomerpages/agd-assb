@@ -35,10 +35,10 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | INT SB-FRS 115 | [Agreements for the Construction of Real Estate [.pdf, 138kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_115_(2015).pdf)<br><br>[Accompanying Note [.pdf, 117kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_115_an_(2015).pdf)<br>\[INT SB-FRS 115 is to be read together with the Accompanying Note\] | [IN & IE [.pdf, 171kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_115_in_ie_(2015).pdf) |
 | INT SB-FRS 116 | [Hedges of a Net Investment in a Foreign Operation [.pdf, 303kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_116_(2015).pdf) | [IE [.pdf, 70kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_116_ie_(2015).pdf) |
 | INT SB-FRS 117 | [Distributions of Non-cash Assets to Owners [.pdf, 211kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_117_(2015).pdf) | [IE [.pdf, 68kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_117_ie_(2015).pdf) |
-| INT SB-FRS 118 |   | |
-| INT SB-FRS 119 |  | \- |
-| INT SB-FRS 120 |  | \- |
-| INT SB-FRS 121 |   | |
+| INT SB-FRS 118 | [Transfers of Assets from Customers [.pdf, 214kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_118_(2015).pdf) | [IE [.pdf, 72kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_118_ie_(2015).pdf) |
+| INT SB-FRS 119 | [Extinguishing Financial Liabilities with Equity Instruments [.pdf, 205kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_119_(2015).pdf) | \- |
+| INT SB-FRS 120 | [Stripping Costs in the Production Phase of a Surface Mine [.pdf, 134kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_120_(2015).pdf) | \- |
+| INT SB-FRS 121 | [Levies [.pdf, 129kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_121_(2015).pdf) | [IE [.pdf, 168kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202015/int_sb-frs_121_ie_(2015).pdf) |
 
   
 \*Include Implementation Guidance (IG), Illustrative Examples (IE) and Information Note (IN).
