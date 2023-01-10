@@ -14,5 +14,3 @@ third_nav_title: Interpretation of SB FRS
 [INT SB-FRS (effective after 1 January 2018, issued up to December 2018)](/pronouncements/int-sb-frs/archives/2018/effective-after-1-january-2018-issued-up-to-december-2018/)  
 [INT SB-FRS (effective as at 1 January 2017)](/pronouncements/int-sb-frs/archives/2017/effective-as-at-1-january-2017/)  
 [INT SB-FRS (effective after 1 January 2017, issued up to December 2017)](/pronouncements/int-sb-frs/archives/2017/effective-after-1-january-2017-issued-up-to-december-2017/)
-
-[INT SB-FRS (effective as at 1 January 2016)](/pronouncements/int-sb-frs/archives/2016/effective-as-at-1-january-2016/)
