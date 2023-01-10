@@ -47,6 +47,4 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 
 ### Archives 
 
-  
-
 Archived documents can be accessed [here](/pronouncements/interpretations-of-sb-frs/archives/).
