@@ -29,10 +29,10 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | INT SB-FRS 107 | [Applying the Restatement Approach under FRS 29 Financial Reporting in Hyperinflationary Economies [.pdf, 39kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_107_2014.pdf) | [IE [.pdf, 48kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_107_ie_2014.pdf) |
 | INT SB-FRS 109 | [Reassessment of Embedded Derivatives [.pdf, 43kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_109_2014.pdf) | - |
 | INT SB-FRS 110 | [Interim Financial Reporting and Impairment [.pdf, 26kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_110_2014.pdf) | - |
-| INT SB-FRS 112 |  |  |
-| INT SB-FRS 113 |  |  |
-| INT SB-FRS 114 |  |  |
-| INT SB-FRS 115 | \[INT FRS 115 is to be read together with the Accompanying Note\] |  |
+| INT SB-FRS 112 | [Service Concession Arrangements [.pdf, 75kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_112_2014.pdf) | [IN & IE [.pdf, 131kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_112_inie_2014.pdf) |
+| INT SB-FRS 113 | [Customer Loyalty Programmes [.pdf, 38kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_113_2014.pdf) | [IE [.pdf, 34kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_113_ie_2014.pdf) |
+| INT SB-FRS 114 | [FRS 19 - The Limit on a Defined Benefit Asset, Minimum Funding Requirements and their Interaction [.pdf, 49kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_114_2014.pdf) | [IE [.pdf, 46kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_114_ie_2014.pdf) |
+| INT SB-FRS 115 | [Agreements for the Construction of Real Estate [.pdf, 43kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_115_2014.pdf)<br><br>[Accompanying Note [.pdf, 83kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_115_an_2013.pdf)<br>\[INT FRS 115 is to be read together with the Accompanying Note\] | [IN & IE [.pdf, 54kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_115_in_ie_2014.pdf) |
 | INT SB-FRS 116 |  |  |
 | INT SB-FRS 117 | |  |
 | INT SB-FRS 118 |  |  |
