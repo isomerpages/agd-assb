@@ -3,8 +3,6 @@ title: Useful Links
 permalink: /useful-links/
 description: Useful Links
 ---
-![img-fr](/images/Images/Default%20Source/Useful%20Links/img-fr.jpg)
-
 <img src="/images/Images/Default%20Source/Useful%20Links/img-fr.jpg" alt="img-fr" style="width:220px;">
 
 ### Useful Links
