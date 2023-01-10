@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Accounting Standards for Statutory Boards
 locations:
   - address:
-      - 100 High Street
+      - "100 High Street #06-01"
       - The Treasury
       - Singapore 179434
     operating_hours:
