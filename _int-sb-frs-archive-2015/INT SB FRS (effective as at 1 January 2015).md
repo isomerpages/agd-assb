@@ -49,4 +49,4 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 
   
 
-Archived documents can be accessed [here](https://www.assb.gov.sg/pronouncements/interpretations-of-sb-frs/archives).
+Archived documents can be accessed [here](/pronouncements/interpretations-of-sb-frs/archives).
