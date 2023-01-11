@@ -26,10 +26,8 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 <br>
-<br>
 
-
-<img src="/images/Images/Default%20Source/Default%20Album/joyce-tong2b08ec5d04974b849080f0c1406fd71d.jpg" alt="Ms Joyce Tong" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Joyce Tong**<br>Group Director (Finance)<br>A\*STAR</img>
+<img src="/images/Images/Default%20Source/Default%20Album/joyce-tong2b08ec5d04974b849080f0c1406fd71d.jpg" alt="Ms Joyce Tong" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Joyce Tong**<br>Group Director (Finance)<br>A\*STAR
 
 <br>
 <br>
@@ -37,7 +35,7 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/ms-ong-swad-wen.jpg" alt="Ms Ong Swad Yen" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Ong Swad Yen**<br>Director (Finance, Procurement & Admin)<br>National Heritage Board</img>
+<img src="/images/Images/Default%20Source/Who%20We%20Are/ms-ong-swad-wen.jpg" alt="Ms Ong Swad Yen" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Ong Swad Yen**<br>Director (Finance, Procurement & Admin)<br>National Heritage Board
 
 <br>
 <br>
@@ -45,7 +43,7 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/eleanor-lee.jpg" alt="Ms Eleanor Lee" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Eleanor Lee**<br>Partner<br>Ernst & Young LLP</img>
+<img src="/images/Images/Default%20Source/Who%20We%20Are/eleanor-lee.jpg" alt="Ms Eleanor Lee" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Eleanor Lee**<br>Partner<br>Ernst & Young LLP
 
 <br>
 <br>
@@ -53,7 +51,7 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
-<img src="/images/Images/Default%20Source/Default%20Album/debra-ann-ker9b7cf1f829f640cf9d0f6806526c4f89.jpg" alt="Ms Debra Ann Ker" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Debra Ann Ker**<br>Partner<br>PWC</img>
+<img src="/images/Images/Default%20Source/Default%20Album/debra-ann-ker9b7cf1f829f640cf9d0f6806526c4f89.jpg" alt="Ms Debra Ann Ker" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Debra Ann Ker**<br>Partner<br>PWC
 
 <br>
 <br>
@@ -61,7 +59,7 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/ho-kim-wai.jpg" alt="Professor Ho Kim Wai" style="width:200px;height:250px;object-fit:cover;" align="left">**Professor Ho Kim Wai**<br>Associate Professor<br>Nanyang Technological University</img>
+<img src="/images/Images/Default%20Source/Who%20We%20Are/ho-kim-wai.jpg" alt="Professor Ho Kim Wai" style="width:200px;height:250px;object-fit:cover;" align="left">**Professor Ho Kim Wai**<br>Associate Professor<br>Nanyang Technological University
 
 <br>
 <br>
@@ -69,7 +67,7 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/ng-lip-nin.jpg" alt="" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Ng Lip Nin**<br>Group Director<br>Auditor-General's Office</img>
+<img src="/images/Images/Default%20Source/Who%20We%20Are/ng-lip-nin.jpg" alt="" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Ng Lip Nin**<br>Group Director<br>Auditor-General's Office
 
 <br>
 <br>
@@ -77,7 +75,7 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
-<img src="/images/Images/Default%20Source/Default%20Album/chan-yen-san.jpg" alt="Ms Chan Yen San" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Chan Yen San**<br>Partner<br>KPMG LLP</img>
+<img src="/images/Images/Default%20Source/Default%20Album/chan-yen-san.jpg" alt="Ms Chan Yen San" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Chan Yen San**<br>Partner<br>KPMG LLP
 
 <br>
 <br>
@@ -85,7 +83,7 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/andrew-lee.jpeg" alt="Professor Andrew Lee" style="width:200px;height:250px;object-fit:cover;" align="left">**Professor Andrew Lee**<br>Associate Professor<br>Singapore Management University</img>
+<img src="/images/Images/Default%20Source/Who%20We%20Are/andrew-lee.jpeg" alt="Professor Andrew Lee" style="width:200px;height:250px;object-fit:cover;" align="left">**Professor Andrew Lee**<br>Associate Professor<br>Singapore Management University
 
 <br>
 <br>
@@ -93,7 +91,7 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
-<img src="/images/Images/Default%20Source/Default%20Album/mr-william-tan.jpg" alt="Mr William Tan" style="width:200px;height:250px;object-fit:cover;" align="left">**Mr William Tan**<br>Assistant Chief Executive<br>National Library Board</img>
+<img src="/images/Images/Default%20Source/Default%20Album/mr-william-tan.jpg" alt="Mr William Tan" style="width:200px;height:250px;object-fit:cover;" align="left">**Mr William Tan**<br>Assistant Chief Executive<br>National Library Board
 
 <br>
 <br>
@@ -101,4 +99,4 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/cecilia-neo_corporate-photo_sep-2022.jpg" alt="Ms Cecilia Neo" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Cecilia Neo**<br>Director (Finance)<br>Energy Market Authority</img>
+<img src="/images/Images/Default%20Source/Who%20We%20Are/cecilia-neo_corporate-photo_sep-2022.jpg" alt="Ms Cecilia Neo" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Cecilia Neo**<br>Director (Finance)<br>Energy Market Authority
