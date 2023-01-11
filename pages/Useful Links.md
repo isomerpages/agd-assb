@@ -5,7 +5,7 @@ description: Useful Links
 ---
 ![img-fr](/images/Images/Default%20Source/Useful%20Links/img-fr.jpg) 
 
-<img src="/images/Images/Default%20Source/Useful%20Links/img-fr.jpg" alt="img-fr" style="float:left;width:400px;padding-right:100px;">
+<img src="/images/Images/Default%20Source/Useful%20Links/img-fr.jpg" alt="img-fr" style="float:left;width:400px;">
 
 ### Useful Links
   
