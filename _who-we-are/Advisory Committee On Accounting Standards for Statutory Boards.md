@@ -31,55 +31,13 @@ To bring wider representation and experience into the standards setting process,
 
 <img src="/images/Images/Default%20Source/Default%20Album/joyce-tong2b08ec5d04974b849080f0c1406fd71d.jpg" alt="Ms Joyce Tong" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Joyce Tong**<br>Group Director (Finance)</br>A\*STAR</img>
 
-![Ms Joyce Tong](/images/Images/Default%20Source/Default%20Album/joyce-tong2b08ec5d04974b849080f0c1406fd71d.jpg)
-Ms Joyce Tong  
-Group Director (Finance)  
-A\*STAR
+<br>
+</br>
+<br>
+</br>
+<br>
 
-![Ms Ong Swad Yen](/images/Images/Default%20Source/Who%20We%20Are/ms-ong-swad-wen.jpg)
-Ms Ong Swad Yen  
-Director (Finance, Procurement & Admin)  
-National Heritage Board
-
-![Ms Eleanor Lee](/images/Images/Default%20Source/Who%20We%20Are/eleanor-lee.jpg)
-Ms Eleanor Lee  
-Partner  
-Ernst & Young LLP
-
-![Ms Debra Ann](/images/Images/Default%20Source/Default%20Album/debra-ann-ker9b7cf1f829f640cf9d0f6806526c4f89.jpg)
-Ms Debra Ann Ker  
-Partner  
-PWC
-
-![Professor Ho Kim Wai](/images/Images/Default%20Source/Who%20We%20Are/ho-kim-wai.jpg)
-Professor Ho Kim Wai  
-Associate Professor  
-Nanyang Technological University
-
-![Ms Ng Lip Nin](/images/Images/Default%20Source/Who%20We%20Are/ng-lip-nin.jpg)
-Ms Ng Lip Nin  
-Group Director  
-Auditor-General's Office
-
-![Ms Chan Yen San](/images/Images/Default%20Source/Default%20Album/chan-yen-san.jpg)
-Ms Chan Yen San  
-Partner  
-KPMG LLP
-
-![Professor Andrew Lee](/images/Images/Default%20Source/Who%20We%20Are/andrew-lee.jpeg)
-Professor Andrew Lee  
-Associate Professor   
-Singapore Management University
-
-![Mr William Tan](/images/Images/Default%20Source/Default%20Album/mr-william-tan.jpg)
-Mr William Tan   
-Assistant Chief Executive  
-National Library Board
-
-![Ms Cecilia Neo](/images/Images/Default%20Source/Who%20We%20Are/cecilia-neo_corporate-photo_sep-2022.jpg)
-Ms Cecilia Neo  
-Director (Finance)  
-Energy Market Authority
+<img src="/images/Images/Default%20Source/Who%20We%20Are/ms-ong-swad-wen.jpg" alt="Ms Ong Swad Yen" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Ong Swad Yen**<br>Director (Finance, Procurement & Admin)</br>National Heritage Board</img>
 
 <br>
 </br>
@@ -87,4 +45,60 @@ Energy Market Authority
 </br>
 <br>
 
-<img src="" alt="" style="width:200px;height:250px;object-fit:cover;" align="left"><br></br></img>
+<img src="/images/Images/Default%20Source/Who%20We%20Are/eleanor-lee.jpg" alt="Ms Eleanor Lee" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Eleanor Lee**<br>Partner</br>Ernst & Young LLP</img>
+
+<br>
+</br>
+<br>
+</br>
+<br>
+
+<img src="/images/Images/Default%20Source/Default%20Album/debra-ann-ker9b7cf1f829f640cf9d0f6806526c4f89.jpg" alt="Ms Debra Ann Ker" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Debra Ann Ker**<br>Partner</br>PWC</img>
+
+<br>
+</br>
+<br>
+</br>
+<br>
+
+<img src="/images/Images/Default%20Source/Who%20We%20Are/ho-kim-wai.jpg" alt="Professor Ho Kim Wai" style="width:200px;height:250px;object-fit:cover;" align="left">**Professor Ho Kim Wai**<br>Associate Professor</br>Nanyang Technological University</img>
+
+<br>
+</br>
+<br>
+</br>
+<br>
+
+<img src="/images/Images/Default%20Source/Who%20We%20Are/ng-lip-nin.jpg" alt="" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Ng Lip Nin**<br>Group Director</br>Auditor-General's Office</img>
+
+<br>
+</br>
+<br>
+</br>
+<br>
+
+<img src="/images/Images/Default%20Source/Default%20Album/chan-yen-san.jpg" alt="Ms Chan Yen San" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Chan Yen San**<br>Partner</br>KPMG LLP</img>
+
+<br>
+</br>
+<br>
+</br>
+<br>
+
+<img src="/images/Images/Default%20Source/Who%20We%20Are/andrew-lee.jpeg" alt="Professor Andrew Lee" style="width:200px;height:250px;object-fit:cover;" align="left">**Professor Andrew Lee**<br>Associate Professor</br>Singapore Management University</img>
+
+<br>
+</br>
+<br>
+</br>
+<br>
+
+<img src="/images/Images/Default%20Source/Default%20Album/mr-william-tan.jpg" alt="Mr William Tan" style="width:200px;height:250px;object-fit:cover;" align="left">**Mr William Tan**<br>Assistant Chief Executive</br>National Library Board</img>
+
+<br>
+</br>
+<br>
+</br>
+<br>
+
+<img src="/images/Images/Default%20Source/Who%20We%20Are/cecilia-neo_corporate-photo_sep-2022.jpg" alt="Ms Cecilia Neo" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Cecilia Neo**<br>Director (Finance)</br>Energy Market Authority</img>
