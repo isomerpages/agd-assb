@@ -16,7 +16,7 @@ locations:
         time: 8.30am - 12.00pm
         description: ""
     maps_link: https://www.google.com/maps?q=The+Treasury+100+High+Street+179434+
-    title: ASSB Advisory Committee AGD
+    title: The Secretariat, ASSB
 contacts:
   - content:
       - phone: ""
