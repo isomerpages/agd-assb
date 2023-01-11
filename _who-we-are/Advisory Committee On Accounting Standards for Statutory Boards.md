@@ -15,6 +15,8 @@ To bring wider representation and experience into the standards setting process,
 Mr Ow Fook Chuen  
 Accountant-General
 
+<img src="/images/Images/Default%20Source/Who%20We%20Are/ow-fook-chuen.jpg" alt="Mr Ow Fook Chuen" style="width:200px;height:250px;" align="left">text</img>
+
 #### Committee Members
 
 ![Ms Bong Yap Kim](/images/Images/Default%20Source/Default%20Album/bong-yap-kim.jpg)
@@ -71,3 +73,5 @@ National Library Board
 Ms Cecilia Neo  
 Director (Finance)  
 Energy Market Authority
+
+<img src="/images/agd-about-us-overlay.png" alt="testing" style="width:200px;height:200px;" align="left"></img>
