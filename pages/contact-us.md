@@ -8,13 +8,7 @@ locations:
       - "100 High Street #06-01"
       - The Treasury
       - Singapore 179434
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
+    operating_hours: []
     maps_link: https://www.google.com/maps?q=The+Treasury+100+High+Street+179434+
     title: The Secretariat, ASSB
 contacts:
