@@ -15,7 +15,8 @@ description: Useful Links
 				Accounting Standards Council
 			</a><br>
 			<a href="http://www.mof.gov.sg/">
-				Ministry of Finance</a><p>
+				Ministry of Finance</a>
+			</p>
 		</td>
 	</tr>
 	<tr>
@@ -27,7 +28,3 @@ description: Useful Links
 		</td>
 	</tr>
 </table>
-
-
-
-
