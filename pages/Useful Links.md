@@ -29,8 +29,9 @@ description: Useful Links
 	</table>
 
 
-
-  
+### Useful Links
+[Accounting Standards Council](http://www.asc.gov.sg/)\
+[Ministry of Finance](http://www.mof.gov.sg/)
 
 ### Useful Guides
 
