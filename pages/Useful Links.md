@@ -23,7 +23,7 @@ description: Useful Links
 		<td></td>
 		<td>
 			<h3>Useful Guides</h3>
-			<p>If you do not already have Adobe Reader or Microsoft Word, please download the software for free here: [<a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>]<br>
+			<p>If you do not already have Adobe Reader or Microsoft Word, please download the software for free here: [<a href="http://www.adobe.com/products/acrobat/readstep2.html">pdf</a>]<br>
 				<a href="/files/Docs/Default%20Source/Useful%20Links/ifrs7forcorporates.pdf">Guide to IFRS 7 (IFRS equivalent to SB-FRS 107) [.pdf, 433kb]</a></p>
 		</td>
 	</tr>
