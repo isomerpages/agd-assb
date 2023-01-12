@@ -3,9 +3,9 @@ title: Useful Links
 permalink: /useful-links/
 description: Useful Links
 ---
-<table>
+<table width="100%">
 	<tr>
-		<td rowspan="2">
+		<td>
 			<img src="/images/Images/Default%20Source/Useful%20Links/img-fr.jpg" alt="img-fr" style="width:270px;height:202px;">
 		</td>
 		<td>
