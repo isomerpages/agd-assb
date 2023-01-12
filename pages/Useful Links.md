@@ -5,7 +5,7 @@ description: Useful Links
 ---
 <table>
 	<tr>
-				<td style="width:100%;">
+				<td style="width:300px;">
 			<img src="/images/Images/Default%20Source/Useful%20Links/img-fr.jpg" alt="img-fr" style="height:202px; width:270px;">
 		</td>
 		<td>
