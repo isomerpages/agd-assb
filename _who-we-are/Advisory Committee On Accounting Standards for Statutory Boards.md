@@ -11,13 +11,13 @@ To bring wider representation and experience into the standards setting process,
 
 ### **Chairman**
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/ow-fook-chuen.jpg" alt="Mr Ow Fook Chuen" style="width:200px;height:250px;" align="left"><h5>**Mr Ow Fook Chuen**</h5>Accountant General
+<img src="/images/Images/Default%20Source/Who%20We%20Are/ow-fook-chuen.jpg" alt="Mr Ow Fook Chuen" style="width:200px;height:250px;" align="left">**Mr Ow Fook Chuen**Accountant General
 
 <br>
 <br>
 <br>
 
-#### Committee Members
+### **Committee Members**
 
 <img src="/images/Images/Default%20Source/Default%20Album/bong-yap-kim.jpg" alt="Ms Bong Yap Kim" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Bong Yap Kim**<br>Divisional Director (Financial Reporting & Surveillance Division)<br>Accounting & Corporate Regulatory Authority of Singapore
 
