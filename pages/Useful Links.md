@@ -6,7 +6,7 @@ description: Useful Links
 <table width="100%">
 	<tr>
 		<td>
-			<img src="/images/Images/Default%20Source/Useful%20Links/img-fr.jpg" alt="img-fr" style="width:270px;height:202px;">
+			<img src="/images/Images/Default%20Source/Useful%20Links/img-fr.jpg" alt="img-fr" style="width:270px; height:202px;">
 		</td>
 		<td>
 			<h3>Useful Links </h3>
