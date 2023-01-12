@@ -26,7 +26,7 @@ description: Useful Links
 				<a href="/files/Docs/Default%20Source/Useful%20Links/ifrs7forcorporates.pdf">Guide to IFRS 7 (IFRS equivalent to SB-FRS 107) [.pdf, 433kb]</a>
 		</td>
 	</tr>
-	</table>
+</table>
 
 
 ### Useful Links
