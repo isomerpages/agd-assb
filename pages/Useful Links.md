@@ -3,12 +3,30 @@ title: Useful Links
 permalink: /useful-links/
 description: Useful Links
 ---
-<img src="/images/Images/Default%20Source/Useful%20Links/img-fr.jpg" alt="img-fr" style="float:left;width:270px;height:202px;">
+<table>
+	<tr>
+		<td>
+			<img src="/images/Images/Default%20Source/Useful%20Links/img-fr.jpg" alt="img-fr" style="width:270px;height:202px;">
+		</td>
+		<td>
+			<h3>Useful Links </h3>
+			<a href="http://www.asc.gov.sg/">
+				Accounting Standards Council
+			</a><br>
+			<a href="http://www.mof.gov.sg/">
+				Ministry of Finance</a>
+		</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>
+			<h3>Useful Guides</h3>
+		</td>
+	</tr>
+	</table>
 
-### Useful Links
-  
-[Accounting Standards Council](http://www.asc.gov.sg/)  
-[Ministry of Finance](http://www.mof.gov.sg/)  
+
+
   
 
 ### Useful Guides
