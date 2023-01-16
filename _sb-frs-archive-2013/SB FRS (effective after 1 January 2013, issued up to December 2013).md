@@ -12,22 +12,22 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 |  | Titles | Effective Date (Annual periods beginning on or after) | Issuance Date |
 | -------- | -------- | -------- | -------- |
 | **Issued in 2012** |  |  |  |
-| SB-FRS 27 | [Separate Financial Statements [.pdf, 181kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/sb-frs_27-separate_financial_statements.pdf) | 1.1.20141| 31.1.2012 |
-| SB-FRS 28 | [Investments in Associates and Joint Ventures [.pdf, 189kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/sb-frs_28-investments_in_associates_and_joint_ventures.pdf) | 1.1.20141 | 31.1.2012 |
+| SB-FRS 27 | [Separate Financial Statements [.pdf, 181kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/sb-frs_27-separate_financial_statements.pdf) | 1.1.2014(1)| 31.1.2012 |
+| SB-FRS 28 | [Investments in Associates and Joint Ventures [.pdf, 189kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/sb-frs_28-investments_in_associates_and_joint_ventures.pdf) | 1.1.2014(1) | 31.1.2012 |
 | SB-FRS 32 | [Offsetting of Financial Assets and Financial Liabilities [.pdf, 185kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/amendments_to_sb-frs_32_offsetting_of_financial_assets-financial_liabilit.pdf) |  1.1.2014 | 31.8.2012 |
-| SB-FRS 110 | [Consolidated Financial Statements [.pdf, 589kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/sb-frs_110-consolidated_financial_statements.pdf) | 1.1.20141 | 31.1.2012 |
+| SB-FRS 110 | [Consolidated Financial Statements [.pdf, 589kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/sb-frs_110-consolidated_financial_statements.pdf) | 1.1.2014(1) | 31.1.2012 |
 | SB-FRS 110 | [Amendments to SB-FRS 110, SB-FRS 111, SB-FRS 112, SB-FRS 27 and SB-FRS 28: Mandatory Effective Date [.pdf, 108kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/amendments_to_sb-frs-110_111_112_27_28_mandatory_effective_date.pdf) | - | 27.11.2012 |
 | SB-FRS 110 | [Consolidated Financial Statements [.pdf, 589kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/sb-frs_110-consolidated_financial_statements.pdf) | 1.1.2014 | 27.11.2012 |
 | SB-FRS 110 | [Consolidated Financial Statements, Joint Arrangements and Disclosure of Interests in Other Entities: Transition Guidance (Amendments to SB-FRS 110, SB-FRS 111 and SB-FRS 112) [.pdf, 193kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/amendments_to_sb-frs-110_111_112_transition-guidance.pdf) | 1.1.2014 | 27.11.2012 |
-| SB-FRS 111 | [Joint Arrangements [.pdf, 439kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/sb-frs_111-joint_arrangements.pdf) | 1.1.20141 | 31.1.2012 |
-| SB-FRS 111 | [Illustrative Examples [.pdf, 194kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/sb-frs_111-joint_arrangements_(ie).pdf) | 1.1.20141 | 31.1.2012 |
-| SB-FRS 112 | [Disclosure of Interests in Other Entities [.pdf, 357kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/sb-frs_112-disclosure_of_interests_in_other_entities.pdf) | 1.1.20141 | 31.1.2012 |
+| SB-FRS 111 | [Joint Arrangements [.pdf, 439kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/sb-frs_111-joint_arrangements.pdf) | 1.1.2014(1) | 31.1.2012 |
+| SB-FRS 111 | [Illustrative Examples [.pdf, 194kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/sb-frs_111-joint_arrangements_(ie).pdf) | 1.1.2014(1) | 31.1.2012 |
+| SB-FRS 112 | [Disclosure of Interests in Other Entities [.pdf, 357kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/sb-frs_112-disclosure_of_interests_in_other_entities.pdf) | 1.1.2014(1) | 31.1.2012 |
 | **Issued in 2013** |  |  |  |
 | SB-FRS 110, SB-FRS 112 and SB-FRS 27 | [Amendments to SB-FRS 110, SB-FRS 112 and SB-FRS 27: Investment Entities [.pdf, 312kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/amendments_to_sb-frs110_sb-frs112_sb-frs27_investment_entities.pdf) | 1.1.2014 | 1.7.2013 |
 | SB-FRS 36 | [Amendments to SB-FRS 36: Recoverable Amount Disclosures for Non-Financial Assets [.pdf, 148kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/amendments_to_sb-frs_36_(jul_2013).pdf) | 1.1.2014 | 6.11.2013 |
 | SB-FRS 39 | [Amendments to SB-FRS 39: Novation of Derivatives and Continuation of Hedge Accounting [.pdf, 117kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/amendments_to_sb-frs_39__(september__2013).pdf) | 1.1.2014 | 6.11.2013 |
 
-1 The mandatory effective date of these FRSs had been revised from 1.1.2013 to 1.1.2014 by the Accountant-General in November 2012 via Amendments to SB- FRS 110, SB-FRS 111, SB-FRS 112, SB-FRS 27 and SB- FRS 28: Mandatory Effective Date.
+(1) The mandatory effective date of these FRSs had been revised from 1.1.2013 to 1.1.2014 by the Accountant-General in November 2012 via Amendments to SB- FRS 110, SB-FRS 111, SB-FRS 112, SB-FRS 27 and SB- FRS 28: Mandatory Effective Date.
 
 ### Archives 
 
