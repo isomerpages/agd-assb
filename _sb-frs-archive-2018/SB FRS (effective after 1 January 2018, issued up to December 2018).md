@@ -14,9 +14,9 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 |  | Titles | Effective Date (Annual periods beginning on or after) | Issuance Date |
 | -------- | -------- | -------- | -------- |
 | **Issued in 2015** |  |  |  |
-| SB-FRS 110, SB-FRS 28 | [Amendments to SB-FRS 110 and SB-FRS 28: Sale or Contribution of Assets between an Investor and its Associate or Joint Venture [.pdf 98kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202018%20to%20Dec%202018/amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined(1) | 18.03.2015 |
+| SB-FRS 110,<br>SB-FRS 28 | [Amendments to SB-FRS 110 and SB-FRS 28: Sale or Contribution of Assets between an Investor and its Associate or Joint Venture [.pdf 98kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202018%20to%20Dec%202018/amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined(1) | 18.03.2015 |
 | **Issued in 2016** |  |  |  |
-| SB-FRS 110, SB-FRS 28 | [Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 [.pdf 27kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202018%20to%20Dec%202018/amendments_to_effective_date_of_amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined | 10.03.2016 |
+| SB-FRS 110,<br>SB-FRS 28 | [Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 [.pdf 27kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202018%20to%20Dec%202018/amendments_to_effective_date_of_amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined | 10.03.2016 |
 | **Issued in 2017** |  |  |  |
 | SB-FRS 116 | [Leases [.pdf 715kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202018%20to%20Dec%202018/sb-frs_116_(2019).pdf)[Illustrative Examples and Amendments to Guidance on Other Standards [.pdf 584kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202018%20to%20Dec%202018/sb-frs_116_ie_(2019).pdf) | 1.1.2019 | 1.2.2017 |
 | **Issued in 2018** |  |  |  |
