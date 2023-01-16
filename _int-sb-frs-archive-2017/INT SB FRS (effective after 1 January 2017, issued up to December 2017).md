@@ -15,6 +15,8 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | INT SB-FRS 122 | [Foreign Currency Transactions and Advance Consideration [.pdf, 94kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Aft%201%20Jan%202017%20to%20Dec%202017/int_sb-frs_122.pdf) <br> [Illustrative Examples [.pdf, 182kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Aft%201%20Jan%202017%20to%20Dec%202017/int_sb-frs_122_ie.pdf) | 1.1.2018 | 14.08.2017 |
 | INT SB-FRS 123 | [Uncertainty over Income Tax Treatments [.pdf, 425kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Aft%201%20Jan%202017%20to%20Dec%202017/int_sb-frs_123_(2019).pdf) <br> [Illustrative Examples [.pdf, 335kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Aft%201%20Jan%202017%20to%20Dec%202017/int_sb-frs_123_ie_(2019).pdf) | 1.1.2019 | 11.12.2017 |
 
+
+
 \*Include accompanying documents such as Implementation Guidance (IG) and Illustrative Examples (IE).
 
 ### Archives 
