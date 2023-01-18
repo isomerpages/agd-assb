@@ -15,6 +15,6 @@ The Ministry of Finance (MOF) organised a reception to show appreciation to indi
 
 We would like to thank past and present ASSB Advisory Committee members for their commitment and contributions to the financial reporting framework for Statutory Boards in Singapore.
 
-![](/images/Images/Default%20Source/Banners/mof-appreciation-day-1.png)
+![MOF Appreciation Day](/images/Images/Default%20Source/Banners/mof-appreciation-day-1.png)
 
 THANK YOU ONCE AGAIN!
