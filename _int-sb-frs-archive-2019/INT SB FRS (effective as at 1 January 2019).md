@@ -3,7 +3,6 @@ title: INT SB FRS (effective as at 1 January 2019)
 permalink: /pronouncements/int-sb-frs/archives/2019/effective-as-at-1-january-2019/
 description: INT SB FRS (effective as at 1 January 2019)
 ---
-
 ### INTERPRETATIONS OF STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2019
 
 This collection of SB-FRSs and INT SB-FRSs includes official pronouncements issued by the Accountant-General (up to 31 December 2018) and are required to be applied for annual periods beginning on 1 January 2019. The collection does not include new/revised/amendments to SB-FRSs and INT SB-FRSs with an effective date after 1 January 2019.
@@ -12,7 +11,7 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 
 | Reference | Titles | Accompanying documents\* |
 | -------- | -------- | -------- |
-| Preface |  | - |
+| Preface | [Preface to Interpretations of Financial Reporting Standards]()  | - |
 | INT SB-FRS 7 |  | - |
 | INT SB-FRS 10 |  | - |
 | INT SB-FRS 25 |  | - |
