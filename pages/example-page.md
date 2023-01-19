@@ -148,19 +148,19 @@ permalink: /example-page/
                     
                 *   [INT SB-FRS (issued before 2013)](/pronouncements/int-sb-frs/archives/2013/issued-before-2013/)
                     
-    *   [SB-FRS Guidance Notes](/pronouncements/sb-frs-guidance-notes)
+    *   [SB-FRS Guidance Notes](/pronouncements/sb-frs-guidance-notes/current)
         
         *   [Current](/pronouncements/sb-frs-guidance-notes/current)
             
-        *   [Archives](/pronouncements/sb-frs-guidance-notes/archives)
+        *   [Archives](pronouncements/sb-frs-guidance-notes/archives)
             
-    *   [SB-FRS Practice Statements](/pronouncements/sb-frs-practice-statements)
+    *   [SB-FRS Practice Statements](/pronouncements/sb-frs-practice-statements/current)
         
         *   [Current](/pronouncements/sb-frs-practice-statements/current)
             
         *   [Archives](/pronouncements/sb-frs-practice-statements/archives)
             
-*   [Consultation](/consultation)
+*   [Consultation](/consultation/exposure-drafts)
     
     *   [Exposure Drafts](/consultation/exposure-drafts)
         
