@@ -8,6 +8,7 @@ notification: This is an ASSB demo page
 sections:
   - hero:
       background: /images/assb-welcome-banner.png
+      url: /who-we-are
   - infopic:
       subtitle: CURRENT
       description: Statutory Board Financial Reporting Standards (SB-FRS) effective as
