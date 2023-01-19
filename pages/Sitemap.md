@@ -18,12 +18,10 @@ description: Sitemap
 *   [Pronouncements](/pronouncements)
     
     *   [Statutory Board Financial Reporting Standards (SB-FRS)](/pronouncements/sb-frs/effective-as-at-1-january-2022/)
-        
-        *   [Current](/pronouncements/sb-frs/effective-as-at-1-january-2022/)
             
-            *   [SB-FRS (effective as at 1 January 2022)](/pronouncements/sb-frs/effective-as-at-1-january-2022/)
+        *   [SB-FRS (effective as at 1 January 2022)](/pronouncements/sb-frs/effective-as-at-1-january-2022/)
                 
-            *   [SB-FRS (effective after 1 January 2022, issued up to December 2022)](/pronouncements/sb-frs/effective-after-1-january-2022-issued-up-to-december-2022/)
+        *   [SB-FRS (effective after 1 January 2022, issued up to December 2022)](/pronouncements/sb-frs/effective-after-1-january-2022-issued-up-to-december-2022/)
                 
         *   [Archives](/pronouncements/sb-frs/archives)
             
@@ -84,12 +82,10 @@ description: Sitemap
                 *   [SB-FRS (issued before 2013)](pronouncements/sb-frs/archives/2013/archives/2013/issued-before-2013)
                     
     *   [Interpretations of SB-FRS](/pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2022)
-        
-        *   [Current](/pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2022)
             
-            *   [INT SB-FRS (effective as at 1 January 2022)](/pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2022/)
+        *   [INT SB-FRS (effective as at 1 January 2022)](/pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2022/)
                 
-            *   [INT SB-FRS (effective after 1 January 2022, issued up to December 2022)](/pronouncements/interpretations-of-sb-frs/effective-after-1-january-2022-issued-up-to-december-2022/)
+        *   [INT SB-FRS (effective after 1 January 2022, issued up to December 2022)](/pronouncements/interpretations-of-sb-frs/effective-after-1-january-2022-issued-up-to-december-2022/)
                 
         *   [Archives](/pronouncements/interpretations-of-sb-frs/archives)
             
