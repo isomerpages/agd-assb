@@ -104,11 +104,11 @@ permalink: /example-page/
                     
                 *   [INT SB-FRS (effective after 1 January 2020, issued up to December 2020)](/pronouncements/interpretations-of-sb-frs/archives/2020/int-sb-frs-(effective-after-1-january-2020-issued-up-to-december-2020))
                     
-            *   [2019](/pronouncements/interpretations-of-sb-frs/archives/2019)
+            *   [2019](/pronouncements/int-sb-frs/archives/2019/effective-as-at-1-january-2019/)
                 
-                *   [INT SB-FRS (effective as at 1 January 2019)](/pronouncements/interpretations-of-sb-frs/archives/2019/int-sb-frs-(effective-as-at-1-january-2019))
+                *   [INT SB-FRS (effective as at 1 January 2019)](/pronouncements/int-sb-frs/archives/2019/effective-as-at-1-january-2019)
                     
-                *   [INT SB-FRS (effective after 1 January 2019, issued up to December 2019)](/pronouncements/interpretations-of-sb-frs/archives/2019/int-sb-frs-(effective-after-1-january-2019-issued-up-to-december-2019))
+                *   [INT SB-FRS (effective after 1 January 2019, issued up to December 2019)](/pronouncements/int-sb-frs/archives/2019/effective-after-1-january-2019-issued-up-to-december-2019)
                     
             *   [2018](/pronouncements/int-sb-frs/archives/2018/effective-as-at-1-january-2018)
                 
