@@ -82,27 +82,27 @@ permalink: /example-page/
                     
                 *   [SB-FRS (issued before 2013)](pronouncements/sb-frs/archives/2013/archives/2013/issued-before-2013)
                     
-    *   [Interpretations of SB-FRS](/pronouncements/interpretations-of-sb-frs)
+    *   [Interpretations of SB-FRS](/pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2022)
         
-        *   [Current](/pronouncements/interpretations-of-sb-frs/current)
+        *   [Current](/pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2022)
             
-            *   [INT SB-FRS (effective as at 1 January 2022)](/pronouncements/interpretations-of-sb-frs/current/int-sb-frs-(effective-as-at-1-january-2022))
+            *   [INT SB-FRS (effective as at 1 January 2022)](/pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2022/)
                 
-            *   [INT SB-FRS (effective after 1 January 2022, issued up to December 2022)](/pronouncements/interpretations-of-sb-frs/current/int-sb-frs-(effective-after-1-january-2021-issued-up-to-december-2022))
+            *   [INT SB-FRS (effective after 1 January 2022, issued up to December 2022)](/pronouncements/interpretations-of-sb-frs/effective-after-1-january-2022-issued-up-to-december-2022/)
                 
         *   [Archives](/pronouncements/interpretations-of-sb-frs/archives)
             
-            *   [2021](/pronouncements/interpretations-of-sb-frs/archives/2021)
+            *   [2021](/pronouncements/int-sb-frs/archives/2021/effective-as-at-1-january-2021)
                 
-                *   [INT SB-FRS (effective as at 1 January 2021)](/pronouncements/interpretations-of-sb-frs/archives/2021/int-sb-frs-(effective-as-at-1-january-2021))
+                *   [INT SB-FRS (effective as at 1 January 2021)](/pronouncements/int-sb-frs/archives/2021/effective-as-at-1-january-2021)
                     
-                *   [INT SB-FRS (effective after 1 January 2021, issued up to December 2021)](/pronouncements/interpretations-of-sb-frs/archives/2021/int-sb-frs-(effective-after-1-january-2021-issued-up-to-december-2021))
+                *   [INT SB-FRS (effective after 1 January 2021, issued up to December 2021)](/pronouncements/int-sb-frs/archives/2021/effective-after-1-january-2021-issued-up-to-december-2021)
                     
-            *   [2020](/pronouncements/interpretations-of-sb-frs/archives/2020)
+            *   [2020](/pronouncements/int-sb-frs/archives/2020/effective-as-at-1-january-2020)
                 
-                *   [INT SB-FRS (effective as at 1 January 2020)](/pronouncements/interpretations-of-sb-frs/archives/2020/int-sb-frs-(effective-as-at-1-january-2020))
+                *   [INT SB-FRS (effective as at 1 January 2020)](/pronouncements/int-sb-frs/archives/2020/effective-as-at-1-january-2020)
                     
-                *   [INT SB-FRS (effective after 1 January 2020, issued up to December 2020)](/pronouncements/interpretations-of-sb-frs/archives/2020/int-sb-frs-(effective-after-1-january-2020-issued-up-to-december-2020))
+                *   [INT SB-FRS (effective after 1 January 2020, issued up to December 2020)](/pronouncements/int-sb-frs/archives/2020/effective-after-1-january-2020-issued-up-to-december-2020)
                     
             *   [2019](/pronouncements/int-sb-frs/archives/2019/effective-as-at-1-january-2019/)
                 
