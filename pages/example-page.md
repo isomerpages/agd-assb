@@ -26,15 +26,15 @@ permalink: /example-page/
                 
         *   [Archives](/pronouncements/sb-frs/archives)
             
-            *   [2021](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2021)
+            *   [2021](/pronouncements/sb-frs/effective-as-at-1-january-2021)
                 
-                *   [SB-FRS (effective as at 1 January 2021)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2021/sb-frs-(effective-as-at-1-january-2021))
+                *   [SB-FRS (effective as at 1 January 2021)](/pronouncements/sb-frs/effective-as-at-1-january-2021)
                     
-                *   [SB-FRS (effective after 1 January 2021, issued up to December 2021)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2021/sb-frs-(effective-after-1-january-2021-issued-up-to-december-2021))
+                *   [SB-FRS (effective after 1 January 2021, issued up to December 2021)](/pronouncements/sb-frs/effective-after-1-january-2021-issued-up-to-december-2021/)
                     
-            *   [2020](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2020)
+            *   [2020](/pronouncements/sb-frs/effective-as-at-1-january-2020)
                 
-                *   [SB-FRS (effective as at 1 January 2020)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2020/sb-frs-(effective-as-at-1-january-2020))
+                *   [SB-FRS (effective as at 1 January 2020)](/pronouncements/sb-frs/effective-after-1-january-2020-issued-up-to-december-2020)
                     
                 *   [SB-FRS (effective after 1 January 2020, issued up to December 2020)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2020/sb-frs-(effective-after-1-january-2020-issued-up-to-december-2020))
                     
