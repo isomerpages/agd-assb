@@ -61,7 +61,7 @@ sections:
   - infopic:
       subtitle: SB-FRS Guidance Notes
       button: VIEW ARCHIVES
-      url: https://staging.d35yvikdo8upn9.amplifyapp.com/pronouncements/sb-frs-guidance-notes/archives/
+      url: /pronouncements/sb-frs-guidance-notes/archives/
       image: /images/sb-frs-guidance-note-photo-1.jpg
       alt: Image alt text
   - resources:
