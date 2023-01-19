@@ -12,8 +12,8 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | Reference | Titles | Accompanying documents\* |
 | -------- | -------- | -------- |
 | Preface | [Preface to Interpretations of Financial Reporting Standards]()  | - |
-| INT SB-FRS 7 |  | - |
-| INT SB-FRS 10 |  | - |
+| INT SB-FRS 7 | [Introduction of Euro]() | - |
+| INT SB-FRS 10 | [Government Assistance - No Specific Relation to Operating Activites]() | - |
 | INT SB-FRS 25 |  | - |
 | INT SB-FRS 29 |  | - |
 | INT SB-FRS 32 |  |  |
