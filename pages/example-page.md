@@ -26,61 +26,61 @@ permalink: /example-page/
                 
         *   [Archives](/pronouncements/sb-frs/archives)
             
-            *   [2021](/pronouncements/sb-frs/effective-as-at-1-january-2021)
+            *   [2021](/pronouncements/sb-frs/archives/2021/effective-as-at-1-january-2021)
                 
-                *   [SB-FRS (effective as at 1 January 2021)](/pronouncements/sb-frs/effective-as-at-1-january-2021)
+                *   [SB-FRS (effective as at 1 January 2021)](/pronouncements/sb-frs/archives/2021/effective-as-at-1-january-2021)
                     
-                *   [SB-FRS (effective after 1 January 2021, issued up to December 2021)](/pronouncements/sb-frs/effective-after-1-january-2021-issued-up-to-december-2021/)
+                *   [SB-FRS (effective after 1 January 2021, issued up to December 2021)](/pronouncements/sb-frs/archives/2021/effective-after-1-january-2021-issued-up-to-december-2021/)
                     
-            *   [2020](/pronouncements/sb-frs/effective-as-at-1-january-2020)
+            *   [2020](/pronouncements/sb-frs/archives/2020/effective-as-at-1-january-2020)
                 
-                *   [SB-FRS (effective as at 1 January 2020)](/pronouncements/sb-frs/effective-after-1-january-2020-issued-up-to-december-2020)
+                *   [SB-FRS (effective as at 1 January 2020)](/pronouncements/sb-frs/archives/2020/effective-as-at-1-january-2020)
                     
-                *   [SB-FRS (effective after 1 January 2020, issued up to December 2020)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2020/sb-frs-(effective-after-1-january-2020-issued-up-to-december-2020))
+                *   [SB-FRS (effective after 1 January 2020, issued up to December 2020)](/pronouncements/sb-frs/archives/2020/effective-after-1-january-2020-issued-up-to-december-2020)
                     
-            *   [2019](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2019)
+            *   [2019](/pronouncements/sb-frs/archives/2019/effective-as-at-1-january-2019)
                 
-                *   [SB-FRS (effective as at 1 January 2019)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2019/sb-frs-(effective-as-at-1-january-2019))
+                *   [SB-FRS (effective as at 1 January 2019)](/pronouncements/sb-frs/archives/2019/effective-as-at-1-january-2019)
                     
-                *   [SB-FRS (effective after 1 January 2019, issued up to December 2019)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2019/sb-frs-(effective-after-1-january-2019-issued-up-to-december-2019))
+                *   [SB-FRS (effective after 1 January 2019, issued up to December 2019)](/pronouncements/sb-frs/archives/2019/effective-after-1-january-2019-issued-up-to-december-2019)
                     
-            *   [2018](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2018)
+            *   [2018](/pronouncements/sb-frs/archives/2018/effective-as-at-1-january-2018)
                 
-                *   [SB-FRS (effective as at 1 January 2018)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2018/sb-frs-(effective-as-at-1-january-2018))
+                *   [SB-FRS (effective as at 1 January 2018)](/pronouncements/sb-frs/archives/2018/effective-as-at-1-january-2018)
                     
-                *   [SB-FRS (effective after 1 January 2018, issued up to December 2018)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2018/sb-frs-(effective-after-1-january-2018-issued-up-to-december-2018))
+                *   [SB-FRS (effective after 1 January 2018, issued up to December 2018)](/pronouncements/sb-frs/archives/2018/effective-after-1-january-2018-issued-up-to-december-2018)
                     
-            *   [2017](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2017)
+            *   [2017](/pronouncements/sb-frs/archives/2017/effective-as-at-1-january-2017)
                 
-                *   [SB-FRS (effective as at 1 January 2017)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2017/sb-frs-(effective-as-at-1-january-2017))
+                *   [SB-FRS (effective as at 1 January 2017)](/pronouncements/sb-frs/archives/2017/effective-as-at-1-january-2017)
                     
-                *   [SB-FRS (effective after 1 January 2017, issued up to December 2017)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2017/sb-frs-(effective-after-1-january-2017-issued-up-to-december-2017))
+                *   [SB-FRS (effective after 1 January 2017, issued up to December 2017)](/pronouncements/sb-frs/archives/2017/effective-after-1-january-2017-issued-up-to-december-2017)
                     
-            *   [2016](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2016)
+            *   [2016](/pronouncements/sb-frs/archives/2016/effective-as-at-1-january-2016)
                 
-                *   [SB-FRS (effective as at 1 January 2016)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2016/sb-frs-(effective-as-at-1-january-2016))
+                *   [SB-FRS (effective as at 1 January 2016)](/pronouncements/sb-frs/archives/2016/effective-as-at-1-january-2016)
                     
-                *   [SB-FRS (effective after 1 January 2016, issued up to December 2016)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2016/sb-frs-(effective-after-1-january-2016-issued-up-to-december-2016))
+                *   [SB-FRS (effective after 1 January 2016, issued up to December 2016)](/pronouncements/sb-frs/archives/2016/effective-after-1-january-2016-issued-up-to-december-2016)
                     
-            *   [2015](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2015)
+            *   [2015](/pronouncements/sb-frs/archives/2015/effective-as-at-1-january-2015)
                 
-                *   [SB-FRS (effective as at 1 January 2015)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2015/sb-frs-(effective-as-at-1-january-2015))
+                *   [SB-FRS (effective as at 1 January 2015)](/pronouncements/sb-frs/archives/2015/effective-as-at-1-january-2015)
                     
-                *   [SB-FRS (effective after 1 January 2015, issued up to December 2015)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2015/sb-frs-(effective-after-1-january-2015-issued-up-to-december-2015))
+                *   [SB-FRS (effective after 1 January 2015, issued up to December 2015)](/pronouncements/sb-frs/archives/2015/effective-after-1-january-2015-issued-up-to-december-2015)
                     
-            *   [2014](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2014)
+            *   [2014](/pronouncements/sb-frs/archives/2014/effective-as-at-1-january-2014)
                 
-                *   [SB-FRS (effective as at 1 January 2014)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2014/sb-frs-(effective-as-at-1-january-2014))
+                *   [SB-FRS (effective as at 1 January 2014)](/pronouncements/sb-frs/archives/2014/effective-as-at-1-january-2014)
                     
-                *   [SB-FRS (effective after 1 January 2014, issued up to December 2014)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2014/sb-frs-(effective-after-1-january-2014-issued-up-to-december-2014))
+                *   [SB-FRS (effective after 1 January 2014, issued up to December 2014)](/pronouncements/sb-frs/archives/2014/effective-after-1-january-2014-issued-up-to-december-2014)
                     
-            *   [2013](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2013)
+            *   [2013](/pronouncements/sb-frs/archives/2013/effective-as-at-1-january-2013)
                 
-                *   [SB-FRS (effective as at 1 January 2013)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2013/sb-frs-(effective-as-at-1-january-2013))
+                *   [SB-FRS (effective as at 1 January 2013)](/pronouncements/sb-frs/archives/2013/effective-as-at-1-january-2013)
                     
-                *   [SB-FRS (effective after 1 January 2013, issued up to December 2013)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2013/sb-frs-(effective-after-1-january-2013-issued-up-to-december-2013))
+                *   [SB-FRS (effective after 1 January 2013, issued up to December 2013)](/pronouncements/sb-frs/archives/2013/effective-after-1-january-2013-issued-up-to-december-2013)
                     
-                *   [SB-FRS (issued before 2013)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2013/sb-frs-(issued-before-2013))
+                *   [SB-FRS (issued before 2013)](pronouncements/sb-frs/archives/2013/archives/2013/issued-before-2013)
                     
     *   [Interpretations of SB-FRS](/pronouncements/interpretations-of-sb-frs)
         
