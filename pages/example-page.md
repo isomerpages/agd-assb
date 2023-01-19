@@ -4,7 +4,7 @@ permalink: /example-page/
 ---
 *   [Home](/)
     
-*   [Who We Are](/who-we-are)
+*   [Who We Are](/who-we-are/introduction)
     
     *   [Introduction](/who-we-are/introduction)
         
@@ -16,15 +16,15 @@ permalink: /example-page/
         
 *   [Pronouncements](/pronouncements)
     
-    *   [Statutory Board Financial Reporting Standards (SB-FRS)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs))
+    *   [Statutory Board Financial Reporting Standards (SB-FRS)](/pronouncements/sb-frs/effective-as-at-1-january-2022/)
         
-        *   [Current](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/current)
+        *   [Current](/pronouncements/sb-frs/effective-as-at-1-january-2022/)
             
-            *   [SB-FRS (effective as at 1 January 2022)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/current/sb-frs-(effective-as-at-1-january-2022))
+            *   [SB-FRS (effective as at 1 January 2022)](/pronouncements/sb-frs/effective-as-at-1-january-2022/)
                 
-            *   [SB-FRS (effective after 1 January 2022, issued up to December 2022)](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/current/sb-frs-(effective-after-1-january-2022-issued-up-to-december-2022))
+            *   [SB-FRS (effective after 1 January 2022, issued up to December 2022)](/pronouncements/sb-frs/effective-after-1-january-2022-issued-up-to-december-2022/)
                 
-        *   [Archives](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives)
+        *   [Archives](/pronouncements/sb-frs/archives)
             
             *   [2021](/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/archives/2021)
                 
@@ -181,4 +181,3 @@ permalink: /example-page/
 *   [Privacy Statement](/privacy)
     
 *   [Terms of Use](/terms-of-use)
-    
