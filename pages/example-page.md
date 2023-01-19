@@ -140,13 +140,13 @@ permalink: /example-page/
                     
                 *   [INT SB-FRS (effective after 1 January 2014, issued up to December 2014)](/pronouncements/interpretations-of-sb-frs/archives/2014/int-sb-frs-(effective-after-1-january-2014-issued-up-to-december-2014))
                     
-            *   [2013](/pronouncements/interpretations-of-sb-frs/archives/2013)
+            *   [2013](/pronouncements/int-sb-frs/archives/2013/effective-as-at-1-january-2013/)
                 
-                *   [INT SB-FRS (effective as at 1 January 2013)](/pronouncements/interpretations-of-sb-frs/archives/2013/int-sb-frs-(effective-as-at-1-january-2013))
+                *   [INT SB-FRS (effective as at 1 January 2013)](/pronouncements/int-sb-frs/archives/2013/effective-as-at-1-january-2013)
                     
-                *   [INT SB-FRS (effective after 1 January 2013, issued up to December 2013)](/pronouncements/interpretations-of-sb-frs/archives/2013/int-sb-frs-(effective-after-1-january-2013-issued-up-to-december-2013))
+                *   [INT SB-FRS (effective after 1 January 2013, issued up to December 2013)](/pronouncements/int-sb-frs/archives/2013/effective-after-1-january-2013-issued-up-to-december-2013)
                     
-                *   [INT SB-FRS (issued before 2013)](/pronouncements/interpretations-of-sb-frs/archives/2013/int-sb-frs-(issued-before-2013))
+                *   [INT SB-FRS (issued before 2013)](/pronouncements/int-sb-frs/archives/2013/issued-before-2013/)
                     
     *   [SB-FRS Guidance Notes](/pronouncements/sb-frs-guidance-notes)
         
