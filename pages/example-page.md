@@ -114,31 +114,31 @@ permalink: /example-page/
                 
                 *   [INT SB-FRS (effective as at 1 January 2018)](/pronouncements/interpretations-of-sb-frs/archives/2018/int-sb-frs-(effective-as-at-1-january-2018))
                     
-                *   [INT SB-FRS (effective after 1 January 2018, issued up to December 2018)](/pronouncements/interpretations-of-sb-frs/archives/2018/int-sb-frs-(effective-after-1-january-2018-issued-up-to-december-2018))
+                *   [INT SB-FRS (effective after 1 January 2018, issued up to December 2018)](/pronouncements/int-sb-frs/archives/2018/effective-as-at-1-january-2018)
                     
-            *   [2017](/pronouncements/interpretations-of-sb-frs/archives/2017)
+            *   [2017](/pronouncements/int-sb-frs/archives/2017/effective-as-at-1-january-2017)
                 
-                *   [INT SB-FRS (effective as at 1 January 2017)](/pronouncements/interpretations-of-sb-frs/archives/2017/int-sb-frs-(effective-as-at-1-january-2017))
+                *   [INT SB-FRS (effective as at 1 January 2017)](/pronouncements/int-sb-frs/archives/2017/effective-as-at-1-january-2017)
                     
-                *   [INT SB-FRS (effective after 1 January 2017, issued up to December 2017)](/pronouncements/interpretations-of-sb-frs/archives/2017/int-sb-frs-(effective-after-1-january-2017-issued-up-to-december-2017))
+                *   [INT SB-FRS (effective after 1 January 2017, issued up to December 2017)](/pronouncements/int-sb-frs/archives/2017/effective-after-1-january-2017-issued-up-to-december-2017)
                     
-            *   [2016](/pronouncements/interpretations-of-sb-frs/archives/2016)
+            *   [2016](/pronouncements/int-sb-frs/archives/2016/effective-as-at-1-january-2016)
                 
-                *   [INT SB-FRS (effective as at 1 January 2016)](/pronouncements/interpretations-of-sb-frs/archives/2016/int-sb-frs-(effective-as-at-1-january-2016))
+                *   [INT SB-FRS (effective as at 1 January 2016)](/pronouncements/int-sb-frs/archives/2016/effective-as-at-1-january-2016)
                     
-                *   [INT SB-FRS (effective after 1 January 2016, issued up to December 2016)](/pronouncements/interpretations-of-sb-frs/archives/2016/int-sb-frs-(effective-after-1-january-2016-issued-up-to-december-2016))
+                *   [INT SB-FRS (effective after 1 January 2016, issued up to December 2016)](/pronouncements/int-sb-frs/archives/2016/effective-after-1-january-2016-issued-up-to-december-2016)
                     
-            *   [2015](/pronouncements/interpretations-of-sb-frs/archives/2015)
+            *   [2015](/pronouncements/int-sb-frs/archives/2015/effective-as-at-1-january-2015)
                 
-                *   [INT SB-FRS (effective as at 1 January 2015)](/pronouncements/interpretations-of-sb-frs/archives/2015/int-sb-frs-(effective-as-at-1-january-2015))
+                *   [INT SB-FRS (effective as at 1 January 2015)](/pronouncements/int-sb-frs/archives/2015/effective-as-at-1-january-2015)
                     
-                *   [INT SB-FRS (effective after 1 January 2015, issued up to December 2015)](/pronouncements/interpretations-of-sb-frs/archives/2015/int-sb-frs-(effective-after-1-january-2015-issued-up-to-december-2015))
+                *   [INT SB-FRS (effective after 1 January 2015, issued up to December 2015)](/pronouncements/int-sb-frs/archives/2015/effective-after-1-january-2015-issued-up-to-december-2015)
                     
-            *   [2014](/pronouncements/interpretations-of-sb-frs/archives/2014)
+            *   [2014](/pronouncements/int-sb-frs/archives/2014/effective-as-at-1-january-2014)
                 
-                *   [INT SB-FRS (effective as at 1 January 2014)](/pronouncements/interpretations-of-sb-frs/archives/2014/int-sb-frs-(effective-as-at-1-january-2014))
+                *   [INT SB-FRS (effective as at 1 January 2014)](/pronouncements/int-sb-frs/archives/2014/effective-as-at-1-january-2014)
                     
-                *   [INT SB-FRS (effective after 1 January 2014, issued up to December 2014)](/pronouncements/interpretations-of-sb-frs/archives/2014/int-sb-frs-(effective-after-1-january-2014-issued-up-to-december-2014))
+                *   [INT SB-FRS (effective after 1 January 2014, issued up to December 2014)](/pronouncements/int-sb-frs/archives/2014/effective-after-1-january-2014-issued-up-to-december-2014/)
                     
             *   [2013](/pronouncements/int-sb-frs/archives/2013/effective-as-at-1-january-2013/)
                 
