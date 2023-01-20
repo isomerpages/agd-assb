@@ -6,6 +6,12 @@ description: Useful Links
 <img src="/images/Images/Default%20Source/Useful%20Links/img-fr.jpg" alt="img-fr" style="height:202px; width:270px;"> 
 
 ### Useful Links
-[Accounting Standards Council](http://www.asc.gov.sg/)<br>
-[Ministry of Finance](http://www.mof.gov.sg/)
+  
+[Accounting Standards Council](http://www.asc.gov.sg/)  
+[Ministry of Finance](http://www.mof.gov.sg/)  
+  
 
+### Useful Guides
+  
+If you do not already have Adobe Reader or Microsoft Word, please download the software for free here: \[[pdf](http://www.adobe.com/products/acrobat/readstep2.html)\]  
+[Guide to IFRS 7 (IFRS equivalent to SB-FRS 107) \[.pdf, 433kb\]](https://www.assb.gov.sg/docs/default-source/useful-links/ifrs7forcorporates.pdf?sfvrsn=f4de1d0d_0 "Guide to IFRS 7 (IFRS equivalent to SB-FRS 107)")
