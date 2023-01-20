@@ -27,3 +27,19 @@ permalink: /example-page/
 		</td>
 	</tr>
 </table>
+
+
+||
+|---|
+| [Home](/) |
+| [Who We Are](/who-we-are) |
+| [Pronouncements]() |
+| [Consultation]() |
+| [News]() |
+| [Useful Links]() |
+| [Email Subscription]() |
+| [Contact Us]() |
+| [Feedback]() |
+| [Sitemap](/sitemap) |
+| [Privacy Statement](/privacy) |
+| [Terms of Use](/terms-of-use) |
