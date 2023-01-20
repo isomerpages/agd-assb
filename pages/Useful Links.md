@@ -14,7 +14,7 @@ description: Useful Links
 |---|
 | [Home](/) |
 | [Who We Are](/who-we-are/introduction/) |
-| [Pronouncements](pronouncements/sb-frs/effective-as-at-1-january-2022/) |
+| [Pronouncements](/pronouncements/sb-frs/effective-as-at-1-january-2022/) |
 | [Consultation](/consultation/exposure-drafts/) |
 | [News](/news/) |
 | **[Useful Links](/useful-links/)** |
