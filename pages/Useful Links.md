@@ -13,14 +13,14 @@ description: Useful Links
 ||
 |---|
 | [Home](/) |
-| [Who We Are](/who-we-are) |
-| [Pronouncements]() |
-| [Consultation]() |
-| [News]() |
-| **[Useful Links]()** |
-| [Email Subscription]() |
-| [Contact Us]() |
-| [Feedback]() |
+| [Who We Are](/who-we-are/introduction/) |
+| [Pronouncements](pronouncements/sb-frs/effective-as-at-1-january-2022/) |
+| [Consultation](/consultation/exposure-drafts/) |
+| [News](/news/) |
+| **[Useful Links](/useful-links/)** |
+| [Email Subscription](https://form.gov.sg/63624f45fbb3dd00128d2177) |
+| [Contact Us](/contact-us/) |
+| [Feedback](https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?+3Yh9GmoHeKhzWZc3r2CaJKxUDwVVo7KD+QyznqJW77da0JbfPFRlL+RQ6qggH9m) |
 | [Sitemap](/sitemap) |
 | [Privacy Statement](/privacy) |
 | [Terms of Use](/terms-of-use) |
