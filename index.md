@@ -9,6 +9,8 @@ sections:
   - hero:
       background: /images/assb-welcome-banner.png
       url: /who-we-are
+  - infobar:
+      title: Pronouncements
   - infopic:
       subtitle: CURRENT
       description: Statutory Board Financial Reporting Standards (SB-FRS) effective as
