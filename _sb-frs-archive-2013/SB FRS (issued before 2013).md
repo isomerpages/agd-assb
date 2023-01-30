@@ -32,7 +32,7 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 |  | [Construction Contracts [.pdf, 111kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_11_2009.pdf) | 1.1.2009 | 16.6.2008 |
 | SB-FRS 12 | [Income Taxes [.pdf, 429kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_12_2005.pdf) | 1.1.2005 | 5.3.2008 |
 |  | [Income Taxes [.pdf, 427kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_12_2007.pdf) | 1.1.2007 | 5.3.2008 |
-|  | [Income Taxes [.doc, 68kb]]() | 1.1.2012 | 6.7.2011 |
+|  | [Income Taxes [.pdf, 187kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_12_2012.pdf) | 1.1.2012 | 6.7.2011 |
 | SB-FRS 14 | [Segment Reporting [.pdf, 273kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_14_2005.pdf) | 1.1.2005 | 5.3.2008 |
 |  | [Segment Reporting (superseded by SB-FRS 108 from 1.1.2009) [.pdf, 272kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_14_2008.pdf) | 1.1.2008 | 16.6.2008 |
 | SB-FRS 16 | [Property, Plant and Equipment [.pdf, 141kb]](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_16_2004.pdf) | 1.1.2004 | 5.3.2008 |
