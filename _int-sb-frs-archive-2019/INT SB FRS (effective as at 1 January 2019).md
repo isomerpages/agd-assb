@@ -24,13 +24,13 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | INT SB-FRS 110 | [Interim Financial Reporting and Impairment](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_110_(2019).pdf) | - |
 | INT SB-FRS 112 | [Service Concession Arrangements](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_112_(2019).pdf) | [IN & IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_112_IN_IE_(2019).pdf) |
 | INT SB-FRS 114 | [SB-FRS 19 - The Limit on a Defined Benefit Asset, Minimum Funding Requirements and their Interaction](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_114_(2019).pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_114_IE_(2019).pdf) |
-| INT SB-FRS 116 | [Hedges of a Net Investment in a Foreign Operation]() | [IE]() |
-| INT SB-FRS 117 | [Distributions of Non-cash Assets to Owners]() | [IE]() |
-| INT SB-FRS 119 | [Extinguishing Financial Liabilities with Equity Instruments]() | - |
-| INT SB-FRS 120 | [Stripping Costs in the Production Phase of a Surface Mine]() | - |
-| INT SB-FRS 121 | [Levies]() | [IE]() |
-| INT SB-FRS 122 | [Foreign Currency Transactions and Advance Considerations]() | [IE]() |
-| INT SB-FRS 123 | [Uncertainty over Income Tax Treatments]() | [IE]() |
+| INT SB-FRS 116 | [Hedges of a Net Investment in a Foreign Operation](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_116_(2019).pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_116_IE_(2019).pdf) |
+| INT SB-FRS 117 | [Distributions of Non-cash Assets to Owners](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_117_(2019).pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_117_IE_(2019).pdf) |
+| INT SB-FRS 119 | [Extinguishing Financial Liabilities with Equity Instruments](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_119_(2019).pdf) | - |
+| INT SB-FRS 120 | [Stripping Costs in the Production Phase of a Surface Mine](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_120_(2019).pdf) | - |
+| INT SB-FRS 121 | [Levies](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_121_(2019).pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_121_IE_(2019).pdf) |
+| INT SB-FRS 122 | [Foreign Currency Transactions and Advance Considerations](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_122_(2019).pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_122_IE_(2019).pdf) |
+| INT SB-FRS 123 | [Uncertainty over Income Tax Treatments](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_123_(2019).pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_123_IE_(2019).pdf) |
 
 \*Include Implementation Guidance (IG), Illustrative Examples (IE) and Information Note (IN).
 
