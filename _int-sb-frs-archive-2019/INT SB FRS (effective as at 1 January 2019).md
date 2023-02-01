@@ -13,10 +13,10 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | -------- | -------- | -------- |
 | Preface | [Preface to Interpretations of Financial Reporting Standards](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_Preface.pdf)  | - |
 | INT SB-FRS 7 | [Introduction of Euro](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_7_(2019).pdf) | - |
-| INT SB-FRS 10 | [Government Assistance - No Specific Relation to Operating Activities]() | - |
-| INT SB-FRS 25 | [Income Taxes - Changes in the Tax Status of an Enterprise or its Shareholders]() | - |
-| INT SB-FRS 29 | [Service Concession Arrangements: Disclosures]() | - |
-| INT SB-FRS 32 | [Intangible Assets - Web Site Costs]() | [IE]() |
+| INT SB-FRS 10 | [Government Assistance - No Specific Relation to Operating Activities](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_10_(2019).pdf) | - |
+| INT SB-FRS 25 | [Income Taxes - Changes in the Tax Status of an Enterprise or its Shareholders](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_25_(2019).pdf) | - |
+| INT SB-FRS 29 | [Service Concession Arrangements: Disclosures](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_29_(2019).pdf) | - |
+| INT SB-FRS 32 | [Intangible Assets - Web Site Costs](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_29_(2019).pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_32_IE_(2019).pdf) |
 | INT SB-FRS 101 | [Changes in Existing Decommissioning, Restoration and Similar Liabilities]() | [IE]() |
 | INT SB-FRS 105 | [Rights to Interests arising from Decommissioning, Restoration and Environmental Rehabilitation Funds]() | - |
 | INT SB-FRS 106 | [Liabilities arising from Participating in a Specific Market - Waste Electrical and Electronic Equipment]() | - |
