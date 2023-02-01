@@ -17,13 +17,13 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | INT SB-FRS 25 | [Income Taxes - Changes in the Tax Status of an Enterprise or its Shareholders](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_25_(2019).pdf) | - |
 | INT SB-FRS 29 | [Service Concession Arrangements: Disclosures](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_29_(2019).pdf) | - |
 | INT SB-FRS 32 | [Intangible Assets - Web Site Costs](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_29_(2019).pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_32_IE_(2019).pdf) |
-| INT SB-FRS 101 | [Changes in Existing Decommissioning, Restoration and Similar Liabilities]() | [IE]() |
-| INT SB-FRS 105 | [Rights to Interests arising from Decommissioning, Restoration and Environmental Rehabilitation Funds]() | - |
-| INT SB-FRS 106 | [Liabilities arising from Participating in a Specific Market - Waste Electrical and Electronic Equipment]() | - |
-| INT SB-FRS 107 | [Applying the Restatement Approach under FRS 29 Financial Reporting in Hyperinflationary Economies]() | [IE]() |
-| INT SB-FRS 110 | [Interim Financial Reporting and Impairment]() | - |
-| INT SB-FRS 112 | [Service Concession Arrangements]() | [IN & IE]() |
-| INT SB-FRS 114 | [SB-FRS 19 - The Limit on a Defined Benefit Asset, Minimum Funding Requirements and their Interaction]() | [IE]() |
+| INT SB-FRS 101 | [Changes in Existing Decommissioning, Restoration and Similar Liabilities](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_101_(2019).pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_101_IE_(2019).pdf) |
+| INT SB-FRS 105 | [Rights to Interests arising from Decommissioning, Restoration and Environmental Rehabilitation Funds](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_105_(2019).pdf) | - |
+| INT SB-FRS 106 | [Liabilities arising from Participating in a Specific Market - Waste Electrical and Electronic Equipment](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_106_(2019).pdf) | - |
+| INT SB-FRS 107 | [Applying the Restatement Approach under FRS 29 Financial Reporting in Hyperinflationary Economies](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_107_(2019).pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_107_IE_(2019).pdf) |
+| INT SB-FRS 110 | [Interim Financial Reporting and Impairment](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_110_(2019).pdf) | - |
+| INT SB-FRS 112 | [Service Concession Arrangements](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_112_(2019).pdf) | [IN & IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_112_IN_IE_(2019).pdf) |
+| INT SB-FRS 114 | [SB-FRS 19 - The Limit on a Defined Benefit Asset, Minimum Funding Requirements and their Interaction](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_114_(2019).pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_114_IE_(2019).pdf) |
 | INT SB-FRS 116 | [Hedges of a Net Investment in a Foreign Operation]() | [IE]() |
 | INT SB-FRS 117 | [Distributions of Non-cash Assets to Owners]() | [IE]() |
 | INT SB-FRS 119 | [Extinguishing Financial Liabilities with Equity Instruments]() | - |
