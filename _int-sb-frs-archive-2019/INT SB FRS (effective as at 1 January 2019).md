@@ -12,7 +12,7 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | Reference | Titles | Accompanying documents\* |
 | -------- | -------- | -------- |
 | Preface | [Preface to Interpretations of Financial Reporting Standards](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_Preface.pdf)  | - |
-| INT SB-FRS 7 | [Introduction of Euro]() | - |
+| INT SB-FRS 7 | [Introduction of Euro](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202019/INT_SB-FRS_7_(2019).pdf) | - |
 | INT SB-FRS 10 | [Government Assistance - No Specific Relation to Operating Activities]() | - |
 | INT SB-FRS 25 | [Income Taxes - Changes in the Tax Status of an Enterprise or its Shareholders]() | - |
 | INT SB-FRS 29 | [Service Concession Arrangements: Disclosures]() | - |
