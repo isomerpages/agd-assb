@@ -1,5 +1,5 @@
 title: Accounting Standards for Statutory Boards
-url: https://staging.d35yvikdo8upn9.amplifyapp.com
+url: https://www.assb.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#005373"
@@ -15,7 +15,7 @@ colors:
       color: "#3a7d97"
     - title: media-color-five
       color: "#3a7d97"
-description: An Isomer site of the Singapore Government
+description: Accounting Standards for Statutory Boards of the Singapore Government
 permalink: none
 baseurl: ""
 exclude:
@@ -54,6 +54,6 @@ prod: https://master.d35yvikdo8upn9.amplifyapp.com
 shareicon: /images/isomer-logo.svg
 is_government: true
 facebook-pixel: ""
-google_analytics: https://staging.d35yvikdo8upn9.amplifyapp.com/
+google_analytics: ""
 linkedin-insights: ""
 resources_name: news
