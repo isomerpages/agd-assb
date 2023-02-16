@@ -4,7 +4,7 @@ title: Accounting Standards for Statutory Boards
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: This is an ASSB demo page
+notification: ""
 sections:
   - hero:
       background: /images/assb-welcome-banner.png
