@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Accounting Standards for Statutory Boards
-description: An Isomer site of the Singapore Government
+description: Accounting Standards for Statutory Boards of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -75,3 +75,4 @@ sections:
       button: EMAIL SUBSCRIPTION
       url: https://form.gov.sg/63624f45fbb3dd00128d2177
 ---
+
