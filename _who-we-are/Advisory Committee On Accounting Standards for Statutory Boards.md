@@ -25,25 +25,7 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Joyce-Tong.jpg" alt="Ms Joyce Tong" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Joyce Tong**<br>Group Director (Finance)<br>A\*STAR
-
-<br>
-<br>
-<br>
-
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Ong-Swad-Yen.jpg" alt="Ms Ong Swad Yen" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Ong Swad Yen**<br>Director (Finance, Procurement & Admin)<br>National Heritage Board
-
-<br>
-<br>
-<br>
-
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Eleanor-Lee.jpg" alt="Ms Eleanor Lee" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Eleanor Lee**<br>Partner<br>Ernst & Young LLP
-
-<br>
-<br>
-<br>
-
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Debra-Ann-Ker.jpg" alt="Ms Debra Ann Ker" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Debra Ann Ker**<br>Partner<br>PWC
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Chan-Yen-San.jpg" alt="Ms Chan Yen San" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Chan Yen San**<br>Partner<br>KPMG LLP
 
 <br>
 <br>
@@ -55,13 +37,13 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Ng-Lip-Nin.jpg" alt="Ms Ng Lip Nin" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Ng Lip Nin**<br>Group Director<br>Auditor-General's Office
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Debra-Ann-Ker.jpg" alt="Ms Debra Ann Ker" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Debra Ann Ker**<br>Partner<br>PWC
 
 <br>
 <br>
 <br>
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Chan-Yen-San.jpg" alt="Ms Chan Yen San" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Chan Yen San**<br>Partner<br>KPMG LLP
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Eleanor-Lee.jpg" alt="Ms Eleanor Lee" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Eleanor Lee**<br>Partner<br>Ernst & Young LLP
 
 <br>
 <br>
@@ -73,10 +55,28 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Cecilia-Neo.jpg" alt="Ms Cecilia Neo" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Cecilia Neo**<br>Director (Finance)<br>Energy Market Authority
+
+<br>
+<br>
+<br>
+
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Ng-Lip-Nin.jpg" alt="Ms Ng Lip Nin" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Ng Lip Nin**<br>Group Director<br>Auditor-General's Office
+
+<br>
+<br>
+<br>
+
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Ong-Swad-Yen.jpg" alt="Ms Ong Swad Yen" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Ong Swad Yen**<br>Director (Finance, Procurement & Admin)<br>National Heritage Board
+
+<br>
+<br>
+<br>
+
 <img src="/images/Images/Default%20Source/Who%20We%20Are/William-Tan.jpg" alt="Mr William Tan" style="width:200px;height:250px;object-fit:cover;" align="left">**Mr William Tan**<br>Assistant Chief Executive<br>National Library Board
 
 <br>
 <br>
 <br>
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Cecilia-Neo.jpg" alt="Ms Cecilia Neo" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Cecilia Neo**<br>Director (Finance)<br>Energy Market Authority
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Joyce-Tong.jpg" alt="Ms Joyce Tong" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Joyce Tong**<br>Group Director (Finance)<br>A\*STAR
