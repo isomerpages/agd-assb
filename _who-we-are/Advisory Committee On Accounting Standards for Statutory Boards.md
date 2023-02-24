@@ -11,7 +11,7 @@ To bring wider representation and experience into the standards setting process,
 
 ### **Chairman**
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/ow-fook-chuen.jpg" alt="Mr Ow Fook Chuen" style="width:200px;height:250px;" align="left">**Mr Ow Fook Chuen**<br>Accountant-General
+<img src="/images/Images/Default%20Source/Who%20We%20Are/ow-fook-chuen.jpg" alt="Mr Ow Fook Chuen" style="width:200px;height:250px;object-fit:cover;" align="left">**Mr Ow Fook Chuen**<br>Accountant-General
 
 <br>
 <br>
