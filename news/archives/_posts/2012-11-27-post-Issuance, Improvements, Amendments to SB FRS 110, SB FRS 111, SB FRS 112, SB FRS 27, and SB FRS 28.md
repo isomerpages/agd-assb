@@ -1,6 +1,6 @@
 ---
-title: Issuance, Improvements, Amendments to SB FRS 110, SB FRS 111, SB FRS 112,
-  SB FRS 27, and SB FRS 28
+title: Issuance, Improvements, Amendments to SB-FRS 110, SB-FRS 111, SB-FRS 112,
+  SB-FRS 27, and SB-FRS 28
 permalink: /news/archives/issuance-improvements-amendments-to-sb-frs-110-sb-frs-111-sb-frs-112/
 date: 2012-11-27
 layout: post

@@ -1,5 +1,5 @@
 ---
-title: Available for Comments – ED Amendments to SB FRS Guidance Note 5, SB FRS 1002
+title: Available for Comments – ED Amendments to SB-FRS Guidance Note 5, SB-FRS 1002
 permalink: /news/archives/available-for-comments-ed-amendments-to-sb-frs-guidance-note-5-sb-frs-1002/
 date: 2022-09-01
 layout: post

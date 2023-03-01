@@ -1,5 +1,5 @@
 ---
-title: The latest 2021 SB FRSs and INT SB FRSs are now available
+title: The latest 2021 SB-FRSs and INT SB-FRSs are now available
 permalink: /news/archives/the-latest-2021-sb-frss-and-int-sb-frss-are-now-available/
 date: 2021-03-19
 layout: post

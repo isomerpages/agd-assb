@@ -1,7 +1,7 @@
 ---
-title: SB FRS (issued before 2013)
+title: SB-FRS (issued before 2013)
 permalink: /pronouncements/sb-frs/archives/2013/issued-before-2013/
-description: SB FRS (issued before 2013)
+description: SB-FRS (issued before 2013)
 ---
 ### STATUTORY BOARD FINANCIAL REPORTING STANDARDS (ISSUED BEFORE 2013)
 

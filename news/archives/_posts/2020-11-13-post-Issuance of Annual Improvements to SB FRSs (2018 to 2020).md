@@ -1,5 +1,5 @@
 ---
-title: Issuance of Annual Improvements to SB FRSs (2018 to 2020)
+title: Issuance of Annual Improvements to SB-FRSs (2018 to 2020)
 permalink: /news/archives/issuance-of-annual-improvements-to-sb-frss-2018-2020/
 date: 2020-11-13
 layout: post

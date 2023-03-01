@@ -52,7 +52,7 @@ sections:
       subtitle: Interpretations of SB-FRS
       button: VIEW ARCHIVES
       url: /pronouncements/interpretations-of-sb-frs/archives/
-      alt: Interpretations SB FRS Archive
+      alt: Interpretations SB-FRS Archive
       image: /images/int-sb-frs-photo-1.jpg
   - infopic:
       subtitle: CURRENT

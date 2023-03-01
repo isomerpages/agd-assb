@@ -1,7 +1,7 @@
 ---
-title: INT SB FRS (effective after 1 January 2019, issued up to December 2019)
+title: INT SB-FRS (effective after 1 January 2019, issued up to December 2019)
 permalink: /pronouncements/int-sb-frs/archives/2019/effective-after-1-january-2019-issued-up-to-december-2019/
-description: INT SB FRS (effective after 1 January 2019, issued up to December 2019)
+description: INT SB-FRS (effective after 1 January 2019, issued up to December 2019)
 ---
 ### INTERPRETATIONS OF STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AFTER 1 JANUARY 2019 (ISSUED UP TO 31 DECEMBER 2019)
 

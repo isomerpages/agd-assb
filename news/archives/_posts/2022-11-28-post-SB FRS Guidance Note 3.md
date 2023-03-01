@@ -1,5 +1,5 @@
 ---
-title: SB FRS Guidance Note 3
+title: SB-FRS Guidance Note 3
 permalink: /news/archives/issuance-of-revised-sb-frs-guidance-note-3/
 date: 2022-11-28
 layout: post

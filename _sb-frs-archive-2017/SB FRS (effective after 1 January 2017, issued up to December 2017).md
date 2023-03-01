@@ -1,7 +1,7 @@
 ---
-title: SB FRS (effective after 1 January 2017, issued up to December 2017)
+title: SB-FRS (effective after 1 January 2017, issued up to December 2017)
 permalink: /pronouncements/sb-frs/archives/2017/effective-after-1-january-2017-issued-up-to-december-2017/
-description: SB FRS (effective after 1 January 2017, issued up to December 2017)
+description: SB-FRS (effective after 1 January 2017, issued up to December 2017)
 ---
 ### STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AFTER 1 JANUARY 2017 (ISSUED UP TO 31 DECEMBER 2017)
 

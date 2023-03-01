@@ -1,5 +1,5 @@
 ---
-title: Available for Comments ED SB FRS Guidance Note 9
+title: Available for Comments ED SB-FRS Guidance Note 9
 permalink: /news/archives/available-for-comments-ed-sb-frs-guidance-note-9-accounting/
 date: 2020-09-01
 layout: post

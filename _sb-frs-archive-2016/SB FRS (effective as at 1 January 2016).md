@@ -1,7 +1,7 @@
 ---
-title: SB FRS (effective as at 1 January 2016)
+title: SB-FRS (effective as at 1 January 2016)
 permalink: /pronouncements/sb-frs/archives/2016/effective-as-at-1-january-2016/
-description: SB FRS (effective as at 1 January 2016)
+description: SB-FRS (effective as at 1 January 2016)
 ---
 ### STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2016
 

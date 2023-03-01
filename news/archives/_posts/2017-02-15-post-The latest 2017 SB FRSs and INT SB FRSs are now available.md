@@ -1,5 +1,5 @@
 ---
-title: The latest 2017 SB FRSs and INT SB FRSs are now available
+title: The latest 2017 SB-FRSs and INT SB-FRSs are now available
 permalink: /news/archives/the-latest-2017-sb-frss-and-int-sb-frss-are-now-available/
 date: 2017-02-15
 layout: post

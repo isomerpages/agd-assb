@@ -1,7 +1,7 @@
 ---
-title: Process for Prescribing SB FRS
+title: Process for Prescribing SB-FRS
 permalink: /who-we-are/process-for-prescribing-sb-frs/
-description: Process for Prescribing SB FRS
+description: Process for Prescribing SB-FRS
 ---
 
 

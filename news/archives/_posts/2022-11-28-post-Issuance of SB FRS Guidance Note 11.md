@@ -1,5 +1,5 @@
 ---
-title: Issuance of SB FRS Guidance Note 11
+title: Issuance of SB-FRS Guidance Note 11
 permalink: /news/archives/issuance-of-sb-frs-guidance-note-11/
 date: 2022-11-28
 layout: post

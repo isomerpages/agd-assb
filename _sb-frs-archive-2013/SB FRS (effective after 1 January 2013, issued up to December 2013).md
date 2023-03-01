@@ -1,7 +1,7 @@
 ---
-title: SB FRS (effective after 1 January 2013, issued up to December 2013)
+title: SB-FRS (effective after 1 January 2013, issued up to December 2013)
 permalink: /pronouncements/sb-frs/archives/2013/effective-after-1-january-2013-issued-up-to-december-2013/
-description: SB FRS (effective after 1 January 2013, issued up to December 2013)
+description: SB-FRS (effective after 1 January 2013, issued up to December 2013)
 ---
 ### STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AFTER 1 JANUARY 2013 (ISSUED UP TO 31 DECEMBER 2013)
 
