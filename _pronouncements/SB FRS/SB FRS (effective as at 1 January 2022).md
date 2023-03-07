@@ -5,7 +5,6 @@ description: SB-FRS (effective as at 1 January 2022)
 third_nav_title: SB-FRS
 image: /images/ASSB_logo.jpg
 ---
-
 ### STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2022
 
   
