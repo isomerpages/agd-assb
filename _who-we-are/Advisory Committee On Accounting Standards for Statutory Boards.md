@@ -55,12 +55,12 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
+
 <img src="/images/Images/Default%20Source/Who%20We%20Are/Cecilia-Neo.jpg" alt="Ms Cecilia Neo" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Cecilia Neo**<br>Director (Finance)<br>Energy Market Authority
 
 <br>
 <br>
 <br>
-
 
 <img src="/images/Images/Default%20Source/Who%20We%20Are/Ng-Lip-Nin.jpg" alt="Ms Ng Lip Nin" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Ng Lip Nin**<br>Group Director<br>Auditor-General's Office
 
