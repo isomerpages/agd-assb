@@ -62,11 +62,11 @@ sections:
       image: /images/sb-frs-guidance-note-photo-1.jpg
       alt: SB-FRS Guidance Notes
   - infopic:
-      subtitle: SB-FRS Guidance Notes
       button: VIEW ARCHIVES
       url: /pronouncements/sb-frs-guidance-notes/archives/
       image: /images/sb-frs-guidance-note-photo-1.jpg
       alt: Image alt text
+      description: SB-FRS Guidance Notes
   - resources:
       title: Latest News
       button: FIND OUT MORE
