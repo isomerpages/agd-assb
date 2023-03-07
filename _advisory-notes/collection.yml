@@ -1,5 +1,4 @@
 collections:
   advisory-notes:
     output: true
-    order:
-      - example-page.md
+    order: []
