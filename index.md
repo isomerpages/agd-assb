@@ -49,11 +49,11 @@ sections:
       image: /images/int-sb-frs-photo-1.jpg
       alt: effective as at 1 Jan 2022
   - infopic:
-      subtitle: Interpretations of SB-FRS
       button: VIEW ARCHIVES
       url: /pronouncements/interpretations-of-sb-frs/archives/
       alt: Interpretations SB-FRS Archive
       image: /images/int-sb-frs-photo-1.jpg
+      description: Interpretations of SB-FRS
   - infopic:
       subtitle: CURRENT
       description: SB-FRS Guidance Notes
@@ -75,4 +75,3 @@ sections:
       button: EMAIL SUBSCRIPTION
       url: https://form.gov.sg/63624f45fbb3dd00128d2177
 ---
-
