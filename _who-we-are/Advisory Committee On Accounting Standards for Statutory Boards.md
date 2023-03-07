@@ -29,13 +29,15 @@ To bring wider representation and experience into the standards setting process,
 
 
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Eleanor-Lee.jpg" alt="Ms Eleanor Lee" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Eleanor Lee**<br>Partner<br>Ernst & Young LLP
 
-<br>
-<br>
-<br>
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Debra-Ann-Ker.jpg" alt="Ms Debra Ann Ker" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Debra Ann Ker**<br>Partner<br>PWC
+
+
+
+
+
+
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Chan-Yen-San.jpg" alt="Ms Chan Yen San" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Chan Yen San**<br>Partner<br>KPMG LLP
 
 <br>
 <br>
@@ -47,19 +49,17 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
-
-
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Chan-Yen-San.jpg" alt="Ms Chan Yen San" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Chan Yen San**<br>Partner<br>KPMG LLP
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Debra-Ann-Ker.jpg" alt="Ms Debra Ann Ker" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Debra Ann Ker**<br>Partner<br>PWC
 
 <br>
 <br>
 <br>
 
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Eleanor-Lee.jpg" alt="Ms Eleanor Lee" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Eleanor Lee**<br>Partner<br>Ernst & Young LLP
 
-
-
-
-
+<br>
+<br>
+<br>
 
 <img src="/images/Images/Default%20Source/Who%20We%20Are/Andrew-Lee.jpg" alt="Professor Andrew Lee" style="width:200px;height:250px;object-fit:cover;" align="left">**Professor Andrew Lee**<br>Associate Professor<br>Singapore Management University
 
