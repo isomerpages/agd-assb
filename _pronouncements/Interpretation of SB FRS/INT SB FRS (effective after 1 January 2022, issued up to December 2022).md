@@ -8,7 +8,7 @@ third_nav_title: Interpretation of SB-FRS
 
 The following are new/revised/amendments to SB-FRSs and INT SB-FRSs issued by the Accountant-General (up to 31 December 2022) which are effective after 1 January 2022
 
-If you do not already have Adobe Reader or Microsoft Word, please download the software for free here: [\[pdf\]](http://www.adobe.com/products/acrobat/readstep2.html) [\[word\]](http://www.microsoft.com/downloads/details.aspx?FamilyID=95e24c87-8732-48d5-8689-ab826e7b8fdf&DisplayLang=en)
+If you do not already have Adobe Reader, please download the software for free here: [\[pdf\]](http://www.adobe.com/products/acrobat/readstep2.html)
 
 | Reference | Titles | Effective date (Annual periods beginning on or after) | Issuance date |
 | -------- | -------- | -------- | -------- |
@@ -16,4 +16,3 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 
 ### Archives 
 Archived documents can be accessed [here](/pronouncements/interpretations-of-sb-frs/archives).
-
