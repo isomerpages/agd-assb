@@ -2,5 +2,5 @@ collections:
   sb-frs-archive-2022:
     output: true
     order:
-      - SB FRS (effective after 1 January 2022, issued up to December 2022).md
       - SB FRS (effective as at 1 January 2022).md
+      - SB FRS (effective after 1 January 2022, issued up to December 2022).md
