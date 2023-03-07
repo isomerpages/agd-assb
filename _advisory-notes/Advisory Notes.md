@@ -9,8 +9,12 @@ The Accountant-General’s Department (AGD) issues Accounting Advisory Notes to 
 
 | Topics | Titles | Publication Dates |
 | -------- | -------- | -------- |
-| SB-FRS 116 Leases    | Text     | 07/03/2023     |
-| SB-FRS 23 Borrowing Costs    | Text     | 07/03/2023     |
-| SB-FRS 16 Property, Plant and Equipment    | Text     | 07/03/2023     |
-| Others  | Text     | 07/03/2023     |
-
+| SB-FRS 116 Leases    | Should there be a standardised discount rate for SBs?     | 07/03/2023     |
+| | Principles for determining lease discount rate     | 07/03/2023     |
+| | Applicability of lease accounting for ACE II system subscription     | 07/03/2023     |
+| | Accounting for cloud infrastructure subscription costs     | 07/03/2023     |
+| | Clarification on "low-value" asset threshold for SBs     | 07/03/2023     |
+| SB-FRS 23 Borrowing Costs    | Should capital expenditure incurred on projects funded using general borrowings, which remain outstanding after qualifying  asset has completed construction, be included in capitalisation rate?    | 07/03/2023     |
+| SB-FRS 16 Property, Plant and Equipment    | Should co-payment on prolongation costs be capitalised?     | 07/03/2023     |
+| Others  | Advisory note on disclosures for income and expenses relating to COVID-19 measures     | 07/03/2023     |
+|  | Guidance on accounting for participating agencies' Cumulus arrangement with the Government of Singapore    | 07/03/2023     |
