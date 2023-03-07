@@ -56,8 +56,8 @@ If you do not already have Adobe Reader, please download the software for free h
 | SB-FRS 114 | [Regulatory Deferral Accounts [.pdf, 494kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_114_(2020).pdf) | [IE [.pdf, 448kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_114_ie_(2020).pdf) |
 | SB-FRS 115 | [Revenue from Contracts with Customers [.pdf, 676kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_115_(2020).pdf) | [IE [.pdf, 717kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_115_ie_(2020).pdf) |
 | SB-FRS 116 | [Leases [.pdf, 668kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_116_(2020).pdf) | [IE [.pdf, 547kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_116_ie_(2020).pdf) |
-| SB-FRS 1001 |  | - |
-| SB-FRS 1002 |  | [IG [.pdf, 505kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_1002_ig_(2020).pdf) |
+| SB-FRS 1001 | [Accounting and Disclosure for Non-Exchange Revenue [.pdf, 658kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/Item%201%20-%20SB-FRS1001_(2020).pdf) | - |
+| SB-FRS 1002 | [Impairment of Non-Cash-Generating Assets [.pdf, 626kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/Item%202%20-%20SB-FRS1002_(2020).pdf) | [IG [.pdf, 505kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202020/sb-frs_1002_ig_(2020).pdf) |
 
 
 
