@@ -33,11 +33,11 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 12 | [Amendments to SB-FRS 12 [.pdf, 605kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202021%20to%20Dec%202021/amendments-to-sb-frs-12.pdf) | 1.1.2023 | 29.11.2021 |
 |  |  |  |  |
 
-*(1) i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.*
+<sup>1</sup>*i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.*
 
 *ii)This should be read together with the Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 issued in 2016.*
   
-*(2) The mandatory effective date of this Amendment had been revised from 1 Jan 2022 to 1 Jan 2023 via Amendments to SB-FRS 1: Classification of Liabilities as Current or Non-current - Deferral of Effective Date.*
+<sup>2</sup>*The mandatory effective date of this Amendment had been revised from 1 Jan 2022 to 1 Jan 2023 via Amendments to SB-FRS 1: Classification of Liabilities as Current or Non-current - Deferral of Effective Date.*
 
 ### Archives 
 
