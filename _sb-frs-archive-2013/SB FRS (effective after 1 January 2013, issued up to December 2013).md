@@ -27,7 +27,7 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 36 | [Amendments to SB-FRS 36: Recoverable Amount Disclosures for Non-Financial Assets [.pdf, 148kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/amendments_to_sb-frs_36_(jul_2013).pdf) | 1.1.2014 | 6.11.2013 |
 | SB-FRS 39 | [Amendments to SB-FRS 39: Novation of Derivatives and Continuation of Hedge Accounting [.pdf, 117kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/amendments_to_sb-frs_39__(september__2013).pdf) | 1.1.2014 | 6.11.2013 |
 
-(1) The mandatory effective date of these FRSs had been revised from 1.1.2013 to 1.1.2014 by the Accountant-General in November 2012 via Amendments to SB- FRS 110, SB-FRS 111, SB-FRS 112, SB-FRS 27 and SB- FRS 28: Mandatory Effective Date.
+<sup>1</sup> The mandatory effective date of these FRSs had been revised from 1.1.2013 to 1.1.2014 by the Accountant-General in November 2012 via Amendments to SB- FRS 110, SB-FRS 111, SB-FRS 112, SB-FRS 27 and SB- FRS 28: Mandatory Effective Date.
 
 ### Archives 
 
