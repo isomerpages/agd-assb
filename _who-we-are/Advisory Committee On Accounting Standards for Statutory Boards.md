@@ -24,6 +24,17 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 <br>
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Joyce-Tong.jpg" alt="Ms Joyce Tong" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Joyce Tong**<br>Group Director (Finance)<br>A\*STAR
+
+<br>
+<br>
+<br>
+
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Ong-Swad-Yen.jpg" alt="Ms Ong Swad Yen" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Ong Swad Yen**<br>Director (Finance, Procurement & Admin)<br>National Heritage Board
+
+<br>
+<br>
+<br>
 
 <img src="/images/Images/Default%20Source/Who%20We%20Are/Chan-Yen-San.jpg" alt="Ms Chan Yen San" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Chan Yen San**<br>Partner<br>KPMG LLP
 
@@ -67,11 +78,7 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Ong-Swad-Yen.jpg" alt="Ms Ong Swad Yen" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Ong Swad Yen**<br>Director (Finance, Procurement & Admin)<br>National Heritage Board
 
-<br>
-<br>
-<br>
 
 <img src="/images/Images/Default%20Source/Who%20We%20Are/William-Tan.jpg" alt="Mr William Tan" style="width:200px;height:250px;object-fit:cover;" align="left">**Mr William Tan**<br>Assistant Chief Executive<br>National Library Board
 
@@ -79,4 +86,3 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Joyce-Tong.jpg" alt="Ms Joyce Tong" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Joyce Tong**<br>Group Director (Finance)<br>A\*STAR
