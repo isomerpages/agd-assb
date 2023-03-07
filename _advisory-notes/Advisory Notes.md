@@ -10,7 +10,7 @@ The Accountant-General’s Department (AGD) issues Accounting Advisory Notes to 
 | Topics | Titles | Publication Dates |
 | -------- | -------- | -------- |
 | SB-FRS 116 Leases    | [Should there be a standardised discount rate for SBs?](/files/Docs/Default%20Source/Advisory%20Notes/Should%20there%20be%20a%20standardised%20discount%20rate%20for%20SBs.pdf)     | 07/03/2023     |
-| | [Principles for determining lease discount rate]()     | 07/03/2023     |
+| | [Principles for determining lease discount rate](/files/Docs/Default%20Source/Advisory%20Notes/Principles%20for%20determining%20lease%20discount%20rate.pdf) | 07/03/2023     |
 | | [Applicability of lease accounting for ACE II system subscription](/files/Docs/Default%20Source/Advisory%20Notes/Applicability%20of%20lease%20accounting%20for%20ACE%20II%20system%20subscription.pdf)     | 07/03/2023     |
 | | [Accounting for cloud infrastructure subscription costs](/files/Docs/Default%20Source/Advisory%20Notes/Accounting%20for%20cloud%20infrastructure%20subscription%20costs.pdf)     | 07/03/2023     |
 | | [Clarification on "low-value" asset threshold for SBs](/files/Docs/Default%20Source/Advisory%20Notes/Clarification%20on%20“low-value”%20asset%20threshold%20for%20SBs.pdf)     | 07/03/2023     |
