@@ -56,8 +56,8 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | SB-FRS 114 | [Regulatory Deferral Accounts [.pdf, 496kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_114_(2021).pdf) | [IE [.pdf, 450kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_114_ie_(2021).pdf) |
 | SB-FRS 115 | [Revenue from Contracts with Customers [.pdf, 675kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_115_(2021).pdf) | [IE [.pdf, 723kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_115_ie_(2021).pdf) |
 | SB-FRS 116 | [Leases [.pdf, 613kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_116_(2021).pdf) | [IE [.pdf, 556kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_116_ie_(2021).pdf) |
-| SB-FRS 1001 | [Accounting and Disclosure for Non-Exchange Revenue [.pdf, 697kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_1001_(2021).pdf) | - |
-| SB-FRS 1002 | [Impairment of Non-Cash-Generating Assets [.pdf, 664kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_1002_(2021).pdf) | [IG [.pdf, 505kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_1002_ig_(2021).pdf) |
+| SB-FRS 1001 | [Accounting and Disclosure for Non-Exchange Revenue [.pdf, 697kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/Item%201-SB-FRS_1001_(2021).pdf) | - |
+| SB-FRS 1002 | [Impairment of Non-Cash-Generating Assets [.pdf, 664kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/Item%202-SB-FRS_1002_(2021).pdf) | [IG [.pdf, 505kb]](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202021/sb-frs_1002_ig_(2021).pdf) |
 
 \*Include Implementation Guidance (IG) and Illustrative Examples (IE).  
 
