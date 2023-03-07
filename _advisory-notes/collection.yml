@@ -1,4 +1,5 @@
 collections:
   advisory-notes:
     output: true
-    order: []
+    order:
+      - Advisory Notes.md
