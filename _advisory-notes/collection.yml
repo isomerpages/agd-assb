@@ -1,0 +1,4 @@
+collections:
+  advisory-notes:
+    output: true
+    order: []
