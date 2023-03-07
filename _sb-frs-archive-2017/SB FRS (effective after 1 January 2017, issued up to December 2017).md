@@ -27,7 +27,7 @@ If you do not already have Adobe Reader or Microsoft Word, please download the s
 | Various | [Improvements to SB-FRSs (December 2016) [.pdf 144kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202017%20to%20Dec%202017/improvements_to_sb-frss(dec_2016).pdf) | Refer to document | 14.08.2017 |
 | SB-FRS 104 | [Amendments to SB-FRS 104: Applying SB-FRS 109 Financial Instruments with SB-FRS 104 Insurance Contracts [.pdf 196kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202017%20to%20Dec%202017/amendments_to_sb-frs_104.pdf) | Refer to document | 14.08.2017 |
 
-*<sup>1</sup> i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.*
+<sup>1</sup> *i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.*
 
 *ii)This should be read together with the Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 issued in 2016.*
 
