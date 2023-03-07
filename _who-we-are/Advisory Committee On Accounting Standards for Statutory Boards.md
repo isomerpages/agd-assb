@@ -36,13 +36,7 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Chan-Yen-San.jpg" alt="Ms Chan Yen San" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Chan Yen San**<br>Partner<br>KPMG LLP
-
-<br>
-<br>
-<br>
-
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Ho-Kim-Wai.jpg" alt="Professor Ho Kim Wai" style="width:200px;height:250px;object-fit:cover;" align="left">**Professor Ho Kim Wai**<br>Associate Professor<br>Nanyang Technological University
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Eleanor-Lee.jpg" alt="Ms Eleanor Lee" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Eleanor Lee**<br>Partner<br>Ernst & Young LLP
 
 <br>
 <br>
@@ -54,19 +48,7 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Eleanor-Lee.jpg" alt="Ms Eleanor Lee" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Eleanor Lee**<br>Partner<br>Ernst & Young LLP
-
-<br>
-<br>
-<br>
-
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Andrew-Lee.jpg" alt="Professor Andrew Lee" style="width:200px;height:250px;object-fit:cover;" align="left">**Professor Andrew Lee**<br>Associate Professor<br>Singapore Management University
-
-<br>
-<br>
-<br>
-
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Cecilia-Neo.jpg" alt="Ms Cecilia Neo" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Cecilia Neo**<br>Director (Finance)<br>Energy Market Authority
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Ho-Kim-Wai.jpg" alt="Professor Ho Kim Wai" style="width:200px;height:250px;object-fit:cover;" align="left">**Professor Ho Kim Wai**<br>Associate Professor<br>Nanyang Technological University
 
 <br>
 <br>
@@ -78,9 +60,31 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Chan-Yen-San.jpg" alt="Ms Chan Yen San" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Chan Yen San**<br>Partner<br>KPMG LLP
 
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Andrew-Lee.jpg" alt="Professor Andrew Lee" style="width:200px;height:250px;object-fit:cover;" align="left">**Professor Andrew Lee**<br>Associate Professor<br>Singapore Management University
+
+<br>
+<br>
+<br>
 
 <img src="/images/Images/Default%20Source/Who%20We%20Are/William-Tan.jpg" alt="Mr William Tan" style="width:200px;height:250px;object-fit:cover;" align="left">**Mr William Tan**<br>Assistant Chief Executive<br>National Library Board
+
+<br>
+<br>
+<br>
+
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Cecilia-Neo.jpg" alt="Ms Cecilia Neo" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Cecilia Neo**<br>Director (Finance)<br>Energy Market Authority
 
 <br>
 <br>
