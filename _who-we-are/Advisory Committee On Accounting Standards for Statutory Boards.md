@@ -24,6 +24,7 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 <br>
+
 <img src="/images/Images/Default%20Source/Who%20We%20Are/Joyce-Tong.jpg" alt="Ms Joyce Tong" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Joyce Tong**<br>Group Director (Finance)<br>A\*STAR
 
 <br>
