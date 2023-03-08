@@ -6,7 +6,7 @@ layout: post
 description: Appointment and Re-appointment of Members to Advisory Committee
 image: ""
 ---
-Appointment and Re-appointment of Members to Advisory Committee
+Appointment and Re appointment of Members to Advisory Committee
 ---------------------------------------------------------------
 
 01 Jan 2018
