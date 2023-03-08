@@ -10,7 +10,7 @@ description: Issuance of Amendments to References to the Conceptual Framework in
   and implementation guidance)
 image: ""
 ---
-Issuance of Amendments to References to the Conceptual Framework in SB-FRS Standards
+Issuance of Amendments to References to the Conceptual Framework in SB FRS Standards
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 28 Nov 2019
