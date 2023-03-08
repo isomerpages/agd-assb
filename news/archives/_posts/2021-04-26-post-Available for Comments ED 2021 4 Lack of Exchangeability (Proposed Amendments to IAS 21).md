@@ -8,7 +8,7 @@ description: Available for Comments - ED/2021/4 Lack of Exchangeability
   (Proposed Amendments to IAS 21)
 image: ""
 ---
-Available for Comments - ED/2021/4 Lack of Exchangeability (Proposed Amendments to IAS 21)
+Available for Comments - ED 2021 4 Lack of Exchangeability (Proposed Amendments to IAS 21)
 ------------------------------------------------------------------------------------------
 
 26 Apr 2021
