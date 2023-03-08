@@ -8,7 +8,7 @@ description: Issuance of Limited Exemption from Comparative SB-FRS 107
   Disclosures for First-Time Adopters (Amendments to SB-FRS 101)
 image: ""
 ---
-Issuance of Limited Exemption from Comparative SB-FRS 107 Disclosures for First-Time Adopters (Amendments to SB-FRS 101)
+Issuance of Limited Exemption from Comparative SB-FRS 107 Disclosures for First-Time Adopters
 ------------------------------------------------------------------------------------------------------------------------
 
 15 Jun 2010
