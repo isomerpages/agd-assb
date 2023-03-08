@@ -8,7 +8,7 @@ description: "Available for Comments - ED: Derecognition - Amendments to SB-FRS
   39 and SB-FRS 107"
 image: ""
 ---
-Available for Comments ED: Derecognition Amendments to SBF RS 39 and SB FRS 107
+Available for Comments ED: Derecognition - Amendments to SBF-RS 39 and SB-FRS 107
 -----------------------------------------------------------------------------------
 
 11 May 2009
