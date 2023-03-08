@@ -6,7 +6,7 @@ layout: post
 description: "Available for Comments - IFRS ED: Conceptual Framework"
 image: ""
 ---
-Available for Comments - IFRS ED: Conceptual Framework
+Available for Comments IFRS ED: Conceptual Framework
 ------------------------------------------------------
 
 17 Mar 2010
