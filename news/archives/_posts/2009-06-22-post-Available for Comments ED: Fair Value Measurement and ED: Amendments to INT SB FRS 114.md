@@ -8,7 +8,7 @@ description: "Available for Comments - ED: Fair Value Measurement and
   ED:Amendments to INT SB-FRS 114"
 image: ""
 ---
-Available for Comments - ED: Fair Value Measurement and ED:Amendments to INT SB-FRS 114
+Available for Comments ED: Fair Value Measurement and ED: Amendments to INT SB-FRS 114
 ---------------------------------------------------------------------------------------
 
 22 Jun 2009
