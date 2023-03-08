@@ -8,7 +8,7 @@ description: Issuance of SB-FRS 19, SB-FRS 27, SB-FRS 28, SB-FRS 110, SB-FRS
   111, SB-FRS 112, and SB-FRS 113
 image: ""
 ---
-Issuance of SB-FRS 19, SB-FRS 27, SB-FRS 28, SB-FRS 110, SB-FRS 111, SB-FRS 112, and SB-FRS 113
+Issuance of SBFRS 19, SBFRS 27, SBFRS 28, SBFRS 110, SBFRS 111, SBFRS 112, and SBFRS 113
 -----------------------------------------------------------------------------------------------
 
 31 Jan 2012
