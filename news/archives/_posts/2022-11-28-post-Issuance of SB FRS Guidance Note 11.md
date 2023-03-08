@@ -7,8 +7,7 @@ description: Issuance of SB-FRS Guidance Note 11 Accounting for Grants
   Administered by Statutory Boards
 image: ""
 ---
-
-Issuance of SB-FRS Guidance Note 11 Accounting for Grants Administered by Statutory Boards
+Issuance of SB-FRS Guidance Note 11
 ------------------------------------------------------------------------------------------
 
 28 Nov 2022
