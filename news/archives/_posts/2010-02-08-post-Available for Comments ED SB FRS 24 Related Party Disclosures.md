@@ -6,7 +6,7 @@ layout: post
 description: Available for Comments - ED SB-FRS 24 Related Party Disclosures
 image: ""
 ---
-Available for Comments - ED SB-FRS 24 Related Party Disclosures
+Available for Comments ED SB-FRS 24 Related Party Disclosures
 ---------------------------------------------------------------
 
 08 Feb 2010
