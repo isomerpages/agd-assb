@@ -8,7 +8,7 @@ description: Available for Comments - ED/2020/4 Lease Liability in a Sale and
   Leaseback - Proposed amendment to IFRS 16
 image: ""
 ---
-Available for Comments - ED/2020/4 Lease Liability in a Sale and Leaseback - Proposed amendment to IFRS 16
+Available for Comments ED 2020 4 Lease Liability in a Sale and Leaseback Proposed amendment
 ----------------------------------------------------------------------------------------------------------
 
 14 Dec 2020
