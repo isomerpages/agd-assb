@@ -8,7 +8,7 @@ description: Available for Comments - ED/2021/3 Disclosure Requirements in IFRS
   Standards - A Pilot Approach (Proposed Amendments to IFRS 3 and IAS 19)
 image: ""
 ---
-Available for Comments - ED/2021/3 Disclosure Requirements in IFRS Standards - A Pilot Approach (Proposed Amendments to IFRS 3 and IAS 19)
+Available for Comments ED 2021 3 Disclosure Requirements in IFRS Standards A Pilot Approach
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 31 Mar 2021
