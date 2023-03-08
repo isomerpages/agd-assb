@@ -2,6 +2,7 @@ collections:
   pronouncements:
     output: true
     order:
+      - Interpretation of SB FRS/Example Title.md
       - SB FRS/.keep
       - SB FRS/SB FRS (effective as at 1 January 2023).md
       - SB FRS/SB FRS (effective after 1 January 2023, issued up to December
