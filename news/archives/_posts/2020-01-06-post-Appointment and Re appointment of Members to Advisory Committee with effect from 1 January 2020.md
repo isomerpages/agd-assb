@@ -8,7 +8,7 @@ description: Appointment and Re-appointment of Members to Advisory Committee
   with effect from 1 January 2020
 image: ""
 ---
-Appointment and Re-appointment of Members to Advisory Committee with effect from 1 January 2020
+Appointment and Re appointment of Members to Advisory Committee with effect from 1 January 2020
 -----------------------------------------------------------------------------------------------
 
 06 Jan 2020
