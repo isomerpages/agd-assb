@@ -8,7 +8,7 @@ description: Issuance of Annual Improvements to SB-FRSs (2018-2020), Amendments
   SB-FRS 1, and Amendments to SB-FRS 1 (Deferral of Effective Date)
 image: ""
 ---
-Issuance of Annual Improvements to SB-FRSs (2018-2020), Amendments to SB-FRS 16, Amendments to SB-FRS 37, Amendments to SB-FRS 103, Amendments to SB-FRS 1, and Amendments to SB-FRS 1 (Deferral of Effective Date)
+Issuance of Annual Improvements to SB-FRSs (2018-2020)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 13 Nov 2020
