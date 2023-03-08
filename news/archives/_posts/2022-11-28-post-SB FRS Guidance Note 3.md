@@ -6,10 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-
-
-Issuance of Revised SB-FRS Guidance Note 3 Accounting and Disclosures for Trust Funds
+SB-FRS Guidance Note 3
 -------------------------------------------------------------------------------------
 
 28 Nov 2022
