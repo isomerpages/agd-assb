@@ -7,7 +7,7 @@ description: Available for Comments - ED SB-FRS Guidance Note 11 Accounting for
   Grants Administered by Statutory Boards
 image: ""
 ---
-Available for Comments - ED SB-FRS Guidance Note 11 Accounting for Grants Administered by Statutory Boards
+Available for Comments ED SB-FRS Guidance Note 11 Accounting for Grants
 ----------------------------------------------------------------------------------------------------------
 
 27 Oct 2021
