@@ -7,8 +7,7 @@ description: Available for Comments – ED Amendments to SB-FRS Guidance Note 5,
   SB-FRS 1002 and SB-FRS 1002 Implementation Guidance
 image: ""
 ---
-
-Available for Comments – ED Amendments to SB-FRS Guidance Note 5, SB-FRS 1002 and SB-FRS 1002 Implementation Guidance
+Available for Comments – ED Amendments to SB-FRS Guidance Note 5, SB-FRS 1002
 ---------------------------------------------------------------------------------------------------------------------
 
 01 Sep 2022
