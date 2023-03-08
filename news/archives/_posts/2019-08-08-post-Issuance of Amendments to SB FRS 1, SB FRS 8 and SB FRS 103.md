@@ -7,7 +7,7 @@ description: "Issuance of Amendments to SB-FRS 1 and SB-FRS 8: Definition of
   Material and Amendments to SB-FRS 103: Definition of a Business"
 image: ""
 ---
-Issuance of Amendments to SB-FRS 1 and SB-FRS 8: Definition of Material and Amendments to SB-FRS 103: Definition of a Business
+Issuance of Amendments to SB-FRS 1, SB-FRS 8 and SB-FRS 103
 ------------------------------------------------------------------------------------------------------------------------------
 
 08 Aug 2019
