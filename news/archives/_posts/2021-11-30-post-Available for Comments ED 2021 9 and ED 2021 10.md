@@ -8,7 +8,7 @@ description: Available for Comments - ED/2021/9 Non-current Liabilities with
   Arrangements (Proposed amendments to IAS 1 and IFRS 7)
 image: ""
 ---
-Available for Comments - ED/2021/9 Non-current Liabilities with Covenants (Proposed amendments to IAS 1) and ED/2021/10 Supplier Finance Arrangements (Proposed amendments to IAS 1 and IFRS 7)
+Available for Comments ED 2021 9 and ED 2021 10 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 30 Nov 2021
