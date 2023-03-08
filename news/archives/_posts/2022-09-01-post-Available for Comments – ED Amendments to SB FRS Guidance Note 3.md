@@ -7,8 +7,7 @@ description: Available for Comments – ED Amendments to SB-FRS Guidance Note 3
   Accounting and Disclosures for Trust Funds
 image: ""
 ---
-
-Available for Comments – ED Amendments to SB-FRS Guidance Note 3 Accounting and Disclosures for Trust Funds
+Available for Comments – ED Amendments to SB-FRS Guidance Note 3
 -----------------------------------------------------------------------------------------------------------
 
 01 Sep 2022
