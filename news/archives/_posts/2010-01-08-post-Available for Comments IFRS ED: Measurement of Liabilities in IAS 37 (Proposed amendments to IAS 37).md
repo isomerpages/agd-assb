@@ -8,7 +8,7 @@ description: "Available for Comments - IFRS ED: Measurement of Liabilities in
   IAS 37 (Proposed amendments to IAS 37)"
 image: ""
 ---
-Available for Comments - IFRS ED: Measurement of Liabilities in IAS 37 (Proposed amendments to IAS 37)
+Available for Comments IFRS ED: Measurement of Liabilities in IAS 37 (Proposed amendments to IAS 37)
 ------------------------------------------------------------------------------------------------------
 
 08 Jan 2010
