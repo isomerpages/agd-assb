@@ -9,7 +9,7 @@ description: "Available for Comments - IFRS ED: Measurement Uncertainty Analysis
   with Customers"
 image: ""
 ---
-Available for Comments - IFRS ED: Measurement Uncertainty Analysis Disclosure for Fair Value Measurements and IFRS ED: Revenue from Contracts with Customers
+Available for Comments IFRS ED: Measurement Uncertainty Analysis and IFRS ED: Revenue from Contracts
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 07 Jul 2010
