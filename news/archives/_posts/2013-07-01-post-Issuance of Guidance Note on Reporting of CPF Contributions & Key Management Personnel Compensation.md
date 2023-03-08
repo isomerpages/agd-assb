@@ -8,7 +8,7 @@ description: Issuance of Guidance Note on Reporting of CPF Contributions and Key
   Management Personnel Compensation
 image: ""
 ---
-Issuance of Guidance Note on Reporting of CPF Contributions and Key Management Personnel Compensation
+Issuance of Guidance Note on Reporting of CPF Contributions & Key Management Personnel Compensation
 -----------------------------------------------------------------------------------------------------
 
 01 Jul 2013
