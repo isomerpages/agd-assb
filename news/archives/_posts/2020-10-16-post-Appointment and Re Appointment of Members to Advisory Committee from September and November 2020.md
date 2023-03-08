@@ -8,7 +8,7 @@ description: Appointment and Re-Appointment of Members to Advisory Committee
   from September and November 2020
 image: ""
 ---
-Appointment and Re-Appointment of Members to Advisory Committee from September and November 2020
+Appointment and Re Appointment of Members to Advisory Committee from September and November 2020
 ------------------------------------------------------------------------------------------------
 
 16 Oct 2020
