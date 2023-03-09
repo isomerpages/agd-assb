@@ -4,8 +4,8 @@ permalink: /pronouncements/interpretations-of-sb-frs/archives/
 description: Interpretation of SB-FRS Archives
 third_nav_title: Interpretation of SB-FRS
 ---
-[INT SB-FRS (effective as at 1 January 2022)](/pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2022/)
-[INT SB-FRS (effective after 1 January 2022, issued up to December 2022)](/pronouncements/interpretations-of-sb-frs/effective-after-1-january-2022-issued-up-to-december-2022/)
+[INT SB-FRS (effective as at 1 January 2022)](/pronouncements/int-sb-frs/archives/2022/effective-as-at-1-january-2022/)
+[INT SB-FRS (effective after 1 January 2022, issued up to December 2022)](/pronouncements/int-sb-frs/archives/2022/effective-after-1-january-2022-issued-up-to-december-2022/)
 [INT SB-FRS (effective as at 1 January 2021)](/pronouncements/int-sb-frs/archives/2021/effective-as-at-1-january-2021/)  
 [INT SB-FRS (effective after 1 January 2021, issued up to December 2021)](/pronouncements/int-sb-frs/archives/2021/effective-after-1-january-2021-issued-up-to-december-2021/)  
 [INT SB-FRS (effective as at 1 January 2020)](/pronouncements/int-sb-frs/archives/2020/effective-as-at-1-january-2020/)  
