@@ -33,7 +33,7 @@ If you do not already have Adobe Reader, please download the software for free h
 | INT SB-FRS 120 | [Stripping Costs in the Production Phase of a Surface Mine [.pdf, 108kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202022/int_sb-frs_120_(2022).pdf) | - |
 | INT SB-FRS 121 | [Levies [.pdf, 111kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202022/int_sb-frs_121_(2022).pdf) <br> [IE [.pdf, 102kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202022/int_sb-frs_121_ie_(2022).pdf) |   |
 | INT SB-FRS 122 | [Foreign Currency Transactions and Advance Considerations [.pdf, 82.2kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202022/int_sb-frs_122_(2022).pdf) <br> [IE [.pdf, 149kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202022/int_sb-frs_122_ie_(2022).pdf) |  |
-| INT SB-FRS 123 | [Uncertainty over Income Tax Treatments [.pdf, 97.4kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202022/int_sb-frs_123_(2022).pdf) <br> [IE [.pdf, 109kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202022/int_sb-frs_123_ie_(2022).pdf) |  |
+| INT SB-FRS 123 | [Uncertainty over Income Tax Treatments [.pdf, 97.4kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202022/int_sb-frs_123_(2022).pdf) | [IE [.pdf, 109kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202022/int_sb-frs_123_ie_(2022).pdf) |  
 
 \*Include Implementation Guidance (IG), Illustrative Examples (IE) and Information Note (IN).
 ### Archives 
