@@ -20,6 +20,9 @@ If you do not already have Adobe Reader, please download the software for free h
 | SB-FRS 110,<br>SB-FRS 28 | [Amendments to SB-FRS 110 and SB-FRS 28: Sale or Contribution of Assets between an Investor and its Associate or Joint Venture ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined<sup>1</sup> | 18.03.2015 |
 | **Issued in 2016** |  |  |  |
 | SB-FRS 110,<br>SB-FRS 28 | [Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/amendments_to_effective_date_of_amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined | 10.03.2016 |
+| **Issued in 2020** |  |  |  |
+| SB-FRS 1 |  | 1.1.20242<sup>2</sup> | 13.11.2020 |
+| SB-FRS 1 |  | - | 13.11.2020 |
 
 
 <sup>1</sup>*i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.*
