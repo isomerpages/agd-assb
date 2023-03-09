@@ -1,5 +1,5 @@
 ---
-title: SB FRS (effective after 1 January 2023, issued up to December 2023)
+title: SB-FRS (effective after 1 January 2023, issued up to December 2023)
 permalink: /pronouncements/sb-frs/effective-after-1-january-2023-issued-up-to-december-2023/
 description: ""
 third_nav_title: SB-FRS
