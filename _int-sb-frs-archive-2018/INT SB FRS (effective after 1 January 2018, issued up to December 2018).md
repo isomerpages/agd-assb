@@ -12,7 +12,7 @@ If you do not already have Adobe Reader, please download the software for free h
 | Reference | Titles | Effective date (Annual periods beginning on or after) | Issuance date |
 | -------- | -------- | -------- | -------- |
 | **Issued in 2017** |  |  |  |
-| INT SB-FRS 123 | [Uncertainty over Income Tax Treatments [.pdf, 425kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Aft%201%20Jan%202018%20to%20Dec%202018/int_sb-frs_123_(2019).pdf)[Illustrative Examples [.pdf, 335kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Aft%201%20Jan%202018%20to%20Dec%202018/int_sb-frs_123_ie_(2019).pdf) | 1.1.2019 | 11.12.2017 |
+| INT SB-FRS 123 | [Uncertainty over Income Tax Treatments](/files/Docs/Default%20Source/Int%20Sb%20Frs/Aft%201%20Jan%202018%20to%20Dec%202018/int_sb-frs_123_(2019).pdf)<br>[Illustrative Examples](/files/Docs/Default%20Source/Int%20Sb%20Frs/Aft%201%20Jan%202018%20to%20Dec%202018/int_sb-frs_123_ie_(2019).pdf) | 1.1.2019 | 11.12.2017 |
 
 \*Include accompanying documents such as Implementation Guidance (IG) and Illustrative Examples (IE).
 
