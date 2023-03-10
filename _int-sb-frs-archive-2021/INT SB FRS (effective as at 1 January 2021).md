@@ -29,8 +29,8 @@ If you do not already have Adobe Reader, please download the software for free h
 | INT SB-FRS 119 | [Extinguishing Financial Liabilities with Equity Instruments](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202021/int_sb-frs_119_(2021).pdf) | - |
 | INT SB-FRS 120 | [Stripping Costs in the Production Phase of a Surface Mine](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202021/int_sb-frs_120_(2021).pdf) | - |
 | INT SB-FRS 121 | [Levies](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202021/int_sb-frs_121_(2021).pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202021/int_sb-frs_121_ie_(2021).pdf) | 
-| INT SB-FRS 122 | [Foreign Currency Transactions and Advance Considerations [.pdf, 412kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202021/int_sb-frs_122_(2021).pdf) | [IE [.pdf, 344kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202021/int_sb-frs_122_ie_(2021).pdf) | 
-| INT SB-FRS 123 | [Uncertainty over Income Tax Treatments [.pdf, 428kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202021/int_sb-frs_123_(2021).pdf) | [IE [.pdf, 334kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202021/int_sb-frs_123_ie_(2021).pdf) |  
+| INT SB-FRS 122 | [Foreign Currency Transactions and Advance Considerations](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202021/int_sb-frs_122_(2021).pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202021/int_sb-frs_122_ie_(2021).pdf) | 
+| INT SB-FRS 123 | [Uncertainty over Income Tax Treatments](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202021/int_sb-frs_123_(2021).pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202021/int_sb-frs_123_ie_(2021).pdf) |  
 
 \*Include Implementation Guidance (IG), Illustrative Examples (IE) and Information Note (IN).
 
