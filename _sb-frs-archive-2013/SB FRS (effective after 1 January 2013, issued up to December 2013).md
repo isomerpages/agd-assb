@@ -12,7 +12,7 @@ If you do not already have Adobe Reader, please download the software for free h
 |  | Titles | Effective Date (Annual periods beginning on or after) | Issuance Date |
 | -------- | -------- | -------- | -------- |
 | **Issued in 2012** |  |  |  |
-| SB-FRS 27 | [Separate Financial Statements [.pdf, 181kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/sb-frs_27-separate_financial_statements.pdf) | 1.1.2014<sup>1</sup>| 31.1.2012 |
+| SB-FRS 27 | [Separate Financial Statements](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/sb-frs_27-separate_financial_statements.pdf) | 1.1.2014<sup>1</sup>| 31.1.2012 |
 | SB-FRS 28 | [Investments in Associates and Joint Ventures](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/sb-frs_28-investments_in_associates_and_joint_ventures.pdf) | 1.1.2014<sup>1</sup> | 31.1.2012 |
 | SB-FRS 32 | [Offsetting of Financial Assets and Financial Liabilities](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/amendments_to_sb-frs_32_offsetting_of_financial_assets-financial_liabilit.pdf) |  1.1.2014 | 31.8.2012 |
 | SB-FRS 110 | [Consolidated Financial Statements](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202013%20to%20Dec%202013/sb-frs_110-consolidated_financial_statements.pdf) | 1.1.2014<sup>1</sup> | 31.1.2012 |
