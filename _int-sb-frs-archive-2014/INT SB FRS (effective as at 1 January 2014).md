@@ -38,7 +38,7 @@ If you do not already have Adobe Reader, please download the software for free h
 | INT SB-FRS 118 | [Transfers of Assets from Customers](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_118_2014.pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_118_ie_2014.pdf) |  
 | INT SB-FRS 119 | [Extinguishing Financial Liabilities with Equity Instruments](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_119_2014.pdf) | - |
 | INT SB-FRS 120 | [Stripping Costs in the Production Phase of a Surface Mine](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_120_2014.pdf) | - |
-| INT SB-FRS 121 | [Levies](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_121_2014.pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_121_ie_2014.pdf) |    |
+| INT SB-FRS 121 | [Levies](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_121_2014.pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_121_ie_2014.pdf) | 
 
   
 \*Include Implementation Guidance (IG), Illustrative Examples (IE) and Information Note (IN).
