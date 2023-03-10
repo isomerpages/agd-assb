@@ -22,9 +22,9 @@ sections:
   - infopic:
       subtitle: CURRENT
       description: Statutory Board Financial Reporting Standards (SB-FRS) effective
-        after 1 Jan 2022, issued up to Dec 2022
+        after 1 Jan 2023, issued up to Dec 2023
       button: SB-FRS
-      url: /pronouncements/sb-frs/effective-after-1-january-2022-issued-up-to-december-2022/
+      url: /pronouncements/sb-frs/effective-after-1-january-2023-issued-up-to-december-2023/
       image: /images/sb-frs-photo-1.jpg
       alt: 1 Jan 2022 up to Dec 2022
   - infopic:
