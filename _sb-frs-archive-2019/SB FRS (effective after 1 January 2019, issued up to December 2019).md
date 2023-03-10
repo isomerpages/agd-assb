@@ -14,16 +14,16 @@ If you do not already have Adobe Reader, please download the software for free h
 |  | Titles | Effective Date (Annual periods beginning on or after) | Issuance Date |
 | -------- | -------- | -------- | -------- |
 | **Issued in 2015** |  |  |  |
-| SB-FRS 110,<br>SB-FRS 28 | [Amendments to SB-FRS 110 and SB-FRS 28: Sale or Contribution of Assets between an Investor and its Associate or Joint Venture [.pdf, 98kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/Titles/amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined<sup>1</sup> | 18.03.2015 |
+| SB-FRS 110,<br>SB-FRS 28 | [Amendments to SB-FRS 110 and SB-FRS 28: Sale or Contribution of Assets between an Investor and its Associate or Joint Venture](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/Titles/amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined<sup>1</sup> | 18.03.2015 |
 | **Issued in 2016** |  |  |  |
-| SB-FRS 110,<br>SB-FRS 28 | [Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 [.pdf, 27kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/Titles/amendments_to_effective_date_of_amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined | 10.03.2016 |
+| SB-FRS 110,<br>SB-FRS 28 | [Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/Titles/amendments_to_effective_date_of_amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined | 10.03.2016 |
 | **Issued in 2019** |  |  |  |
-| SB-FRS Conceptual Framework | [SB-FRS Conceptual Framework for Financial Reporting [.pdf, 922kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/sb-frs-conceptual-framework-for-financial-reporting.pdf) | - | 2.8.2019 |
-| SB-FRS Conceptual Framework | [Amendments to References to the Conceptual Framework in SB-FRS Standards (Amendments to SB-FRS Standards)[.pdf, 540kb] ](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/amendments-to-references-to-the-conceptual-framework-in-sb-frs-standards.pdf) | 1.1.2020 | 28.11.2019 |
-| SB-FRS Conceptual Framework | [Amendments to References to the Conceptual Framework in SB-FRS Standards (Amendments to illustrative examples and implementation guidance) [.pdf, 392kb] ](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/amendments-to-references-to-the-conceptual-framework-in-sb-frs-standards_ie-ig.pdf) | 1.1.2020 | 28.11.2019 |
-| SB-FRS 24 | [Related Party Disclosures [.pdf, 595kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/sb-frs-24-related-party-disclosures.pdf) | 1.1.2011 | 2.8.2019 |
-| SB-FRS 103 | [Amendments to SB-FRS 103: Definition of a Business [.pdf, 669kb] ](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/amendments-to-sb-frs-103_definition-of-a-business.pdf) | 1.1.2020 | 2.8.2019 |
-| SB-FRS 1,<br>SB-FRS 8 | [Amendments to SB-FRS 1 and SB-FRS 8: Definition of Material [.pdf, 490kb]](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/amendments-to-sb-frs-1-and-sb-frs-8_definition-of-material.pdf) | 1.1.2020 | 2.8.2019 |
+| SB-FRS Conceptual Framework | [SB-FRS Conceptual Framework for Financial Reporting](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/sb-frs-conceptual-framework-for-financial-reporting.pdf) | - | 2.8.2019 |
+| SB-FRS Conceptual Framework | [Amendments to References to the Conceptual Framework in SB-FRS Standards (Amendments to SB-FRS Standards)](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/amendments-to-references-to-the-conceptual-framework-in-sb-frs-standards.pdf) | 1.1.2020 | 28.11.2019 |
+| SB-FRS Conceptual Framework | [Amendments to References to the Conceptual Framework in SB-FRS Standards (Amendments to illustrative examples and implementation guidance)](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/amendments-to-references-to-the-conceptual-framework-in-sb-frs-standards_ie-ig.pdf) | 1.1.2020 | 28.11.2019 |
+| SB-FRS 24 | [Related Party Disclosures](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/sb-frs-24-related-party-disclosures.pdf) | 1.1.2011 | 2.8.2019 |
+| SB-FRS 103 | [Amendments to SB-FRS 103: Definition of a Business](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/amendments-to-sb-frs-103_definition-of-a-business.pdf) | 1.1.2020 | 2.8.2019 |
+| SB-FRS 1,<br>SB-FRS 8 | [Amendments to SB-FRS 1 and SB-FRS 8: Definition of Material](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/amendments-to-sb-frs-1-and-sb-frs-8_definition-of-material.pdf) | 1.1.2020 | 2.8.2019 |
 
 
 
