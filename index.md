@@ -42,10 +42,10 @@ sections:
       alt: Interpretations of SB-FRS
   - infopic:
       subtitle: CURRENT
-      description: Interpretations of SB-FRS effective after 1 Jan 2022, issued up to
-        Dec 2022
+      description: Interpretations of SB-FRS effective after 1 Jan 2023, issued up to
+        Dec 2023
       button: INT SB-FRS
-      url: /pronouncements/interpretations-of-sb-frs/effective-after-1-january-2022-issued-up-to-december-2022/
+      url: /pronouncements/interpretations-of-sb-frs/effective-after-1-january-2023-issued-up-to-december-2023/
       image: /images/int-sb-frs-photo-1.jpg
       alt: effective as at 1 Jan 2022
   - infopic:
