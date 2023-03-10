@@ -13,7 +13,7 @@ If you do not already have Adobe Reader, please download the software for free h
 
 | Reference | Titles | Effective date (Annual periods beginning on or after) | Issuance date |
 | --- | --- | --- | --- |
-| INT SB-FRS 121 | [Levies [.pdf, 161kb]](/files/Docs/Default%20Source/Int%20Sb%20Frs/After%201%20Jan%202013%20to%20Dec%202013/int_sbfrs_121_(jul_2013).pdf) | 1.1.2014 | 6.11.2013 |
+| INT SB-FRS 121 | [Levies](/files/Docs/Default%20Source/Int%20Sb%20Frs/After%201%20Jan%202013%20to%20Dec%202013/int_sbfrs_121_(jul_2013).pdf) | 1.1.2014 | 6.11.2013 |
 
   
 \*Include accompanying documents such as Implementation Guidance (IG) and Illustrative Examples (IE).  
