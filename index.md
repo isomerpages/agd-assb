@@ -14,11 +14,11 @@ sections:
   - infopic:
       subtitle: CURRENT
       description: Statutory Board Financial Reporting Standards (SB-FRS) effective as
-        at 1 Jan 2022
+        at 1 Jan 2023
       button: SB-FRS
       alt: sb-frs-effective at january
       image: /images/sb-frs-photo-1.jpg
-      url: /pronouncements/sb-frs/effective-as-at-1-january-2022/
+      url: /pronouncements/sb-frs/effective-as-at-1-january-2023/
   - infopic:
       subtitle: CURRENT
       description: Statutory Board Financial Reporting Standards (SB-FRS) effective
