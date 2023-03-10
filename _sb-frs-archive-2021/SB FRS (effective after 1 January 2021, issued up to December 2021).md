@@ -20,7 +20,7 @@ If you do not already have Adobe Reader, please download the software for free h
 | **Issued in 2016** |  |  |  |
 | SB-FRS 110,<br>SB-FRS 28 | [Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202019%20to%20Dec%202019/Titles/amendments_to_effective_date_of_amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined | 10.03.2016 |
 | **Issued in 2020** |  |  |  |
-| SB-FRS 1 | [Amendments to SB-FRS 1[.pdf, 524kb]  ](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202020%20to%20Dec%202020/amendments-to-sb-frs-1.pdf) | 1.1.2023<sup>2</sup> | 13.11.2020 |
+| SB-FRS 1 | [Amendments to SB-FRS 1](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202020%20to%20Dec%202020/amendments-to-sb-frs-1.pdf) | 1.1.2023<sup>2</sup> | 13.11.2020 |
 | SB-FRS 1 | [Amendments to SB-FRS 1 (Deferral of Effective Date)](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202020%20to%20Dec%202020/amendments-to-sb-frs-1---deferral-of-effective-date.pdf) | - | 13.11.2020 |
 | SB-FRS 103 | [Amendments to SB-FRS 103](/files/Docs/Default%20Source/Default%20Document%20Library/amendments-to-sb-frs-103.pdf) | 1.1.2022 | 13.11.2020 |
 | SB-FRS 16 | [Amendments to SB-FRS 16](/files/Docs/Default%20Source/Sb%20Frs/Aft%201%20Jan%202020%20to%20Dec%202020/amendments-to-sb-frs-16.pdf) | 1.1.2022 | 13.11.2020 |
