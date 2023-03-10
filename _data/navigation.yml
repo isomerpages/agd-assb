@@ -1,15 +1,27 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/ASSB_logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Home
+    url: /
+  - title: " Who We Are"
+    collection: who-we-are
+  - title: Pronouncements
+    url: /pronouncements/sb-frs/effective-as-at-1-january-2023/
+    sublinks:
+      - title: SB-FRS
+        url: /pronouncements/sb-frs/effective-as-at-1-january-2023/
+      - title: Interpretations of SB-FRS
+        url: /pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2023/
+      - title: SB-FRS Guidance Notes
+        url: /pronouncements/sb-frs-guidance-notes/current/
+      - title: SB-FRS Practice Statements
+        url: /pronouncements/sb-frs-practice-statements/current/
+  - title: Consultation
+    collection: consultation
+  - title: Advisory Notes
+    collection: advisory-notes
+  - title: News
+    resource_room: true
+  - title: Useful Links
+    url: /useful-links
+  - title: Email Subscription
+    url: https://form.gov.sg/#!/63624f45fbb3dd00128d2177

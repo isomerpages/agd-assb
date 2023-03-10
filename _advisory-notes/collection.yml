@@ -1,0 +1,5 @@
+collections:
+  advisory-notes:
+    output: true
+    order:
+      - Advisory Notes.md

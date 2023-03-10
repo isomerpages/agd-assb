@@ -1,32 +1,77 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Accounting Standards for Statutory Boards
+description: Accounting Standards for Statutory Boards of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/assb-welcome-banner.png
+      url: /who-we-are
+  - infobar:
+      title: Pronouncements
+  - infopic:
+      subtitle: CURRENT
+      description: Statutory Board Financial Reporting Standards (SB-FRS) effective as
+        at 1 Jan 2022
+      button: SB-FRS
+      alt: sb-frs-effective at january
+      image: /images/sb-frs-photo-1.jpg
+      url: /pronouncements/sb-frs/effective-as-at-1-january-2022/
+  - infopic:
+      subtitle: CURRENT
+      description: Statutory Board Financial Reporting Standards (SB-FRS) effective
+        after 1 Jan 2022, issued up to Dec 2022
+      button: SB-FRS
+      url: /pronouncements/sb-frs/effective-after-1-january-2022-issued-up-to-december-2022/
+      image: /images/sb-frs-photo-1.jpg
+      alt: 1 Jan 2022 up to Dec 2022
+  - infopic:
+      description: Statutory Board Financial Reporting Standards (SB-FRS)
+      button: VIEW ARCHIVES
+      url: /pronouncements/sb-frs/archives/
+      image: /images/sb-frs-photo-1.jpg
+      alt: SB-FRS Archives
+  - infopic:
+      subtitle: CURRENT
+      description: Interpretations of SB-FRS effective as at 1 Jan 2022
+      button: INT SB-FRS
+      url: /pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2022/
+      image: /images/int-sb-frs-photo-1.jpg
+      alt: Interpretations of SB-FRS
+  - infopic:
+      subtitle: CURRENT
+      description: Interpretations of SB-FRS effective after 1 Jan 2022, issued up to
+        Dec 2022
+      button: INT SB-FRS
+      url: /pronouncements/interpretations-of-sb-frs/effective-after-1-january-2022-issued-up-to-december-2022/
+      image: /images/int-sb-frs-photo-1.jpg
+      alt: effective as at 1 Jan 2022
+  - infopic:
+      button: VIEW ARCHIVES
+      url: /pronouncements/interpretations-of-sb-frs/archives/
+      alt: Interpretations SB-FRS Archive
+      image: /images/int-sb-frs-photo-1.jpg
+      description: Interpretations of SB-FRS
+  - infopic:
+      subtitle: CURRENT
+      description: SB-FRS Guidance Notes
+      button: SB-FRS Guidance Notes
+      url: /pronouncements/sb-frs-guidance-notes/current/
+      image: /images/sb-frs-guidance-note-photo-1.jpg
+      alt: SB-FRS Guidance Notes
+  - infopic:
+      button: VIEW ARCHIVES
+      url: /pronouncements/sb-frs-guidance-notes/archives/
+      image: /images/sb-frs-guidance-note-photo-1.jpg
+      alt: Image alt text
+      description: SB-FRS Guidance Notes
+  - resources:
+      title: Latest News
+      button: FIND OUT MORE
+  - infobar:
+      description: Subscribe to the Accounting Standards for Statutory Boards’ mailing list
+      button: EMAIL SUBSCRIPTION
+      url: https://form.gov.sg/63624f45fbb3dd00128d2177
 ---
-
