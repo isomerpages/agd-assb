@@ -8,7 +8,7 @@ description: Available for Comments – ED/2023/1 International Tax Reform -
   Pillar Two Model Rules (Proposed amendments to IAS 12)
 image: ""
 ---
-Available for Comments ED 2023 1 International Tax Reform:  Pillar Two Model Rules
+Available for Comments ED/2023/1 International Tax Reform:  Pillar Two Model Rules
 --------------------------------------------------------------------------------------------------------------------
 
 16 Jan 2023
