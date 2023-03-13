@@ -1,5 +1,5 @@
 ---
-title: Issuance of Revised SB FRS Guidance Note 3 Accounting and Disclosures for
+title: Issuance of Revised SB-FRS Guidance Note 3 Accounting and Disclosures for
   Trust Funds
 permalink: /news/archives/issuance-of-revised-sb-frs-guidance-note-3/
 date: 2022-11-28

@@ -1,6 +1,5 @@
 ---
-title: Issuance of Amendments to References to the Conceptual Framework in SB
-  FRS Standards
+title: Issuance of Amendments to References to the Conceptual Framework in SB-FRS Standards
 permalink: /news/archives/issuance-of-amendments-to-references-to-the-conceptual-framework-in-sb-frs-standards/
 date: 2019-11-28
 layout: post
@@ -10,7 +9,7 @@ description: Issuance of Amendments to References to the Conceptual Framework in
   and implementation guidance)
 image: ""
 ---
-Issuance of Amendments to References to the Conceptual Framework in SB FRS Standards
+Issuance of Amendments to References to the Conceptual Framework in SB-FRS Standards
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 28 Nov 2019

@@ -1,5 +1,5 @@
 ---
-title: INT SB FRS (effective after 1 January 2022, issued up to December 2022)
+title: INT SB-FRS (effective after 1 January 2022, issued up to December 2022)
 permalink: /pronouncements/int-sb-frs/archives/2022/effective-after-1-january-2022-issued-up-to-december-2022/
 description: INT SB-FRS (effective after 1 January 2022, issued up to December 2022)
 ---
