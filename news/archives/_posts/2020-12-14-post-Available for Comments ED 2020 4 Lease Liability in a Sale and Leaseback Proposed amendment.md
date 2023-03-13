@@ -1,5 +1,5 @@
 ---
-title: Available for Comments ED 2020 4 Lease Liability in a Sale and Leaseback
+title: Available for Comments ED/2020/4 Lease Liability in a Sale and Leaseback
   Proposed amendment
 permalink: /news/archives/available-for-comments-ed-2020-4-lease-liability-in-a-sale-and-leaseback-proposed/
 date: 2020-12-14
