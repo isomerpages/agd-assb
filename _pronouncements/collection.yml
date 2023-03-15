@@ -2,7 +2,6 @@ collections:
   pronouncements:
     output: true
     order:
-      - SB FRS/123456789012345678901234567890123456789012345678901234567890.md
       - SB FRS/.keep
       - SB FRS/SB FRS (effective as at 1 January 2023).md
       - SB FRS/SB FRS (effective after 1 January 2023, issued up to December
