@@ -1,5 +1,5 @@
 ---
-title: Issuance of Revised SB  FRS 1002
+title: Issuance of Revised SB-FRS 1002
 permalink: /news/archives/issuance-of-revised-sb-frs-1002/
 date: 2022-11-28
 layout: post
