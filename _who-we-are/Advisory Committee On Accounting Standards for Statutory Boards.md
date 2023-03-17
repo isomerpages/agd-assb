@@ -6,27 +6,24 @@ description: Advisory Committee On Accounting Standards for Statutory Boards
 ### Advisory Committee on Accounting Standards for Statutory Board
 
   
-
+	
 To bring wider representation and experience into the standards setting process, the Advisory Committee on Accounting Standards for Statutory Boards ("Advisory Committee") has been formed to advise the Accountant-General. The **[Advisory Committee](/who-we-are/objectives-of-advisory-committee/)** comprises representatives from various stakeholders such as the Statutory Boards, the public accounting profession, the accounting academia and the Government.
 
 ### **Chairman**
 
-![Ow-Fook-Chuen.jpg](/images/Images/Default%20Source/Who%20We%20Are/Ow-Fook-Chuen.jpg)
-**Mr Ow Fook Chuen**<br>Accountant-General
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Ow-Fook-Chuen.jpg" alt="Mr Ow Fook Chuen" style="width:200px;height:250px;object-fit:cover;" align="center"><center>**Mr Ow Fook Chuen** <br>Accountant-General
 
 <br>
-<br>
-<br>
+
 
 ### **Committee Members**
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Bong-Yap-Kim.jpg" alt="Ms Bong Yap Kim" style="width:200px;height:250px;object-fit:cover;" align="center">**Ms Bong Yap Kim**<br>Divisional Director (Financial Reporting & Surveillance Division)<br>Accounting & Corporate Regulatory Authority of Singapore
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Bong-Yap-Kim.jpg" alt="Ms Bong Yap Kim" style="width:200px;height:250px;object-fit:cover;" align="center"><center>**Ms Bong Yap Kim**
+<br>Divisional Director (Financial Reporting & Surveillance Division)<br>Accounting & Corporate Regulatory Authority of Singapore
 
 <br>
-<br>
-<br>
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Chan-Yen-San.jpg" alt="Ms Chan Yen San" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Chan Yen San**<br>Partner<br>KPMG LLP
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Chan-Yen-San.jpg" alt="Ms Chan Yen San" style="width:200px;height:250px;object-fit:cover;" align="center"><center>**Ms Chan Yen San**<br>Partner<br>KPMG LLP
 
 <br>
 <br>
