@@ -59,6 +59,9 @@ Group Director  <br>
 Auditor-General's Office
 
 ![Ms Ong Swad Yen](/images/Images/Default%20Source/Who%20We%20Are/Ong-Swad-Yen.jpg)
+**Ms Ong Swad Yen** <br>
+Director (Finance, Procurement & Admin)  <br>
+National Heritage Board
 
 ![Mr William Tan](/images/Images/Default%20Source/Who%20We%20Are/William-Tan.jpg)
 **Mr William Tan**   <br>
