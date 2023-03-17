@@ -3,7 +3,8 @@ title: Useful Links
 permalink: /useful-links/
 description: Useful Links
 ---
-<img src="/images/Images/Default%20Source/Useful%20Links/img-fr.jpg" alt="img-fr" style="height:202; width:270px;  margin-right:20px;" align="center"> <br><center> <h1>Useful Links</h1>	
+<img src="/images/Images/Default%20Source/Useful%20Links/img-fr.jpg" alt="img-fr" style="height:202; width:270px;  margin-right:20px;" align="center"> <br><center> <b>Useful Links </b>	
+	
 [Accounting Standards Council](http://www.asc.gov.sg/)  <br>
 [Ministry of Finance](http://www.mof.gov.sg/)  
 
