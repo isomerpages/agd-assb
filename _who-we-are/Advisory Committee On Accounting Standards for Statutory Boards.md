@@ -20,7 +20,7 @@ To bring wider representation and experience into the standards setting process,
 
 ### **Committee Members**
 
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Bong-Yap-Kim.jpg" alt="Ms Bong Yap Kim" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Bong Yap Kim**<br>Divisional Director (Financial Reporting & Surveillance Division)<br>Accounting & Corporate Regulatory Authority of Singapore
+<img src="/images/Images/Default%20Source/Who%20We%20Are/Bong-Yap-Kim.jpg" alt="Ms Bong Yap Kim" style="width:200px;height:250px;object-fit:cover;" align="center">**Ms Bong Yap Kim**<br>Divisional Director (Financial Reporting & Surveillance Division)<br>Accounting & Corporate Regulatory Authority of Singapore
 
 <br>
 <br>
