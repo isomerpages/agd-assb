@@ -30,5 +30,3 @@ To bring wider representation and experience into the standards setting process,
 |<img src="/images/Images/Default%20Source/Who%20We%20Are/ms-ong-swad-wen-20230320.jpg" alt="Ms Ong Swad Yen" style="width:200px;height:auto;object-fit:cover;">|**Ms Ong Swad Yen**<br>Director (Finance, Procurement & Admin)<br>National Heritage Board|
 |<img src="/images/Images/Default%20Source/Who%20We%20Are/mr-william-tan-20230320.jpg" alt="Mr William Tan" style="width:200px;height:auto;object-fit:cover;">|**Mr William Tan**<br>Assistant Chief Executive<br>National Library Board|
 |<img src="/images/Images/Default%20Source/Who%20We%20Are/Joyce-Tong.jpg" alt="Ms Joyce Tong" style="width:200px;height:auto;object-fit:cover;">|**Ms Joyce Tong**<br>Group Director (Finance)<br>A\*STAR|
-
-![](/images/Images/Default%20Source/Who%20We%20Are/Who%20we%20are.png)
