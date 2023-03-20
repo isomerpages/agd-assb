@@ -79,3 +79,7 @@ To bring wider representation and experience into the standards setting process,
 <br>
 <br>
 <br>
+
+![](/images/Images/Default%20Source/Who%20We%20Are/Who%20we%20are.png)
+
+
