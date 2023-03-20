@@ -21,9 +21,9 @@ To bring wider representation and experience into the standards setting process,
 
 
 
-|  |  |  
-| -------- | -------- | 
-| <img src="/images/Images/Default%20Source/Who%20We%20Are/Chan-Yen-San.jpg" alt="Ms Chan Yen San" >     | **Ms Chan Yen San** <br> Partner  <br>KPMG LLP 
+|  |  |   |
+| -------- | -------- |  -------- | 
+| <img src="/images/Images/Default%20Source/Who%20We%20Are/Chan-Yen-San.jpg" alt="Ms Chan Yen San" >     | **Ms Chan Yen San** <br> Partner  <br>KPMG LLP  | |
 
 
 
