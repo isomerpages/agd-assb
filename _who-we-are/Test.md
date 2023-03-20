@@ -11,7 +11,7 @@ To bring wider representation and experience into the standards setting process,
 
 ### **Chairman**
 |  |  |
-| -------- | -------- | 
+| -------- | -------- |
 |<img src="/images/Images/Default%20Source/Who%20We%20Are/Ow-Fook-Chuen.jpg" alt="Mr Ow Fook Chuen" style="width:200px;height:auto;object-fit:cover;">|**Mr Ow Fook Chuen**<br>Accountant-General|
 
 ### **Committee Members**
