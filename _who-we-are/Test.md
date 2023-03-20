@@ -27,7 +27,7 @@ To bring wider representation and experience into the standards setting process,
 |<img src="/images/Images/Default%20Source/Who%20We%20Are/andrew-lee-20230320_1.jpg" alt="Professor Andrew Lee" style="width:200px;height:auto;object-fit:cover;">|**Professor Andrew Lee**<br>Associate Professor<br>Singapore Management University|
 |<img src="/images/Images/Default%20Source/Who%20We%20Are/cecilia-neo_corporate-photo-20230320_1.jpg" alt="Ms Cecilia Neo" style="width:200px;height:auto;object-fit:cover;">|**Ms Cecilia Neo**<br>Director (Finance)<br>Energy Market Authority|
 |<img src="/images/Images/Default%20Source/Who%20We%20Are/ng-lip-nin-20230320.jpg" alt="Ms Ng Lip Nin" style="width:200px;height:auto;object-fit:cover;">|**Ms Ng Lip Nin**<br>Group Director<br>Auditor-General's Office|
-|<img src="/images/Images/Default%20Source/Who%20We%20Are/Ong-Swad-Yen.jpg" alt="Ms Ong Swad Yen" style="width:200px;height:auto;object-fit:cover;">|**Ms Ong Swad Yen**<br>Director (Finance, Procurement & Admin)<br>National Heritage Board|
+|<img src="/images/Images/Default%20Source/Who%20We%20Are/ms-ong-swad-wen-20230320.jpg" alt="Ms Ong Swad Yen" style="width:200px;height:auto;object-fit:cover;">|**Ms Ong Swad Yen**<br>Director (Finance, Procurement & Admin)<br>National Heritage Board|
 |<img src="/images/Images/Default%20Source/Who%20We%20Are/William-Tan.jpg" alt="Mr William Tan" style="width:200px;height:auto;object-fit:cover;">|**Mr William Tan**<br>Assistant Chief Executive<br>National Library Board|
 |<img src="/images/Images/Default%20Source/Who%20We%20Are/Joyce-Tong.jpg" alt="Ms Joyce Tong" style="width:200px;height:auto;object-fit:cover;">|**Ms Joyce Tong**<br>Group Director (Finance)<br>A\*STAR|
 
