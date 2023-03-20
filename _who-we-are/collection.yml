@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - Test.md
       - Introduction.md
       - Process for Prescribing SB FRS.md
       - Advisory Committee On Accounting Standards for Statutory Boards.md
