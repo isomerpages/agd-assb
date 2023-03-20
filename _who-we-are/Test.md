@@ -20,7 +20,7 @@ To bring wider representation and experience into the standards setting process,
 |  |  |
 | -------- | -------- | 
 |<img src="/images/Images/Default%20Source/Who%20We%20Are/Bong-Yap-Kim.jpg" alt="Ms Bong Yap Kim" style="width:200px;height:auto;object-fit:cover;">|**Ms Bong Yap Kim**<br>Divisional Director (Financial Reporting & Surveillance Division)<br>Accounting & Corporate Regulatory Authority of Singapore  |
-|<img src="/images/Images/Default%20Source/Who%20We%20Are/chan-yen-san-20230320.jpg" alt="Ms Chan Yen San" style="width:200px;height:auto;object-fit:cover;">| **Ms Chan Yen San** <br> Partner  <br>KPMG LLP|
+|<img src="/images/Images/Default%20Source/Who%20We%20Are/chan-yen-san-20230320_1.jpg" alt="Ms Chan Yen San" style="width:200px;height:auto;object-fit:cover;">| **Ms Chan Yen San** <br> Partner  <br>KPMG LLP|
 |<img src="/images/Images/Default%20Source/Who%20We%20Are/ho-kim-wai-20230320_1.jpg" alt="Professor Ho Kim Wai" style="width:200px;height:auto;object-fit:cover;">|**Professor Ho Kim Wai**<br>Associate Professor<br>Nanyang Technological University|
 |<img src="/images/Images/Default%20Source/Who%20We%20Are/debra-ann-ker-20230320_1.jpg" alt="Ms Debra Ann Ker" style="width:200px;height:auto;object-fit:cover;">|**Ms Debra Ann Ker**<br>Partner<br>PWC|
 |<img src="/images/Images/Default%20Source/Who%20We%20Are/eleanor-lee-20230320_1.jpg" alt="Ms Eleanor Lee" style="width:200px;height:auto;object-fit:cover;">|**Ms Eleanor Lee**<br>Partner<br>Ernst & Young LLP|
