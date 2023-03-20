@@ -21,23 +21,11 @@ To bring wider representation and experience into the standards setting process,
 
 
 
-|  |  |   |
-| -------- | -------- |  -------- | 
-| <img src="/images/Images/Default%20Source/Who%20We%20Are/Chan-Yen-San.jpg" alt="Ms Chan Yen San" >     | **Ms Chan Yen San** <br> Partner  <br>KPMG LLP  | |
-
-
-
-<br>
-<br>
-<br>
-
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Chan-Yen-San.jpg" alt="Ms Chan Yen San" style="width:200px;height:250px;object-fit:cover;" align="left">**Ms Chan Yen San**<br>Partner<br>KPMG LLP
-
-<br>
-<br>
-<br>
-
-<img src="/images/Images/Default%20Source/Who%20We%20Are/Ho-Kim-Wai.jpg" alt="Professor Ho Kim Wai" style="width:200px;height:250px;object-fit:cover;" align="left">**Professor Ho Kim Wai**<br>Associate Professor<br>Nanyang Technological University
+|  |  |
+| -------- | -------- | 
+|<img src="/images/Images/Default%20Source/Who%20We%20Are/Bong-Yap-Kim.jpg" alt="Ms Bong Yap Kim" style="width:200px;height:250px;object-fit:cover;" align="right">|**Ms Bong Yap Kim**<br>Divisional Director (Financial Reporting & Surveillance Division)<br>Accounting & Corporate Regulatory Authority of Singapore  |
+|<img src="/images/Images/Default%20Source/Who%20We%20Are/Chan-Yen-San.jpg" alt="Ms Chan Yen San" style="width:200px;height:250px;object-fit:cover;" align="right">| **Ms Chan Yen San** <br> Partner  <br>KPMG LLP|
+|<img src="/images/Images/Default%20Source/Who%20We%20Are/Ho-Kim-Wai.jpg" alt="Professor Ho Kim Wai" style="width:200px;height:250px;object-fit:cover;" align="left">|**Professor Ho Kim Wai**<br>Associate Professor<br>Nanyang Technological University|
 
 <br>
 <br>
