@@ -24,7 +24,7 @@ To bring wider representation and experience into the standards setting process,
 ### **Committee Members**
 <div class="row">
     <div class="col is-4">
-             <img src="/images/Images/Default%20Source/Who%20We%20Are/Bong-Yap-Kim-20230321-latest.jpg" alt="Ms Bong Yap Kim" />
+             <img src="/images/Images/Default%20Source/Who%20We%20Are/bong-yap-kim-20230321-latest.jpg" alt="Ms Bong Yap Kim" />
     </div>
     <div class="col is-8">
         <p class="title is-4">Ms Bong Yap Kim</p>
@@ -79,7 +79,7 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/andrew-lee-20230320_1.jpg" alt="Professor Andrew Lee" />
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/andrew-lee-20230321-latest.jpg" alt="Professor Andrew Lee" />
     </div>
     <div class="col is-8">
         <p class="title is-4">Professor Andrew Lee</p>
@@ -89,7 +89,7 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/cecilia-neo_corporate-photo_sep-2022-20230321.jpg" alt="Ms Cecilia Neo"  />
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/cecilia-neo_corporate-photo_sep-2022-20230321-latest.jpg" alt="Ms Cecilia Neo"  />
     </div>
     <div class="col is-8">
         <p class="title is-4">Ms Cecilia Neo</p>
@@ -101,7 +101,7 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/ng-lip-nin-20230320.jpg" alt="Ms Ng Lip Nin"/>
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/ng-lip-nin-20230321-latest.jpg" alt="Ms Ng Lip Nin"/>
     </div>
     <div class="col is-8">
         <p class="title is-4">Ms Ng Lip Nin</p>
@@ -112,7 +112,7 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/ms-ong-swad-wen-20230320.jpg" alt="Ms Ong Swad Yen"  />
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/ms-ong-swad-wen-20230321-latest.jpg" alt="Ms Ong Swad Yen"  />
     </div>
     <div class="col is-8">
         <p class="title is-4">Ms Ong Swad Yen</p>
@@ -123,7 +123,7 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/mr-william-tan-20230321.jpg" alt="Mr William Tan"  />
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/mr-william-tan-20230321-latest.jpg" alt="Mr William Tan"  />
     </div>
     <div class="col is-8">
         <p class="title is-4">Mr William Tan</p>
@@ -134,7 +134,7 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/joyce-tong-20230321.jpg" alt="Ms Joyce Tong"  />
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/joyce-tong-20230321-latest.jpg" alt="Ms Joyce Tong"  />
     </div>
     <div class="col is-8">
         <p class="title is-4">Ms Joyce Tong</p>
