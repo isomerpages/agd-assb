@@ -7,7 +7,7 @@ layout: post
 description: Issuance of SB-FRS Guidance Note 3 - Accounting and Disclosures for Trust Funds
 image: ""
 ---
-Issuance of SB-FRS Guidance Note 3: Accounting and Disclosures for Trust Funds
+Issuance of SB-FRS Guidance Note 3 - Accounting and Disclosures for Trust Funds
 -------------------------------------------------------------------------------
 
 13 Aug 2009
