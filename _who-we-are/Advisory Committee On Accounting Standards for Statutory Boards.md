@@ -28,7 +28,7 @@ To bring wider representation and experience into the standards setting process,
     </div>
     <div class="col is-8">
         <p class="title is-4">Ms Bong Yap Kim</p>
-        <strong>Divisional Director</strong> (Financial Reporting & Surveillance Division)
+        <strong>Divisional Director (Financial Reporting & Surveillance Division)</strong> 
         <br /> Accounting & Corporate Regulatory Authority of Singapore
     </div>
 </div>
