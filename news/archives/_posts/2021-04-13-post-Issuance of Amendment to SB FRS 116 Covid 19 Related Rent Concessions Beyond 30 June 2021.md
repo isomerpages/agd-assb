@@ -8,7 +8,7 @@ description: Issuance of Amendment to SB-FRS 116 Covid-19-Related Rent
   Concessions Beyond 30 June 2021
 image: ""
 ---
-Issuance of Amendment to SB-FRS 116 Covid 19 Related Rent Concessions Beyond 30 June 2021
+Issuance of Amendment to SB-FRS 116 Covid-19-Related Rent Concessions Beyond 30 June 2021
 -----------------------------------------------------------------------------------------
 
 13 Apr 2021
