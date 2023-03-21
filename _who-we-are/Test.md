@@ -18,12 +18,6 @@ To bring wider representation and experience into the standards setting process,
 |  <img src="/images/Images/Default%20Source/Who%20We%20Are/ow-fook-chuen-20230321.jpg" alt="Mr Ow Fook Chuen" style="width:200px;height:auto;object-fit:cover;">   |   **Mr Ow Fook Chuen**<br>Accountant-General   |      |      |      
 
 
-
-
-|  |  |
-| -------- | -------- |
-|<img src="/images/Images/Default%20Source/Who%20We%20Are/ow-fook-chuen-20230321.jpg" alt="Mr Ow Fook Chuen" style="width:200px;height:auto;object-fit:cover;">|**Mr Ow Fook Chuen**<br>Accountant-General|
-
 ### **Committee Members**
 
 |  |  |
