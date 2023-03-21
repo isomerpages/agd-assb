@@ -12,7 +12,7 @@ Issuance of Revised SB-FRS Guidance Note 3 Accounting and Disclosures for Trust 
 
 28 Nov 2022
 
-A revised SB-FRS Guidance Note 3 _Accounting and Disclosures for Trust Funds_, effective for annual periods beginning on or after 1 January 2023, has been issued. Early application is permitted.
+A revised SB-FRS Guidance Note 3 Accounting and Disclosures for Trust Funds, effective for annual periods beginning on or after 1 January 2023, has been issued. Early application is permitted.
 
 The key amendments made to SB-FRS Guidance Note 3 are:
 
