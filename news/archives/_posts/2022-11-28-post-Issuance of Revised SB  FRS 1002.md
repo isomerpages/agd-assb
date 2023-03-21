@@ -7,7 +7,7 @@ description: Issuance of Revised SB-FRS 1002 Impairment of Non-Cash-Generating
   Assets and Implementation Guidance
 image: ""
 ---
-Issuance of Revised SB-FRS 1002
+Issuance of Revised SB-FRS 1002 Impairment of Non-Cash-Generating Assets and Implementation Guidance
 ----------------------------------------------------------------------------------------------------
 
 28 Nov 2022
