@@ -8,7 +8,7 @@ description: "Available for Comments - IFRS ED: Severe Hyperinflation (proposed
   amendment to IFRS 1)"
 image: ""
 ---
-Available for Comments IFRS ED: Severe Hyperinflation (proposed amendment to IFRS 1)
+Available for Comments - IFRS ED: Severe Hyperinflation (proposed amendment to IFRS 1)
 --------------------------------------------------------------------------------------
 
 15 Oct 2010
