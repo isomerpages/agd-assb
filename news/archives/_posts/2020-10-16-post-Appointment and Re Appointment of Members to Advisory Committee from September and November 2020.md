@@ -8,7 +8,7 @@ description: Appointment and Re-Appointment of Members to Advisory Committee
   from September and November 2020
 image: ""
 ---
-Appointment and Re Appointment of Members to Advisory Committee from September and November 2020
+Appointment and Re-Appointment of Members to Advisory Committee from September and November 2020
 ------------------------------------------------------------------------------------------------
 
 16 Oct 2020
@@ -22,4 +22,4 @@ In addition, the following new member has been appointed for a two-year term fro
   
 The Secretariat would like to thank the following member, who has stepped down from the Advisory Committee with effect from 1 September 2020, for her service during her term: 
 
-*   Ms Chia Sin Yee (Director, Civil Aviation Authority of Singapore)
+*   Ms Chia Sin Yee (Director, Civil Aviation Authority of Singapore) 
