@@ -8,7 +8,7 @@ description: Available for Comments - ED/2021/8 Initial Application of IFRS 17
   and IFRS 9 - Comparative Information (Proposed amendment to IFRS 17)
 image: ""
 ---
-Available for Comments ED/2021/8 Initial Application of IFRS 17 and IFRS 9 Comparative Information
+Available for Comments - ED/2021/8 Initial Application of IFRS 17 and IFRS 9 - Comparative Information (Proposed amendment to IFRS 17)
 --------------------------------------------------------------------------------------------------------------------------------------
 
 16 Aug 2021
