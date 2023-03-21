@@ -112,29 +112,29 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="https://d33wubrfki0l68.cloudfront.net/45066f470868e9687640c7b4d6588fbf83611d29/256a7/images/who-we-are/organisational-structure/board-benjamin-king.jpg" alt="Benjamin Stewart KING" />
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/ms-ong-swad-wen-20230320.jpg" alt="Ms Ong Swad Yen"  />
     </div>
     <div class="col is-8">
-        <p class="title is-4">Benjamin Stewart KING</p>
-        <strong>Country Managing Director</strong>
-        <br /> Google Singapore
+        <p class="title is-4">Ms Ong Swad Yen</p>
+        <strong>Director (Finance, Procurement & Admin)</strong>
+        <br /> National Heritage Board
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="https://d33wubrfki0l68.cloudfront.net/3134d781f665798dc107bf1e39b852241722f8ef/342cf/images/who-we-are/organisational-structure/bod-kevin-kwok.jpg" alt="Kevin KWOK" />
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/mr-william-tan-20230321.jpg" alt="Mr William Tan"  />
     </div>
     <div class="col is-8">
-        <p class="title is-4">Kevin KWOK</p>
-        <strong>Independent Director</strong>
-        <br /> Singapore Exchange Ltd
+        <p class="title is-4">Mr William Tan</p>
+        <strong>Assistant Chief Executive</strong>
+        <br /> National Library Board
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="https://d33wubrfki0l68.cloudfront.net/aec19702bc3471ac48768f732938c74bce38b6fc/e16cd/images/who-we-are/organisational-structure/mrandrewlim.jpeg" alt="Andrew LIM" />
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/joyce-tong-20230321.jpg" alt="Ms Joyce Tong"  />
     </div>
     <div class="col is-8">
         <p class="title is-4">Andrew LIM</p>
