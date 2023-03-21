@@ -9,7 +9,7 @@ description: "Available for Comments - IFRS ED: Limited Exemption from
   IAS 1)"
 image: ""
 ---
-Available for Comments IFRS ED: Limited Exemption from Comparative IFRS 7 Disclosures
+Available for Comments - IFRS ED: Limited Exemption from Comparative IFRS 7 Disclosures for First-time Adopters (Proposed amendments to IAS 1)
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 01 Dec 2009
