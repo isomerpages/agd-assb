@@ -142,7 +142,7 @@ To bring wider representation and experience into the standards setting process,
         <br /> A*STAR
     </div>
 </div>
-</div>
+
 
 
 
