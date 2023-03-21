@@ -7,7 +7,7 @@ description: Issuance of Amendments to SB-FRS 12 Deferred Tax related to Assets
   and Liabilities arising from a Single Transaction
 image: ""
 ---
-Issuance of Amendments to SB-FRS 12 Deferred Tax
+Issuance of Amendments to SB-FRS 12 Deferred Tax related to Assets and Liabilities arising from a Single Transaction
 --------------------------------------------------------------------------------------------------------------------
 
 29 Nov 2021
