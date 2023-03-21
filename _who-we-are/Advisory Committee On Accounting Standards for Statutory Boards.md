@@ -35,7 +35,7 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/chan-yen-san-20230321-latest.jpg" alt="Ms Chan Yen San" />
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/chan-yen-san-20230321-1-latest.jpg" alt="Ms Chan Yen San" />
     </div>
     <div class="col is-8">
         <p class="title is-4">Ms Chan Yen San</p>
