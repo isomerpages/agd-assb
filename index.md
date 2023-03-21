@@ -10,7 +10,7 @@ sections:
       background: /images/assb-welcome-banner.png
       url: /who-we-are
       key_highlights:
-        - title: About-ASSB
+        - title: About-ASSB 1234567890 123456790 123456890
           description: About ASSB
           url: ""
         - title: About ASSB 2
