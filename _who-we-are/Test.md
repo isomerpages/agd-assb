@@ -35,3 +35,15 @@ To bring wider representation and experience into the standards setting process,
 |<img src="/images/Images/Default%20Source/Who%20We%20Are/ms-ong-swad-wen-20230320.jpg" alt="Ms Ong Swad Yen" style="width:200px;height:auto;object-fit:cover;" align="left">|**Ms Ong Swad Yen**<br>Director (Finance, Procurement & Admin)<br>National Heritage Board|
 |<img src="/images/Images/Default%20Source/Who%20We%20Are/mr-william-tan-20230321.jpg" alt="Mr William Tan" style="width:200px;height:auto;object-fit:cover;" align="left">|**Mr William Tan**<br>Assistant Chief Executive<br>National Library Board|
 |<img src="/images/Images/Default%20Source/Who%20We%20Are/joyce-tong-20230321.jpg" alt="Ms Joyce Tong" style="width:200px;height:auto;object-fit:cover;" align="left">|**Ms Joyce Tong**<br>Group Director (Finance)<br>A\*STAR|
+
+
+<div class="row">
+    <div class="col is-4">
+        <img src="https://d33wubrfki0l68.cloudfront.net/5349231778aa7a244bf0397e69546f944814e5b9/b6f60/images/who-we-are/organisational-structure/adrian_chua.jpg" alt="Adrian CHUA" style="width:400px;height:auto;object-fit:cover;" align="left" />
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Adrian CHUA</p>
+        <strong>Deputy Secretary (Industry)</strong>
+        <br /> Ministry of Trade and Industry
+    </div>
+</div>
