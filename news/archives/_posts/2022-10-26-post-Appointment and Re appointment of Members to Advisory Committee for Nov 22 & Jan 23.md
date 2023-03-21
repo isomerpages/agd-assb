@@ -8,7 +8,7 @@ description: Appointment and Re-appointment of Members to Advisory Committee
   with effect from November 2022 and January 2023
 image: ""
 ---
-Appointment and Re appointment of Members to Advisory Committee for Nov 22 & Jan 23
+Appointment and Re-appointment of Members to Advisory Committee with effect from November 2022 and January 2023
 ---------------------------------------------------------------------------------------------------------------
 
 26 Oct 2022
