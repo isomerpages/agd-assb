@@ -8,7 +8,7 @@ description: "Available for Comments - IFRS ED: Defined Benefit Plans: Proposed
   Amendments to IAS 19 and IFRS ED: Fair Value Option for Financial Liabilities"
 image: ""
 ---
-Available for Comments IFRS ED: Defined Benefit Plans, IFRS ED: Fair Value Option
+Available for Comments - IFRS ED: Defined Benefit Plans: Proposed Amendments to IAS 19 and IFRS ED: Fair Value Option for Financial Liabilities
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 24 May 2010
