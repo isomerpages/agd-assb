@@ -6,7 +6,7 @@ layout: post
 description: "Available for Comments - ED INT SB-FRS 115 and IFRS ED: Leases"
 image: ""
 ---
-Available for Comments ED INT SB-FRS 115 and IFRS ED: Leases
+Available for Comments - ED INT SB-FRS 115 and IFRS ED: Leases
 --------------------------------------------------------------
 
 01 Sep 2010
