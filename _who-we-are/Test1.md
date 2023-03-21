@@ -9,6 +9,7 @@ description: ""
 	
 To bring wider representation and experience into the standards setting process, the Advisory Committee on Accounting Standards for Statutory Boards ("Advisory Committee") has been formed to advise the Accountant-General. The **[Advisory Committee](/who-we-are/objectives-of-advisory-committee/)** comprises representatives from various stakeholders such as the Statutory Boards, the public accounting profession, the accounting academia and the Government.
 
+### **Chairman**
 <div class="row">
     <div class="col is-4">
        <img src="/images/Images/Default%20Source/Who%20We%20Are/ow-fook-chuen-20230321-latest.jpg" alt="Mr Ow Fook Chuen" />
@@ -20,53 +21,54 @@ To bring wider representation and experience into the standards setting process,
     </div>
 </div>
 
+### **Committee Members**
 <div class="row">
     <div class="col is-4">
-        <img src="https://d33wubrfki0l68.cloudfront.net/8a0c28637795f457100d4385b0c8e2aeec2bd73d/1545f/images/who-we-are/organisational-structure/thien-kwee-engupdated.jpg" alt="THIEN Kwee Eng" />
+             <img src="/images/Images/Default%20Source/Who%20We%20Are/Bong-Yap-Kim-20230321-latest.jpg" alt="Ms Bong Yap Kim" />
     </div>
     <div class="col is-8">
-        <p class="title is-4">THIEN Kwee Eng</p>
-        <strong>Chief Executive Officer</strong>
-        <br /> Sentosa Development Corporation
+        <p class="title is-4">Ms Bong Yap Kim</p>
+        <strong>Divisional Director</strong> (Financial Reporting & Surveillance Division)
+        <br /> Accounting & Corporate Regulatory Authority of Singapore
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="https://d33wubrfki0l68.cloudfront.net/2dd133e8dad32e6dd1022ecebe1e66f50e681184/1b384/images/who-we-are/organisational-structure/angshihhuei.jpg" alt="ANG Shih-Huei " />
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/chan-yen-san-20230321-latest.jpg" alt="Ms Chan Yen San" />
     </div>
     <div class="col is-8">
-        <p class="title is-4">ANG Shih-Huei</p>
-        <strong>Chief Executive Officer</strong>
-        <br /> Klareco Communications
+        <p class="title is-4">Ms Chan Yen San</p>
+        <strong>Partner</strong>
+        <br /> KPMG LLP
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="https://d33wubrfki0l68.cloudfront.net/d8599bc1f697fa24140795c171bae5d89bf662b0/94f81/images/who-we-are/organisational-structure/angelene_chan.jpg" alt="Angelene CHAN" />
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/ho-kim-wai-20230321-latest.jpg" alt="Professor Ho Kim Wai" />
     </div>
     <div class="col is-8">
-        <p class="title is-4">Angelene CHAN</p>
-        <strong>Chairman</strong>
-        <br /> DP Architects
+        <p class="title is-4">Professor Ho Kim Wai</p>
+        <strong>Associate Professor</strong>
+        <br /> Nanyang Technological University
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="https://d33wubrfki0l68.cloudfront.net/e0af952e338383ed33faee21717b93c86e4d724a/cc78f/images/who-we-are/organisational-structure/guna_chellappan.jpg" alt="Guna CHELLAPPAN" />
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/debra-ann-ker-20230321-latest.jpg" alt="Ms Debra Ann Ker"  />
     </div>
     <div class="col is-8">
-        <p class="title is-4">Guna CHELLAPPAN</p>
-        <strong>Country General Manager for Singapore</strong>
-        <br /> Red Hat Asia Pacific Pte Ltd
+        <p class="title is-4">Ms Debra Ann Ker</p>
+        <strong>Partner</strong>
+        <br /> PWC
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="https://d33wubrfki0l68.cloudfront.net/5349231778aa7a244bf0397e69546f944814e5b9/b6f60/images/who-we-are/organisational-structure/adrian_chua.jpg" alt="Adrian CHUA" />
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/eleanor-lee-20230321-latest.jpg" alt="Ms Eleanor Lee"  />
     </div>
     <div class="col is-8">
         <p class="title is-4">Adrian CHUA</p>
