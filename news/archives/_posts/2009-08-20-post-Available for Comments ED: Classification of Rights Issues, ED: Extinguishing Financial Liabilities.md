@@ -8,7 +8,7 @@ description: "Available for Comments - ED: Classificaiton of Rights Issues and
   ED: Extinguishing Financial Liabilities with Equity Instruments"
 image: ""
 ---
-Available for Comments ED: Classification of Rights Issues, ED: Extinguishing Financial Liabilities
+Available for Comments - ED: Classificaiton of Rights Issues and ED: Extinguishing Financial Liabilities with Equity Instruments
 --------------------------------------------------------------------------------------------------------------------------------
 
 20 Aug 2009
