@@ -8,7 +8,7 @@ description: "Available for Comments - IFRS ED: Presentation of Items of Other
   Comprehensive Income (Proposed amendments to IAS 1)"
 image: ""
 ---
-Available for Comments IFRS ED: Presentation of Items of Other Comprehensive Income
+Available for Comments - IFRS ED: Presentation of Items of Other Comprehensive Income (Proposed amendments to IAS 1)
 --------------------------------------------------------------------------------------------------------------------
 
 08 Jun 2010
