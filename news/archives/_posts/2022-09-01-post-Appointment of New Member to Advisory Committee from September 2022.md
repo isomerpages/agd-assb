@@ -6,7 +6,7 @@ layout: post
 description: Appointment of New Member to Advisory Committee with effect from September 2022
 image: ""
 ---
-Appointment of New Member to Advisory Committee from September 2022
+Appointment of New Member to Advisory Committee with effect from September 2022
 -------------------------------------------------------------------------------
 
 01 Sep 2022
