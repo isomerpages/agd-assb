@@ -141,3 +141,4 @@ To bring wider representation and experience into the standards setting process,
         <strong>Group Director (Finance)</strong>
         <br /> A*STAR
     </div>
+</div>
