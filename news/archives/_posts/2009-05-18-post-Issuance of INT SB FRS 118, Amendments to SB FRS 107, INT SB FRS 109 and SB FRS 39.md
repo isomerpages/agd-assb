@@ -8,7 +8,7 @@ description: Issuance of INT SB-FRS 118, Amendments to SB-FRS 107, and
   Amendments to INT SB-FRS 109 and SB-FRS 39
 image: ""
 ---
-Issuance of INT SB-FRS 118, Amendments to SB-FRS 107, INT SB-FRS 109 and SB-FRS 39
+Issuance of INT SB-FRS 118, Amendments to SB-FRS 107, and Amendments to INT SB-FRS 109 and SB-FRS 39
 ----------------------------------------------------------------------------------------------------
 
 18 May 2009
