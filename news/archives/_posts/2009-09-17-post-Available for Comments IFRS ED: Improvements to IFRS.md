@@ -6,7 +6,7 @@ layout: post
 description: "Available for Comments - IFRS ED: Improvements to IFRS"
 image: ""
 ---
-Available for Comments IFRS ED: Improvements to IFRS
+Available for Comments - IFRS ED: Improvements to IFRS
 ------------------------------------------------------
 
 17 Sep 2009
