@@ -81,4 +81,10 @@ sections:
       description: Subscribe to the Accounting Standards for Statutory Boards’ mailing list
       button: EMAIL SUBSCRIPTION
       url: https://form.gov.sg/63624f45fbb3dd00128d2177
+  - infopic:
+      description: Subscribe to the Accounting Standards for Statutory Boards’ mailing list
+      button: EMAIL SUBSCRIPTION
+      url: https://form.gov.sg/63624f45fbb3dd00128d2177
+      image: /images/EmailSubscription.jpg
+      alt: Email Subscription
 ---
