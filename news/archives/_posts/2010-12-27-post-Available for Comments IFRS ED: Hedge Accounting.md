@@ -6,7 +6,7 @@ layout: post
 description: "Available for Comments - IFRS ED: Hedge Accounting"
 image: ""
 ---
-Available for Comments IFRS ED: Hedge Accounting
+Available for Comments - IFRS ED: Hedge Accounting
 --------------------------------------------------
 
 27 Dec 2010
