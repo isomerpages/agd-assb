@@ -79,7 +79,7 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/andrew-lee-20230321-latest.jpg" alt="Professor Andrew Lee" />
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/andrew-lee-20230321-1-latest.jpg" alt="Professor Andrew Lee" />
     </div>
     <div class="col is-8">
         <p class="title is-4">Professor Andrew Lee</p>
