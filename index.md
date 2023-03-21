@@ -11,7 +11,7 @@ sections:
       url: /who-we-are
       key_highlights:
         - title: About ASSB
-          description: About ASSB 2
+          description: About ASSB
           url: ""
   - infobar:
       title: Pronouncements
