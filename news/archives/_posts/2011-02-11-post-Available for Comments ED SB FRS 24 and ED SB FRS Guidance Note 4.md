@@ -6,7 +6,7 @@ layout: post
 description: Available for Comments - ED SB-FRS 24 and ED SB-FRS Guidance Note 4
 image: ""
 ---
-Available for Comments ED SB-FRS 24 and ED SB-FRS Guidance Note 4
+Available for Comments - ED SB-FRS 24 and ED SB-FRS Guidance Note 4
 -------------------------------------------------------------------
 
 11 Feb 2011
