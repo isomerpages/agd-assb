@@ -6,7 +6,7 @@ layout: post
 description: "Available for Comments - IFRS ED : Insurance Contracts"
 image: ""
 ---
-Available for Comments IFRS ED : Insurance Contracts
+Available for Comments - IFRS ED : Insurance Contracts
 ------------------------------------------------------
 
 16 Aug 2010
