@@ -71,48 +71,42 @@ To bring wider representation and experience into the standards setting process,
         <img src="/images/Images/Default%20Source/Who%20We%20Are/eleanor-lee-20230321-latest.jpg" alt="Ms Eleanor Lee"  />
     </div>
     <div class="col is-8">
-        <p class="title is-4">Adrian CHUA</p>
-        <strong>Deputy Secretary (Industry)</strong>
-        <br /> Ministry of Trade and Industry
+        <p class="title is-4">Ms Eleanor Lee</p>
+        <strong>Partner</strong>
+        <br /> Ernst & Young LLP
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="https://d33wubrfki0l68.cloudfront.net/3fd59fe57e28e76ada16d36c6636d63a745dcb18/5f285/images/who-we-are/organisational-structure/msdianaee-tan.jpg" alt="Diana EE-Tan" />
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/andrew-lee-20230320_1.jpg" alt="Professor Andrew Lee" />
     </div>
     <div class="col is-8">
-        <p class="title is-4">Diana EE-TAN</p>
-        <strong>Non-Executive Director </strong>
-        <br /> Far East Orchard Limited
-        <br />
-        <strong>Vice-Chairman</strong>
-        <br /> SHATEC Institutes Pte Ltd
+        <p class="title is-4">Professor Andrew Lee</p>
+        <strong>Associate Professor </strong>
+        <br /> Singapore Management University            </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/cecilia-neo_corporate-photo_sep-2022-20230321.jpg" alt="Ms Cecilia Neo"  />
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Ms Cecilia Neo</p>
+        <strong>Director (Finance)</strong>
+        <br /> Energy Market Authority|
+        <br />        
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="https://d33wubrfki0l68.cloudfront.net/530319d5514114f7b1380bb9eddc8a4316161e6d/472d8/images/who-we-are/organisational-structure/mreugeneho.jpg" alt="Eugene HO" />
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/ng-lip-nin-20230320.jpg" alt="Ms Ng Lip Nin"/>
     </div>
     <div class="col is-8">
-        <p class="title is-4">Eugene HO</p>
-        <strong>Regional Managing Director</strong>
-        <br /> Deloitte Consulting SEA
-        <br />
-        <strong>Chief Strategy &amp; Innovation Officer</strong>
-        <br /> Deloitte SEA &amp; Deloitte Consulting Asia Pacific
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="https://d33wubrfki0l68.cloudfront.net/3c4183226841bfa62ed346b4cc11558a3eaee3d8/01784/images/who-we-are/organisational-structure/mariam_jaafar.jpg" alt="Mariam JAAFAR" />
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Mariam JAAFAR</p>
-        <strong>Managing Director &amp; Partner</strong>
-        <br /> Boston Consulting Group
+        <p class="title is-4">Ms Ng Lip Nin</p>
+        <strong>Group Director</strong>
+        <br /> Auditor-General's Office
     </div>
 </div>
 
