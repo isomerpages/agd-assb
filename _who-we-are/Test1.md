@@ -11,16 +11,12 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="https://d33wubrfki0l68.cloudfront.net/f175b29ddd023fb255e196c203fcfd278639b758/d998c/images/who-we-are/organisational-structure/mrbobtanbenghai.jpg" alt="Bob TAN Beng Hai" />
+       <img src="/images/Images/Default%20Source/Who%20We%20Are/ow-fook-chuen-20230321-latest.jpg" alt="Mr Ow Fook Chuen" />
     </div>
     <div class="col is-8">
-        <p class="title is-4">Bob TAN Beng Hai</p>
+        <p class="title is-4">Mr Ow Fook Chuen</p>
         <strong>Chairman</strong>
-        <br /> Sentosa Development Corporation
-        <br /> Jurong Engineering Limited
-        <br /> Ascott Business Trust Management Ltd
-        <br /> Ascott Residence Trust Management Ltd
-			  <br /> SBS Transit Ltd
+        <br />Accountant-General
     </div>
 </div>
 
