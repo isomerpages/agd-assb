@@ -1,5 +1,5 @@
 ---
-title: Issuance of Revised SB-FRS Guidance Note 5
+title: Issuance of Revised SB-FRS Guidance Note 5 Reporting of CPF Contributions and Key Management Personnel Compensation
 permalink: /news/archives/issuance-of-revised-sb-frs-guidance-note-5/
 date: 2022-11-28
 layout: post
