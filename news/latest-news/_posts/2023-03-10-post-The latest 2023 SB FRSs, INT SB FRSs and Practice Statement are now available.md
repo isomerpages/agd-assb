@@ -6,3 +6,9 @@ layout: post
 description: The latest 2023 SB-FRSs, INT SB-FRSs and Practice Statement are now available
 image: ""
 ---
+The latest 2023 SB-FRSs, INT SB-FRSs and Practice Statement are now available
+-----------------------------------------------------------------------------
+
+10 Mar 2023
+
+The latest 2023 SB-FRSs, INT SB-FRSs and Practice Statement are now available.
