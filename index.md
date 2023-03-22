@@ -8,11 +8,16 @@ notification: ""
 sections:
   - hero:
       background: /images/assb-welcome-banner.png
-      url: /who-we-are
       key_highlights:
-        - title: About ASSB
-          description: About ASSB
-          url: ""
+        - title: SB-FRS
+          description: ""
+          url: /pronouncements/sb-frs/effective-as-at-1-january-2023/
+        - title: Interpretation of SB-FRS
+          description: ""
+          url: /pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2023/
+        - title: SB-FRS Guidance Notes
+          description: ""
+          url: /pronouncements/sb-frs/effective-as-at-1-january-2023/
   - infobar:
       title: Pronouncements
   - infopic:
