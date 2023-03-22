@@ -17,7 +17,7 @@ sections:
           url: /pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2023/
         - title: SB-FRS Guidance Notes
           description: ""
-          url: /pronouncements/sb-frs/effective-as-at-1-january-2023/
+          url: https://staging.d35yvikdo8upn9.amplifyapp.com/pronouncements/sb-frs-guidance-notes/current/
   - infobar:
       title: Pronouncements
   - infopic:
