@@ -6,15 +6,15 @@ colors:
   secondary-color: "#005373"
   media-colors:
     - title: media-color-one
-      color: "#e5801d"
+      color: "#c65102"
     - title: media-color-two
-      color: "#e5801d"
+      color: "#c65102"
     - title: media-color-three
-      color: "#e5801d"
+      color: "#c65102"
     - title: media-color-four
-      color: "#e5801d"
+      color: "#c65102"
     - title: media-color-five
-      color: "#e5801d"
+      color: "#c65102"
 description: Accounting Standards for Statutory Boards of the Singapore Government
 permalink: none
 baseurl: ""
