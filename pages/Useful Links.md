@@ -29,7 +29,6 @@ description: Useful Links
 | [Privacy Statement](/privacy) |
 | [Terms of Use](/terms-of-use) |
 
-<br>
 
  <div class="col is-12">
         <p class="title is-4">Useful Guides</p>
