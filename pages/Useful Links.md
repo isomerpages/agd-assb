@@ -9,9 +9,8 @@ description: Useful Links
     </div>
     <div class="col is-6">
         <p class="title is-4">Useful Links</p>
-
-[Accounting Standards Council](http://www.asc.gov.sg/)  <br>
-[Ministry of Finance](http://www.mof.gov.sg/)  
+			<a href = "http://www.asc.gov.sg/">Accounting Standards Council </a>  <br>
+			<a href = "http://www.mof.gov.sg/">Ministry of Finance</a>
 			  </div>
 </div>
 
