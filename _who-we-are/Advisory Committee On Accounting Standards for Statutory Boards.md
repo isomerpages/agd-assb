@@ -16,8 +16,7 @@ To bring wider representation and experience into the standards setting process,
     </div>
     <div class="col is-8">
         <p class="title is-4">Mr Ow Fook Chuen</p>
-        <strong>Chairman</strong>
-        <br />Accountant-General
+        <strong>Accountant-General</strong>
     </div>
 </div>
 
