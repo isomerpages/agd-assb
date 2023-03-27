@@ -12,7 +12,7 @@ sections:
         - title: SB-FRS
           description: ""
           url: /pronouncements/sb-frs/effective-as-at-1-january-2023/
-        - title: Interpretation of SB-FRS
+        - title: Interpretations of SB-FRS
           description: ""
           url: /pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2023/
         - title: SB-FRS Guidance Notes
