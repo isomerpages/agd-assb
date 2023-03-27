@@ -93,7 +93,7 @@ To bring wider representation and experience into the standards setting process,
     <div class="col is-8">
         <p class="title is-4">Ms Cecilia Neo</p>
         <strong>Director (Finance)</strong>
-        <br /> Energy Market Authority|
+        <br /> Energy Market Authority
         <br />        
     </div>
 </div>
