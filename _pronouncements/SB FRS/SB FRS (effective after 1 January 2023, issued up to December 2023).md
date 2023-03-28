@@ -21,7 +21,7 @@ If you do not already have Adobe Reader, please download the software for free h
 | **Issued in 2016** |  |  |  |
 | SB-FRS 110,<br>SB-FRS 28 | [Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/amendments_to_effective_date_of_amendments_to_sb-frs_110_and_sb-frs_28.pdf) | To be determined | 10.03.2016 |
 | **Issued in 2020** |  |  |  |
-| SB-FRS 1 | [Amendments to SB-FRS 1 ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/Item%201%20-%20amendments-to-sb-frs-1.pdf) | 1.1.20242<sup>2</sup> | 13.11.2020 |
+| SB-FRS 1 | [Amendments to SB-FRS 1 ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/Item%201%20-%20amendments-to-sb-frs-1.pdf) | 1.1.2023<sup>2</sup> | 13.11.2020 |
 | SB-FRS 1 | [Amendments to SB-FRS 1 (Deferral of Effective Date) ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/Item%202%20-%20amendments-to-sb-frs-1---deferral-of-effective-date.pdf) | - | 13.11.2020 |
 
 

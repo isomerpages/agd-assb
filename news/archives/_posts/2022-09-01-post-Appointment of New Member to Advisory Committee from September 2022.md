@@ -1,12 +1,12 @@
 ---
-title: Appointment of New Member to Advisory Committee from September 2022
+title: Appointment of New Member to Advisory Committee with effect from September 2022
 permalink: /news/archives/appointment-of-new-member-to-advisory-committee-with-effect-from-september-2022/
 date: 2022-09-01
 layout: post
 description: Appointment of New Member to Advisory Committee with effect from September 2022
 image: ""
 ---
-Appointment of New Member to Advisory Committee from September 2022
+Appointment of New Member to Advisory Committee with effect from September 2022
 -------------------------------------------------------------------------------
 
 01 Sep 2022

@@ -1,5 +1,5 @@
 ---
-title: Issuance of Revised SB  FRS 1002
+title: Issuance of Revised SB-FRS 1002 Impairment of Non-Cash-Generating Assets and Implementation Guidance
 permalink: /news/archives/issuance-of-revised-sb-frs-1002/
 date: 2022-11-28
 layout: post
@@ -7,7 +7,7 @@ description: Issuance of Revised SB-FRS 1002 Impairment of Non-Cash-Generating
   Assets and Implementation Guidance
 image: ""
 ---
-Issuance of Revised SB-FRS 1002
+Issuance of Revised SB-FRS 1002 Impairment of Non-Cash-Generating Assets and Implementation Guidance
 ----------------------------------------------------------------------------------------------------
 
 28 Nov 2022

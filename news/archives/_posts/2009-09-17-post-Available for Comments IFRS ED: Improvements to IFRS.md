@@ -1,12 +1,12 @@
 ---
-title: "Available for Comments IFRS ED: Improvements to IFRS"
+title: "Available for Comments - IFRS ED: Improvements to IFRS"
 permalink: /news/archives/available-for-comments-ifrs-ed-improvements-to-ifrs/
 date: 2009-09-17
 layout: post
 description: "Available for Comments - IFRS ED: Improvements to IFRS"
 image: ""
 ---
-Available for Comments IFRS ED: Improvements to IFRS
+Available for Comments - IFRS ED: Improvements to IFRS
 ------------------------------------------------------
 
 17 Sep 2009
