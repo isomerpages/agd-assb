@@ -1,5 +1,5 @@
 collections:
-  sb-frs-archive-2021:
+  sb-frs-archives-2021:
     output: true
     order:
       - SB FRS (effective as at 1 January 2021).md
