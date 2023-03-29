@@ -1,5 +1,5 @@
 collections:
-  sb-frs-archive-2013:
+  sb-frs-archives-2013:
     output: true
     order:
       - SB FRS (effective as at 1 January 2013).md
