@@ -1,5 +1,5 @@
 collections:
-  int-sb-frs-archive-2020:
+  int-sb-frs-archives-2020:
     output: true
     order:
       - INT SB FRS (effective as at 1 January 2020).md
