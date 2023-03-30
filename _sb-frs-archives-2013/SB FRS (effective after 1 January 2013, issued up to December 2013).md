@@ -5,7 +5,7 @@ description: SB-FRS (effective after 1 January 2013, issued up to December 2013)
 ---
 ### STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AFTER 1 JANUARY 2013 (ISSUED UP TO 31 DECEMBER 2013)
 
-The following are new/revised/amendments to FRSs and INT FRSs issued by the Accountant-General(up to 31 December 2013) which are effective after 1 January 2013.
+The following are new/revised/amendments to SB-FRSs and INT SB-FRSs issued by the Accountant-General (up to 31 December 2013) which are effective after 1 January 2013.
 
 If you do not already have Adobe Reader, please download the software for free here: [\[pdf\]](http://www.adobe.com/products/acrobat/readstep2.html)
 
