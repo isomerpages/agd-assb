@@ -13,6 +13,6 @@ Available for Comments – ED/2023/2 Amendments to the Classification and Measur
 --------------------------------
 
 
-29 March 2023
+29 Mar 2023
 
 The Secretariat invites comments on Exposure Draft ED/2023/2 Amendments to the Classification and Measurement of Financial Instruments (Proposed amendments to IFRS 9 and IFRS 7) by 2 May 2023.
