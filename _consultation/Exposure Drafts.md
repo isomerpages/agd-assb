@@ -7,15 +7,15 @@ description: Exposure Drafts
 
   
 
-If you do not already have Adobe Reader, please download the software for free here: [\[pdf\]](http://www.adobe.com/products/acrobat/readstep2.html)
+If you do not already have Adobe Reader, please download the software for free here:&nbsp;[\[pdf\]](http://www.adobe.com/products/acrobat/readstep2.html)
 
 | **Titles** | **Comments due by** | **Comment letter to ASC** |
 | -------- | -------- | -------- |
 [ED/2023/2 Amendments to the Classification and Measurement of Financial Instruments (Proposed amendments to IFRS 9 and IFRS 7)](/files/Docs/Default%20Source/Exposure%20Draft/ASSB-ED-2023-2-Amendments-Classifications-Measurements.pdf)| 2 May 2023
 | [ED/2023/1 International Tax Reform - Pillar Two Model Rules (Proposed amendments to IAS 12)](/files/Docs/Default%20Source/Exposure%20Draft/iasb-ed-2023-international-tax-reform-pillar-two.pdf) |  10 February 2023 (Closed) |   |
 | [ED Amendments to SB-FRS Guidance Note 3 Accounting and Disclosures for Trust Funds](/files/Docs/Default%20Source/Exposure%20Draft/ed-amendments-to-sb-frs-guidance-note-3.pdf) | 16 September 2022 (Closed) |  |
-| [ED Amendments to SB-FRS Guidance Note 5 Reporting of CPF Contributions and Key Management Personnel Compensation](/files/Docs/Default%20Source/Exposure%20Draft/ed-amendments-to-sb-frs-guidance-note-5.pdf) | 5 September 2022 (Closed) |  |
-| [ED Amendments to SB-FRS 1002 Impairment of Non-Cash-Generating Assets](/files/Docs/Default%20Source/Exposure%20Draft/ed-amendments-to-sb-frs-1002.pdf)<br>[ED Amendments to SB-FRS 1002 Guidance on Implementing Impairment of Non-Cash-Generating Assets](/files/Docs/Default%20Source/Exposure%20Draft/ed-amendments-to-sb-frs-1002-ig.pdf) | 5 September 2022 (Closed) |  |
+| [ED Amendments to SB-FRS Guidance Note 5 Reporting of CPF Contributions and Key Management Personnel Compensation](/files/Docs/Default%20Source/Exposure%20Draft/ed-amendments-to-sb-frs-guidance-note-5.pdf) | 5 September 2022&nbsp;(Closed) |  |
+| [ED Amendments to SB-FRS 1002 Impairment of Non-Cash-Generating Assets](/files/Docs/Default%20Source/Exposure%20Draft/ed-amendments-to-sb-frs-1002.pdf)<br>[ED Amendments to SB-FRS 1002 Guidance on Implementing Impairment of Non-Cash-Generating Assets](/files/Docs/Default%20Source/Exposure%20Draft/ed-amendments-to-sb-frs-1002-ig.pdf) | 5 September 2022&nbsp;(Closed) |  |
 | [ED/2021/10 Supplier Finance Arrangements (Proposed amendments to IAS 7 and IFRS 7)](/files/Docs/Default%20Source/Exposure%20Draft/ed-2021-10-sfa.pdf) | 31 December 2021 (Closed) |  |
 | [ED/2021/9 Non-current Liabilities with Covenants (Proposed amendments to IAS 1)](/files/Docs/Default%20Source/Exposure%20Draft/ed-2021-9-nclwc.pdf) | 31 December 2021 (Closed) |  |
 | [ED on SB-FRS Guidance Note 11 Accounting for Grants Administered by Statutory Boards](/files/Docs/Default%20Source/Exposure%20Draft/ed-to-sb-frs-guidance-note-11.pdf) | 30 November 2021 (Closed) |  |
@@ -46,7 +46,7 @@ If you do not already have Adobe Reader, please download the software for free h
 | [ED/2018/2 Onerous Contracts - Cost of Fulfilling a Contract (Proposed amendments to IAS 37)](/files/Docs/Default%20Source/Exposure%20Draft/ed-onerous-contracts-december-2018_safe.pdf) | 28 February 2019 (Closed) |  |
 | [ED/2018/1 Accounting Policy Changes (Proposed Amendments to IAS 8)](/files/Docs/Default%20Source/Exposure%20Draft/ed-2018-1_-_accounting_policy_changes_(proposed_amendments_to_ias_8).pdf) | 31 May 2018 (Closed) | [Comment Letter on ED/2018/1](/files/Docs/Default%20Source/Exposure%20Draft/comment_letter_to_iasb_on_ed-2018-1.pdf) |
 | [ED Guidance Note 1 Accounting and Disclosure for Funds, Grants, Accumulated Surplus and Reserves](/files/Docs/Default%20Source/Exposure%20Draft/ed_sb-frs_guidance_note_1_8dec2017.pdf)<br>[ED Guidance Note 1 Illustrative Examples](/files/Docs/Default%20Source/Exposure%20Draft/ed_ie_to_sb-frs_guidance_note_1_8dec2017.pdf) | 9 February 2018 (Closed) |  |
-| [ED/2017/6 Definition of Material (Proposed amendments to IAS 1 and IAS 8)](/files/Docs/Default%20Source/Exposure%20Draft/ed-2017-6_-_definition_of_material.pdf) | 15 Nov 2017 (Closed) | [Comment Letter on ED/2017/6](/files/Docs/Default%20Source/Exposure%20Draft/ed-2017-6_-_definition_of_material.pdf) |
+| [ED/2017/6 Definition of Material (Proposed amendments to IAS 1 and IAS 8)](/files/Docs/Default%20Source/Exposure%20Draft/ed-2017-6_-_definition_of_material.pdf) | 15 Nov 2017 (Closed) | [Comment Letter on ED/2017/6](/files/Docs/Default%20Source/Exposure%20Draft/comment-letter-to-iasb-on-ed-2017-6.pdf) |
 | [ED/2017/5 Accounting Policies and Accounting Estimates (Proposed amendments to IAS 8)](/files/Docs/Default%20Source/Exposure%20Draft/ed-2017-5-accounting_policies_and_accounting_estimates.pdf) | 15 Nov 2017 (Closed) | [Comment Letter on ED/2017/5](/files/Docs/Default%20Source/Exposure%20Draft/comment-letter-to-iasb-on-ed-2017-5.pdf) |
 | [ED/2017/4 Property, Plant and Equipment – Proceeds before Intended Use (Proposed amendments to IAS 16)](/files/Docs/Default%20Source/Exposure%20Draft/ed-2017-4_property_plant_and_equipment.pdf) | 14 Aug 2017 (Closed) | [Comment Letter on ED/2017/4](/files/Docs/Default%20Source/Exposure%20Draft/comment_letter_to_iasb_on_ed-2017-4ppe.pdf) |
 | [ED/2017/3 Prepayment Features with negative Compensation (Proposed amendments to IFRS 9)](/files/Docs/Default%20Source/Exposure%20Draft/ed-2017-3_prepayment_features_with_negative_compensation_(proposed_amendments_to_ifrs_9).pdf) | 11 May 2017 (Closed) |  |
@@ -157,4 +157,4 @@ If you do not already have Adobe Reader, please download the software for free h
 | [ED INT SB-FRS Real Estate Sales](/files/Docs/Default%20Source/Exposure%20Draft/assb_ed_int_frs_real_estate_sales.pdf) | 30 May 2008 (Closed) |  |
 
 
-Comments should be sent to the Secretariat by e-mail: [AGD\_Assb\_Feedback@agd.gov.sg](mailto:AGD_Assb_Feedback@agd.gov.sg), or by fax : 6332 7678.
+Comments should be sent to the Secretariat by e-mail:&nbsp;[AGD\_Assb\_Feedback@agd.gov.sg](mailto:AGD_Assb_Feedback@agd.gov.sg), or by fax : 6332 7678.
