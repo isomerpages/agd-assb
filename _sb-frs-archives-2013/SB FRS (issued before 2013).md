@@ -142,7 +142,7 @@ If you do not already have Adobe Reader, please download the software for free h
 |  | [Amendments to FRS 39 Financial Instruments: Recognition and Measurement and FRS 107 Financial Instruments: Disclosures - Reclassification of Financial Assets - Effective Date and Transition](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/reclassification_of_fin_assets-eff_dates.pdf) | 1.7.2008 | 22.1.2009 |
 |  | [Amendments to SB-FRS 107 Financial Instruments: Disclosures - Improving Disclosures about Financial Instruments](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amend_to_sb-frs_107.pdf) | 1.1.2009 | 18.5.2009 |
 |  | [Amendments to SB-FRS 107 Financial Instruments: Disclosures - Transfers of Financial Assets](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amend_to_sb-frs_107_2011.pdf) | 1.7.2011 | 6.7.2011 |
-|  | [Implementation Guidance](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_107_2008.pdf) |  |  |
+|  | [Implementation Guidance](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/SB-FRS_107_IG_(2013).pdf) |  |  |
 |  | [Offsetting of Financial Assets and Financial Liabilities](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments_to_sb-frs_107_offsetting_of_financial_assets_-_liabilities.pdf) | 1.1.2013 | 31.8.2012 |
 | SB-FRS 108 | [Operating Segments](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_108_2009.pdf) | 1.1.2009 | 5.3.2008 |
 |  | [Amendments to SB-FRS 108 (2010)](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/amendments_to_sb-frs_108_(2010).pdf) |  |  |
