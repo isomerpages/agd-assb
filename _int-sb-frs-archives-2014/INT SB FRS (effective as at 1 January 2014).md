@@ -7,9 +7,9 @@ description: INT SB-FRS (effective as at 1 January 2014)
 
   
 
-This collection of SB-FRSs and INT SB-FRSs includes official pronouncements issued by the Accountant-General (up to 31 December 2013) and are required to be applied for annual periods beginning on 1 January 2013. The collection does **not** include new/revised/amendments to SB-FRSs and INT SB-FRSs with an effective date after 1 January 2014.
+This collection of SB-FRSs and INT SB-FRSs includes official pronouncements issued by the Accountant-General (up to 31 December 2013) and are required to be applied for annual periods beginning on 1 January 2014k. The collection does&nbsp;**not**&nbsp;include new/revised/amendments to SB-FRSs and INT SB-FRSs with an effective date after 1 January 2014.
 
-If you do not already have Adobe Reader, please download the software for free here: [\[pdf\]](http://www.adobe.com/products/acrobat/readstep2.html) 
+If you do not already have Adobe Reader, please download the software for free here:&nbsp;[\[pdf\]](http://www.adobe.com/products/acrobat/readstep2.html)&nbsp;
 
 | Reference | Titles | Accompanying documents\* |
 | --- | --- | --- |
@@ -29,10 +29,10 @@ If you do not already have Adobe Reader, please download the software for free h
 | INT SB-FRS 107 | [Applying the Restatement Approach under FRS 29 Financial Reporting in Hyperinflationary Economies](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_107_2014.pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_107_ie_2014.pdf) |  
 | INT SB-FRS 109 | [Reassessment of Embedded Derivatives](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_109_2014.pdf) | - |
 | INT SB-FRS 110 | [Interim Financial Reporting and Impairment](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_110_2014.pdf) | - |
-| INT SB-FRS 112 | [Service Concession Arrangements](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_112_2014.pdf) | [IN & IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_112_inie_2014.pdf) | 
+| INT SB-FRS 112 | [Service Concession Arrangements](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_112_2014.pdf) | [IN &amp; IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_112_inie_2014.pdf) | 
 | INT SB-FRS 113 | [Customer Loyalty Programmes](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_113_2014.pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_113_ie_2014.pdf) | 
 | INT SB-FRS 114 | [FRS 19 - The Limit on a Defined Benefit Asset, Minimum Funding Requirements and their Interaction](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_114_2014.pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_114_ie_2014.pdf) | 
-| INT SB-FRS 115 | [Agreements for the Construction of Real Estate](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_115_2014.pdf)<br><br>[Accompanying Note](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_115_an_2013.pdf)<br> \[INT FRS 115 is to be read together with the Accompanying Note\] | [IN & IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_115_in_ie_2014.pdf) |  |
+| INT SB-FRS 115 | [Agreements for the Construction of Real Estate](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_115_2014.pdf)<br><br>[Accompanying Note](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_115_an_2013.pdf)<br> \[INT FRS 115 is to be read together with the Accompanying Note\] | [IN &amp; IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_115_in_ie_2014.pdf) |  |
 | INT SB-FRS 116 | [Hedges of a Net Investment in a Foreign Operation](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_116_2014.pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_116_ie_2014.pdf) | 
 | INT SB-FRS 117 | [Distributions of Non-cash Assets to Owners](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_117_2014.pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_117_ie_2014.pdf) | 
 | INT SB-FRS 118 | [Transfers of Assets from Customers](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_118_2014.pdf) | [IE](/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202014/int_sb-frs_118_ie_2014.pdf) |  
@@ -45,6 +45,6 @@ If you do not already have Adobe Reader, please download the software for free h
 
   
 
-### Archives 
+### Archives&nbsp;
 
-Archived documents can be accessed [here](/pronouncements/interpretations-of-sb-frs/archives/).
+Archived documents can be accessed&nbsp;[here](/pronouncements/interpretations-of-sb-frs/archives/).
