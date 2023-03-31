@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: ASSB Advisory Committee Accountant-General's Department
+agency_name: The Secretariat, ASSB Advisory Committee Accountant-General's Department
 locations:
   - address:
       - "100 High Street #06-01"
