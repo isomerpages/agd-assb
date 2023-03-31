@@ -23,7 +23,6 @@ If you do not already have Adobe Reader, please download the software for free h
 |  | [Inventories](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_2_2009.pdf) | 1.1.2009 | 5.3.2008 |
 | SB-FRS 7 | [Cash Flow Statements](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_7_2005.pdf) | 1.1.2005 | 5.3.2008 |
 |  | [Cash Flow Statements](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_7_2009.pdf) | 1.1.2009 | 5.3.2008 |
-|  | [Cash Flow Statements](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_7_2009.pdf) | 1.1.2009 | 5.3.2008 |
 | SB-FRS 8 | [Accounting Policies, Changes in Accounting Estimates and Errors](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_8_2004.pdf) | 1.1.2004 | 5.3.2008 |
 |  | [Accounting Policies, Changes in Accounting Estimates and Errors](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_8_2009.pdf) | 1.1.2009 | 5.3.2008 |
 | SB-FRS 10 | [Events after the Balance Sheet Date](/files/Docs/Default%20Source/Sb%20Frs/Issued%20Before%202013/sb_frs_10_2004.pdf) | 1.1.2004 | 5.3.2008 |
