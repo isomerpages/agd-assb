@@ -7,7 +7,7 @@ description: INT SB-FRS (effective as at 1 January 2014)
 
   
 
-This collection of SB-FRSs and INT SB-FRSs includes official pronouncements issued by the Accountant-General (up to 31 December 2013) and are required to be applied for annual periods beginning on 1 January 2014k. The collection does&nbsp;**not**&nbsp;include new/revised/amendments to SB-FRSs and INT SB-FRSs with an effective date after 1 January 2014.
+This collection of SB-FRSs and INT SB-FRSs includes official pronouncements issued by the Accountant-General (up to 31 December 2013) and are required to be applied for annual periods beginning on 1 January 2014. The collection does&nbsp;**not**&nbsp;include new/revised/amendments to SB-FRSs and INT SB-FRSs with an effective date after 1 January 2014.
 
 If you do not already have Adobe Reader, please download the software for free here:&nbsp;[\[pdf\]](http://www.adobe.com/products/acrobat/readstep2.html)&nbsp;
 
