@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: ASSB Advisory Committee Accountant-General's Department
+agency_name: The Secretariat, ASSB Advisory Committee Accountant-General's Department
 locations:
   - address:
       - "100 High Street #06-01"
@@ -10,7 +10,7 @@ locations:
       - Singapore 179434
     operating_hours: []
     maps_link: https://www.google.com/maps?q=The+Treasury+100+High+Street+179434+
-    title: The Secretariat, ASSB
+    title: " "
 contacts:
   - content:
       - phone: ""

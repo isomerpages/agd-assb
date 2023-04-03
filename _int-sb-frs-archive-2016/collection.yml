@@ -1,7 +1,0 @@
-collections:
-  int-sb-frs-archive-2016:
-    output: true
-    order:
-      - INT SB FRS (effective as at 1 January 2016).md
-      - INT SB FRS (effective after 1 January 2016, issued up to December
-        2016).md

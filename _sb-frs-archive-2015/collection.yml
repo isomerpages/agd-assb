@@ -1,6 +1,0 @@
-collections:
-  sb-frs-archive-2015:
-    output: true
-    order:
-      - SB FRS (effective as at 1 January 2015).md
-      - SB FRS (effective after 1 January 2015, issued up to December 2015).md
