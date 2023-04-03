@@ -2,7 +2,7 @@
 title: INT SB-FRS (effective after 1 January 2023, issued up to December 2023)
 permalink: /pronouncements/interpretations-of-sb-frs/effective-after-1-january-2023-issued-up-to-december-2023/
 description: NT SB-FRS (effective after 1 January 2023, issued up to December 2023)
-third_nav_title: Interpretation of SB-FRS
+third_nav_title: Interpretations of SB-FRS
 ---
 
 ### INTERPRETATIONS OF STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AFTER 1 JANUARY 2023 (ISSUED UP TO 31 DECEMBER 2023)

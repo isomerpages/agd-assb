@@ -2,7 +2,7 @@
 title: Archives
 permalink: /pronouncements/interpretations-of-sb-frs/archives/
 description: Interpretation of SB-FRS Archives
-third_nav_title: Interpretation of SB-FRS
+third_nav_title: Interpretations of SB-FRS
 ---
 [INT SB-FRS (effective as at 1 January 2022)](/pronouncements/int-sb-frs/archives/2022/effective-as-at-1-january-2022/)<br>
 [INT SB-FRS (effective after 1 January 2022, issued up to December 2022)](/pronouncements/int-sb-frs/archives/2022/effective-after-1-january-2022-issued-up-to-december-2022/)<br>
