@@ -2,7 +2,7 @@
 layout: homepage
 title: Accounting Standards for Statutory Boards
 description: Accounting Standards for Statutory Boards of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/assb_logo-20230404.png
 permalink: /
 notification: ""
 sections:
