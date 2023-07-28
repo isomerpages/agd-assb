@@ -33,7 +33,7 @@ If you do not already have Adobe Reader, please download the software for free h
 
 *ii)This should be read together with the Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 issued in 2016.*
 
-<sup>2</sup>*The mandatory effective date of this Amendment had been revised from 1 Jan 2022 to 1 Jan 2023 in Nov 2020 via Amendment to FRS 1: Classification of Liabilities as Current or Non-current (Deferral of Effective Date). The amendments are not included in the 2023 version of SB-FRS 1 pending the adoption of Amendments to FRS 1: Non-current Liabilities with Covenants, which further revise the effective date to 1 Jan 2024.*
+<sup>2</sup>*The mandatory effective date of this Amendment had been revised from 1 Jan 2022 to 1 Jan 2023 in Nov 2020 via Amendment to FRS 1: Classification of Liabilities as Current or Non-current (Deferral of Effective Date) and further revised to 1 Jan 2024 in Jul 2023 via Amendments to SB-FRS 1: Non-current Liabilities with Covenants.*
 
 ### Archives&nbsp;
 
