@@ -66,9 +66,9 @@ The following amendments to SB-FRS issued in July 2023 includes changes to the r
 
 
 
-| Reference | Title | Effective Date | Issuance Date | Document attached under ‘Title’ |
-| -------- | -------- | -------- | -------- | -------- |
-| SB-FRS 12   | Amendments to SB-FRS 12: International Tax Reform—Pillar Two Model Rules      | Refer to document    | 17.07.2023    | [Amendments to SB-FRS-12 International]()    |
+| Reference | Title | Effective Date | Issuance Date | 
+| -------- | -------- | -------- | -------- | 
+| SB-FRS 12   | [Amendments to SB-FRS 12: International Tax Reform—Pillar Two Model Rules](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/ammendments%20to%20sb-frs-12%20international.pdf)      | Refer to document    | 17.07.2023    |
 
 
 
