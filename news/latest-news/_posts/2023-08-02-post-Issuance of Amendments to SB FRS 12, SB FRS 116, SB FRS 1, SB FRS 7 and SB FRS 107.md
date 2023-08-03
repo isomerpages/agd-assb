@@ -1,6 +1,6 @@
 ---
-title: Issuance of Amendments to SB FRS 12, SB FRS 116, SB FRS 1, SB FRS 7 and
-  SB FRS 107
+title: Issuance of Amendments to SB-FRS 12, SB-FRS 116, SB-FRS 1, SB-FRS 7 and
+  SB-FRS 107
 permalink: /news/latest-news/permalink/issuance-of-amendments/
 date: 2023-08-02
 layout: post
