@@ -11,7 +11,7 @@ If you do not already have Adobe Reader, please download the software for free h
 
 | **Titles** | **Comments due by** | **Comment letter to ASC** |
 | -------- | -------- | -------- |
-[ED/2023/2 Amendments to the Classification and Measurement of Financial Instruments (Proposed amendments to IFRS 9 and IFRS 7)](/files/Docs/Default%20Source/Exposure%20Draft/ASSB-ED-2023-2-Amendments-Classifications-Measurements.pdf)| 2 May 2023
+[ED/2023/2 Amendments to the Classification and Measurement of Financial Instruments (Proposed amendments to IFRS 9 and IFRS 7)](/files/Docs/Default%20Source/Exposure%20Draft/ASSB-ED-2023-2-Amendments-Classifications-Measurements.pdf)| 2 May 2023 (Closed)
 | [ED/2023/1 International Tax Reform - Pillar Two Model Rules (Proposed amendments to IAS 12)](/files/Docs/Default%20Source/Exposure%20Draft/iasb-ed-2023-international-tax-reform-pillar-two.pdf) |  10 February 2023 (Closed) |   |
 | [ED Amendments to SB-FRS Guidance Note 3 Accounting and Disclosures for Trust Funds](/files/Docs/Default%20Source/Exposure%20Draft/ed-amendments-to-sb-frs-guidance-note-3.pdf) | 16 September 2022 (Closed) |  |
 | [ED Amendments to SB-FRS Guidance Note 5 Reporting of CPF Contributions and Key Management Personnel Compensation](/files/Docs/Default%20Source/Exposure%20Draft/ed-amendments-to-sb-frs-guidance-note-5.pdf) | 5 September 2022&nbsp;(Closed) |  |

@@ -10,7 +10,7 @@ third_nav_title: SB-FRS
 
 This collection of SB-FRSs and INT SB-FRSs includes official pronouncements issued by the Accountant-General (up to 31 December 2022) and are required to be applied for annual periods beginning on 1 January 2023. The collection does not include new/revised/amendments to SB-FRSs and INT SB-FRSs with an effective date after 1 January 2023.
 
-If you do not already have Adobe Reader, please download the software for free here: [\[pdf\]](http://www.adobe.com/products/acrobat/readstep2.html)
+If you do not already have Adobe Reader, please download the software for free here:&nbsp;[\[pdf\]](http://www.adobe.com/products/acrobat/readstep2.html)
 
 
 
@@ -40,7 +40,7 @@ If you do not already have Adobe Reader, please download the software for free h
 | SB-FRS 36 | [Impairment of Assets ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_36_(2023).pdf) | [IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_36_IE_(2023).pdf) |
 | SB-FRS 37 | [Provisions, Contingent Liabilities and Contingent Assets ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_37_(2023).pdf) | [IG](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_37_IG_(2023).pdf) |
 | SB-FRS 38 | [Intangible Assets ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_38_(2023).pdf) | [IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_38_IE_(2023).pdf) |
-| SB-FRS 39 | [Financial Instruments: Recognition and Measurement ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_39_(2023).pdf) | [IE & IG ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_39_IE_IG_(2023).pdf)|
+| SB-FRS 39 | [Financial Instruments: Recognition and Measurement ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_39_(2023).pdf) | [IE &amp; IG ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_39_IE_IG_(2023).pdf)|
 | SB-FRS 40 | [Investment Property ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_40_(2023).pdf) | \- |
 | SB-FRS 41 | [Agriculture ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_41_(2023).pdf) | [IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_41_IE_(2023).pdf) |
 | SB-FRS 101 | [First-time Adoption of Statutory Board Financial Reporting Standards ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_101_(2023).pdf)| [IG](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_101_IG_(2023).pdf) |
@@ -62,8 +62,18 @@ If you do not already have Adobe Reader, please download the software for free h
 | SB-FRS 1001 | [Accounting and Disclosure for Non-Exchange Revenue ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_1001_(2023).pdf) | \- |
 | SB-FRS 1002 | [Impairment of Non-Cash-Generating Assets ](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_1002_(2023).pdf)  | [IG](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_1002_IG_(2023).pdf) |
 
+The following amendments to SB-FRS issued in July 2023 includes changes to the requirements in SB-FRS that are effective either immediately with retrospective application or for annual reporting periods beginning on 1 January 2023. Entities are required to apply those changes when applying the requirements in the above collection of SB-FRSs.
+
+
+
+| Reference | Title | Effective Date | Issuance Date | 
+| -------- | -------- | -------- | -------- | 
+| SB-FRS 12   | [Amendments to SB-FRS 12: International Tax Reform—Pillar Two Model Rules](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/ammendments%20to%20sb-frs-12%20international.pdf)      | Refer to document    | 17.07.2023    |
+
+
+
 \*Include Implementation Guidance (IG) and Illustrative Examples (IE).  
 
-### Archives 
+### Archives&nbsp;
 
 Click here to [access the archived documents](/pronouncements/sb-frs/archives/).
