@@ -20,5 +20,3 @@ description: Privacy Statement
     (a) have any enquires or feedback on our data protection policies and procedures,  
     (b) need more information on or access to data which you have provided to us in the past.
 		
-		
-<h2 id="section2">Section 2</h2>
