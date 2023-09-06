@@ -5,7 +5,7 @@ description: Terms of Use
 ---
 ##### CONDITIONS OF USE OF WEB SITE
 
-<b>Please</b> read these **terms** of use carefully before using this web site.by using this web site, you signify you have read and accepted these conditions of use of web site.if you do not agree to these conditions, do not use the web site.there may be additional conditions of use elsewhere on this web site to which you hereby agree.  
+<a href="#section2">Please</a> read these terms of use carefully before using this web site.by using this web site, you signify you have read and accepted these conditions of use of web site.if you do not agree to these conditions, do not use the web site.there may be additional conditions of use elsewhere on this web site to which you hereby agree.  
   
 
 ##### RESTRICTIONS ON USE OF MATERIALS
@@ -13,7 +13,7 @@ description: Terms of Use
   
 This Web Site is owned and operated by Accountant-General’s Department. You may not reproduce, republish, upload, post, transmit, or distribute in any way any material from this Web Site without the prior written permission of Accountant-General’s Department. You may, however, download one copy of the material on a single computer for your own personal domestic use only, provided you keep intact all accompanying copyright and other proprietary notices. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without the written permission of their relevant owners. Modification of any of the materials or use of the materials for any other purpose will be a violation of Accountant-General’s Department copyright and other intellectual property rights and the copyright and intellectual property rights of the respective owners.  
   
-
+<h2 id="section2">Section 2</h2>
 ##### NO REPRESENTATION
 
   
