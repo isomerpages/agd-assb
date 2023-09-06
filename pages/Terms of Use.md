@@ -5,8 +5,7 @@ description: Terms of Use
 ---
 ##### CONDITIONS OF USE OF WEB SITE
 
-
-<a href="#section2">Please</a> read these terms of use carefully before using this web site.by using this web site, you signify you have read and accepted these conditions of use of web site.if you do not agree to these conditions, do not use the web site.there may be additional conditions of use elsewhere on this web site to which you hereby agree.  
+Please read these terms of use carefully before using this web site.by using this web site, you signify you have read and accepted these conditions of use of web site.if you do not agree to these conditions, do not use the web site.there may be additional conditions of use elsewhere on this web site to which you hereby agree.  
   
 
 ##### RESTRICTIONS ON USE OF MATERIALS
@@ -21,7 +20,7 @@ This Web Site is owned and operated by Accountant-General’s Department. You ma
 This Web Site has been compiled in good faith by Accountant-General’s Department, but no representation is made or warranty given (either express or implied) as to the completeness or accuracy of the information it contains.  
   
 
-##### <h2 id="section2">DISCLAIMER</h2>
+##### DISCLAIMER
 
   
 The materials in this web site are provided "as is" and without warranties of any kind either express or implied. To the fullest extent permissible and subject and pursuant to applicable law, Accountant-General’s Department disclaims all warranties, express or implied, including, but not limited to, implied warranties of satisfactory quality, merchantability and fitness for a particular purpose. Accountant-General’s Department does not warrant that the functions contained in the materials will be uninterrupted or error-free, that defects will be corrected or that this web site or this server that makes it available is free of any virus or other harmful elements. Accountant-General’s Department does not warrant or make any representations regarding the correctness, accuracy, reliability, or otherwise of the materials in this web site or the results of their use.  
