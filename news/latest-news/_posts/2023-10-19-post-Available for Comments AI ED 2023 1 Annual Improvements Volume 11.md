@@ -6,8 +6,10 @@ layout: post
 description: Available for Comments – AI/ED/2023/1 Annual Improvements—Volume 11
 image: ""
 ---
+Available for Comments – ED/2023/2 Amendments to the Classification and Measurement of Financial Instruments (Proposed amendments to IFRS 9 and IFRS 7)
+--------------------------------
 
-19 October 2023
 
+29 Mar 2023
 
-The Secretariat invites comments on Exposure Draft AI/ED/2023/1 Annual Improvements—Volume 11 by 14 November 2023.
+The Secretariat invites comments on Exposure Draft ED/2023/2 Amendments to the Classification and Measurement of Financial Instruments (Proposed amendments to IFRS 9 and IFRS 7) by 2 May 2023.
