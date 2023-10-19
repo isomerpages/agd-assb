@@ -6,7 +6,7 @@ layout: post
 description: Available for Comments – AI/ED/2023/1 Annual Improvements—Volume 11
 image: ""
 ---
-Available for Comments – ED/2023/2 Amendments to the Classification and Measurement of Financial Instruments (Proposed amendments to IFRS 9 and IFRS 7)
+Available for Comments AI ED 2023 1 Annual Improvements Volume 11
 --------------------------------
 
 
