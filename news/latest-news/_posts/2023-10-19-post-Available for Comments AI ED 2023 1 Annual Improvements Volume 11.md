@@ -10,6 +10,6 @@ Available for Comments – AI/ED/2023/1 Annual Improvements—Volume 11
 --------------------------------
 
 
-19 October 2023
+19 Oct 2023
 
 The Secretariat invites comments on Exposure Draft AI/ED/2023/1 Annual Improvements—Volume 11 by 14 November 2023.
