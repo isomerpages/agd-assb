@@ -3,10 +3,8 @@ title: Terms of Use
 permalink: /terms-of-use/
 description: Terms of Use
 ---
-
 ##### CONDITIONS OF USE OF WEB SITE
 
-  
 Please read these terms of use carefully before using this web site.by using this web site, you signify you have read and accepted these conditions of use of web site.if you do not agree to these conditions, do not use the web site.there may be additional conditions of use elsewhere on this web site to which you hereby agree.  
   
 
