@@ -2,6 +2,7 @@
 title: Advisory Committee On Accounting Standards for Statutory Boards
 permalink: /who-we-are/advisory-committee-on-accounting-standards-for-statutory-boards/
 description: Advisory Committee On Accounting Standards for Statutory Boards
+variant: markdown
 ---
 ### Advisory Committee on Accounting Standards for Statutory Board
 
@@ -106,17 +107,6 @@ To bring wider representation and experience into the standards setting process,
         <p class="title is-4">Ms Ng Lip Nin</p>
         <strong>Group Director</strong>
         <br> Auditor-General's Office
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/ms-ong-swad-wen-20230321-latest.jpg" alt="Ms Ong Swad Yen">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Ms Ong Swad Wen</p>
-        <strong>Director (Finance, Procurement &amp; Admin)</strong>
-        <br> National Heritage Board
     </div>
 </div>
 
