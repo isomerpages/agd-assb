@@ -7,5 +7,12 @@ layout: post
 description: Available for Comments - ED/2023/5 Financial Instruments with
   Characteristics of Equity (Proposed amendments to IAS 32, IFRS 7 and IAS 1)
 image: ""
-variant: tiptap
+variant: markdown
 ---
+Available for Comments – ED/2023/5 Financial Instruments with Characteristics of Equity (Proposed amendments to IAS 32, IFRS 7 and IAS 1)
+--------------------------------
+
+
+7 Dec 2023
+
+The Secretariat invites comments on Exposure Draft ED/2023/5 Financial Instruments with Characteristics of Equity (Proposed amendments to IAS 32, IFRS 7 and IAS 1) by 5 January 2024.
