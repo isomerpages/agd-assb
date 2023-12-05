@@ -2,6 +2,7 @@
 title: Exposure Drafts
 permalink: /consultation/exposure-drafts/
 description: Exposure Drafts
+variant: markdown
 ---
 ### EXPOSURE DRAFTS
 
@@ -11,7 +12,8 @@ If you do not already have Adobe Reader, please download the software for free h
 
 | **Titles** | **Comments due by** | **Comment letter to ASC** |
 | -------- | -------- | -------- |
-|[AI/ED/2023/1 Annual Improvements—Volume 11](/files/Docs/Default%20Source/Exposure%20Draft/ed annual improvements volume 11.pdf)|14 November 2023||   |
+|[ED/2023/5 Financial Instruments with Characteristics of Equity (Proposed amendments to IAS 32, IFRS 7 and IAS 1)](/files/Docs/Default%20Source/Exposure%20Draft/ed_2023_5_financial_instruments.pdf), and the accompanying [Basis for Conclusions](/files/Docs/Default%20Source/Exposure%20Draft/ed_2023_5_bc.pdf) and [Illustrative Examples and Implementation Guidance](/files/Docs/Default%20Source/Exposure%20Draft/ed_2023_5_ig_ie.pdf)|5 January 2024||   |
+|[AI/ED/2023/1 Annual Improvements—Volume 11](/files/Docs/Default%20Source/Exposure%20Draft/ed annual improvements volume 11.pdf)|14 November 2023 (Closed)||   |
 [ED/2023/2 Amendments to the Classification and Measurement of Financial Instruments (Proposed amendments to IFRS 9 and IFRS 7)](/files/Docs/Default%20Source/Exposure%20Draft/ASSB-ED-2023-2-Amendments-Classifications-Measurements.pdf)| 2 May 2023 (Closed)
 | [ED/2023/1 International Tax Reform - Pillar Two Model Rules (Proposed amendments to IAS 12)](/files/Docs/Default%20Source/Exposure%20Draft/iasb-ed-2023-international-tax-reform-pillar-two.pdf) |  10 February 2023 (Closed) |   |
 | [ED Amendments to SB-FRS Guidance Note 3 Accounting and Disclosures for Trust Funds](/files/Docs/Default%20Source/Exposure%20Draft/ed-amendments-to-sb-frs-guidance-note-3.pdf) | 16 September 2022 (Closed) |  |
