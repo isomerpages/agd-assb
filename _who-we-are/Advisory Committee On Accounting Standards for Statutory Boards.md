@@ -46,7 +46,7 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-             <img src="/images/Images/Default%20Source/Who%20We%20Are/khong_beng_yen_latest.png" alt="Ms Khong Beng Yen">
+             <img src="/images/Images/Default%20Source/Who%20We%20Are/khong_beng_yen_latest.jpg" alt="Ms Khong Beng Yen">
     </div>
     <div class="col is-8">
         <p class="title is-4">Ms Khong Beng Yen</p>
@@ -67,7 +67,7 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/leekinwai_latest.png" alt="Assoc Prof Lee Kin Wai">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/leekinwai_latest.jpg" alt="Assoc Prof Lee Kin Wai">
     </div>
     <div class="col is-8">
         <p class="title is-4">Assoc Prof Lee Kin Wai</p>
@@ -123,7 +123,7 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/tay-tok_seok_ling_latest.png" alt="Mrs Tay-Tok Seok Ling">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/tay_tok_seok_ling_latest.jpg" alt="Mrs Tay-Tok Seok Ling">
     </div>
     <div class="col is-8">
         <p class="title is-4">Mrs Tay-Tok Seok Ling</p>
