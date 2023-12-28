@@ -24,7 +24,7 @@ To bring wider representation and experience into the standards setting process,
 ### **Committee Members**
 <div class="row">
     <div class="col is-4">
-             <img src="/images/Images/Default%20Source/Who%20We%20Are/bong-yap-kim-20230321-latest.jpg" alt="Ms Bong Yap Kim">
+             <img src="/images/Images/Default%20Source/Who%20We%20Are/LeeKinWai_Latest.png" alt="Ms Bong Yap Kim">
     </div>
     <div class="col is-8">
         <p class="title is-4">Ms Bong Yap Kim</p>
