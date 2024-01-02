@@ -90,7 +90,7 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="" alt="Ms Cindy Sim Poh Leng">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/cindy_sim_poh_leng_latest.jpg" alt="Ms Cindy Sim Poh Leng">
     </div>
     <div class="col is-8">
         <p class="title is-4">Ms Cindy Sim Poh Leng</p>
