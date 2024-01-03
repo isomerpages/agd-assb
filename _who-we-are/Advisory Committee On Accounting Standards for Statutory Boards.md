@@ -24,17 +24,6 @@ To bring wider representation and experience into the standards setting process,
 ### **Committee Members**
 <div class="row">
     <div class="col is-4">
-             <img src="/images/Images/Default%20Source/Who%20We%20Are/bong-yap-kim-20230321-latest.jpg" alt="Ms Bong Yap Kim">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Ms Bong Yap Kim</p>
-        <strong>Divisional Director (Financial Reporting &amp; Surveillance Division)</strong> 
-        <br> Accounting &amp; Corporate Regulatory Authority of Singapore
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
         <img src="/images/Images/Default%20Source/Who%20We%20Are/chan-yen-san-20230321-1-latest.jpg" alt="Ms Chan Yen San">
     </div>
     <div class="col is-8">
@@ -46,24 +35,23 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/ho-kim-wai-20230321-latest.jpg" alt="Professor Ho Kim Wai">
+             <img src="/images/Images/Default%20Source/Who%20We%20Are/khong_beng_yen_latest.jpg" alt="Ms Khong Beng Yen">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Professor Ho Kim Wai</p>
-        <strong>Associate Professor</strong>
-        <br> Nanyang Technological University
+        <p class="title is-4">Ms Khong Beng Yen</p>
+        <strong>Group Director </strong> 
+        <br> Auditor-General’s Office
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/debra-ann-ker-20230321-latest.jpg" alt="Ms Debra Ann Ker">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/andrew-lee-20230321-1-latest.jpg" alt="Professor Andrew Lee">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Ms Debra Ann Ker</p>
-        <strong>Partner</strong>
-        <br> PWC
-    </div>
+        <p class="title is-4">Professor Andrew Lee</p>
+        <strong>Associate Professor </strong>
+        <br> Singapore Management University            </div>
 </div>
 
 <div class="row">
@@ -79,12 +67,13 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/andrew-lee-20230321-1-latest.jpg" alt="Professor Andrew Lee">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/leekinwai_latest.jpg" alt="Assoc Prof Lee Kin Wai">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Professor Andrew Lee</p>
-        <strong>Associate Professor </strong>
-        <br> Singapore Management University            </div>
+        <p class="title is-4">Assoc Prof Lee Kin Wai</p>
+        <strong>Associate Professor</strong>
+        <br> Nanyang Technological University
+    </div>
 </div>
 
 <div class="row">
@@ -101,33 +90,44 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/ng-lip-nin-20230321-latest.jpg" alt="Ms Ng Lip Nin">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/cindy_sim_poh_leng_latest.jpg" alt="Ms Cindy Sim Poh Leng">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Ms Ng Lip Nin</p>
-        <strong>Group Director</strong>
-        <br> Auditor-General's Office
+        <p class="title is-4">Ms Cindy Sim Poh Leng</p>
+        <strong>Senior Director (Finance, Procurement &amp; Admin)</strong>
+        <br> Maritime and Port Authority of Singapore
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/mr-william-tan-20230321-latest.jpg" alt="Mr William Tan">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/michael_sim_latest.jpg" alt="Mr Michael Sim">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Mr William Tan</p>
-        <strong>Assistant Chief Executive</strong>
-        <br> National Library Board
+        <p class="title is-4">Mr Michael Sim</p>
+        <strong>Executive Director</strong>
+        <br> Platanetree Capital Pte Ltd
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/joyce-tong-20230321-latest.jpg" alt="Ms Joyce Tong">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/tan_wee_khim_latest.png" alt="Ms Tan Wee Khim">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Ms Joyce Tong</p>
-        <strong>Group Director (Finance)</strong>
-        <br> A*STAR
+        <p class="title is-4">Ms Tan Wee Khim</p>
+        <strong>Technical Director</strong>
+        <br> Accounting &amp; Corporate Regulatory Authority of Singapore
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/tay_tok_seok_ling_latest.jpg" alt="Mrs Tay-Tok Seok Ling">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Mrs Tay-Tok Seok Ling</p>
+        <strong>Chief Financial Officer</strong>
+        <br> Ngee Ann Polytechnic
     </div>
 </div>
