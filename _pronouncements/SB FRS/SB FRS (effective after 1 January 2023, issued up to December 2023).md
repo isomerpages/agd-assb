@@ -3,6 +3,7 @@ title: SB-FRS (effective after 1 January 2023, issued up to December 2023)
 permalink: /pronouncements/sb-frs/effective-after-1-january-2023-issued-up-to-december-2023/
 description: ""
 third_nav_title: SB-FRS
+variant: markdown
 ---
 ### STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AFTER 1 JANUARY 2023 (ISSUED UP TO 31 DECEMBER 2023)
 
@@ -27,6 +28,7 @@ If you do not already have Adobe Reader, please download the software for free h
 | SB-FRS 116 | [Amendments to SB-FRS 116: Lease Liability in a Sale and Leaseback](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/amendments%20to%20sb-frs%20116.pdf) | 1.1.2024 | 17.07.2023 |
 | Various | [Amendments to SB-FRS 1: Non-current Liabilities with Covenants](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/amendments%20to%20sb-frs%201%20non-current%20liabilities%20with%20covenants.pdf) | 1.1.2024| 17.07.2023 |
 | SB-FRS 7, SB-FRS 107 | [Amendments to SB-FRS 7 and SB-FRS 107: Supplier Finance Arrangements](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/amendments%20to%20sb-frs%207%20and%20sb-frs%20107%20supplier%20finance%20arrangements.pdf) | 1.1.2024 | 17.07.2023 |
+| SB-FRS 21, SB-FRS 101 | [Amendments to SB-FRS 21: Lack of Exchangeability](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/Lack_of_Exchangeability_Amendments_to_SB_FRS_21.pdf) | 1.1.2025 | 6.12.2023 |
 
 
 <sup>1</sup>*i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.*
