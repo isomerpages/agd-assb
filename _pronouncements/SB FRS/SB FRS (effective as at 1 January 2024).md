@@ -5,12 +5,12 @@ variant: tiptap
 description: SB FRS (effective as at 1 January 2024)
 third_nav_title: SB FRS
 ---
-<h3>STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2023</h3>
+<h3>STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2024</h3>
 <p>This collection of SB-FRSs and INT SB-FRSs includes official pronouncements
-issued by the Accountant-General (up to 31 December 2022) and are required
-to be applied for annual periods beginning on 1 January 2023. The collection
+issued by the Accountant-General (up to 31 December 2023) and are required
+to be applied for annual periods beginning on 1 January 2024. The collection
 does not include new/revised/amendments to SB-FRSs and INT SB-FRSs with
-an effective date after 1 January 2023.</p>
+an effective date after 1 January 2024.</p>
 <p>If you do not already have Adobe Reader, please download the software
 for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.html" rel="noopener noreferrer nofollow" target="_blank">[pdf]</a>
 </p>
@@ -594,44 +594,6 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <td rowspan="1" colspan="1">
 <p><a href="/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_1002_IG_(2023).pdf" rel="noopener noreferrer nofollow" target="_blank">IG</a>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>The following amendments to SB-FRS issued in July 2023 includes changes
-to the requirements in SB-FRS that are effective either immediately with
-retrospective application or for annual reporting periods beginning on
-1 January 2023. Entities are required to apply those changes when applying
-the requirements in the above collection of SB-FRSs.</p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Reference</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Title</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Effective Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Issuance Date</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SB-FRS 12</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/ammendments%20to%20sb-frs-12%20international.pdf" rel="noopener noreferrer nofollow" target="_blank">Amendments to SB-FRS 12: International Tax Reform—Pillar Two Model Rules</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Refer to document</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>17.07.2023</p>
 </td>
 </tr>
 </tbody>
