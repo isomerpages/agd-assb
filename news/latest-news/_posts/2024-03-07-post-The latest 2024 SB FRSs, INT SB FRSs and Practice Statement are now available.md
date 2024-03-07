@@ -7,7 +7,7 @@ description: The latest 2024 SB-FRSs, INT SB FRSs and Practice Statement are now
 image: ""
 variant: tiptap
 ---
-<h2>The latest 2023 SB-FRSs, INT SB-FRSs and Practice Statement are now available</h2>
+<h2>The latest 2024 SB-FRSs, INT SB-FRSs and Practice Statement are now available</h2>
 <p>07 March 2024</p>
 <p></p>
 <p>The latest 2024 SB-FRSs, INT SB-FRSs and Practice Statement are now available.&nbsp;</p>
