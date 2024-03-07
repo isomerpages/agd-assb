@@ -1,16 +1,16 @@
 ---
 title: INT SB FRS (effective as at 1 January 2024)
 permalink: /pronouncements/interpretations-of-sb-frs/permalink/
-variant: markdown
+variant: tiptap
 description: INT SB FRS (effective as at 1 January 2024)
 third_nav_title: Interpretations of SB FRS
 ---
-<h3>INTERPRETATIONS OF STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2023</h3>
+<h3>INTERPRETATIONS OF STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2024</h3>
 <p>This collection of SB-FRSs and INT SB-FRSs includes official pronouncements
-issued by the Accountant-General (up to 31 December 2022) and are required
-to be applied for annual periods beginning on 1 January 2023. The collection
+issued by the Accountant-General (up to 31 December 2023) and are required
+to be applied for annual periods beginning on 1 January 2024. The collection
 does not include new/revised/amendments to SB-FRSs and INT SB-FRSs with
-an effective date after 1 January 2023.</p>
+an effective date after 1 January 2024.</p>
 <p>If you do not already have Adobe Reader, please download the software
 for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.html" rel="noopener noreferrer nofollow" target="_blank">[pdf]</a>
 </p>
@@ -118,7 +118,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 105</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_105.pdf" rel="noopener noreferrer nofollow" target="_blank">Rights to Interests arising from Decommissioning, Restoration and </a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_105.pdf" rel="noopener noreferrer nofollow" target="_blank">Rights to Interests arising from Decommissioning, Restoration and Environmental Rehabilitation Funds</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,7 +130,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 106</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_106.pdf" rel="noopener noreferrer nofollow" target="_blank">Liabilities arising from Participating in a Specific Market - Waste Electrical and </a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_106.pdf" rel="noopener noreferrer nofollow" target="_blank">Liabilities arising from Participating in a Specific Market - Waste Electrical and Electronic Equipment</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,7 +142,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 107</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_107.pdf" rel="noopener noreferrer nofollow" target="_blank">Applying the Restatement Approach under FRS 29 Financial Reporting in Hyperinflationary Economies </a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_107.pdf" rel="noopener noreferrer nofollow" target="_blank">Applying the Restatement Approach under FRS 29 Financial Reporting in Hyperinflationary Economies</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -155,7 +155,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 110</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_110.pdf" rel="noopener noreferrer nofollow" target="_blank">Interim Financial Reporting and Impairment </a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_110.pdf" rel="noopener noreferrer nofollow" target="_blank">Interim Financial Reporting and Impairment</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,7 +167,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 112</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_112.pdf" rel="noopener noreferrer nofollow" target="_blank">Service Concession Arrangements </a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_112.pdf" rel="noopener noreferrer nofollow" target="_blank">Service Concession Arrangements</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -180,7 +180,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 114</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_114.pdf" rel="noopener noreferrer nofollow" target="_blank">SB-FRS 19 - The Limit on a Defined Benefit Asset, Minimum Funding Requirements and </a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_114.pdf" rel="noopener noreferrer nofollow" target="_blank">SB-FRS 19 - The Limit on a Defined Benefit Asset, Minimum Funding Requirements and their Interaction</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -193,7 +193,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 116</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_116.pdf" rel="noopener noreferrer nofollow" target="_blank">Hedges of a Net Investment in a Foreign Operation </a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_116.pdf" rel="noopener noreferrer nofollow" target="_blank">Hedges of a Net Investment in a Foreign Operation</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,7 +206,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 117</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_117.pdf" rel="noopener noreferrer nofollow" target="_blank">Distributions of Non-cash Assets to Owners </a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_117.pdf" rel="noopener noreferrer nofollow" target="_blank">Distributions of Non-cash Assets to Owners</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -219,7 +219,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 119</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_119.pdf" rel="noopener noreferrer nofollow" target="_blank">Extinguishing Financial Liabilities with Equity Instruments </a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_119.pdf" rel="noopener noreferrer nofollow" target="_blank">Extinguishing Financial Liabilities with Equity Instruments</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -231,7 +231,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 120</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_120.pdf" rel="noopener noreferrer nofollow" target="_blank">Stripping Costs in the Production Phase of a Surface Mine </a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_120.pdf" rel="noopener noreferrer nofollow" target="_blank">Stripping Costs in the Production Phase of a Surface Mine</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -243,7 +243,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 121</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_121.pdf" rel="noopener noreferrer nofollow" target="_blank">Levies </a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_121.pdf" rel="noopener noreferrer nofollow" target="_blank">Levies</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -256,7 +256,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 122</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_122.pdf" rel="noopener noreferrer nofollow" target="_blank">Foreign Currency Transactions and Advance Considerations </a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_122.pdf" rel="noopener noreferrer nofollow" target="_blank">Foreign Currency Transactions and Advance Considerations</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -269,7 +269,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 123</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_123.pdf" rel="noopener noreferrer nofollow" target="_blank">Uncertainty over Income Tax Treatments </a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_123.pdf" rel="noopener noreferrer nofollow" target="_blank">Uncertainty over Income Tax Treatments</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
