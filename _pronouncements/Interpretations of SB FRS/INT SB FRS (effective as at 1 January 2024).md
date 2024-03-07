@@ -96,7 +96,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202023/INT_SB-FRS_32_IE_(2023).pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_32_IE.pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -109,7 +109,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202023/INT_SB-FRS_101_IE_(2023).pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_101_IE.pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -146,7 +146,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202023/INT_SB-FRS_107_IE_(2023).pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_107_IE.pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -171,7 +171,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202023/INT_SB-FRS_112_IN_IE_(2023).pdf" rel="noopener noreferrer nofollow" target="_blank">IN &amp; IE</a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_112_IN_IE.pdf" rel="noopener noreferrer nofollow" target="_blank">IN &amp; IE</a>
 </p>
 </td>
 </tr>
@@ -184,7 +184,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202023/INT_SB-FRS_114_IE_(2023).pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_114_IE.pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -197,7 +197,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202023/INT_SB-FRS_116_IE_(2023).pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_116_IE.pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -210,7 +210,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202023/INT_SB-FRS_117_IE_(2023).pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_117_IE.pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -247,7 +247,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202023/INT_SB-FRS_121_IE_(2023).pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_121_IE.pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -260,7 +260,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202023/INT_SB-FRS_122_IE_(2023).pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_122_IE.pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -273,7 +273,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202023/INT_SB-FRS_123_IE_(2023).pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_123_IE.pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
