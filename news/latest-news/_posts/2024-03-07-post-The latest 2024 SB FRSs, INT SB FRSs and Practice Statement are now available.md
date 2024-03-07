@@ -7,3 +7,4 @@ description: The latest 2024 SB-FRSs, INT SB FRSs and Practice Statement are now
 image: ""
 variant: tiptap
 ---
+<p>The latest 2024 SB-FRSs, INT SB-FRSs and Practice Statement are now available.&nbsp;</p>
