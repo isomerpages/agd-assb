@@ -53,7 +53,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be determined1</p>
+<p>To be determined<sup>1<sup></sup></sup></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18.03.2015</p>
