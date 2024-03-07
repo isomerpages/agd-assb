@@ -32,7 +32,8 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>Preface</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_Preface.pdf" rel="noopener noreferrer nofollow" target="_blank">Preface to Interpretations of Financial Reporting Standards </a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -43,7 +44,8 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_7.pdf" rel="noopener noreferrer nofollow" target="_blank">Introduction of Euro </a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -54,7 +56,8 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_10.pdf" rel="noopener noreferrer nofollow" target="_blank">Government Assistance - No Specific Relation to Operating Activities</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -65,7 +68,8 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_25.pdf" rel="noopener noreferrer nofollow" target="_blank">Income Taxes - Changes in the Tax Status of an Enterprise or its Shareholders </a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -76,7 +80,8 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 29</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_29.pdf" rel="noopener noreferrer nofollow" target="_blank">Service Concession Arrangements: Disclosures </a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -87,7 +92,8 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 32</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_32.pdf" rel="noopener noreferrer nofollow" target="_blank">Intangible Assets - Web Site Costs </a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202023/INT_SB-FRS_32_IE_(2023).pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
@@ -99,7 +105,8 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 101</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/INT SB FRS 2024/INT_SB_FRS_101.pdf" rel="noopener noreferrer nofollow" target="_blank">Changes in Existing Decommissioning, Restoration and Similar Liabilities </a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Docs/Default%20Source/Int%20Sb%20Frs/Effective%20As%20At%201%20January%202023/INT_SB-FRS_101_IE_(2023).pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
