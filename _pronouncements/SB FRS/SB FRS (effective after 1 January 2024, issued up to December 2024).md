@@ -49,7 +49,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <br>SB-FRS 28</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/amendments_to_sb-frs_110_and_sb-frs_28.pdf" rel="noopener noreferrer nofollow" target="_blank">Amendments to SB-FRS 110 and SB-FRS 28: Sale or Contribution of Assets between an Investor and its Associate or Joint Venture</a>
+<p><a href="/files/Docs/SB%20FRS%20Effective%20as%20at%20Jan24/Amendments_to_SB_FRS_110_and_SB_FRS_28.pdf" rel="noopener noreferrer nofollow" target="_blank">Amendments to SB-FRS 110 and SB-FRS 28: Sale or Contribution of Assets between an Investor and its Associate or Joint Venture</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
