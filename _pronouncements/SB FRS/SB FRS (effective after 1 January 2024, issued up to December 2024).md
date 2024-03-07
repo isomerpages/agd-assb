@@ -1,655 +1,222 @@
 ---
 title: SB FRS (effective after 1 January 2024, issued up to December 2024)
 permalink: /pronouncements/sb-frs/effective-after-1-january-2024-issued-up-to-december-2024/
-variant: markdown
+variant: tiptap
 description: SB FRS (effective after 1 January 2024, issued up to December 2024)
 third_nav_title: SB FRS
 ---
-### STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2023
-
-This collection of SB-FRSs and INT SB-FRSs includes official pronouncements issued by the Accountant-General (up to 31 December 2022) and are required to be applied for annual periods beginning on 1 January 2023. The collection does not include new/revised/amendments to SB-FRSs and INT SB-FRSs with an effective date after 1 January 2023.
-
-If you do not already have Adobe Reader, please download the software for free here: [\[pdf\]](http://www.adobe.com/products/acrobat/readstep2.html)
-
-| 
-Reference
-
- | 
-
-Titles
-
- | 
-
-Accompanying documents\*
-
- |
-| --- | --- | --- |
-| 
-
-Preface
-
- | 
-
-[Preface to Statutory Board Financial Reporting Standards](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/sb-frs_preface.pdf)
-
- | 
-
-\-
-
- |
-| 
-
-SB-FRS Conceptual Framework
-
- | 
-
-[SB-FRS Conceptual Framework for Financial Reporting](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS%20Conceptual%20Framework_(2023).pdf)
-
- | 
-
-\-
-
- |
-| 
-
-SB-FRS 1
-
- | 
-
-[Presentation of Financial Statements](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_1_(2023).pdf)
-
- | 
-
-[IG](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_1_IG_(2023).pdf)
-
- |
-| 
-
-SB-FRS 2
-
- | 
-
-[Inventories](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_2_(2023).pdf)
-
- | 
-
-\-
-
- |
-| 
-
-SB-FRS 7
-
- | 
-
-[Statement of Cash Flows](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_7_(2023).pdf)
-
- | 
-
-[IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_7_IE_(2023).pdf)
-
- |
-| 
-
-SB-FRS 8
-
- | 
-
-[Accounting Policies, Changes in Accounting Estimates and Errors](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_8_(2023).pdf)
-
- | 
-
-[IG](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_8_IG_(2023).pdf)
-
- |
-| 
-
-SB-FRS 10
-
- | 
-
-[Events after the Reporting Period](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_10_(2023).pdf)
-
- | 
-
-\-
-
- |
-| 
-
-SB-FRS 12
-
- | 
-
-[Income Taxes](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_12_(2023).pdf)
-
- | 
-
-[IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_12_IE_(2023).pdf)
-
- |
-| 
-
-SB-FRS 16
-
- | 
-
-[Property, Plant and Equipment](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_16_(2023).pdf)
-
- | 
-
-\-
-
- |
-| 
-
-SB-FRS 19
-
- | 
-
-[Employee Benefits](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_19_(2023).pdf)
-
- | 
-
-\-
-
- |
-| 
-
-SB-FRS 20
-
- | 
-
-[Accounting for Government Grants and Disclosure of Government Assistance](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_20_(2023).pdf)
-
- | 
-
-\-
-
- |
-| 
-
-SB-FRS 21
-
- | 
-
-[The Effects of Changes in Foreign Exchange Rates](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_21_(2023).pdf)
-
- | 
-
-\-
-
- |
-| 
-
-SB-FRS 23
-
- | 
-
-[Borrowing Costs](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_23_(2023).pdf)
-
- | 
-
-\-
-
- |
-| 
-
-SB-FRS 24
-
- | 
-
-[Related Party Disclosures](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_24_(2023).pdf)
-
- | 
-
-[IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_24_IE_(2023).pdf)
-
- |
-| 
-
-SB-FRS 26
-
- | 
-
-[Accounting and Reporting by Retirement Benefit Plan](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_26_(2023).pdf)
-
- | 
-
-\-
-
- |
-| 
-
-SB-FRS 27
-
- | 
-
-[Separate Financial Statements](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_27_(2023).pdf)
-
- | 
-
-\-
-
- |
-| 
-
-SB-FRS 28
-
- | 
-
-[Investments in Associates and Joint Ventures](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_28_(2023).pdf)
-
- | 
-
-\-
-
- |
-| 
-
-SB-FRS 29
-
- | 
-
-[Financial Reporting in Hyperinflationary Economies](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_29_(2023).pdf)
-
- | 
-
-\-
-
- |
-| 
-
-SB-FRS 32
-
- | 
-
-[Financial Instruments: Presentation](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_32_(2023).pdf)
-
- | 
-
-[IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_32_IE_(2023).pdf)
-
- |
-| 
-
-SB-FRS 33
-
- | 
-
-[Earnings per Share](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_33_(2023).pdf)
-
- | 
-
-[IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_33_IE_(2023).pdf)
-
- |
-| 
-
-SB-FRS 34
-
- | 
-
-[Interim Financial Reporting](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_34_(2023).pdf)
-
- | 
-
-[IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_34_IE_(2023).pdf)
-
- |
-| 
-
-SB-FRS 36
-
- | 
-
-[Impairment of Assets](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_36_(2023).pdf)
-
- | 
-
-[IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_36_IE_(2023).pdf)
-
- |
-| 
-
-SB-FRS 37
-
- | 
-
-[Provisions, Contingent Liabilities and Contingent Assets](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_37_(2023).pdf)
-
- | 
-
-[IG](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_37_IG_(2023).pdf)
-
- |
-| 
-
-SB-FRS 38
-
- | 
-
-[Intangible Assets](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_38_(2023).pdf)
-
- | 
-
-[IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_38_IE_(2023).pdf)
-
- |
-| 
-
-SB-FRS 39
-
- | 
-
-[Financial Instruments: Recognition and Measurement](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_39_(2023).pdf)
-
- | 
-
-[IE & IG](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_39_IE_IG_(2023).pdf)
-
- |
-| 
-
-SB-FRS 40
-
- | 
-
-[Investment Property](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_40_(2023).pdf)
-
- | 
-
-\-
-
- |
-| 
-
-SB-FRS 41
-
- | 
-
-[Agriculture](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_41_(2023).pdf)
-
- | 
-
-[IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_41_IE_(2023).pdf)
-
- |
-| 
-
-SB-FRS 101
-
- | 
-
-[First-time Adoption of Statutory Board Financial Reporting Standards](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_101_(2023).pdf)
-
- | 
-
-[IG](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_101_IG_(2023).pdf)
-
- |
-| 
-
-SB-FRS 102
-
- | 
-
-[Share-based Payment](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_102_(2023).pdf)
-
- | 
-
-[IG](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_102_IG_(2023).pdf)
-
- |
-| 
-
-SB-FRS 103
-
- | 
-
-[Business Combinations](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_103_(2023).pdf)
-
- | 
-
-[IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_103_IE_(2023).pdf)
-
- |
-| 
-
-SB-FRS 104
-
- | 
-
-[Insurance Contracts](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_104_(2023).pdf)
-
- | 
-
-[IG](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_104_IG_(2023).pdf)
-
- |
-| 
-
-SB-FRS 105
-
- | 
-
-[Non-current Assets Held for Sale and Discontinued Operations](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_105_(2023).pdf)
-
- | 
-
-[IG](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_105_IG_(2023).pdf)
-
- |
-| 
-
-SB-FRS 106
-
- | 
-
-[Exploration for and Evaluation of Mineral Resources](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_106_(2023).pdf)
-
- | 
-
-\-
-
- |
-| 
-
-SB-FRS 107
-
- | 
-
-[Financial Instruments: Disclosures](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_107_(2023).pdf)
-
- | 
-
-[IG](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_107_IG_(2023).pdf)
-
- |
-| 
-
-SB-FRS 108
-
- | 
-
-[Operating Segments](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_108_(2023).pdf)
-
- | 
-
-[IG](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_108_IG_(2023).pdf)
-
- |
-| 
-
-SB-FRS 109
-
- | 
-
-[Financial Instruments](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_109_(2023).pdf)
-
- | 
-
-[IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_109_IE_(2023).pdf),  
-[IG](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_109_IG_(2023).pdf)
-
- |
-| 
-
-SB-FRS 110
-
- | 
-
-[Consolidated Financial Statements](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_110_(2023).pdf)
-
- | 
-
-[IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_110_IE_(2023).pdf)
-
- |
-| 
-
-SB-FRS 111
-
- | 
-
-[Joint Arrangements](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_111_(2023).pdf)
-
- | 
-
-[IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_111_IE_(2023).pdf)
-
- |
-| 
-
-SB-FRS 112
-
- | 
-
-[Disclosure of Interests in Other Entities](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_112_(2023).pdf)
-
- | 
-
-\-
-
- |
-| 
-
-SB-FRS 113
-
- | 
-
-[Fair Value Measurement](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_113_(2023).pdf)
-
- | 
-
-[IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_113_IE_(2023).pdf)
-
- |
-| 
-
-SB-FRS 114
-
- | 
-
-[Regulatory Deferral Accounts](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_114_(2023).pdf)
-
- | 
-
-[IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_114_IE_(2023).pdf)
-
- |
-| 
-
-SB-FRS 115
-
- | 
-
-[Revenue from Contracts with Customers](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_115_(2023).pdf)
-
- | 
-
-[IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_115_IE_(2023).pdf)
-
- |
-| 
-
-SB-FRS 116
-
- | 
-
-[Leases](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_116_(2023).pdf)
-
- | 
-
-[IE](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_116_IE_(2023).pdf)
-
- |
-| 
-
-SB-FRS 1001
-
- | 
-
-[Accounting and Disclosure for Non-Exchange Revenue](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_1001_(2023).pdf)
-
- | 
-
-\-
-
- |
-| 
-
-SB-FRS 1002
-
- | 
-
-[Impairment of Non-Cash-Generating Assets](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_1002_(2023).pdf)
-
- | 
-
-[IG](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/SB-FRS_1002_IG_(2023).pdf)
-
- |
-
-The following amendments to SB-FRS issued in July 2023 includes changes to the requirements in SB-FRS that are effective either immediately with retrospective application or for annual reporting periods beginning on 1 January 2023. Entities are required to apply those changes when applying the requirements in the above collection of SB-FRSs.
-
-| 
-Reference
-
- | 
-
-Title
-
- | 
-
-Effective Date
-
- | 
-
-Issuance Date
-
- |
-| --- | --- | --- | --- |
-| 
-
-SB-FRS 12
-
- | 
-
-[Amendments to SB-FRS 12: International Tax Reform—Pillar Two Model Rules](/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/ammendments%20to%20sb-frs-12%20international.pdf)
-
- | 
-
-Refer to document
-
- | 
-
-17.07.2023
-
- |
-
-\*Include Implementation Guidance (IG) and Illustrative Examples (IE).
-
-### Archives 
-
-Click here to [access the archived documents](/pronouncements/sb-frs/archives/).
+<h3>STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AFTER 1 JANUARY 2024 (ISSUED UP TO 31 DECEMBER 2024)</h3>
+<p>The following are the new/revised/amendments to SB-FRSs and INT SB-FRSs
+issued by the Accountant-General (up to 31 December 2024) which are affective
+after 1 January 2024.</p>
+<p>If you do not already have Adobe Reader, please download the software
+for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.html" rel="noopener noreferrer nofollow" target="_blank">[pdf]</a>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Titles</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Effective Date (Annual periods beginning on or after)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Issuance Date</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Issued in 2015</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SB-FRS 110,
+<br>SB-FRS 28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/amendments_to_sb-frs_110_and_sb-frs_28.pdf" rel="noopener noreferrer nofollow" target="_blank">Amendments to SB-FRS 110 and SB-FRS 28: Sale or Contribution of Assets between an Investor and its Associate or Joint Venture</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be determined1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18.03.2015</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Issued in 2016</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SB-FRS 110,
+<br>SB-FRS 28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/amendments_to_effective_date_of_amendments_to_sb-frs_110_and_sb-frs_28.pdf" rel="noopener noreferrer nofollow" target="_blank">Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be determined</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.03.2016</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Issued in 2020</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SB-FRS 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/Item%201%20-%20amendments-to-sb-frs-1.pdf" rel="noopener noreferrer nofollow" target="_blank">Amendments to SB-FRS 1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.1.20242</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13.11.2020</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SB-FRS 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/Item%202%20-%20amendments-to-sb-frs-1---deferral-of-effective-date.pdf" rel="noopener noreferrer nofollow" target="_blank">Amendments to SB-FRS 1 (Deferral of Effective Date)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13.11.2020</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Issued in 2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SB-FRS 116</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/amendments%20to%20sb-frs%20116.pdf" rel="noopener noreferrer nofollow" target="_blank">Amendments to SB-FRS 116: Lease Liability in a Sale and Leaseback</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.1.2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17.07.2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Various</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/amendments%20to%20sb-frs%201%20non-current%20liabilities%20with%20covenants.pdf" rel="noopener noreferrer nofollow" target="_blank">Amendments to SB-FRS 1: Non-current Liabilities with Covenants</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.1.2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17.07.2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SB-FRS 7, SB-FRS 107</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/amendments%20to%20sb-frs%207%20and%20sb-frs%20107%20supplier%20finance%20arrangements.pdf" rel="noopener noreferrer nofollow" target="_blank">Amendments to SB-FRS 7 and SB-FRS 107: Supplier Finance Arrangements</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.1.2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17.07.2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SB-FRS 21, SB-FRS 101</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Docs/Default%20Source/Sb%20Frs/Effective%20As%20At%201%20January%202023/Lack_of_Exchangeability_Amendments_to_SB_FRS_21.pdf" rel="noopener noreferrer nofollow" target="_blank">Amendments to SB-FRS 21: Lack of Exchangeability</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.1.2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.12.2023</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>1<em>i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.</em>
+</p>
+<p><em>ii)This should be read together with the Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 issued in 2016.</em>
+</p>
+<p>2<em>The mandatory effective date of this Amendment had been revised from 1 Jan 2022 to 1 Jan 2023 in Nov 2020 via Amendment to FRS 1: Classification of Liabilities as Current or Non-current (Deferral of Effective Date) and further revised to 1 Jan 2024 in Jul 2023 via Amendments to SB-FRS 1: Non-current Liabilities with Covenants.</em>
+</p>
+<h3>Archives&nbsp;</h3>
+<p>Click here to <a href="/pronouncements/sb-frs/archives/" rel="noopener noreferrer nofollow" target="_blank">access the archived documents</a>.</p>
