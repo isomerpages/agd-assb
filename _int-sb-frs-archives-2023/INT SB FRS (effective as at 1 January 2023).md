@@ -2,9 +2,7 @@
 title: INT SB-FRS (effective as at 1 January 2023)
 permalink: /pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2023/
 description: INT SB-FRS (effective as at 1 January 2023)
-third_nav_title: Interpretations of SB-FRS
 ---
-
 ### INTERPRETATIONS OF STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2023
 
   

@@ -1,8 +1,7 @@
 ---
-title: SB-FRS (effective after 1 January 2023, issued up to December 2023)
-permalink: /pronouncements/sb-frs/effective-after-1-january-2023-issued-up-to-december-2023/
+title: SB FRS (effective after 1 January 2023, issued up to December 2023)
+permalink: /pronouncements/sb-frs/archives/2023/effective-after-1-january-2023-issued-up-to-december-2023/
 description: ""
-third_nav_title: SB-FRS
 variant: markdown
 ---
 ### STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AFTER 1 JANUARY 2023 (ISSUED UP TO 31 DECEMBER 2023)
