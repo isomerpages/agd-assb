@@ -1,9 +1,9 @@
 ---
-title: SB FRS (effective after 1 January 2024, issued up to December 2024)
+title: SB-FRS (effective after 1 January 2024, issued up to December 2024)
 permalink: /pronouncements/sb-frs/effective-after-1-january-2024-issued-up-to-december-2024/
 variant: markdown
-description: SB FRS (effective after 1 January 2024, issued up to December 2024)
-third_nav_title: SB FRS
+description: SB-FRS (effective after 1 January 2024, issued up to December 2024)
+third_nav_title: SB-FRS
 ---
 <h3>STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AFTER 1 JANUARY 2024 (ISSUED UP TO 31 DECEMBER 2024)</h3>
 <p>The following are the new/revised/amendments to SB-FRSs and INT SB-FRSs
