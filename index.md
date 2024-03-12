@@ -14,7 +14,7 @@ sections:
           url: /pronouncements/sb-frs/effective-as-at-1-january-2024/
         - title: Interpretations of SB-FRS
           description: ""
-          url: /pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2023/
+          url: /pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2024/
         - title: SB-FRS Guidance Notes
           description: ""
           url: /pronouncements/sb-frs-guidance-notes/current/
