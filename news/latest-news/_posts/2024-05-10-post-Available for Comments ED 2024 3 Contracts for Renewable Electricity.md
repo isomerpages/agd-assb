@@ -1,5 +1,5 @@
 ---
-title: Available for Comments ED 2024 3 Contracts for Renewable Electricity
+title: Available for Comments – ED/2024/3 Contracts for Renewable Electricity (Proposed amendments to IFRS 9 and IFRS 7)
 permalink: /available-for-comments-ed-2024-3-contracts-for-renewable-electricity/
 date: 2024-05-10
 layout: post
