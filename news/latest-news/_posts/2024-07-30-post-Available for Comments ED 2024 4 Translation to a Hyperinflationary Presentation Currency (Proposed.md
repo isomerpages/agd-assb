@@ -1,6 +1,5 @@
 ---
-title: Available for Comments ED 2024 4 Translation to a Hyperinflationary
-  Presentation Currency (Proposed
+title: "Available for Comments – ED/2024/4 Translation to a Hyperinflationary Presentation Currency (Proposed amendments to IAS 21)"
 permalink: /available-for-comments-ed-2024-4-translation-to-a-hyperinflationary-presentation-currency-proposed/
 date: 2024-07-30
 layout: post
