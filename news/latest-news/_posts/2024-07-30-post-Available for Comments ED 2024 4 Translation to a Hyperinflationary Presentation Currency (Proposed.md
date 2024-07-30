@@ -8,3 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h2>Available for Comments – ED/2024/4 Translation to a Hyperinflationary Presentation Currency (Proposed amendments to IAS 21)</h2>
+<p>30 Jul 2024</p>
+<p>The Secretariat invites comments on ED/2024/4 Translation to a Hyperinflationary
+Presentation Currency (Proposed amendments to IAS 21) by 30 August 2024.</p>
