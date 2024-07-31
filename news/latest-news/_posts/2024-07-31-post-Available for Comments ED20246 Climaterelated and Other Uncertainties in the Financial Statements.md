@@ -8,3 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h2>Available for Comments – ED/2024/6 Climate-related and Other Uncertainties in the Financial Statement</h2>
+<p>1 Aug 2024</p>
+<p>The Secretariat invites comments on ED/2024/6 Climate-related and Other
+Uncertainties in the Financial Statement by 30 August 2024.</p>
