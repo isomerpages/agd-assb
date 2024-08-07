@@ -7,4 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
+<h2>Available for Comments – ED SB-FRS Guidance Note Accounting for Heritage Assets</h2>
+<p>6 Aug 2024</p>
+<p>The Secretariat invites comments on ED SB-FRS Guidance Note Accounting
+for Heritage Assets by 2 September 2024.</p>
