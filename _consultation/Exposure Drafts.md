@@ -12,6 +12,7 @@ If you do not already have Adobe Reader, please download the software for free h
 
 | **Titles** | **Comments due by** | **Comment letter to ASC** |
 | -------- | -------- | -------- |
+|[ED SB-FRS Guidance Note Accounting for Heritage Assets](/files/Docs/Default%20Source/Exposure%20Draft/ED_SB_FRS_Guidance_Note_Accounting_for_Heritage_Assets__for_circulation_.pdf)|2 September 2024||   |
 |[ED/2024/6 Climate-related and Other Uncertainties in the Financial Statements](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_6_climate_uncertainties_fs.pdf)|30 August 2024||   |
 |[ED/2024/5 Amendments to IFRS 19 Subsidiaries without Public Accountability: Disclosures](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_5_ifrs19_dr.pdf)|30 August 2024||   |
 |[ED/2024/4 Translation to a Hyperinflationary Presentation Currency (Proposed amendments to IAS 21)](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_4_thpc.pdf)|30 August 2024||   |
