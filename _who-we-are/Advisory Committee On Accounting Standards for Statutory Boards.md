@@ -49,7 +49,7 @@ To bring wider representation and experience into the standards setting process,
         <img src="/images/Images/Default%20Source/Who%20We%20Are/andrew-lee-20230321-1-latest.jpg" alt="Professor Andrew Lee">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Professor Andrew Lee</p>
+        <p class="title is-4">Assoc Prof Andrew Lee</p>
         <strong>Associate Professor </strong>
         <br> Singapore Management University            </div>
 </div>
