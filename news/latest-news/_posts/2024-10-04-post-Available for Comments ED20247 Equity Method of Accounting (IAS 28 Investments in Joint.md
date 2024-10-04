@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2>Available for Comments – ED/2024/7 Equity Method of Accounting (IAS 28 Investments in Associates and Joint Ventures) </h2>
+<h2>Available for Comments – ED/2024/7 Equity Method of Accounting (IAS 28 Investments in Associates and Joint Ventures)</h2>
 <p>4 Oct 2024</p>
 <p>The Secretariat invites comments on ED/2024/7 Equity Method of Accounting
 (IAS 28 Investment in Associates and Joint Ventures) by 4 November 2024.</p>
