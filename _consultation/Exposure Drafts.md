@@ -12,10 +12,11 @@ If you do not already have Adobe Reader, please download the software for free h
 
 | **Titles** | **Comments due by** | **Comment letter to ASC** |
 | -------- | -------- | -------- |
-|[ED SB-FRS Guidance Note Accounting for Heritage Assets](/files/Docs/Default%20Source/Exposure%20Draft/ED_SB_FRS_Guidance_Note_Accounting_for_Heritage_Assets__for_circulation_.pdf)|2 September 2024||   |
-|[ED/2024/6 Climate-related and Other Uncertainties in the Financial Statements](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_6_climate_uncertainties_fs.pdf)|30 August 2024||   |
-|[ED/2024/5 Amendments to IFRS 19 Subsidiaries without Public Accountability: Disclosures](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_5_ifrs19_dr.pdf)|30 August 2024||   |
-|[ED/2024/4 Translation to a Hyperinflationary Presentation Currency (Proposed amendments to IAS 21)](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_4_thpc.pdf)|30 August 2024||   |
+|[ED/2024/7 Equity Method of Accounting (IAS 28 Investments in Associates and Joint Ventures)](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_7_equity_method.pdf)|4 November 2024||   |
+|[ED SB-FRS Guidance Note Accounting for Heritage Assets](/files/Docs/Default%20Source/Exposure%20Draft/ED_SB_FRS_Guidance_Note_Accounting_for_Heritage_Assets__for_circulation_.pdf)|2 September 2024 (Closed)||   |
+|[ED/2024/6 Climate-related and Other Uncertainties in the Financial Statements](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_6_climate_uncertainties_fs.pdf)|30 August 2024 (Closed)||   |
+|[ED/2024/5 Amendments to IFRS 19 Subsidiaries without Public Accountability: Disclosures](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_5_ifrs19_dr.pdf)|30 August 2024 (Closed)||   |
+|[ED/2024/4 Translation to a Hyperinflationary Presentation Currency (Proposed amendments to IAS 21)](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_4_thpc.pdf)|30 August 2024 (Closed)||   |
 |[ED/2024/3 Contracts for Renewable Electricity (Proposed amendments to IFRS 9 and IFRS 7)](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_3_Contracts_for_Renewable_Electricity.pdf)|10 June 2024 (Closed)||   |
 |[ED/2024/1 Business Combinations - Disclosures, Goodwill and Impairment (Proposed amendments to IFRS 3 and IAS 36)](/files/Docs/Default%20Source/Exposure%20Draft/ed_2024_1_BusinessCombinations.pdf), and the accompanying [Basis for Conclusions](/files/Docs/Default%20Source/Exposure%20Draft/ed_2024_1_BusinessCombinations_BasisforConclusion.pdf)|19 April 2024 (Closed)||   |
 |[ED/2023/5 Financial Instruments with Characteristics of Equity (Proposed amendments to IAS 32, IFRS 7 and IAS 1)](/files/Docs/Default%20Source/Exposure%20Draft/ed_2023_5_financial_instruments.pdf), and the accompanying [Basis for Conclusions](/files/Docs/Default%20Source/Exposure%20Draft/ed_2023_5_bc.pdf) and [Illustrative Examples and Implementation Guidance](/files/Docs/Default%20Source/Exposure%20Draft/ed_2023_5_ig_ie.pdf)|5 January 2024 (Closed)| [Comment Letter on ED-2023-5](/files/Docs/Default%20Source/Exposure%20Draft/Comment_Letter_to_IASB_on_ED_2023_5.pdf)|   |
