@@ -12,7 +12,8 @@ If you do not already have Adobe Reader, please download the software for free h
 
 | **Titles** | **Comments due by** | **Comment letter to ASC** |
 | -------- | -------- | -------- |
-|[ED/2024/7 Equity Method of Accounting (IAS 28 Investments in Associates and Joint Ventures)](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_7_equity_method.pdf)|4 November 2024||   |
+|[ED/2024/8 Provisions - Targeted Improvements (Proposed amendments to IAS 37)](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_8_provisions_ti.pdf), and the accompanying [Basis for Conclusions](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_8_bc_provisions_ti.pdf) and [Proposed amendments to Guidance on Implementing IAS 37](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_8_ig_provisions_ti.pdf)|20 December 2024||   |
+|[ED/2024/7 Equity Method of Accounting (IAS 28 Investments in Associates and Joint Ventures)](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_7_equity_method.pdf), and the accompanying [Basis for Conclusions](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_7_bc_equity_method.pdf)|4 November 2024 (Closed)||   |
 |[ED SB-FRS Guidance Note Accounting for Heritage Assets](/files/Docs/Default%20Source/Exposure%20Draft/ED_SB_FRS_Guidance_Note_Accounting_for_Heritage_Assets__for_circulation_.pdf)|2 September 2024 (Closed)||   |
 |[ED/2024/6 Climate-related and Other Uncertainties in the Financial Statements](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_6_climate_uncertainties_fs.pdf)|30 August 2024 (Closed)||   |
 |[ED/2024/5 Amendments to IFRS 19 Subsidiaries without Public Accountability: Disclosures](/files/Docs/Default%20Source/Exposure%20Draft/iasb_ed_2024_5_ifrs19_dr.pdf)|30 August 2024 (Closed)||   |
