@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2>Issuance of Guidance Note 12: Accounting for Heritage Assets</h2>
+<h2>Issuance of SB-FRS Guidance Note 12: Accounting for Heritage Assets</h2>
 <p>25 Nov 2024</p>
 <p>The SB-FRS Guidance Note 12: Accounting for Heritage Assets, effective
 for annual periods beginning on or after 1 January 2026, has been issued.
