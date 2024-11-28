@@ -1,0 +1,7 @@
+collections:
+  int-sb-frs-archives-2019:
+    output: true
+    order:
+      - INT SB FRS (effective as at 1 January 2019).md
+      - INT SB FRS (effective after 1 January 2019, issued up to December
+        2019).md
