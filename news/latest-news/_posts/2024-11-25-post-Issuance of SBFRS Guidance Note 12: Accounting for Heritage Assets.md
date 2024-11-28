@@ -1,5 +1,5 @@
 ---
-title: "Issuance of SBFRS Guidance Note 12: Accounting for Heritage Assets"
+title: "Issuance of SB-FRS Guidance Note 12: Accounting for Heritage Assets"
 permalink: /issuance-of-guidance-note-12-accounting-for-heritage-assets/
 date: 2024-11-25
 layout: post
