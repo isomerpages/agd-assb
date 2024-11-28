@@ -3,6 +3,7 @@ title: Current
 permalink: /pronouncements/sb-frs-guidance-notes/current/
 description: Current SB-FRS Guidance Notes
 third_nav_title: SB-FRS Guidance Notes
+variant: markdown
 ---
 ### SB-FRS GUIDANCE NOTES
 
@@ -29,5 +30,6 @@ If you do not already have Adobe Reader, please download the software for free h
 | 9 | [Accounting for Depreciation of Statutory Board-Owned Assets Situated on Land Allocated under Tenancy Agreements Governed by State Land Rules](/files/Docs/Default%20Source/Sb%20Frs%20Guidance%20Notes/sb-frs-guidance-note-9917f774ae3c34c9a8cf0fec05d8084ae.pdf) |  | 1.4.2021 | 26.03.2021 |
 | 10 | [Accounting for Capital Assets Funded Using Statutory Boards' Reserves on Behalf of the Government](/files/Docs/Default%20Source/Sb%20Frs%20Guidance%20Notes/sb-frs-guidance-note-10.pdf) |  | 1.4.2021 | 26.03.2021 |
 | 11 | [Accounting for Grants Administered by Statutory Boards](/files/Docs/Default%20Source/Sb%20Frs%20Guidance%20Notes/sb-frs-guidance-note-11.pdf) |  | 1.1.2023 | 18.5.2022 |
+| 12 | [Accounting for Heritage Assets](/files/Docs/Default%20Source/Sb%20Frs%20Guidance%20Notes/SB_FRS_Guidance_Note_12_Accounting_for_Heritage_Assets__final_.pdf) |  | 1.1.2026 | 25.11.2024 |
 
 \*Include Implementation Guidance (IG) and Illustrative Examples (IE).
