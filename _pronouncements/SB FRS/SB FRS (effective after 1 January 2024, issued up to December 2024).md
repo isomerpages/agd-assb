@@ -120,6 +120,51 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>6.12.2023</p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Issued in 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SB-FRS 118</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Docs/SB FRS Effective as at Jan24/SB_FRS_118__2027___final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Presentation and Disclosure in Financial Statements</a> <a href="/files/Docs/SB FRS Effective as at Jan24/SB_FRS_118__2027__IE__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Illustrative Examples</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.1.2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.12.2024</p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>SB-FRS 119</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Docs/SB FRS Effective as at Jan24/SB_FRS_119__2027___final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subsidiaries without Public Accountability: Disclosures</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.1.2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.12.2024</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>1<em>i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.</em>
