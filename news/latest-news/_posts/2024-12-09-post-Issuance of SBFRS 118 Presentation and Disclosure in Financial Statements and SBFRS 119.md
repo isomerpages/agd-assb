@@ -1,6 +1,5 @@
 ---
-title: Issuance of SBFRS 118 Presentation and Disclosure in Financial Statements
-  and SBFRS 119
+title:  "Issuance of SB-FRS 118 Presentation and Disclosure in Financial Statements and SB-FRS 119 Subsidiaries without Public Accountability: Disclosures"
 permalink: /issuance-of-sbfrs-118-presentation-and-disclosure-in-financial-statements-and-sbfrs-119/
 date: 2024-12-09
 layout: post
