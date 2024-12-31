@@ -56,12 +56,22 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/eleanor-lee-20230321-latest.jpg" alt="Ms Eleanor Lee">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/mr_aw_xin_pei.png" alt="Mr Aw Xin-Pei">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Ms Eleanor Lee</p>
+        <p class="title is-4">Mr Aw Xin-Pei</p>
         <strong>Partner</strong>
-        <br> Ernst &amp; Young LLP
+        <br> Deloitte &amp; Touche LLP</div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/ms_adeline_chang.png" alt="Ms Adeline Chang">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Ms Adeline Chang</p>
+        <strong>Director (Finance and Procurement)</strong>
+        <br> National Heritage Board
     </div>
 </div>
 
