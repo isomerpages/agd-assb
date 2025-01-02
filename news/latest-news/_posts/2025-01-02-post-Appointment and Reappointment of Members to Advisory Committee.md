@@ -3,11 +3,11 @@ title: Appointment and Reappointment of Members to Advisory Committee
 permalink: /appointment-and-reappointment-of-members-to-advisory-committee/
 date: 2025-01-02
 layout: post
-description: "Appointment and Re-appointment of Members to Advisory Committee"
+description: Appointment and Re-appointment of Members to Advisory Committee
 image: ""
 variant: tiptap
 ---
-<h1><strong>Appointment and Re-appointment of Members to Advisory Committee</strong></h1>
+<h1>Appointment and Re-appointment of Members to Advisory Committee</h1>
 <p></p>
 <p>The Minister for Finance has re-appointed Ms Cecilia Neo (Director (Finance),
 Energy Market Authority) for a two-year term from 1 November 2024 to 31
