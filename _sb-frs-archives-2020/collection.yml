@@ -1,0 +1,6 @@
+collections:
+  sb-frs-archives-2020:
+    output: true
+    order:
+      - SB FRS (effective as at 1 January 2020).md
+      - SB FRS (effective after 1 January 2020, issued up to December 2020).md
