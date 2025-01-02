@@ -3,7 +3,7 @@ title: Appointment and Reappointment of Members to Advisory Committee
 permalink: /appointment-and-reappointment-of-members-to-advisory-committee/
 date: 2025-01-02
 layout: post
-description: Appointment and Reappointment of Members to Advisory Committee
+description: "Appointment and Re-appointment of Members to Advisory Committee"
 image: ""
 variant: tiptap
 ---
