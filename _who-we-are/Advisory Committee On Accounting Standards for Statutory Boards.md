@@ -14,7 +14,7 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-       <img src="/images/Images/Default%20Source/Who%20We%20Are/AG_Esther_BlurBG.jpg" alt="Mr Ow Fook Chuen">
+       <img src="/images/Images/Default%20Source/Who%20We%20Are/AG_Esther_final.jpg" alt="Mr Ow Fook Chuen">
     </div>
     <div class="col is-8">
         <p class="title is-4">Ms Esther</p>
