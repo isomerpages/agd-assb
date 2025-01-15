@@ -11,17 +11,6 @@ variant: markdown
 To bring wider representation and experience into the standards setting process, the Advisory Committee on Accounting Standards for Statutory Boards ("Advisory Committee") has been formed to advise the Accountant-General. The&nbsp;**[Advisory Committee](/who-we-are/objectives-of-advisory-committee/)**&nbsp;comprises representatives from various stakeholders such as the Statutory Boards, the public accounting profession, the accounting academia and the Government.
 
 ### **Chairman**
-
-<div class="row">
-    <div class="col is-4">
-       <img src="/images/Images/Default%20Source/Who%20We%20Are/AG_Esther_final.jpg" alt="Mr Ow Fook Chuen">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Ms Esther</p>
-        <strong>Accountant-General</strong>
-    </div>
-</div>
-
 <div class="row">
     <div class="col is-4">
        <img src="/images/Images/Default%20Source/Who%20We%20Are/ow-fook-chuen-20230321-latest.jpg" alt="Mr Ow Fook Chuen">
