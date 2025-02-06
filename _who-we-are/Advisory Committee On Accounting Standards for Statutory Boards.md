@@ -13,7 +13,7 @@ To bring wider representation and experience into the standards setting process,
 ### **Chairman**
 <div class="row">
     <div class="col is-4">
-       <img src="/images/Images/Default%20Source/Who%20We%20Are/AG_Esther_final.jpg" alt="Ms Esther Wee">
+       <img src="/images/Images/Default%20Source/Who%20We%20Are/AG_Esther_new.jpg" alt="Ms Esther Wee">
     </div>
     <div class="col is-8">
         <p class="title is-4">Ms Esther Wee</p>
