@@ -5,7 +5,9 @@ description: Interpretation of SB-FRS Archives
 third_nav_title: Interpretations of SB-FRS
 variant: markdown
 ---
-<p><a href="/pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2023/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective as at 1 January 2023)</a> 
+<p><a href="/pronouncements/int-sb-frs/archives/2024/effective-as-at-1-january-2024/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective as at 1 January 2024)</a> 
+<br><a href="/pronouncements/int-sb-frs/archives/2024/effective-after-1-january-2024-issued-up-to-december-2024/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective after 1 January 2024, issued up to December 2024) </a>
+<br><a href="/pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2023/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective as at 1 January 2023)</a> 
 <br><a href="/pronouncements/interpretations-of-sb-frs/effective-after-1-january-2023-issued-up-to-december-2023/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective after 1 January 2023, issued up to December 2023) </a>
 <br><a href="/pronouncements/sb-frs/archives/2022/effective-as-at-1-january-2022/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective as at 1 January 2022)</a> 
 <br><a href="/pronouncements/sb-frs/archives/2022/effective-after-1-january-2022-issued-up-to-december-2022/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective after 1 January 2022, issued up to December 2022) </a>
