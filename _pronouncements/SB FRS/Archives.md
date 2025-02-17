@@ -7,7 +7,7 @@ variant: markdown
 ---
 <p><a href="/pronouncements/sb-frs/archives/2024/effective-as-at-1-january-2024/" rel="noopener noreferrer nofollow" target="_blank">SB FRS (effective as at 1 January 2024)</a> 
 <br><a href="/pronouncements/sb-frs/archives/2024/effective-after-1-january-2024-issued-up-to-december-2024/" rel="noopener noreferrer nofollow" target="_blank">SB FRS (effective after 1 January 2024, issued up to December 2024) </a>
-</p><p><a href="/pronouncements/sb-frs/archives/2023/effective-as-at-1-january-2023/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective as at 1 January 2023)</a> 
+<br><a href="/pronouncements/sb-frs/archives/2023/effective-as-at-1-january-2023/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective as at 1 January 2023)</a> 
 <br><a href="/pronouncements/sb-frs/archives/2023/effective-after-1-january-2023-issued-up-to-december-2023/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective after 1 January 2023, issued up to December 2023) </a>
 <br><a href="/pronouncements/sb-frs/archives/2022/effective-as-at-1-january-2022/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective as at 1 January 2022)</a> 
 <br><a href="/pronouncements/sb-frs/archives/2022/effective-after-1-january-2022-issued-up-to-december-2022/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective after 1 January 2022, issued up to December 2022) </a>
@@ -31,4 +31,3 @@ variant: markdown
 <br><a href="/pronouncements/sb-frs/archives/2013/effective-after-1-january-2013-issued-up-to-december-2013/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective after 1 January 2013, issued up to December 2013)</a> 
 <br><a href="/pronouncements/sb-frs/archives/2013/issued-before-2013/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (issued before 2013)</a>
 </p>
-<p></p>
