@@ -74,7 +74,8 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_2__2025_.pdf" rel="noopener nofollow" target="_blank">Inventories</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -85,10 +86,12 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_7__2025_.pdf" rel="noopener nofollow" target="_blank">Statement of Cash Flows</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_7_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -96,10 +99,12 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_8__2025_.pdf" rel="noopener nofollow" target="_blank">Accounting Policies, Changes in Accounting Estimates and Errors</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_8_IG__2025_.pdf" rel="noopener nofollow" target="_blank">IG</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +112,8 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_10__2025_.pdf" rel="noopener nofollow" target="_blank">Events after the Reporting Period</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -118,10 +124,12 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_12__2025_.pdf" rel="noopener nofollow" target="_blank">Income Taxes</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_12_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+</p>
 </td>
 </tr>
 <tr>
