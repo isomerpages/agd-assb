@@ -99,36 +99,6 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Issued in 2023</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SB-FRS 21, SB-FRS 101</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan24/Amendments_to_SB_FRS_21___Lack_of_Exchangeability.pdf" rel="noopener noreferrer nofollow" target="_blank">Amendments to SB-FRS 21: Lack of Exchangeability</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.1.2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.12.2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Issued in 2024</strong>
 </p>
 </td>
@@ -175,7 +145,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </tr>
 </tbody>
 </table>
-<p>1<em>i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.</em>
+<p><sup>1</sup><em>i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.</em>
 </p>
 <p><em>ii)This should be read together with the Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 issued in 2016.</em>
 </p>
