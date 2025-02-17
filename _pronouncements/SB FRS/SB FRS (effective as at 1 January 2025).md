@@ -177,7 +177,8 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan24/SB_FRS_24_IE.pdf" rel="noopener noreferrer nofollow" target="_blank">IE</a>
+</p>
 </td>
 </tr>
 <tr>
