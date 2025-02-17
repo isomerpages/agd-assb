@@ -1,4 +1,5 @@
 collections:
   int-sb-frs-archives-2024:
     output: true
-    order: []
+    order:
+      - INT SB FRS (effective as at 1 January 2024).md
