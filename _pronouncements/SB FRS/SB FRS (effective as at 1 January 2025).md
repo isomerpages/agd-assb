@@ -137,7 +137,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 16</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_16__2025_.pdf" rel="noopener nofollow" target="_blank">Property, Plant and Equipment </a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_16__2025_.pdf" rel="noopener nofollow" target="_blank">Property, Plant and Equipment</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,7 +149,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 19</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_19__2025_.pdf" rel="noopener nofollow" target="_blank">Employee Benefits </a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_19__2025_.pdf" rel="noopener nofollow" target="_blank">Employee Benefits</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -272,10 +272,12 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 33</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_33__2025_.pdf" rel="noopener nofollow" target="_blank">Earnings per Share</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_33_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -283,10 +285,12 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 34</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_34__2025_.pdf" rel="noopener nofollow" target="_blank">Interim Financial Reporting</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_34_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -294,10 +298,12 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 36</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_36__2025_.pdf" rel="noopener nofollow" target="_blank">Interim Financial Reporting</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_36_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -305,10 +311,12 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 37</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_37__2025_.pdf" rel="noopener nofollow" target="_blank">Provisions, Contingent Liabilities and Contingent Assets</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_37_IG__2025_.pdf" rel="noopener nofollow" target="_blank">IG</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -316,10 +324,12 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 38</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_38__2025_.pdf" rel="noopener nofollow" target="_blank">Intangible Assets</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_38_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+</p>
 </td>
 </tr>
 <tr>
