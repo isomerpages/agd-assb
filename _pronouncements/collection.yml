@@ -2,10 +2,10 @@ collections:
   pronouncements:
     output: true
     order:
+      - SB FRS/.keep
+      - SB FRS/SB FRS (effective as at 1 January 2025).md
       - SB FRS/SB FRS (effective after 1 January 2025, issued up to December
         2025).md
-      - SB FRS/SB FRS (effective as at 1 January 2025).md
-      - SB FRS/.keep
       - SB FRS/Archives.md
       - Interpretations of SB FRS/.keep
       - Interpretations of SB FRS/Archives.md
