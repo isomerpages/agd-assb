@@ -337,10 +337,12 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 39</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_39__2025_.pdf" rel="noopener nofollow" target="_blank">Financial Instruments: Recognition and Measurement</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_39_IE_IG__2025_.pdf" rel="noopener nofollow" target="_blank">IE &amp; IG</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -348,7 +350,8 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 40</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_40__2025_.pdf" rel="noopener nofollow" target="_blank">Investment Property</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -359,10 +362,12 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 41</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_41__2025_.pdf" rel="noopener nofollow" target="_blank"> Agriculture</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_41_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -370,10 +375,12 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 101</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_101__2025_.pdf" rel="noopener nofollow" target="_blank">First-time Adoption of Statutory Board Financial Reporting Standards</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_101_IG__2025_.pdf" rel="noopener nofollow" target="_blank">IG</a>
+</p>
 </td>
 </tr>
 <tr>
