@@ -135,7 +135,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>INT SB-FRS 106</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/INT SB FRS Jan25/INT_SB_FRS_106__2025_.pdf" rel="noopener nofollow" target="_blank">Liabilities arising from Participating in Specific Market Waste Electrical and Electronic Equipment</a>
+<p><a href="/files/Docs/INT SB FRS Jan25/INT_SB_FRS_106__2025_.pdf" rel="noopener nofollow" target="_blank">Liabilities arising from Participating in a Specific Market - Waste Electrical and Electronic Equipment</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
