@@ -2,5 +2,5 @@ collections:
   sb-frs-archives-2024:
     output: true
     order:
-      - SB FRS (effective after 1 January 2024, issued up to December 2024).md
       - SB FRS (effective as at 1 January 2024).md
+      - SB FRS (effective after 1 January 2024, issued up to December 2024).md
