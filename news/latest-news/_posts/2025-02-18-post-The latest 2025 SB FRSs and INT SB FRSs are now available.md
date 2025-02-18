@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <h2>The latest 2025 SB-FRSs and INT SB-FRSs are now available</h2>
-<p>21 February 2025</p>
+<p>18 February 2025</p>
 <p></p>
 <p>The latest 2025 SB-FRSs and INT SB-FRSs are now available.</p>
 <p></p>
