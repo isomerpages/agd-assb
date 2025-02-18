@@ -7,7 +7,7 @@ description: The latest 2025 SB-FRSs and INT SB-FRSs are now available
 image: ""
 variant: tiptap
 ---
-<h1>The latest 2025 SB-FRSs and INT SB-FRSs are now available</h1>
+<h2>The latest 2025 SB-FRSs and INT SB-FRSs are now available</h2>
 <p>21 February 2025</p>
 <p></p>
 <p>The latest 2025 SB-FRSs and INT SB-FRSs are now available.</p>
