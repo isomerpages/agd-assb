@@ -1,5 +1,5 @@
 ---
-title: SB FRS (effective as at 1 January 2024)
+title: SB-FRS (effective as at 1 January 2024)
 permalink: /pronouncements/sb-frs/archives/2024/effective-as-at-1-january-2024/
 variant: markdown
 description: SB-FRS (effective as at 1 January 2024)
