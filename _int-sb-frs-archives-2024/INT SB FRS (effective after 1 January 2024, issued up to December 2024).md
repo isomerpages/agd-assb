@@ -1,5 +1,5 @@
 ---
-title: INT SB FRS (effective after 1 January 2024, issued up to December 2024)
+title: INT SB-FRS (effective after 1 January 2024, issued up to December 2024)
 permalink: /pronouncements/int-sb-frs/archives/2024/effective-after-1-january-2024-issued-up-to-december-2024/
 variant: tiptap
 description: INT SB-FRS (effective after 1 January 2024, issued up to December 2024)
