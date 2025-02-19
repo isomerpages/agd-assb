@@ -298,7 +298,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 36</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_36__2025_.pdf" rel="noopener nofollow" target="_blank">Interim Financial Reporting</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_36__2025_.pdf" rel="noopener nofollow" target="_blank">Impairment of Assets</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
