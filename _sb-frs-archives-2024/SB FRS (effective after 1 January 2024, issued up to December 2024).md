@@ -1,5 +1,5 @@
 ---
-title: SB FRS (effective after 1 January 2024, issued up to December 2024)
+title: SB-FRS (effective after 1 January 2024, issued up to December 2024)
 permalink: /pronouncements/sb-frs/archives/2024/effective-after-1-january-2024-issued-up-to-december-2024/
 variant: tiptap
 description: SB-FRS (effective after 1 January 2024, issued up to December 2024)
