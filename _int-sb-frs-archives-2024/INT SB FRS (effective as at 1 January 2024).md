@@ -1,5 +1,5 @@
 ---
-title: INT SB FRS (effective as at 1 January 2024)
+title: INT SB-FRS (effective as at 1 January 2024)
 permalink: /pronouncements/int-sb-frs/archives/2024/effective-as-at-1-january-2024/
 variant: tiptap
 description: INT SB-FRS (effective as at 1 January 2024)
