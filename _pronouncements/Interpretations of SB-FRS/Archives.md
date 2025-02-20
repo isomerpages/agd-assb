@@ -11,9 +11,9 @@ variant: markdown
 <br><a href="/pronouncements/interpretations-of-sb-frs/effective-after-1-january-2023-issued-up-to-december-2023/" rel="noopener noreferrer nofollow" target="_blank">INT SB-FRS (effective after 1 January 2023, issued up to December 2023)</a>
 <br><a href="/pronouncements/int-sb-frs/archives/2022/effective-as-at-1-january-2022/" rel="noopener noreferrer nofollow" target="_blank">INT SB-FRS (effective as at 1 January 2022)</a> 
 <br><a href="/pronouncements/int-sb-frs/archives/2022/effective-after-1-january-2022-issued-up-to-december-2022/" rel="noopener noreferrer nofollow" target="_blank">INT SB-FRS (effective after 1 January 2022, issued up to December 2022)</a>
-<br><a href="/pronouncements/sb-frs/archives/2021/effective-as-at-1-january-2021/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective as at 1 January 2021)</a> 
-<br><a href="/pronouncements/sb-frs/archives/2021/effective-after-1-january-2021-issued-up-to-december-2021/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective after 1 January 2021, issued up to December 2021)</a> 
-<br><a href="/pronouncements/sb-frs/archives/2020/effective-as-at-1-january-2020/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective as at 1 January 2020)</a> 
+<br><a href="/pronouncements/int-sb-frs/archives/2021/effective-as-at-1-january-2021/" rel="noopener noreferrer nofollow" target="_blank">INT SB-FRS (effective as at 1 January 2021)</a> 
+<br><a href="/pronouncements/int-sb-frs/archives/2021/effective-after-1-january-2021-issued-up-to-december-2021/" rel="noopener noreferrer nofollow" target="_blank">INT SB-FRS (effective after 1 January 2021, issued up to December 2021)</a> 
+<br><a href="/pronouncements/int-sb-frs/archives/2020/effective-as-at-1-january-2020/" rel="noopener noreferrer nofollow" target="_blank">INT SB-FRS (effective as at 1 January 2020)</a> 
 <br><a href="/pronouncements/sb-frs/archives/2020/effective-after-1-january-2020-issued-up-to-december-2020/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective after 1 January 2020, issued up to December 2020)</a> 
 <br><a href="/pronouncements/sb-frs/archives/2019/effective-as-at-1-january-2019/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective as at 1 January 2019)</a> 
 <br><a href="/pronouncements/sb-frs/archives/2019/effective-after-1-january-2019-issued-up-to-december-2019/" rel="noopener noreferrer nofollow" target="_blank">SB-FRS (effective after 1 January 2019, issued up to December 2019)</a> 
