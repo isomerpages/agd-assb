@@ -3,7 +3,7 @@ title: SB-FRS (effective as at 1 January 2025)
 permalink: /pronouncements/sb-frs/sb-frs-effective-as-at-1-january-2025/
 variant: tiptap
 description: SB-FRS (effective as at 1 January 2025)
-third_nav_title: SB FRS
+third_nav_title: SB-FRS
 ---
 <h3>STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2025</h3>
 <p>This collection of SB-FRSs and INT SB-FRSs includes official pronouncements
