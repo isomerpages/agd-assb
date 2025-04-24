@@ -1,6 +1,6 @@
 ---
-title: Issuance of Amendments to SBFRS 109, SBFRS 107 and Annual Improvements to
-  SBFRSs
+title: Issuance of Amendments to SB-FRS 109, SB-FRS 107 and Annual Improvements to
+  SB-FRSs
 permalink: /issuance-of-amendments-to-sbfrs-109-sbfrs-107-and-annual-improvements-to-sbfrss/
 date: 2025-04-22
 layout: post
