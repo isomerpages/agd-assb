@@ -7,3 +7,12 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>Available for Comments – ED Revised SB-FRS Guidance Note 1 Accounting and Disclosure for Funds, Grants, Contributions to Consolidated Fund, Accumulated Surplus</strong>
+</p>
+<p></p>
+<p>6 May 2025</p>
+<p></p>
+<p>The Secretariat invites comments on ED Revised SB-FRS Guidance Note 1
+Accounting and Disclosure for Funds, Grants, Contributions to Consolidated
+Fund, Accumulated Surplus by 5 June 2025.</p>
+<p></p>
