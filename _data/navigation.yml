@@ -1,0 +1,25 @@
+logo: /images/assb_logo-20230404.png
+links:
+  - title: Home
+    url: /
+  - title: Who We Are
+    collection: who-we-are
+  - title: Pronouncements
+    url: /pronouncements/sb-frs/sb-frs-effective-as-at-1-january-2025/
+    sublinks:
+      - title: SB-FRS
+        url: /pronouncements/sb-frs/sb-frs-effective-as-at-1-january-2025/
+      - title: Interpretations of SB-FRS
+        url: /pronouncements/int-sb-frs/int-sb-frs-effective-as-at-1-january-2025/
+      - title: SB-FRS Guidance Notes
+        url: /pronouncements/sb-frs-guidance-notes/current/
+      - title: SB-FRS Practice Statements
+        url: /pronouncements/sb-frs-practice-statements/current/
+  - title: Consultation
+    collection: consultation
+  - title: Advisory Notes
+    collection: advisory-notes
+  - title: News
+    resource_room: true
+  - title: Useful Links
+    url: /useful-links

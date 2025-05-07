@@ -1,0 +1,6 @@
+collections:
+  consultation:
+    output: true
+    order:
+      - Exposure Drafts.md
+      - Publications.md
