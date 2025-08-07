@@ -10,7 +10,7 @@ locations:
       - Singapore 179434
     operating_hours: []
     maps_link: https://www.google.com/maps?q=The+Treasury+100+High+Street+179434+
-    title: ""
+    title: Address
 contacts:
   - content:
       - phone: ""
