@@ -1,6 +1,6 @@
 title: Accounting Standards for Statutory Boards
 url: https://www.assb.gov.sg
-favicon: /images/agdweblogobrowser.ico
+favicon: /images/New_Orange__haz_edit_.png
 colors:
   primary-color: "#005373"
   secondary-color: "#005373"
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: news
+google_analytics_ga4: ""

@@ -2,6 +2,7 @@
 title: Useful Links
 permalink: /useful-links/
 description: Useful Links
+variant: markdown
 ---
 <div class="row">
     <div class="col is-5">
@@ -9,7 +10,7 @@ description: Useful Links
     </div>
     <div class="col is-6">
         <p class="title is-4">Useful Links</p>
-			<a href="http://www.asc.gov.sg/">Accounting Standards Council </a>  <br>
+			<a href="http://www.asc.gov.sg/">Accounting Standards Committee </a>  <br>
 			<a href="http://www.mof.gov.sg/">Ministry of Finance</a>
 			  </div>
 </div>
