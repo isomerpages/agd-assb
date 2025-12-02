@@ -137,7 +137,8 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.1.2027</p>
+<p>-<sup>2</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.12.2024</p>
@@ -203,11 +204,29 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>16.4.2025</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SB-FRS 119</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Docs/SB FRS Effective as at Jan24/SB_FRS_119__2027___final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subsidiaries and Small Entities without Public Accountability: Disclosures</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.1.2027<sup>2</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.12.2025</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><sup>1</sup><em>i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.</em>
 </p>
 <p><em>ii)This should be read together with the Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28 issued in 2016.</em>
+</p>
+<p><em><sup>2</sup>The Accountant-General issued the amended SB-FRS 119 Subsidiaries and Small Entities without Public Accountability: Disclosures in December 2025 to make it available as an option to eligible small entities.</em>
 </p>
 <h3>Archives&nbsp;</h3>
 <p>Click here to <a href="/pronouncements/sb-frs/archives/" rel="noopener noreferrer nofollow" target="_blank">access the archived documents</a>.</p>
