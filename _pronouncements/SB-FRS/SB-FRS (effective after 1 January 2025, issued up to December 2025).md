@@ -133,8 +133,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 119</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan24/SB_FRS_119__2027___final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subsidiaries without Public Accountability: Disclosures</a>
-</p>
+<p>Subsidiaries without Public Accountability: Disclosures</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-<sup>2</sup>
@@ -209,7 +208,8 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 119</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan24/SB_FRS_119__2027___final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subsidiaries and Small Entities without Public Accountability: Disclosures</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan24/SB_FRS_119__2027___final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subsidiaries and Small Entities without Pub</a>
+<a href="/files/Docs/SB FRS Effective as at Jan25/sb_frs_119__2027__amended___clean.pdf" rel="noopener noreferrer nofollow" target="_blank">lic Accountabi</a><a href="/files/Docs/SB FRS Effective as at Jan24/SB_FRS_119__2027___final_.pdf" rel="noopener noreferrer nofollow" target="_blank">lity: Disclosures</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
