@@ -9,6 +9,7 @@ variant: markdown
 ---
 Appointment and Re-appointment of Members to Advisory Committee
 ===============================================================
+2 January 2026
 
 The Minister for Finance has re-appointed the following members for a two-year term from 1 January 2026 to 31 December 2027:
 
