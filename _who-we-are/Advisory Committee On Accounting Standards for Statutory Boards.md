@@ -33,16 +33,6 @@ To bring wider representation and experience into the standards setting process,
         <strong>Partner</strong>
         <br> Deloitte &amp; Touche LLP</div>
 </div>
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/chan-yen-san-20230321-1-latest.jpg" alt="Ms Chan Yen San">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Ms Chan Yen San</p>
-        <strong>Partner</strong>
-        <br> KPMG LLP
-    </div>
-</div>
 
 <div class="row">
     <div class="col is-4">
@@ -53,27 +43,6 @@ To bring wider representation and experience into the standards setting process,
         <strong>Director (Finance and Procurement)</strong>
         <br> National Heritage Board
     </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-             <img src="/images/Images/Default%20Source/Who%20We%20Are/khong_beng_yen_latest.jpg" alt="Ms Khong Beng Yen">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Ms Khong Beng Yen</p>
-        <strong>Group Director </strong> 
-        <br> Auditor-General’s Office
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/andrew-lee-20230321-1-latest.jpg" alt="Professor Andrew Lee">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Assoc Prof Andrew Lee</p>
-        <strong>Associate Professor </strong>
-        <br> Singapore Management University            </div>
 </div>
 
 <div class="row">
@@ -123,22 +92,44 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/tan_wee_khim_latest.png" alt="Ms Tan Wee Khim">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/Lim_Hwei_Chen.jpg" alt="Ms Lim Hwei Chen">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Ms Tan Wee Khim</p>
-        <strong>Technical Director</strong>
-        <br> Accounting &amp; Corporate Regulatory Authority of Singapore
+        <p class="title is-4">Ms Lim Hwei Chen</p>
+        <strong>Divisional Director (Surveillance &amp; Standards Division) </strong>
+        <br>Accounting and Corporate Regulatory Authority 
     </div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/tay_tok_seok_ling_latest.jpg" alt="Mrs Tay-Tok Seok Ling">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/holly_yang.jpg" alt="Dr Holly Yang">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Mrs Tay-Tok Seok Ling</p>
-        <strong>Chief Financial Officer</strong>
-        <br> Ngee Ann Polytechnic
+        <p class="title is-4">Dr Holly Yang</p>
+        <strong>Associate Professor</strong>
+        <br>Singapore Management University 
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/ng-lip-nin-20230321-latest.jpg" alt="Ms Ng Lip Nin">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Ms Ng Lip Nin</p>
+        <strong>Group Director</strong>
+        <br>Auditor-General’s Office  
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/Maurice_Loh.jpg" alt="Mr Maurice Loh">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Mr Maurice Loh</p>
+        <strong>Partner</strong>
+        <br>PricewaterhouseCoopers LLP  
     </div>
 </div>
