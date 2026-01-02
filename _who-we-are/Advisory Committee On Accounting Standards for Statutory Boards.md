@@ -58,6 +58,28 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/Lim_Hwei_Chen.jpg" alt="Ms Lim Hwei Chen">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Ms Lim Hwei Chen</p>
+        <strong>Divisional Director (Surveillance &amp; Standards Division) </strong>
+        <br>Accounting and Corporate Regulatory Authority 
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/Maurice_Loh.jpg" alt="Mr Maurice Loh">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Mr Maurice Loh</p>
+        <strong>Partner</strong>
+        <br>PricewaterhouseCoopers LLP  
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
         <img src="/images/Images/Default%20Source/Who%20We%20Are/cecilia-neo_corporate-photo_sep-2022-20230321-latest.jpg" alt="Ms Cecilia Neo">
     </div>
     <div class="col is-8">
@@ -65,6 +87,17 @@ To bring wider representation and experience into the standards setting process,
         <strong>Director (Finance)</strong>
         <br> Energy Market Authority
         <br>        
+    </div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img src="/images/Images/Default%20Source/Who%20We%20Are/ng-lip-nin-20230321-latest.jpg" alt="Ms Ng Lip Nin">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Ms Ng Lip Nin</p>
+        <strong>Group Director</strong>
+        <br>Auditor-General’s Office  
     </div>
 </div>
 
@@ -92,44 +125,11 @@ To bring wider representation and experience into the standards setting process,
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/Lim_Hwei_Chen.jpg" alt="Ms Lim Hwei Chen">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Ms Lim Hwei Chen</p>
-        <strong>Divisional Director (Surveillance &amp; Standards Division) </strong>
-        <br>Accounting and Corporate Regulatory Authority 
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
         <img src="/images/Images/Default%20Source/Who%20We%20Are/holly_yang.jpg" alt="Dr Holly Yang">
     </div>
     <div class="col is-8">
         <p class="title is-4">Dr Holly Yang</p>
         <strong>Associate Professor</strong>
         <br>Singapore Management University 
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/ng-lip-nin-20230321-latest.jpg" alt="Ms Ng Lip Nin">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Ms Ng Lip Nin</p>
-        <strong>Group Director</strong>
-        <br>Auditor-General’s Office  
-    </div>
-</div>
-
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/Images/Default%20Source/Who%20We%20Are/Maurice_Loh.jpg" alt="Mr Maurice Loh">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Mr Maurice Loh</p>
-        <strong>Partner</strong>
-        <br>PricewaterhouseCoopers LLP  
     </div>
 </div>
