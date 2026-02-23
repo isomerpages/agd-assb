@@ -7,8 +7,8 @@ third_nav_title: SB FRS
 ---
 <h3>STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AFTER 1 JANUARY 2026 (ISSUED UP TO 31 DECEMBER 2026)</h3>
 <p>The following are the new/revised/amendments to SB-FRSs and INT SB-FRSs
-issued by the Accountant-General (up to 31 December 2025) which are affective
-after 1 January 2025.</p>
+issued by the Accountant-General (up to 31 December 2026) which are affective
+after 1 January 2026.</p>
 <p>If you do not already have Adobe Reader, please download the software
 for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.html" rel="noopener noreferrer nofollow" target="_blank">[pdf]</a>
 </p>
@@ -55,8 +55,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <br>SB-FRS 28</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB%20FRS%20Effective%20as%20at%20Jan24/Amendments_to_SB_FRS_110_and_SB_FRS_28.pdf" rel="noopener noreferrer nofollow" target="_blank">Amendments to SB-FRS 110 and SB-FRS 28: Sale or Contribution of Assets between an Investor and its Associate or Joint Venture</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To be determined<sup>1</sup>
