@@ -1,7 +1,7 @@
 ---
 title: SB FRS (effective as at 1 January 2026)
 permalink: /sb-frs-effective-as-at-1-january-2026/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: SB FRS
 ---
@@ -482,7 +482,8 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_109_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>, <a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_109_IG__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IG</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_109_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>,
+<a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_109_IG__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IG</a>
 </p>
 </td>
 </tr>
@@ -504,11 +505,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 111</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_111__2025_.pdf" rel="noopener nofollow" target="_blank">Joint Arrangements</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_111__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Joint Arrangements</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_111_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_111_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -517,7 +518,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 112</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_112__2025_.pdf" rel="noopener nofollow" target="_blank">Disclosure of Interests in Other Entities</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_112__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Disclosure of Interests in Other Entities</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -529,11 +530,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 113</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_113__2025_.pdf" rel="noopener nofollow" target="_blank">Fair Value Measurement</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_113__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Fair Value Measurement</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_113_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_113_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -542,11 +543,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 114</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_114__2025_.pdf" rel="noopener nofollow" target="_blank">Regulatory Deferral Accounts</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_114__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Regulatory Deferral Accounts</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_114_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_114_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -555,11 +556,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 115</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_115__2025_.pdf" rel="noopener nofollow" target="_blank">Revenue from Contracts with Customers</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_115__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Revenue from Contracts with Customers</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_115_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_115_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -568,11 +569,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 116</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_116__2025_.pdf" rel="noopener nofollow" target="_blank">Leases</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_116__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Leases</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_116_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_116_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -581,7 +582,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 1001</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_1001__2025_.pdf" rel="noopener nofollow" target="_blank">Accounting and Disclosure for Non-Exchange Revenue</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_1001__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Accounting and Disclosure for Non-Exchange Revenue</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -593,11 +594,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 1002</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_1002__2025_.pdf" rel="noopener nofollow" target="_blank">Impairment of Non-Cash-Generating Assets</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_1002__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Impairment of Non-Cash-Generating Assets</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_1002_IG__2025_.pdf" rel="noopener nofollow" target="_blank">IG</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_1002_IG__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IG</a>
 </p>
 </td>
 </tr>
