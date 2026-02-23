@@ -7,3 +7,8 @@ description: The latest 2025 SB-FRSs and INT SB-FRSs are now available
 image: ""
 variant: tiptap
 ---
+<h2>The latest 2026 SB-FRSs and INT SB-FRSs are now available</h2>
+<p>23 February 2026</p>
+<p></p>
+<p>The latest 2026 SB-FRSs and INT SB-FRSs are now available.</p>
+<p></p>
