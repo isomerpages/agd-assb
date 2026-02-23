@@ -1,4 +1,6 @@
 collections:
   int-sb-frs-archives-2025:
     output: true
-    order: []
+    order:
+      - INT SB-FRS (effective after 1 January 2025, issued up to December
+        2025).md
