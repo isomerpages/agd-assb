@@ -1,7 +1,7 @@
 ---
 title: SB FRS (effective as at 1 January 2026)
 permalink: /sb-frs-effective-as-at-1-january-2026/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: SB FRS
 ---
@@ -74,7 +74,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_2__2025_.pdf" rel="noopener nofollow" target="_blank">Inventories</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_2__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Inventories</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
