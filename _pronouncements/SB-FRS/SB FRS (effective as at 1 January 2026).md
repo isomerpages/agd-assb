@@ -427,11 +427,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 105</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_105__2025_.pdf" rel="noopener nofollow" target="_blank">Non-current Assets Held for Sale and Discontinued Operations</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_105__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Non-current Assets Held for Sale and Discontinued Operations</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_105_IG__2025_.pdf" rel="noopener nofollow" target="_blank">IG</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_105_IG__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IG</a>
 </p>
 </td>
 </tr>
@@ -440,7 +440,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 106</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_106__2025_.pdf" rel="noopener nofollow" target="_blank">Exploration for and Evaluation of Mineral Resources</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_106__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Exploration for and Evaluation of Mineral Resources</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -452,11 +452,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 107</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_107__2025_.pdf" rel="noopener nofollow" target="_blank">Financial Instruments: Disclosures</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_107__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Financial Instruments: Disclosures</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_107_IG__2025_.pdf" rel="noopener nofollow" target="_blank">IG</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_107_IG__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IG</a>
 </p>
 </td>
 </tr>
@@ -465,11 +465,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 108</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_108__2025_.pdf" rel="noopener nofollow" target="_blank">Operating Segments</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_108__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Operating Segments</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_108_IG__2025_.pdf" rel="noopener nofollow" target="_blank">IG</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_108_IG__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IG</a>
 </p>
 </td>
 </tr>
@@ -478,12 +478,12 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 109</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_109__2025_.pdf" rel="noopener nofollow" target="_blank">Financial Instruments</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_109__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Financial Instruments</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_109_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE, </a>
-<a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_109_IG__2025_.pdf" rel="noopener nofollow" target="_blank">IG</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_109_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
+<a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_109_IE__2025_.pdf" rel="noopener nofollow" target="_blank">,</a><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_109_IG__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IG</a>
 </p>
 </td>
 </tr>
@@ -492,11 +492,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 110</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_110__2025_.pdf" rel="noopener nofollow" target="_blank">Consolidated Financial Statements</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_110__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Consolidated Financial Statements</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_110_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_110_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
