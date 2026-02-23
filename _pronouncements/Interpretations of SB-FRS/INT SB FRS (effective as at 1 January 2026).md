@@ -5,12 +5,12 @@ variant: markdown
 description: ""
 third_nav_title: Interpretations of SB FRS
 ---
-<h3>INTERPRETATIONS OF STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2025</h3>
+<h3>INTERPRETATIONS OF STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2026</h3>
 <p>This collection of SB-FRSs and INT SB-FRSs includes official pronouncements
-issued by the Accountant-General (up to 31 December 2024) and are required
-to be applied for annual periods beginning on 1 January 2025. The collection
+issued by the Accountant-General (up to 31 December 2025) and are required
+to be applied for annual periods beginning on 1 January 2026. The collection
 does not include new/revised/amendments to SB-FRSs and INT SB-FRSs with
-an effective date after 1 January 2025.</p>
+an effective date after 1 January 2026.</p>
 <p>If you do not already have Adobe Reader, please download the software
 for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.html" rel="noopener noreferrer nofollow" target="_blank">[pdf]</a>
 </p>
@@ -252,7 +252,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/INT SB FRS Jan26/INT_SB_FRS_121__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/INT SB FRS Jan26/INT_SB_FRS_121_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
