@@ -1,7 +1,7 @@
 ---
 title: SB FRS (effective as at 1 January 2026)
 permalink: /sb-frs-effective-as-at-1-january-2026/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: SB FRS
 ---
@@ -86,11 +86,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_7__2025_.pdf" rel="noopener nofollow" target="_blank">Statement of Cash Flows</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_7__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Statement of Cash Flows</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_7_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_7_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -99,11 +99,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_8__2025_.pdf" rel="noopener nofollow" target="_blank">Accounting Policies, Changes in Accounting Estimates and Errors</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_8__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Accounting Policies, Changes in Accounting Estimates and Errors</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_8_IG__2025_.pdf" rel="noopener nofollow" target="_blank">IG</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_8_IG__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IG</a>
 </p>
 </td>
 </tr>
@@ -112,7 +112,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_10__2025_.pdf" rel="noopener nofollow" target="_blank">Events after the Reporting Period</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_10__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Events after the Reporting Period</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -124,11 +124,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_12__2025_.pdf" rel="noopener nofollow" target="_blank">Income Taxes</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_12__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Income Taxes</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_12_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_12_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -137,7 +137,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 16</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_16__2025_.pdf" rel="noopener nofollow" target="_blank">Property, Plant and Equipment</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_16__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Property, Plant and Equipment</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,7 +149,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 19</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_19__2025_.pdf" rel="noopener nofollow" target="_blank">Employee Benefits</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_19__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Employee Benefits</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,7 +161,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 20</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_20__2025_.pdf" rel="noopener nofollow" target="_blank">Accounting for Government Grants and Disclosure of Government Assistance</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_20__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Accounting for Government Grants and Disclosure of Government Assistance</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
