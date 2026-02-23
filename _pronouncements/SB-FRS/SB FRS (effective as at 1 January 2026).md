@@ -1,7 +1,7 @@
 ---
 title: SB FRS (effective as at 1 January 2026)
 permalink: /sb-frs-effective-as-at-1-january-2026/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: SB FRS
 ---
@@ -173,11 +173,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 21</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_21__2025_.pdf" rel="noopener nofollow" target="_blank">The Effects of Changes in Foreign Exchange Rates</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_21__2026____Clean.pdf" rel="noopener nofollow" target="_blank">The Effects of Changes in Foreign Exchange Rates</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_21_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_21_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -186,7 +186,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 23</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_23__2025_.pdf" rel="noopener nofollow" target="_blank">Borrowing Costs</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_23__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Borrowing Costs</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -198,11 +198,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 24</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_24__2025_.pdf" rel="noopener nofollow" target="_blank">Related Party Disclosures</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_24__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Related Party Disclosures</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_24_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_24_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -211,7 +211,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 26</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_26__2025_.pdf" rel="noopener nofollow" target="_blank">Accounting and Reporting by Retirement Benefit Plan</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_26__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Accounting and Reporting by Retirement Benefit Plan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -223,7 +223,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 27</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_27__2025_.pdf" rel="noopener nofollow" target="_blank">Separate Financial Statements</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_27__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Separate Financial Statements</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -235,7 +235,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 28</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_28__2025_.pdf" rel="noopener nofollow" target="_blank">Investments in Associates and Joint Ventures</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_28__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Investments in Associates and Joint Ventures</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -247,7 +247,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 29</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_29__2025_.pdf" rel="noopener nofollow" target="_blank">Financial Reporting in Hyperinflationary Economies</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_29__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Financial Reporting in Hyperinflationary Economies</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -259,11 +259,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 32</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_32__2025_.pdf" rel="noopener nofollow" target="_blank">Financial Instruments: Presentation</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_32__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Financial Instruments: Presentation</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_32_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_32_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -272,11 +272,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 33</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_33__2025_.pdf" rel="noopener nofollow" target="_blank">Earnings per Share</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_33__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Earnings per Share</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_33_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_33_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -285,11 +285,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 34</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_34__2025_.pdf" rel="noopener nofollow" target="_blank">Interim Financial Reporting</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_34__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Interim Financial Reporting</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_34_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_34_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
