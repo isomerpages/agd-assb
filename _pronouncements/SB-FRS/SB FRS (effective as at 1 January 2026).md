@@ -482,8 +482,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_109_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
-<a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_109_IE__2025_.pdf" rel="noopener nofollow" target="_blank">,</a><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_109_IG__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IG</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_109_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>, <a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_109_IG__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IG</a>
 </p>
 </td>
 </tr>
