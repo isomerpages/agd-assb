@@ -1,7 +1,7 @@
 ---
 title: SB FRS (effective as at 1 January 2026)
 permalink: /sb-frs-effective-as-at-1-january-2026/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: SB FRS
 ---
@@ -311,11 +311,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 37</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_37__2025_.pdf" rel="noopener nofollow" target="_blank">Provisions, Contingent Liabilities and Contingent Assets</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_37__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Provisions, Contingent Liabilities and Contingent Assets</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_37_IG__2025_.pdf" rel="noopener nofollow" target="_blank">IG</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_37_IG__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IG</a>
 </p>
 </td>
 </tr>
@@ -324,11 +324,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 38</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_38__2025_.pdf" rel="noopener nofollow" target="_blank">Intangible Assets</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_38__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Intangible Assets</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_38_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_38_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -337,11 +337,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 39</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_39__2025_.pdf" rel="noopener nofollow" target="_blank">Financial Instruments: Recognition and Measurement</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_39__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Financial Instruments: Recognition and Measurement</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_39_IE_IG__2025_.pdf" rel="noopener nofollow" target="_blank">IE &amp; IG</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_39_IE_IG__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE &amp; IG</a>
 </p>
 </td>
 </tr>
@@ -350,7 +350,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 40</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_40__2025_.pdf" rel="noopener nofollow" target="_blank">Investment Property</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_40__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Investment Property</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -362,11 +362,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 41</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_41__2025_.pdf" rel="noopener nofollow" target="_blank">Agriculture</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_41__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Agriculture</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_41_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_41_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
