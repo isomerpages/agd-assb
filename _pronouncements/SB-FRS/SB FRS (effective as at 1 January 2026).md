@@ -375,11 +375,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 101</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_101__2025_.pdf" rel="noopener nofollow" target="_blank">First-time Adoption of Statutory Board Financial Reporting Standards</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_101__2026____Clean.pdf" rel="noopener nofollow" target="_blank">First-time Adoption of Statutory Board Financial Reporting Standards</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_101_IG__2025_.pdf" rel="noopener nofollow" target="_blank">IG</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_101_IG__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IG</a>
 </p>
 </td>
 </tr>
@@ -388,11 +388,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 102</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_102__2025_.pdf" rel="noopener nofollow" target="_blank">Share-based Payment</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_102__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Share-based Payment</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_102_IG__2025_.pdf" rel="noopener nofollow" target="_blank">IG</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_102_IG__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IG</a>
 </p>
 </td>
 </tr>
@@ -401,11 +401,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 103</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_103__2025_.pdf" rel="noopener nofollow" target="_blank">Business Combinations</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_103__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Business Combinations</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_103_IE__2025_.pdf" rel="noopener nofollow" target="_blank">IE</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_103_IE__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IE</a>
 </p>
 </td>
 </tr>
@@ -414,11 +414,11 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 104</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_104__2025_.pdf" rel="noopener nofollow" target="_blank">Insurance Contracts</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_104__2026____Clean.pdf" rel="noopener nofollow" target="_blank">Insurance Contracts</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/SB_FRS_104_IG__2025_.pdf" rel="noopener nofollow" target="_blank">IG</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_104_IG__2026____Clean.pdf" rel="noopener nofollow" target="_blank">IG</a>
 </p>
 </td>
 </tr>
