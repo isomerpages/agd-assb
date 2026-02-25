@@ -10,7 +10,7 @@ description: The Secretariat invites comments on ED/2026/1 Amendments to the
 image: ""
 variant: tiptap
 ---
-<p><strong>Available for Comments </strong>
+<p><strong>Available for Comments</strong>
 </p>
 <p></p>
 <p>25 February 2026</p>
