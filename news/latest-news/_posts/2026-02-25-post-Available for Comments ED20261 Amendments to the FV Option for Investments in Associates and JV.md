@@ -10,8 +10,7 @@ description: The Secretariat invites comments on ED/2026/1 Amendments to the
 image: ""
 variant: tiptap
 ---
-<p><strong>Available for Comments</strong>
-</p>
+<h1>Available for Comments - ED/2026/1 Amendments to the Fair Value Option for Investments in Associates and Joint Ventures (Proposed amendments to IAS 28)</h1>
 <p></p>
 <p>25 February 2026</p>
 <p></p>
