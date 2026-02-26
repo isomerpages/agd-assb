@@ -1,9 +1,9 @@
 ---
-title: INT SB FRS (effective after 1 January 2026, issued up to December 2026)
+title: "INT SB-FRS (effective after 1 January 2026, issued up to December 2026)"
 permalink: /pronouncements/int-sb-frs/int-sb-frs-effective-after-1-january-2026-issued-up-to-december-2026/
 variant: tiptap
 description: ""
-third_nav_title: Interpretations of SB FRS
+third_nav_title: Interpretations of SB-FRS
 ---
 <h3>INTERPRETATIONS OF STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AFTER 1 JANUARY 2026 (ISSUED UP TO 31 DECEMBER 2026)</h3>
 <p>The following are new/revised/amendments to SB-FRSs and INT SB-FRSs issued
