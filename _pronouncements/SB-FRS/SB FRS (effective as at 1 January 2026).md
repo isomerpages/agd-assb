@@ -1,9 +1,9 @@
 ---
-title: SB FRS (effective as at 1 January 2026)
+title: "SB-FRS (effective as at 1 January 2026)"
 permalink: /pronouncements/sb-frs/sb-frs-effective-as-at-1-january-2026/
 variant: markdown
 description: ""
-third_nav_title: SB FRS
+third_nav_title: "SB-FRS"
 ---
 <h3>STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2026</h3>
 <p>This collection of SB-FRSs and INT SB-FRSs includes official pronouncements
