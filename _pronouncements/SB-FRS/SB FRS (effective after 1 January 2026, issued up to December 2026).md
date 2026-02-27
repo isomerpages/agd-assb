@@ -1,14 +1,15 @@
 ---
-title: SB-FRS (effective after 1 January 2025, issued up to December 2025)
-permalink: /pronouncements/sb-frs/sb-frs-effective-after-1-january-2025-issued-up-to-december-2025/
-variant: tiptap
-description: SB-FRS (effective after 1 January 2025, issued up to December 2025)
-third_nav_title: SB-FRS
+title: "SB-FRS (effective after 1 January 2026, issued up to December 2026)"
+permalink: /pronouncements/sb-frs/sb-frs-effective-after-1-january-2026-issued-up-to-december-2026/
+variant: markdown
+description: ""
+third_nav_title: "SB-FRS"
 ---
-<h3>STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AFTER 1 JANUARY 2025 (ISSUED UP TO 31 DECEMBER 2025)</h3>
+<p></p>
+<h3>STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AFTER 1 JANUARY 2026 (ISSUED UP TO 31 DECEMBER 2026)</h3>
 <p>The following are the new/revised/amendments to SB-FRSs and INT SB-FRSs
-issued by the Accountant-General (up to 31 December 2025) which are affective
-after 1 January 2025.</p>
+issued by the Accountant-General (up to 31 December 2026) which are affective
+after 1 January 2026.</p>
 <p>If you do not already have Adobe Reader, please download the software
 for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.html" rel="noopener noreferrer nofollow" target="_blank">[pdf]</a>
 </p>
@@ -117,8 +118,8 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>SB-FRS 118</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan24/SB_FRS_118__2027___final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Presentation and Disclosure in Financial Statements</a> 
-<a href="/files/Docs/SB FRS Effective as at Jan24/SB_FRS_118__2027__IE__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Illustrative Examples</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_118__2027____Clean.pdf" rel="noopener nofollow" target="_blank">Presentation and Disclosure in Financial Statements</a> 
+<a href="/files/Docs/SB FRS Effective as at Jan26/SB_FRS_118_2027_IE_final.pdf" rel="noopener nofollow" target="_blank">Illustrative Examples</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -160,55 +161,10 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SB-FRS 109, SB-FRS 107</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/Amendments_to_sb_frs_109_and_sb_frs_107_classification_measurement___clean.pdf" rel="noopener nofollow" target="_blank">Amendments to SB-FRS 109 and SB-FRS 107: Amendments to the Classification and Measurement of Financial Instruments</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.1.2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16.4.2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SB-FRS 109, SB-FRS 107</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/amendments_to_frs_109_and_frs_107_nature_dependent_electricity___clean.pdf" rel="noopener nofollow" target="_blank">Amendments to SB-FRS 109 and SB-FRS 107: Contracts Referencing Nature-dependent Electricity</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.1.2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16.4.2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Various</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/annual_improvements_to_frs_volume_11___clean.pdf" rel="noopener nofollow" target="_blank">Annual Improvements to SB-FRSs - Volume 11</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.1.2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16.4.2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SB-FRS 119</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Docs/SB FRS Effective as at Jan25/sb_frs_119__2027__amended___clean.pdf" rel="noopener noreferrer nofollow" target="_blank">Subsidiaries and Small Entities without Public Accountability: Disclosures</a>
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/sb_frs_119__2027____Clean.pdf" rel="noopener nofollow" target="_blank">Subsidiaries and Small Entities without Public Accountability: Disclosures</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

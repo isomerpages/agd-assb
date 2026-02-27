@@ -5,7 +5,9 @@ description: Interpretation of SB-FRS Archives
 third_nav_title: Interpretations of SB-FRS
 variant: markdown
 ---
-<p><a href="/pronouncements/int-sb-frs/archives/2024/effective-as-at-1-january-2024/" rel="noopener noreferrer nofollow" target="_blank">INT SB-FRS (effective as at 1 January 2024)</a> 
+<p><a href="/pronouncements/int-sb-frs/archives/2025/int-sb-frs-effective-as-at-1-january-2025/" rel="noopener noreferrer nofollow" target="_blank">INT SB-FRS (effective as at 1 January 2025)</a> 
+<br><a href="/pronouncements/int-sb-frs/archives/2025/effective-after-1-january-2025-issued-up-to-december-2025/" rel="noopener noreferrer nofollow" target="_blank">INT SB-FRS (effective after 1 January 2025, issued up to December 2025)</a>
+<br><a href="/pronouncements/int-sb-frs/archives/2024/effective-as-at-1-january-2024/" rel="noopener noreferrer nofollow" target="_blank">INT SB-FRS (effective as at 1 January 2024)</a> 
 <br><a href="/pronouncements/int-sb-frs/archives/2024/effective-after-1-january-2024-issued-up-to-december-2024/" rel="noopener noreferrer nofollow" target="_blank">INT SB-FRS (effective after 1 January 2024, issued up to December 2024)</a>
 <br><a href="/pronouncements/interpretations-of-sb-frs/effective-as-at-1-january-2023/" rel="noopener noreferrer nofollow" target="_blank">INT SB-FRS (effective as at 1 January 2023)</a> 
 <br><a href="/pronouncements/interpretations-of-sb-frs/effective-after-1-january-2023-issued-up-to-december-2023/" rel="noopener noreferrer nofollow" target="_blank">INT SB-FRS (effective after 1 January 2023, issued up to December 2023)</a>

@@ -15,10 +15,10 @@ sections:
       key_highlights:
         - title: SB-FRS
           description: ""
-          url: /pronouncements/sb-frs/sb-frs-effective-as-at-1-january-2025/
+          url: /pronouncements/sb-frs/sb-frs-effective-as-at-1-january-2026/
         - title: Interpretations of SB-FRS
           description: ""
-          url: /pronouncements/int-sb-frs/int-sb-frs-effective-as-at-1-january-2025/
+          url: /pronouncements/int-sb-frs/int-sb-frs-effective-as-at-1-january-2026/
         - title: SB-FRS Guidance Notes
           description: ""
           url: /pronouncements/sb-frs-guidance-notes/current/
