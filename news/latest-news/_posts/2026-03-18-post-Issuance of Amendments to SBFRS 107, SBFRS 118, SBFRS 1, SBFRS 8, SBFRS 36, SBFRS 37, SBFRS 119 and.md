@@ -25,7 +25,7 @@ Accountability: Disclosures</p>
 </li>
 <li>
 <p>Amendments to SB-FRS Guidance Note 1 Accounting and Disclosure for Funds,
-Grants, Accumulated Surplus and Reserves</p>
+Grants, Contributions to Consolidated Fund, Accumulated Surplus and Reserves</p>
 </li>
 </ul>
 <p>Earlier application is permitted.</p>
