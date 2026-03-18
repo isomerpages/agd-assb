@@ -1,9 +1,9 @@
 ---
-title: "SB-FRS (effective after 1 January 2026, issued up to December 2026)"
+title: SB-FRS (effective after 1 January 2026, issued up to December 2026)
 permalink: /pronouncements/sb-frs/sb-frs-effective-after-1-january-2026-issued-up-to-december-2026/
-variant: markdown
+variant: tiptap
 description: ""
-third_nav_title: "SB-FRS"
+third_nav_title: SB-FRS
 ---
 <p></p>
 <h3>STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AFTER 1 JANUARY 2026 (ISSUED UP TO 31 DECEMBER 2026)</h3>
@@ -173,6 +173,36 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </td>
 <td rowspan="1" colspan="1">
 <p>2.12.2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Issued in 2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SB-FRS 119</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/Amendments_to_SBFRS_119_clean_.pdf" rel="noopener nofollow" target="_blank">Amendments to Subsidiaries and Small Entities without Public Accountability: Disclosures</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.1.2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.03.2026</p>
 </td>
 </tr>
 </tbody>
