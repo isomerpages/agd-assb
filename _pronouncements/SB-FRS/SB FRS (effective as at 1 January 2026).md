@@ -1,9 +1,9 @@
 ---
-title: "SB-FRS (effective as at 1 January 2026)"
+title: SB-FRS (effective as at 1 January 2026)
 permalink: /pronouncements/sb-frs/sb-frs-effective-as-at-1-january-2026/
-variant: markdown
+variant: tiptap
 description: ""
-third_nav_title: "SB-FRS"
+third_nav_title: SB-FRS
 ---
 <h3>STATUTORY BOARD FINANCIAL REPORTING STANDARDS EFFECTIVE AS AT 1 JANUARY 2026</h3>
 <p>This collection of SB-FRSs and INT SB-FRSs includes official pronouncements
@@ -605,5 +605,51 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </tbody>
 </table>
 <p>*Include Implementation Guidance (IG) and Illustrative Examples (IE).</p>
+<p>The following amendments to illustrative examples issued in March 2026
+demonstrates how entities can apply SB-FRSs when reporting the effects
+of uncertainties in their financial statements. As accompanying materials
+to SB-FRSs, these illustrative examples do not have an effective date.
+However, entities would be expected to implement any change in their reporting
+on a timely basis.</p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Reference</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Effective Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Issuance Date</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Various</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Docs/SB FRS Effective as at Jan26/amendments_to_sbfrs_107_sbfrs_118_sbfrs_1_sbfrs_8_sbfrs_36_and_sbfrs_37__clean_.pdf" rel="noopener nofollow" target="_blank">Amendments to Illustrative Examples of SB-FRS 107, SB-FRS 118, SB-FRS 1, SB-FRS 8, SB-FRS 36 and SB-FRS 37: Disclosures about Uncertainties in the Financial Statements</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.03.2026</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Archives&nbsp;</h3>
 <p>Click here to <a href="/pronouncements/sb-frs/archives/" rel="noopener noreferrer nofollow" target="_blank">access the archived documents</a>.</p>
