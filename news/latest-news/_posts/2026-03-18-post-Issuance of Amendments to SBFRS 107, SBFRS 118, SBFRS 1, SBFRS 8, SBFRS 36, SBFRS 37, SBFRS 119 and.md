@@ -9,7 +9,7 @@ image: ""
 variant: tiptap
 ---
 <h1>Issuance of Amendments to SB-FRS 107, SB-FRS 118, SB-FRS 1, SB-FRS 8, SB-FRS 36, SB-FRS 37, SB-FRS 119 and SB-FRS Guidance Note 1</h1>
-<p>12 March 2026</p>
+<p>18 March 2026</p>
 <p></p>
 <p>The following amendments to SB-FRSs, effective for annual periods beginning
 on or after 1 January 2027, have been issued:</p>
