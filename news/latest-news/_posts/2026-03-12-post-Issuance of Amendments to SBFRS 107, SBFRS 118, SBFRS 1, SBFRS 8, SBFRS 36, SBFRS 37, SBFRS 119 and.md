@@ -8,3 +8,26 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h1>Issuance of Amendments to SB-FRS 107, SB-FRS 118, SB-FRS 1, SB-FRS 8, SB-FRS 36, SB-FRS 37, SB-FRS 119 and SB-FRS Guidance Note 1 </h1>
+<p>12 March 2026</p>
+<p></p>
+<p>The following amendments to SB-FRSs, effective for annual periods beginning
+on or after 1 January 2027, have been issued:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Amendments to Illustrative Examples on SB-FRS 107, SB-FRS 118, SB-FRS
+1, SB-FRS 8, SB-FRS 36 and SB-FRS 37: Disclosures about Uncertainties in
+the Financial Statements*</p>
+</li>
+<li>
+<p>Amendments to SB-FRS 119: Amendments to Subsidiaries and Small Entities
+without Public Accountability: Disclosures</p>
+</li>
+<li>
+<p>Amendments to SB-FRS Guidance Note 1 Accounting and Disclosure for Funds,
+Grants, Accumulated Surplus and Reserves</p>
+</li>
+</ul>
+<p>Earlier application is permitted.</p>
+<p>*No effective date as Illustrative Examples are accompanying materials
+to SB-FRSs.</p>
