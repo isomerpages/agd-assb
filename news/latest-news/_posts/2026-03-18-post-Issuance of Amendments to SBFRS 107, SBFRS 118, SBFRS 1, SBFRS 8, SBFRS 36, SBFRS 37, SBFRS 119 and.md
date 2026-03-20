@@ -1,6 +1,5 @@
 ---
-title: Issuance of Amendments to SBFRS 107, SBFRS 118, SBFRS 1, SBFRS 8, SBFRS
-  36, SBFRS 37, SBFRS 119 and
+title: "Issuance of Amendments to SB-FRS 107, SB-FRS 118, SB-FRS 1, SB-FRS 8, SB-FRS 36, SB-FRS 37, SB-FRS 119 and SB-FRS Guidance Note 1"
 permalink: /issuance-of-amendments-to-sbfrs-107-sbfrs-118-sbfrs-1-sbfrs-8-sbfrs-36-sbfrs-37-sbfrs-119-and/
 date: 2026-03-18
 layout: post
