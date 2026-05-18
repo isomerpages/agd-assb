@@ -14,17 +14,17 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: AGD_Assb_Feedback@agd.gov.sg
-      - other: ""
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
       - email: ""
       - other: AGD Helpdesk@newill be migrating to the new AskAGD portal for public
           users undergoing scheduled upgrade from Friday, 29  May 2026, 6:00 PM
           to Tuesday, 2 Jun 2026, 8:00 AM to serve you better. We apologisefor
           any inconvenience caused. Thank you.
     title: Broadcast Message
+  - content:
+      - phone: ""
+      - email: AGD_Assb_Feedback@agd.gov.sg
+      - other: ""
+    title: General Enquiries & Feedback
   - content:
       - phone: ""
       - email: ""
