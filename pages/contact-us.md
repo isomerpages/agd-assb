@@ -32,6 +32,6 @@ contacts:
           users undergoing scheduled upgrade from Friday, 29  May 2026, 6:00 PM
           to Tuesday, 2 Jun 2026, 8:00 AM to serve you better. We apologisefor
           any inconvenience caused. Thank you.
-    title: Bro
+    title: Broadcast Message
 feedback: https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?+3Yh9GmoHeKhzWZc3r2CaJKxUDwVVo7KD+QyznqJW77da0JbfPFRlL+RQ6qggH9m
 ---
