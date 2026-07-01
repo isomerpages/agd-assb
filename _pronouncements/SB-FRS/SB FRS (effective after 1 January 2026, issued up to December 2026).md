@@ -205,6 +205,22 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>12.03.2026</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SB-FRS 117</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/SB_FRS_117__2026____Clean.pdf" rel="noopener noreferrer nofollow" target="_blank">Insurance Contracts</a> 
+<a href="/files/SB_FRS_117_IE__2026____Clean.pdf" rel="noopener noreferrer nofollow" target="_blank">Illustrative Examples</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.1.2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.7.2026</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><sup>1</sup><em>i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.</em>
