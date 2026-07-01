@@ -211,7 +211,7 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/SB_FRS_117__2026____Clean.pdf" rel="noopener noreferrer nofollow" target="_blank">Insurance Contracts</a> 
-<a href="/files/SB_FRS_117_IE__2026____Clean.pdf" rel="noopener noreferrer nofollow" target="_blank">Illustrative Examples</a>
+<a href="/files/SB_FRS_117_IE__2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">Illustrative Examples</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
