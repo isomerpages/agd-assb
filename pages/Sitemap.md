@@ -172,7 +172,7 @@ variant: markdown
     
 *   [Contact Us](/contact-us)
     
-*   [Feedback](https://mailto:AGD\_Assb\_Feedback@agd.gov.sg)
+*   [Feedback](mailto:AGD_Assb_Feedback@agd.gov.sg)
     
 *   **[Sitemap](/sitemap)**
     
