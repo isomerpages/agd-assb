@@ -2,6 +2,7 @@
 title: Sitemap
 permalink: /sitemap/
 description: Sitemap
+variant: markdown
 ---
 *   [Home](/)
     
@@ -171,7 +172,7 @@ description: Sitemap
     
 *   [Contact Us](/contact-us)
     
-*   [Feedback](https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?+3Yh9GmoHeKhzWZc3r2CaJKxUDwVVo7KD+QyznqJW77da0JbfPFRlL+RQ6qggH9m)
+*   [Feedback](https://mailto:AGD\_Assb\_Feedback@agd.gov.sg)
     
 *   **[Sitemap](/sitemap)**
     
