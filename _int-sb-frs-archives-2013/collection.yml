@@ -1,0 +1,8 @@
+collections:
+  int-sb-frs-archives-2013:
+    output: true
+    order:
+      - INT SB FRS (effective as at 1 January 2013).md
+      - INT SB FRS (effective after 1 January 2013, issued up to December
+        2013).md
+      - INT SB FRS (issued before 2013).md
