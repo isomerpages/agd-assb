@@ -221,6 +221,21 @@ for free here:&nbsp;<a href="http://www.adobe.com/products/acrobat/readstep2.htm
 <p>1.7.2026</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SB-FRS 21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Amendments_to_SB_FRS_21___Clean.pdf" rel="noopener noreferrer nofollow" target="_blank">Amendments to SB-FRS 21: Translation to a Hyperinflationary Presentation Currency</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.1.2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30.07.2027</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><sup>1</sup><em>i)The mandatory effective date of this Amendment had been revised to a date to be determined via Amendments to Effective Date of Amendments to SB-FRS 110 and SB-FRS 28.</em>
