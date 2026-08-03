@@ -8,3 +8,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>3 August 2026</p>
+<p>&nbsp;</p>
+<p>The Amendments&nbsp;to&nbsp;SB-FRS 21: Translation to a Hyperinflationary
+Presentation Currency, effective for annual periods beginning on or after
+1 January 2027, has been issued. Earlier application is permitted.</p>
